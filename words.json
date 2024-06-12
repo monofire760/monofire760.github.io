@@ -1,0 +1,4466 @@
+[
+  {
+    "id": 1,
+    "word": "Yalaka",
+    "first": "Yağcı",
+    "second": "Riyakar",
+    "third": "Patron",
+    "fourth": "İşyeri"
+  },
+  {
+    "id": 2,
+    "word": "Dolap",
+    "first": "Raf",
+    "second": "Kapı",
+    "third": "Askı",
+    "fourth": "Tabak"
+  },
+  {
+    "id": 3,
+    "word": "Daktilo",
+    "first": "Harf",
+    "second": "Tuş",
+    "third": "Stilo",
+    "fourth": "Kağıt"
+  },
+  {
+    "id": 4,
+    "word": "Anahtar",
+    "first": "Kilit",
+    "second": "Metal",
+    "third": "Kapı",
+    "fourth": "Çilingir"
+  },
+  {
+    "id": 5,
+    "word": "Çorap",
+    "first": "Kaçmak",
+    "second": "Ten Rengi",
+    "third": "Parizyen",
+    "fourth": "Ayak"
+  },
+  {
+    "id": 6,
+    "word": "Filoloji",
+    "first": "Dil Bilim",
+    "second": "Lisan",
+    "third": "İngilizce",
+    "fourth": "Üniversite"
+  },
+  {
+    "id": 7,
+    "word": "Yastık",
+    "first": "Uyku",
+    "second": "Yumuşak",
+    "third": "Tüy",
+    "fourth": "Baş"
+  },
+  {
+    "id": 4562,
+    "word": "Mouse",
+    "first": "Fare",
+    "second": "Bilgisayar",
+    "third": "Klavye",
+    "fourth": "Tuş"
+  },
+  {
+    "id": 8,
+    "word": "Fon",
+    "first": "Para",
+    "second": "Banka",
+    "third": "Sıvı",
+    "fourth": "Hesap"
+  },
+  {
+    "id": 9,
+    "word": "Banka",
+    "first": "Müşteri",
+    "second": "Para",
+    "third": "Hesap",
+    "fourth": "Çek"
+  },
+  {
+    "id": 10,
+    "word": "Kara Kutu",
+    "first": "Uçak",
+    "second": "Pilot",
+    "third": "Hava",
+    "fourth": "Ses Kaydı"
+  },
+  {
+    "id": 11,
+    "word": "Mücevher",
+    "first": "Nakit",
+    "second": "Vakit",
+    "third": "Altın",
+    "fourth": "Zengin"
+  },
+  {
+    "id": 12,
+    "word": "Humus",
+    "first": "Ezme",
+    "second": "Meze",
+    "third": "Yemek",
+    "fourth": "Nohut"
+  },
+  {
+    "id": 13,
+    "word": "Feminen",
+    "first": "Dişi",
+    "second": "Kadın",
+    "third": "Çekici",
+    "fourth": "Seksi"
+  },
+  {
+    "id": 14,
+    "word": "Musakka",
+    "first": "Kıyma",
+    "second": "Yemek",
+    "third": "Patlıcan",
+    "fourth": "Karnıyarık"
+  },
+  {
+    "id": 15,
+    "word": "Piknik Tüpü",
+    "first": "Gaz",
+    "second": "Küçük",
+    "third": "Taşımak",
+    "fourth": "Mangal"
+  },
+  {
+    "id": 16,
+    "word": "Metehan",
+    "first": "Hun",
+    "second": "Asya",
+    "third": "Ordu",
+    "fourth": "Kağan"
+  },
+  {
+    "id": 1234,
+    "word": "Çıngırak",
+    "first": "Zil",
+    "second": "Bebek",
+    "third": "Yılan",
+    "fourth": "Sallamak"
+  },
+  {
+    "id": 231,
+    "word": "Biyografi",
+    "first": "Ünlü",
+    "second": "Hikaye",
+    "third": "Yaşam",
+    "fourth": "Hayat"
+  },
+  {
+    "id": 341,
+    "word": "Telefon",
+    "first": "Alo",
+    "second": "Aramak",
+    "third": "Çaldırmak",
+    "fourth": "Mesaj"
+  },
+  {
+    "id": 2341,
+    "word": "Futbol",
+    "first": "Top",
+    "second": "Erkek",
+    "third": "Maç",
+    "fourth": "Halı Saha"
+  },
+  {
+    "id": 17,
+    "word": "Kopya",
+    "first": "Sınav",
+    "second": "Kpss",
+    "third": "Yazılı",
+    "fourth": "Sözlü"
+  },
+  {
+    "id": 176,
+    "word": "Korsan",
+    "first": "Karayip",
+    "second": "CD",
+    "third": "Film",
+    "fourth": "Çete"
+  },
+  {
+    "id": 1565,
+    "word": "Klavye",
+    "first": "Mouse",
+    "second": "Bilgisayar",
+    "third": "F-Q",
+    "fourth": "Laptop"
+  },
+  {
+    "id": 1435,
+    "word": "Cam Silmek",
+    "first": "Perde",
+    "second": "Bayram",
+    "third": "Ayna",
+    "fourth": "Ovalamak"
+  },
+  {
+    "id": 2331,
+    "word": "Mahkeme",
+    "first": "Polis",
+    "second": "Adliye",
+    "third": "Duruşma",
+    "fourth": "Hakim"
+  },
+  {
+    "id": 671,
+    "word": "Avukat",
+    "first": "Savcı",
+    "second": "Hukuk",
+    "third": "Mahkeme",
+    "fourth": "Tutmak"
+  },
+  {
+    "id": 4561,
+    "word": "Telaş",
+    "first": "Acele",
+    "second": "Panik",
+    "third": "Korku",
+    "fourth": "Dolanmak"
+  },
+  {
+    "id": 23121,
+    "word": "Denetleme",
+    "first": "Komutan",
+    "second": "Kontrol",
+    "third": "Sayım",
+    "fourth": "Trafik"
+  },
+  {
+    "id": 981,
+    "word": "Genel Kurul",
+    "first": "Şirket",
+    "second": "Firma",
+    "third": "Yönetim",
+    "fourth": "Patron"
+  },
+  {
+    "id": 78891,
+    "word": "Kitaplık",
+    "first": "Kitap",
+    "second": "Kütüphane",
+    "third": "Oda",
+    "fourth": "Defter"
+  },
+  {
+    "id": 781,
+    "word": "Behzat Ç.",
+    "first": "Ankara",
+    "second": "Başkent",
+    "third": "Dizi",
+    "fourth": "Behzat"
+  },
+  {
+    "id": 671,
+    "word": "Uçurtma",
+    "first": "Çoçuk",
+    "second": "Hava",
+    "third": "İp",
+    "fourth": "Gökyüzü"
+  },
+  {
+    "id": 381,
+    "word": "Saklambaç",
+    "first": "Oyun",
+    "second": "Çoçuk",
+    "third": "Eğlence",
+    "fourth": "Ebe"
+  },
+  {
+    "id": 168,
+    "word": "Banka Hesabı",
+    "first": "Eft",
+    "second": "Havale",
+    "third": "Transfer",
+    "fourth": "Para"
+  },
+  {
+    "id": 561,
+    "word": "Elebaşı",
+    "first": "Çete",
+    "second": "Polis",
+    "third": "Suç",
+    "fourth": "Örgüt"
+  },
+  {
+    "id": 156,
+    "word": "Kayısı",
+    "first": "Malatya",
+    "second": "Şeftali",
+    "third": "Turuncu",
+    "fourth": "Renk"
+  },
+  {
+    "id": 646,
+    "word": "Naaş",
+    "first": "Cenaze",
+    "second": "Ölü",
+    "third": "Vefat",
+    "fourth": "Mezarlık"
+  },
+  {
+    "id": 878,
+    "word": "Hürriyet",
+    "first": "Cumhuriyet",
+    "second": "Özgürlük",
+    "third": "Bağımsızlık",
+    "fourth": "Baskı"
+  },
+  {
+    "id": 343,
+    "word": "Siyasi Lider",
+    "first": "Siyaset",
+    "second": "Parti",
+    "third": "Önder",
+    "fourth": "Başkan"
+  },
+  {
+    "id": 345,
+    "word": "Analog",
+    "first": "Saat",
+    "second": "Dijital",
+    "third": "Zaman",
+    "fourth": "Yuvarlak"
+  },
+  {
+    "id": 35221,
+    "word": "Kardiyo",
+    "first": "Fitness",
+    "second": "Spor",
+    "third": "Kalp",
+    "fourth": "Terleme"
+  },
+  {
+    "id": 67,
+    "word": "Dikiz Aynası",
+    "first": "Araba",
+    "second": "Araç",
+    "third": "Arka",
+    "fourth": "Kontrol"
+  },
+  {
+    "id": 568,
+    "word": "Vites",
+    "first": "Otomatik",
+    "second": "Geri",
+    "third": "İleri",
+    "fourth": "Araba"
+  },
+  {
+    "id": 179,
+    "word": "Dermatolog",
+    "first": "Cilt",
+    "second": "Saç",
+    "third": "Doktor",
+    "fourth": "Hekim"
+  },
+  {
+    "id": 12312,
+    "word": "Hazine",
+    "first": "Maliye",
+    "second": "Para",
+    "third": "Altın",
+    "fourth": "Bakan"
+  },
+  {
+    "id": 221,
+    "word": "Enflasyon",
+    "first": "Para",
+    "second": "Değer",
+    "third": "Yüzde",
+    "fourth": "Basmak"
+  },
+  {
+    "id": 1344,
+    "word": "Villa",
+    "first": "Ev",
+    "second": "Lüx",
+    "third": "Konut",
+    "fourth": "Daire"
+  },
+  {
+    "id": 155,
+    "word": "Çıkmaz Sokak",
+    "first": "Cadde",
+    "second": "Mahalle",
+    "third": "Yol",
+    "fourth": "Çıkış"
+  },
+  {
+    "id": 76,
+    "word": "Kibir",
+    "first": "Beğeni",
+    "second": "Ego",
+    "third": "Yüksek",
+    "fourth": "Aşağılamak"
+  },
+  {
+    "id": 1,
+    "word": "Alçı",
+    "first": "İnşaat",
+    "second": "Duvar",
+    "third": "Kırık",
+    "fourth": "Dökük"
+  },
+  {
+    "id": 21,
+    "word": "Kaza",
+    "first": "Kader",
+    "second": "Araç",
+    "third": "Trafik",
+    "fourth": "Yaralı"
+  },
+  {
+    "id": 5434,
+    "word": "Darphane",
+    "first": "Merkez Bankası",
+    "second": "Para",
+    "third": "Dolar",
+    "fourth": "Basmak"
+  },
+  {
+    "id": 5461,
+    "word": "İlk Yardım",
+    "first": "Hastane",
+    "second": "Acil",
+    "third": "Kırık",
+    "fourth": "Nefes"
+  },
+  {
+    "id": 12312,
+    "word": "Göze Gelmek",
+    "first": "Batıl İnanç",
+    "second": "Mavi Boncuk",
+    "third": "Nazar Değmek",
+    "fourth": "Kıskanmak"
+  },
+  {
+    "id": 56,
+    "word": "Format",
+    "first": "Bilgisayar",
+    "second": "Kalıp",
+    "third": "Şekil",
+    "fourth": "Yeni"
+  },
+  {
+    "id": 4564,
+    "word": "Protez",
+    "first": "Takma",
+    "second": "Diş",
+    "third": "Kol",
+    "fourth": "Bacak"
+  },
+  {
+    "id": 12316,
+    "word": "Çiğ Köfte",
+    "first": "Acı",
+    "second": "Bulgur",
+    "third": "Biber",
+    "fourth": "İsot"
+  },
+  {
+    "id": 46632,
+    "word": "Kemoterapi",
+    "first": "Saç Dökülmesi",
+    "second": "Kanser",
+    "third": "İlaç",
+    "fourth": "Tedavi"
+  },
+  {
+    "id": 242,
+    "word": "Jeopolitik",
+    "first": "Türkiye",
+    "second": "Önem",
+    "third": "Tarih",
+    "fourth": "Coğrafya"
+  },
+  {
+    "id": 3241,
+    "word": "Baraj",
+    "first": "Keban",
+    "second": "Su",
+    "third": "Biriktirmek",
+    "fourth": "Engellemek"
+  },
+  {
+    "id": 123613,
+    "word": "Aşçı",
+    "first": "Mutfak",
+    "second": "Yemek",
+    "third": "Önlük",
+    "fourth": "Meslek"
+  },
+  {
+    "id": 89,
+    "word": "Bowling",
+    "first": "Labut",
+    "second": "Delik",
+    "third": "Devirmek",
+    "fourth": "Ayakkabı"
+  },
+  {
+    "id": 6787,
+    "word": "Makarna",
+    "first": "Süzgeç",
+    "second": "Çatal",
+    "third": "Spagetti",
+    "fourth": "Sos"
+  },
+  {
+    "id": 7681,
+    "word": "Vektör",
+    "first": "Çizmek",
+    "second": "Doğru",
+    "third": "Fizik",
+    "fourth": "Skaler"
+  },
+  {
+    "id": 6887,
+    "word": "Üvey",
+    "first": "Öz",
+    "second": "Anne",
+    "third": "Baba",
+    "fourth": "Evlat"
+  },
+  {
+    "id": 8765,
+    "word": "Pamuk Şeker",
+    "first": "Tatlı",
+    "second": "Pembe",
+    "third": "Sokak",
+    "fourth": "Anne"
+  },
+  {
+    "id": 5676,
+    "word": "Kahraman",
+    "first": "Korkusuz",
+    "second": "Cesur",
+    "third": "Gözüpek",
+    "fourth": "Acar"
+  },
+  {
+    "id": 874,
+    "word": "Gitar",
+    "first": "Enstrüman",
+    "second": "Müzik",
+    "third": "Gözüpek",
+    "fourth": "Tel"
+  },
+  {
+    "id": 56751,
+    "word": "Duvar Kağıdı",
+    "first": "Ev",
+    "second": "Süslemek",
+    "third": "Korumak",
+    "fourth": "Güzelleştirmek"
+  },
+  {
+    "id": 53476,
+    "word": "Rakı",
+    "first": "Anason",
+    "second": "Aslan Sütü",
+    "third": "İçki",
+    "fourth": "Alkol"
+  },
+  {
+    "id": 2432,
+    "word": "Püskürtmek",
+    "first": "Gerilemek",
+    "second": "Sıvı",
+    "third": "Fışkırtmak",
+    "fourth": "Savurtmak"
+  },
+  {
+    "id": 145624,
+    "word": "Marangoz",
+    "first": "Usta",
+    "second": "Mobilya",
+    "third": "Şekil",
+    "fourth": "Ağaç"
+  },
+  {
+    "id": 254,
+    "word": "Sineye Çekmek",
+    "first": "Kabullenmek",
+    "second": "Susmak",
+    "third": "Katlanmak",
+    "fourth": "Razı Olmak"
+  },
+  {
+    "id": 5453,
+    "word": "Gotik",
+    "first": "Sivri",
+    "second": "Anlayış",
+    "third": "Mimari",
+    "fourth": "Düşünce"
+  },
+  {
+    "id": 7876,
+    "word": "Adamcağız",
+    "first": "Adam",
+    "second": "Zavallı",
+    "third": "İyi",
+    "fourth": "İnsan"
+  },
+  {
+    "id": 5456,
+    "word": "Tuz Ruhu",
+    "first": "Kimyasal",
+    "second": "Temizlik",
+    "third": "Çamaşır Suyu",
+    "fourth": "Zararlı"
+  },
+  {
+    "id": 2432,
+    "word": "Affetmek",
+    "first": "Bağışlamak",
+    "second": "Özür",
+    "third": "Haksızlık",
+    "fourth": "Mağdur"
+  },
+  {
+    "id": 5473,
+    "word": "Bilim Kurgu",
+    "first": "Film",
+    "second": "Fantastik",
+    "third": "Tür",
+    "fourth": "Sinema"
+  },
+  {
+    "id": 353456,
+    "word": "Ayan Beyan",
+    "first": "Açık",
+    "second": "Ortada",
+    "third": "Belli",
+    "fourth": "Söylemek"
+  },
+  {
+    "id": 3252,
+    "word": "Sponsor",
+    "first": "Reklam",
+    "second": "Ücretsiz",
+    "third": "Eşya",
+    "fourth": "Tanıtım"
+  },
+  {
+    "id": 76553,
+    "word": "Azrail",
+    "first": "Ölüm",
+    "second": "Can Almak",
+    "third": "Melek",
+    "fourth": "Ecel"
+  },
+  {
+    "id": 814,
+    "word": "BUHAR",
+    "first": "HAVA",
+    "second": "SU",
+    "third": "KAYNAMAK",
+    "fourth": "SIVI"
+  },
+  {
+    "id": 815,
+    "word": "MİL",
+    "first": "UZAKLIK",
+    "second": "KUM",
+    "third": "ÖLÇÜ",
+    "fourth": "TOPRAK"
+  },
+  {
+    "id": 816,
+    "word": "KOLON",
+    "first": "İNŞAAT",
+    "second": "BİNA",
+    "third": "BETON",
+    "fourth": "YAPI"
+  },
+  {
+    "id": 817,
+    "word": "REZERVASYON",
+    "first": "MASA",
+    "second": "RESTAURANT",
+    "third": "YER",
+    "fourth": "AYIRTMA"
+  },
+  {
+    "id": 818,
+    "word": "KUZEY KUTBU",
+    "first": "SOĞUK",
+    "second": "DÜNYA",
+    "third": "KAR",
+    "fourth": "GÜNEY"
+  },
+  {
+    "id": 819,
+    "word": "TUĞLA",
+    "first": "MALZEME",
+    "second": "YAPI",
+    "third": "İNŞAAT",
+    "fourth": "DUVAR"
+  },
+  {
+    "id": 820,
+    "word": "OKYANUS",
+    "first": "ATLAS",
+    "second": "DENİZ",
+    "third": "KITA",
+    "fourth": "AÇIK"
+  },
+  {
+    "id": 821,
+    "word": "HANGAR",
+    "first": "UÇAK",
+    "second": "DEPO",
+    "third": "KAPALI",
+    "fourth": "GARAJ"
+  },
+  {
+    "id": 822,
+    "word": "SIVI",
+    "first": "SU",
+    "second": "MAVİ",
+    "third": "ŞİŞE",
+    "fourth": "AKICI"
+  },
+  {
+    "id": 823,
+    "word": "MIZIKÇI",
+    "first": "OYNAMAK",
+    "second": "OYUNBOZAN",
+    "third": "KABUL ETMEK",
+    "fourth": "DARILMAK"
+  },
+  {
+    "id": 824,
+    "word": "KALABALIK",
+    "first": "KARGAŞA",
+    "second": "ÇOK",
+    "third": "İNSAN",
+    "fourth": "TOPLULUK"
+  },
+  {
+    "id": 825,
+    "word": "PARK",
+    "first": "MAKİNA",
+    "second": "YER",
+    "third": "OTOMOBİL",
+    "fourth": "DURMAK"
+  },
+  {
+    "id": 826,
+    "word": "DOĞUM",
+    "first": "EBE",
+    "second": "ÖLÜM",
+    "third": "HAMİLE",
+    "fourth": "YIL"
+  },
+  {
+    "id": 827,
+    "word": "TERAZİ",
+    "first": "KEFE",
+    "second": "TARTI",
+    "third": "KANTAR",
+    "fourth": "BASKÜL"
+  },
+  {
+    "id": 828,
+    "word": "TABURCU",
+    "first": "DOKTOR",
+    "second": "HASTA",
+    "third": "HASTANE",
+    "fourth": "İYİLEŞMEK"
+  },
+  {
+    "id": 8229,
+    "word": "KARDEŞ PAYI",
+    "first": "MURAT CEMCİR",
+    "second": "DİZİ",
+    "third": "AHMET KURAL",
+    "fourth": "STAR TV"
+  },
+  {
+    "id": 83330,
+    "word": "YANSIMA",
+    "first": "IŞIN",
+    "second": "IŞIK",
+    "third": "ÇARPMA",
+    "fourth": "YÖN"
+  },
+  {
+    "id": 8316,
+    "word": "JARGON",
+    "first": "SOKAK",
+    "second": "ARGO",
+    "third": "TERİM",
+    "fourth": "DİL"
+  },
+  {
+    "id": 832,
+    "word": "AMFİ",
+    "first": "TİYATRO",
+    "second": "BASAMAK",
+    "third": "ÇEVRE",
+    "fourth": "İKİLİ"
+  },
+  {
+    "id": 83763,
+    "word": "TAHTEREVALLI",
+    "first": "KAYDIRAK",
+    "second": "KÜÇÜK",
+    "third": "PARK",
+    "fourth": "ÇOCUK"
+  },
+  {
+    "id": 834,
+    "word": "BEDEN",
+    "first": "HAREKET",
+    "second": "VÜCUT",
+    "third": "DERS",
+    "fourth": "BAŞ"
+  },
+  {
+    "id": 835,
+    "word": "KANARYA ADALARI",
+    "first": "KUŞ",
+    "second": "İSPANYA",
+    "third": "FENERBAHÇE",
+    "fourth": "TAKIM"
+  },
+  {
+    "id": 836,
+    "word": "TRAFO",
+    "first": "TEHLİKE",
+    "second": "KEDİ",
+    "third": "KURUKAFA",
+    "fourth": "ELEKTRİK"
+  },
+  {
+    "id": 837,
+    "word": "GÖZ KIRPMAK",
+    "first": "KAPAK",
+    "second": "KAŞ",
+    "third": "KAPATMAK",
+    "fourth": "YÜZ"
+  },
+  {
+    "id": 838,
+    "word": "FRANCALA",
+    "first": "BASTON",
+    "second": "EKMEK",
+    "third": "İNCE",
+    "fourth": "FIRIN"
+  },
+  {
+    "id": 839,
+    "word": "VOLE",
+    "first": "FUTBOL",
+    "second": "TOP",
+    "third": "VURMAK",
+    "fourth": "SIÇRAMAK"
+  },
+  {
+    "id": 840,
+    "word": "MATARA",
+    "first": "İÇMEK",
+    "second": "SU",
+    "third": "TERMOS",
+    "fourth": "ASKER"
+  },
+  {
+    "id": 841,
+    "word": "KÜT",
+    "first": "BURUN",
+    "second": "KISA",
+    "third": "KESKİN",
+    "fourth": "KALIN"
+  },
+  {
+    "id": 842,
+    "word": "POĞAÇA",
+    "first": "SUSAM",
+    "second": "PATATES",
+    "third": "HAMUR",
+    "fourth": "FIRIN"
+  },
+  {
+    "id": 843,
+    "word": "TREND",
+    "first": "YENİ",
+    "second": "MODA",
+    "third": "TARZ",
+    "fourth": "ŞIK"
+  },
+  {
+    "id": 844,
+    "word": "REPO",
+    "first": "MENKUL KIYMET",
+    "second": "BANKA",
+    "third": "LİKİT",
+    "fourth": "FON"
+  },
+  {
+    "id": 845,
+    "word": "PARÇA",
+    "first": "KOPMAK",
+    "second": "BÜTÜN",
+    "third": "YIRTILMAK",
+    "fourth": "BÖLÜM"
+  },
+  {
+    "id": 846,
+    "word": "TORPİL",
+    "first": "DENIZALTI",
+    "second": "TANIDIK",
+    "third": "KAYIRMAK",
+    "fourth": "YAPMAK"
+  },
+  {
+    "id": 847,
+    "word": "MEDCEZİR",
+    "first": "DOĞA",
+    "second": "GELGİT",
+    "third": "SU",
+    "fourth": "AY"
+  },
+  {
+    "id": 848,
+    "word": "İVME",
+    "first": "FİZİK",
+    "second": "HIZ",
+    "third": "SÜRAT",
+    "fourth": "YAVAŞ"
+  },
+  {
+    "id": 849,
+    "word": "CASPER",
+    "first": "MONİTÖR",
+    "second": "BİLGİSAYAR",
+    "third": "ÇİZGİ FİLM",
+    "fourth": "HAYALET"
+  },
+  {
+    "id": 850,
+    "word": "IRK",
+    "first": "TÜR",
+    "second": "AYRIM",
+    "third": "FARK",
+    "fourth": "SOY"
+  },
+  {
+    "id": 851,
+    "word": "DEVŞİRME",
+    "first": "YABANCI",
+    "second": "OSMANLI",
+    "third": "ÇOCUK",
+    "fourth": "ASKER"
+  },
+  {
+    "id": 852,
+    "word": "OJE SÜRMEK",
+    "first": "BOYA",
+    "second": "TIRNAK",
+    "third": "KADIN",
+    "fourth": "PARMAK"
+  },
+  {
+    "id": 853,
+    "word": "KİBRİT",
+    "first": "SİGARA",
+    "second": "KUTU",
+    "third": "ATEŞ",
+    "fourth": "ÇAKMAK"
+  },
+  {
+    "id": 854,
+    "word": "SABAH",
+    "first": "GÜNEŞ",
+    "second": "DOĞMAK",
+    "third": "KAHVALTI",
+    "fourth": "ZAMAN"
+  },
+  {
+    "id": 855,
+    "word": "JARTİYER",
+    "first": "ÇORAP",
+    "second": "BEYAZ",
+    "third": "DANTEL",
+    "fourth": "GELİNLİK"
+  },
+  {
+    "id": 856,
+    "word": "SİVİLCE",
+    "first": "YÜZ",
+    "second": "SIKMAK",
+    "third": "AKNE",
+    "fourth": "PATLATMAK"
+  },
+  {
+    "id": 857,
+    "word": "ALKOL",
+    "first": "BİRA",
+    "second": "İÇKİ",
+    "third": "AYYAŞ",
+    "fourth": "SARHOŞ"
+  },
+  {
+    "id": 858,
+    "word": "MUTABAKAT",
+    "first": "UYUŞMAK",
+    "second": "ANLAŞMAK",
+    "third": "KARAR",
+    "fourth": "UZLAŞMAK"
+  },
+  {
+    "id": 859,
+    "word": "ŞAMDAN",
+    "first": "MUM",
+    "second": "ATES",
+    "third": "IŞIK",
+    "fourth": "METAL"
+  },
+  {
+    "id": 860,
+    "word": "HAZIR CEVAP",
+    "first": "BULMAK",
+    "second": "SORU",
+    "third": "ÇABUK",
+    "fourth": "LAF"
+  },
+  {
+    "id": 861,
+    "word": "TIMARHANE",
+    "first": "AKIL",
+    "second": "DELİ",
+    "third": "BAKICI",
+    "fourth": "HASTA"
+  },
+  {
+    "id": 862,
+    "word": "AMİRAL BATTI",
+    "first": "MAYIN",
+    "second": "OYUN",
+    "third": "GEMİ",
+    "fourth": "UÇAK"
+  },
+  {
+    "id": 863,
+    "word": "SAADET",
+    "first": "BAHTİYAR",
+    "second": "MUTLULUK",
+    "third": "DUYMAK",
+    "fourth": "SEVİNÇ"
+  },
+  {
+    "id": 864,
+    "word": "MAHARET",
+    "first": "YETENEK",
+    "second": "BECERİ",
+    "third": "USTA",
+    "fourth": "HÜNER"
+  },
+  {
+    "id": 865,
+    "word": "RUMUZ",
+    "first": "BİLGİSAYAR",
+    "second": "KULLANICI",
+    "third": "İNTERNET",
+    "fourth": "TAKMA AD"
+  },
+  {
+    "id": 866,
+    "word": "AVRUPA YAKASI",
+    "first": "ATV",
+    "second": "DİZİ",
+    "third": "GÜLSE BİRSEL",
+    "fourth": "İSTANBUL"
+  },
+  {
+    "id": 867,
+    "word": "ÇALAR SAAT",
+    "first": "UYANMA",
+    "second": "ALARM",
+    "third": "KURMAK",
+    "fourth": "ZAMAN"
+  },
+  {
+    "id": 868,
+    "word": "JEOLOJİ",
+    "first": "YAPI",
+    "second": "KAZI",
+    "third": "TOPRAK",
+    "fourth": "YER BİLİMİ"
+  },
+  {
+    "id": 869,
+    "word": "PROTEİN",
+    "first": "TAVUK",
+    "second": "KARBONHIDRAT",
+    "third": "BESİN",
+    "fourth": "YAĞ"
+  },
+  {
+    "id": 870,
+    "word": "SOKAK ÇOCUĞU",
+    "first": "TİNER",
+    "second": "YAŞAMAK",
+    "third": "FAKİR",
+    "fourth": "CADDE"
+  },
+  {
+    "id": 871,
+    "word": "MEŞGALE",
+    "first": "HOBİ",
+    "second": "EDİNMEK",
+    "third": "UĞRAŞI",
+    "fourth": "OYALANMAK"
+  },
+  {
+    "id": 872,
+    "word": "HİCİV",
+    "first": "NAZIM",
+    "second": "YERGİ",
+    "third": "SANAT",
+    "fourth": "ELEŞTİRİ"
+  },
+  {
+    "id": 873,
+    "word": "AYRINTI",
+    "first": "PARÇA",
+    "second": "DETAY",
+    "third": "TEFERRUAT",
+    "fourth": "ŞEYTAN"
+  },
+  {
+    "id": 874,
+    "word": "ALGORİTMA",
+    "first": "İŞLEM",
+    "second": "MATEMATİK",
+    "third": "SİSTEM",
+    "fourth": "HESAP"
+  },
+  {
+    "id": 875,
+    "word": "SERENAY SARIKAYA",
+    "first": "SARIŞIN",
+    "second": "MEDCEZİR",
+    "third": "OYUNCU",
+    "fourth": "ÇAĞATAY ULUSOY"
+  },
+  {
+    "id": 876,
+    "word": "FIRÇA",
+    "first": "SÜRMEK",
+    "second": "BOYA",
+    "third": "ÇUBUK",
+    "fourth": "PALET"
+  },
+  {
+    "id": 877,
+    "word": "ABLUKA",
+    "first": "ALMAK",
+    "second": "KUŞATMA",
+    "third": "ÇEVRELEMEK",
+    "fourth": "SARMAK"
+  },
+  {
+    "id": 878,
+    "word": "TRUVA ATI",
+    "first": "VİRÜS",
+    "second": "TAHTA",
+    "third": "ÇANAKKALE",
+    "fourth": "HEYKEL"
+  },
+  {
+    "id": 879,
+    "word": "ALPARSLAN",
+    "first": "MALAZGİRT",
+    "second": "BASBUĞ",
+    "third": "ÜLKÜCÜ",
+    "fourth": "TÜRKEŞ"
+  },
+  {
+    "id": 880,
+    "word": "ÇEŞNİ",
+    "first": "İÇMEK",
+    "second": "TAT",
+    "third": "YEMEK",
+    "fourth": "TADIM"
+  },
+  {
+    "id": 881,
+    "word": "GEYİK",
+    "first": "REN",
+    "second": "HAYVAN",
+    "third": "SOHBET",
+    "fourth": "BOYNUZ"
+  },
+  {
+    "id": 882,
+    "word": "PİSBOĞAZ",
+    "first": "TOK",
+    "second": "OBUR",
+    "third": "AÇGÖZLÜ",
+    "fourth": "YEMEK"
+  },
+  {
+    "id": 883,
+    "word": "CÖMERT",
+    "first": "VERİMLİ",
+    "second": "ELİ AÇIK",
+    "third": "BONKÖR",
+    "fourth": "HARCAMAYI SEVEN"
+  },
+  {
+    "id": 884,
+    "word": "ÇİFTLİK",
+    "first": "GENİŞ",
+    "second": "TARIM",
+    "third": "YETİŞTİRMEK",
+    "fourth": "HAYVAN"
+  },
+  {
+    "id": 885,
+    "word": "HAYDUT",
+    "first": "İSTEMEK",
+    "second": "YOL",
+    "third": "PARA",
+    "fourth": "KESMEK"
+  },
+  {
+    "id": 886,
+    "word": "SEVGİLİLER GÜNÜ",
+    "first": "KUTLAMAK",
+    "second": "14 ŞUBAT",
+    "third": "ARKADAŞ",
+    "fourth": "HEDİYE"
+  },
+  {
+    "id": 887,
+    "word": "EMZİK",
+    "first": "NAYLON",
+    "second": "AĞLAMAK",
+    "third": "EMMEK",
+    "fourth": "BEBEK"
+  },
+  {
+    "id": 888,
+    "word": "COĞRAFYA",
+    "first": "YERYÜZÜ",
+    "second": "DERS",
+    "third": "DÜNYA",
+    "fourth": "HARİTA"
+  },
+  {
+    "id": 889,
+    "word": "ŞEZLONG",
+    "first": "UZANMAK",
+    "second": "DENİZ",
+    "third": "PLAJ",
+    "fourth": "KUM"
+  },
+  {
+    "id": 890,
+    "word": "AKBİL",
+    "first": "BASMAK",
+    "second": "OTOBÜS",
+    "third": "İSTANBUL",
+    "fourth": "ARABA"
+  },
+  {
+    "id": 891,
+    "word": "PLAZMA",
+    "first": "BİYOLOJİ",
+    "second": "TELEVİZYON",
+    "third": "SIVI",
+    "fourth": "TEKNOLOJİ"
+  },
+  {
+    "id": 892,
+    "word": "HASTA BAKICI",
+    "first": "İLGİLENMEK",
+    "second": "DOKTOR",
+    "third": "YARDIM",
+    "fourth": "BAKMAK"
+  },
+  {
+    "id": 893,
+    "word": "BİBLO",
+    "first": "KÜÇÜK",
+    "second": "HEYKEL",
+    "third": "SÜS EŞYASI",
+    "fourth": "VAZO"
+  },
+  {
+    "id": 894,
+    "word": "DERVİŞ",
+    "first": "GALİP",
+    "second": "ALİM",
+    "third": "HOCA",
+    "fourth": "YOLCU"
+  },
+  {
+    "id": 895,
+    "word": "BOYUN EĞMEK",
+    "first": "KAFA",
+    "second": "UYMAK",
+    "third": "İSTEMEK",
+    "fourth": "KATLANMAK"
+  },
+  {
+    "id": 896,
+    "word": "ALTIPAS",
+    "first": "VURMAK",
+    "second": "FUTBOL",
+    "third": "PENALTI NOKTASI",
+    "fourth": "KALE"
+  },
+  {
+    "id": 897,
+    "word": "POPÜLASYON",
+    "first": "İNSAN",
+    "second": "TOPLULUK",
+    "third": "HAYVAN",
+    "fourth": "TÜR"
+  },
+  {
+    "id": 898,
+    "word": "ORYANTAL",
+    "first": "TANYELİ",
+    "second": "DANS",
+    "third": "ARAP",
+    "fourth": "KOSTÜM"
+  },
+  {
+    "id": 899,
+    "word": "MONT",
+    "first": "ÜŞÜMEK",
+    "second": "YAĞMUR",
+    "third": "SOĞUK",
+    "fourth": "KAR"
+  },
+  {
+    "id": 900,
+    "word": "ÇİLİNGİR SOFRASI",
+    "first": "KİLİT",
+    "second": "RAKI",
+    "third": "İÇMEK",
+    "fourth": "MEZE"
+  },
+  {
+    "id": 901,
+    "word": "NİLÜFER",
+    "first": "KURBAĞA",
+    "second": "ÇİÇEK",
+    "third": "DERE",
+    "fourth": "GÖL"
+  },
+  {
+    "id": 902,
+    "word": "OVA",
+    "first": "ALÜVYON",
+    "second": "COĞRAFYA",
+    "third": "HAVZA",
+    "fourth": "DÜZLÜK"
+  },
+  {
+    "id": 903,
+    "word": "KARDELEN",
+    "first": "DAĞ",
+    "second": "BİTKİ",
+    "third": "BAHAR",
+    "fourth": "ÇİÇEK"
+  },
+  {
+    "id": 904,
+    "word": "UYGARLIK",
+    "first": "DÜŞÜNCE",
+    "second": "MEDENİYET",
+    "third": "ÜLKE",
+    "fourth": "TOPLUM"
+  },
+  {
+    "id": 905,
+    "word": "KIZGIN",
+    "first": "DEMİR",
+    "second": "SICAK",
+    "third": "ISINMAK",
+    "fourth": "YAĞ"
+  },
+  {
+    "id": 906,
+    "word": "HASTALIK",
+    "first": "HASTA",
+    "second": "DOKTOR",
+    "third": "HASTANE",
+    "fourth": "HEMŞİRE"
+  },
+  {
+    "id": 907,
+    "word": "KONUŞLANDIRMAK",
+    "first": "YERLEŞMEK",
+    "second": "ORDU",
+    "third": "POZİSYON",
+    "fourth": "ASKER"
+  },
+  {
+    "id": 908,
+    "word": "AV",
+    "first": "VURMAK",
+    "second": "AVCI",
+    "third": "TÜFEK",
+    "fourth": "HAYVAN"
+  },
+  {
+    "id": 909,
+    "word": "MENTEŞE",
+    "first": "PENCERE",
+    "second": "KAPI",
+    "third": "KENAR",
+    "fourth": "CAM"
+  },
+  {
+    "id": 910,
+    "word": "SAPLAMAK",
+    "first": "BIÇAK",
+    "second": "BATIRMAK",
+    "third": "İTMEK",
+    "fourth": "GÖMMEK"
+  },
+  {
+    "id": 911,
+    "word": "JEOLOG",
+    "first": "MADEN",
+    "second": "YER ALTI",
+    "third": "KRİSTAL",
+    "fourth": "PARLAK TAŞ"
+  },
+  {
+    "id": 912,
+    "word": "ZİYNET",
+    "first": "BOZDURMAK",
+    "second": "ALTIN",
+    "third": "DEĞERLİ",
+    "fourth": "TAKMAK"
+  },
+  {
+    "id": 913,
+    "word": "KARADELİK",
+    "first": "YANSIMA",
+    "second": "UZAY",
+    "third": "YILDIZ",
+    "fourth": "BOŞLUK"
+  },
+  {
+    "id": 914,
+    "word": "KETUM",
+    "first": "KONUŞMAK",
+    "second": "AĞIZ",
+    "third": "SAKLAMAK",
+    "fourth": "SIR"
+  },
+  {
+    "id": 915,
+    "word": "AKREP",
+    "first": "SAAT",
+    "second": "KESKİN",
+    "third": "YELKOVAN",
+    "fourth": "HAYVAN"
+  },
+  {
+    "id": 916,
+    "word": "BARDAK",
+    "first": "KADEH",
+    "second": "SU",
+    "third": "İÇMEK",
+    "fourth": "CAM"
+  },
+  {
+    "id": 917,
+    "word": "RANZA",
+    "first": "UYKU",
+    "second": "ÇİFT KAT",
+    "third": "KOĞUŞ",
+    "fourth": "DEMİR"
+  },
+  {
+    "id": 918,
+    "word": "MEHMET ALİ ERBİL",
+    "first": "ÇARKIFELEK",
+    "second": "TİYATRO",
+    "third": "SUNUCU",
+    "fourth": "ŞOVMEN"
+  },
+  {
+    "id": 919,
+    "word": "PAPATYA",
+    "first": "SARI",
+    "second": "ÇİÇEK",
+    "third": "BEYAZ",
+    "fourth": "BAHAR"
+  },
+  {
+    "id": 920,
+    "word": "YARALAMAK",
+    "first": "İNCİTMEK",
+    "second": "ZARAR VERMEK",
+    "third": "SİLAH",
+    "fourth": "KESİCİ ALET"
+  },
+  {
+    "id": 921,
+    "word": "TOMURCUK",
+    "first": "GÜL",
+    "second": "ÇİÇEK",
+    "third": "KÜÇÜK",
+    "fourth": "AÇMAK"
+  },
+  {
+    "id": 922,
+    "word": "GARANTİ BELGESİ",
+    "first": "TAAHHÜT",
+    "second": "BOZULMAK",
+    "third": "YIL",
+    "fourth": "TAMİR"
+  },
+  {
+    "id": 923,
+    "word": "TAHRİP",
+    "first": "BOZMA",
+    "second": "YIKMA",
+    "third": "HARAP ETME",
+    "fourth": "KIRIP DÖKME"
+  },
+  {
+    "id": 924,
+    "word": "HASRET",
+    "first": "ARZU",
+    "second": "ÖZLEM",
+    "third": "ÜZÜLMEK",
+    "fourth": "YANMAK"
+  },
+  {
+    "id": 925,
+    "word": "KUM SAATİ",
+    "first": "AKMA",
+    "second": "CAM",
+    "third": "ÖLÇME",
+    "fourth": "ZAMAN"
+  },
+  {
+    "id": 926,
+    "word": "VAHA",
+    "first": "GÖRMEK",
+    "second": "ÇÖL",
+    "third": "HAYAT",
+    "fourth": "SULAK"
+  },
+  {
+    "id": 927,
+    "word": "ÖNYARGI",
+    "first": "OBJEKTİF",
+    "second": "HÜKÜM",
+    "third": "TARAF",
+    "fourth": "PEŞİN"
+  },
+  {
+    "id": 928,
+    "word": "TESİR",
+    "first": "BULUNMAK",
+    "second": "ETKİ",
+    "third": "BIRAKMAK",
+    "fourth": "ETMEK"
+  },
+  {
+    "id": 929,
+    "word": "KAFES",
+    "first": "KOYMAK",
+    "second": "KUŞ",
+    "third": "BESLEMEK",
+    "fourth": "TEL"
+  },
+  {
+    "id": 930,
+    "word": "SÜZME YOĞURT",
+    "first": "PEYNİR",
+    "second": "SU",
+    "third": "SÜT",
+    "fourth": "KATI"
+  },
+  {
+    "id": 931,
+    "word": "YÜZ AKI",
+    "first": "GURUR",
+    "second": "UTANMAK",
+    "third": "BAŞARILI",
+    "fourth": "ONUR"
+  },
+  {
+    "id": 932,
+    "word": "MATİNE",
+    "first": "KADIN",
+    "second": "TİYATRO",
+    "third": "GÖSTERİ",
+    "fourth": "GÜNDÜZ"
+  },
+  {
+    "id": 933,
+    "word": "PELTEK",
+    "first": "TUTUK",
+    "second": "SES",
+    "third": "KONUŞMA",
+    "fourth": "KUSUR"
+  },
+  {
+    "id": 934,
+    "word": "OMURGA",
+    "first": "SIRT",
+    "second": "KEMİK",
+    "third": "BEL",
+    "fourth": "EKSEN"
+  },
+  {
+    "id": 935,
+    "word": "ROL ÇALMAK",
+    "first": "BASTIRMAK",
+    "second": "SAHNE",
+    "third": "KARŞILIKLI",
+    "fourth": "OYUNCU"
+  },
+  {
+    "id": 936,
+    "word": "EKMEK KADAYIFI",
+    "first": "ŞEKER",
+    "second": "TATLI",
+    "third": "KAYMAK",
+    "fourth": "YEMEK"
+  },
+  {
+    "id": 937,
+    "word": "YELEK",
+    "first": "GİYMEK",
+    "second": "CEKET",
+    "third": "ÇELİK",
+    "fourth": "CAN"
+  },
+  {
+    "id": 938,
+    "word": "STRES",
+    "first": "YOĞUN",
+    "second": "İŞ",
+    "third": "GERİLİM",
+    "fourth": "ENDİŞE"
+  },
+  {
+    "id": 939,
+    "word": "MOTİF",
+    "first": "ÖRÜNTÜ",
+    "second": "DESEN",
+    "third": "KUMAŞ",
+    "fourth": "BASKI"
+  },
+  {
+    "id": 940,
+    "word": "MADEN OCAĞI",
+    "first": "ALTIN",
+    "second": "KAZMAK",
+    "third": "DEĞERLİ",
+    "fourth": "CEVHER"
+  },
+  {
+    "id": 941,
+    "word": "POST",
+    "first": "POSTALAMA",
+    "second": "HAYVAN DERİSİ",
+    "third": "YÜN YUMAĞI",
+    "fourth": "KÜRK"
+  },
+  {
+    "id": 942,
+    "word": "ENDÜSTRİ",
+    "first": "FABRİKA",
+    "second": "SANAYİ",
+    "third": "MÜHENDİS",
+    "fourth": "DEVRİM"
+  },
+  {
+    "id": 943,
+    "word": "DEJENERASYON",
+    "first": "YIPRANMA",
+    "second": "ZARAR",
+    "third": "YOZLAŞMA",
+    "fourth": "BOZULMA"
+  },
+  {
+    "id": 944,
+    "word": "ASFALT",
+    "first": "OTOBAN",
+    "second": "ZİFT",
+    "third": "SİYAH",
+    "fourth": "YOL"
+  },
+  {
+    "id": 945,
+    "word": "SECCADE",
+    "first": "TESPİH",
+    "second": "NAMAZ",
+    "third": "RÜKU",
+    "fourth": "İBADET"
+  },
+  {
+    "id": 946,
+    "word": "SAĞLAM",
+    "first": "YIKILMAZ",
+    "second": "SAĞLIKLI",
+    "third": "BOZULMAZ",
+    "fourth": "DAYANIKLI"
+  },
+  {
+    "id": 947,
+    "word": "ÜÇKAĞITÇI",
+    "first": "KANDIRMAK",
+    "second": "DALAVERE",
+    "third": "DOLANDIRICI",
+    "fourth": "HİLE"
+  },
+  {
+    "id": 948,
+    "word": "MAHMUT TUNCER",
+    "first": "CENDERME",
+    "second": "FLASH TV",
+    "third": "MENDİL",
+    "fourth": "HALAY"
+  },
+  {
+    "id": 949,
+    "word": "KUŞ DİLİ",
+    "first": "BİBERİYE",
+    "second": "KONUŞMAK",
+    "third": "DİZİ",
+    "fourth": "ŞİFRELİ"
+  },
+  {
+    "id": 950,
+    "word": "KESTANE ŞEKERİ",
+    "first": "AĞAÇ",
+    "second": "BURSA",
+    "third": "HEDİYE",
+    "fourth": "KAFKAS"
+  },
+  {
+    "id": 951,
+    "word": "MAKET",
+    "first": "MUKAVVA",
+    "second": "BIÇAK",
+    "third": "OYUNCAK",
+    "fourth": "BİNA"
+  },
+  {
+    "id": 952,
+    "word": "KLEOPATRA",
+    "first": "ROMA",
+    "second": "MISIR",
+    "third": "SEZAR",
+    "fourth": "KRALİÇE"
+  },
+  {
+    "id": 953,
+    "word": "TOZPEMBE",
+    "first": "AÇIK",
+    "second": "RENK",
+    "third": "TOZ",
+    "fourth": "PEMBE"
+  },
+  {
+    "id": 954,
+    "word": "YAKINLAŞMAK",
+    "first": "SEVGİ",
+    "second": "GELMEK",
+    "third": "UZAK",
+    "fourth": "YAKLAŞMAK"
+  },
+  {
+    "id": 955,
+    "word": "PİMPİRİK",
+    "first": "KUŞKU",
+    "second": "EVHAM",
+    "third": "TİTİZLİK",
+    "fourth": "İŞKİLLENMEK"
+  },
+  {
+    "id": 956,
+    "word": "HOPARLÖR",
+    "first": "RADYO",
+    "second": "MÜZİK",
+    "third": "SES",
+    "fourth": "BİLGİSAYAR"
+  },
+  {
+    "id": 957,
+    "word": "SIĞINMAK",
+    "first": "GÜVENMEK",
+    "second": "ÜLKE",
+    "third": "İLTİCA",
+    "fourth": "BAŞKA"
+  },
+  {
+    "id": 958,
+    "word": "SUCUK",
+    "first": "SOSİS",
+    "second": "BAHARAT",
+    "third": "SALAM",
+    "fourth": "ET"
+  },
+  {
+    "id": 959,
+    "word": "HALSİZ",
+    "first": "GÜÇSÜZ",
+    "second": "BİTKİN",
+    "third": "YORGUN",
+    "fourth": "DERMANSIZ"
+  },
+  {
+    "id": 960,
+    "word": "ŞİFONYER",
+    "first": "GİYSİ",
+    "second": "DOLAP",
+    "third": "KOYMAK",
+    "fourth": "GARDIROP"
+  },
+  {
+    "id": 961,
+    "word": "GARDROP",
+    "first": "EV",
+    "second": "KIYAFET",
+    "third": "GİYSİ",
+    "fourth": "YATAK ODASI"
+  },
+  {
+    "id": 962,
+    "word": "SPİKER",
+    "first": "TELEVİZYON",
+    "second": "SUNUCU",
+    "third": "RADYO",
+    "fourth": "HABER"
+  },
+  {
+    "id": 963,
+    "word": "KORSAN",
+    "first": "CD",
+    "second": "PARA",
+    "third": "OYUN",
+    "fourth": "HAZİNE"
+  },
+  {
+    "id": 964,
+    "word": "SARMAŞIK",
+    "first": "SARKMA",
+    "second": "BİTKİ",
+    "third": "DAL",
+    "fourth": "YAPRAK"
+  },
+  {
+    "id": 965,
+    "word": "ENTRİKA",
+    "first": "HİLE",
+    "second": "YALAN",
+    "third": "DOLAP",
+    "fourth": "DÜZEN"
+  },
+  {
+    "id": 966,
+    "word": "BEHER",
+    "first": "CAM",
+    "second": "KİMYA",
+    "third": "ERLEN",
+    "fourth": "DENEY"
+  },
+  {
+    "id": 967,
+    "word": "MÜDAFAA",
+    "first": "ETMEK",
+    "second": "SAVUNMAK",
+    "third": "NEFSİ",
+    "fourth": "KORUMAK"
+  },
+  {
+    "id": 968,
+    "word": "KOBRA",
+    "first": "YILAN",
+    "second": "SÜRÜNGEN",
+    "third": "HAYVAN",
+    "fourth": "ÇINGIRAKLI YILAN"
+  },
+  {
+    "id": 969,
+    "word": "BUDA",
+    "first": "HİNDİSTAN",
+    "second": "DİN",
+    "third": "İNANÇ",
+    "fourth": "FELSEFE"
+  },
+  {
+    "id": 970,
+    "word": "SARP APAK",
+    "first": "TANRIVERDİ",
+    "second": "OYUNCU",
+    "third": "YALAN DÜNYA",
+    "fourth": "AVRUPA YAKASI"
+  },
+  {
+    "id": 971,
+    "word": "KARYOLA",
+    "first": "YATAK",
+    "second": "RANZA",
+    "third": "YASTIK",
+    "fourth": "AHŞAP"
+  },
+  {
+    "id": 972,
+    "word": "VİSKOZİTE",
+    "first": "KATILIK",
+    "second": "KIVAM",
+    "third": "YOĞUNLUK",
+    "fourth": "SIVI"
+  },
+  {
+    "id": 973,
+    "word": "TAÇ",
+    "first": "HÜKÜMDAR",
+    "second": "GÜÇ",
+    "third": "İKTİDAR",
+    "fourth": "SEMBOL"
+  },
+  {
+    "id": 974,
+    "word": "ZEHİRSİZ YILAN",
+    "first": "BOĞA",
+    "second": "HAYVAN",
+    "third": "TEHLİKE",
+    "fourth": "SÜRÜNME"
+  },
+  {
+    "id": 975,
+    "word": "ÇAN",
+    "first": "KİLİSE",
+    "second": "ZİL",
+    "third": "ÇALMAK",
+    "fourth": "HRİSTİYAN"
+  },
+  {
+    "id": 976,
+    "word": "MİKROBİK",
+    "first": "MİKROP",
+    "second": "VİRÜS",
+    "third": "BULAŞICI",
+    "fourth": "HASTALIK"
+  },
+  {
+    "id": 977,
+    "word": "SUÇ ORTAĞI",
+    "first": "YASAK",
+    "second": "KABAHAT",
+    "third": "BERABER",
+    "fourth": "YARDIM"
+  },
+  {
+    "id": 978,
+    "word": "ÇAKMAK",
+    "first": "KIVILCIM",
+    "second": "ATEŞ",
+    "third": "SİGARA",
+    "fourth": "YAKMA"
+  },
+  {
+    "id": 979,
+    "word": "VİZE",
+    "first": "SINAV",
+    "second": "ÜLKE",
+    "third": "PASAPORT",
+    "fourth": "GİRİŞ"
+  },
+  {
+    "id": 980,
+    "word": "KUZU KULAĞI",
+    "first": "BÖREK",
+    "second": "BİTKİ",
+    "third": "EKŞİ",
+    "fourth": "OT"
+  },
+  {
+    "id": 981,
+    "word": "MAKİNİST",
+    "first": "SİNEMA",
+    "second": "TREN",
+    "third": "KULLANMAK",
+    "fourth": "METRO"
+  },
+  {
+    "id": 982,
+    "word": "DENİZ",
+    "first": "GEMİ/YAT/VAPUR",
+    "second": "TUZLU SU",
+    "third": "TATİL",
+    "fourth": "YAZ"
+  },
+  {
+    "id": 983,
+    "word": "ŞEHRAZAT",
+    "first": "ANLATMAK",
+    "second": "1001 GECE",
+    "third": "KAHRAMAN",
+    "fourth": "MASAL"
+  },
+  {
+    "id": 984,
+    "word": "ŞELALE",
+    "first": "UZUN",
+    "second": "SU",
+    "third": "BÜYÜK",
+    "fourth": "AKMAK"
+  },
+  {
+    "id": 985,
+    "word": "LİDER",
+    "first": "YÖNETİCİ",
+    "second": "PATRON",
+    "third": "KOORDİNATÖR",
+    "fourth": "DİREKTÖR"
+  },
+  {
+    "id": 986,
+    "word": "KUPA PAPAZI",
+    "first": "KİLİSE",
+    "second": "DESTE",
+    "third": "İSKAMBİL",
+    "fourth": "KAĞIT"
+  },
+  {
+    "id": 987,
+    "word": "İLTİMAS",
+    "first": "ÖNCELİK",
+    "second": "KAYIRMAK",
+    "third": "HAKSIZ",
+    "fourth": "ARKA ÇIKMAK"
+  },
+  {
+    "id": 988,
+    "word": "SANCI",
+    "first": "HİSSETMEK",
+    "second": "ACI",
+    "third": "DUYMAK",
+    "fourth": "AĞRI"
+  },
+  {
+    "id": 989,
+    "word": "TURİZM",
+    "first": "TATİL",
+    "second": "GEZMEK",
+    "third": "OTEL",
+    "fourth": "ŞİRKET"
+  },
+  {
+    "id": 990,
+    "word": "KİL",
+    "first": "TESTİ",
+    "second": "YUMUŞAK",
+    "third": "TOPRAK",
+    "fourth": "YAĞLI"
+  },
+  {
+    "id": 991,
+    "word": "MAKAS",
+    "first": "TERZİ",
+    "second": "KAĞIT",
+    "third": "KUMAŞ",
+    "fourth": "KESMEK"
+  },
+  {
+    "id": 992,
+    "word": "CETVEL",
+    "first": "DÜZGÜN",
+    "second": "UZUN",
+    "third": "T",
+    "fourth": "ÇİZGİ"
+  },
+  {
+    "id": 993,
+    "word": "GÖNYE",
+    "first": "DERECE",
+    "second": "AÇI",
+    "third": "ÜÇGEN",
+    "fourth": "CETVEL"
+  },
+  {
+    "id": 994,
+    "word": "SMAÇ",
+    "first": "VURMAK",
+    "second": "VOLEYBOL",
+    "third": "SERT",
+    "fourth": "TENİS"
+  },
+  {
+    "id": 995,
+    "word": "SONDA",
+    "first": "TUVALET",
+    "second": "SIVI",
+    "third": "İDRAR",
+    "fourth": "ÇEKMEK"
+  },
+  {
+    "id": 996,
+    "word": "SÜRAHİ",
+    "first": "MUTFAK",
+    "second": "SU",
+    "third": "BARDAK",
+    "fourth": "DÖKMEK"
+  },
+  {
+    "id": 997,
+    "word": "EMNİYET KEMERİ",
+    "first": "GÜVENLİK",
+    "second": "UÇAK",
+    "third": "TAKMAK",
+    "fourth": "ARABA"
+  },
+  {
+    "id": 998,
+    "word": "EFSANE",
+    "first": "ABARTMAK",
+    "second": "HAYALİ",
+    "third": "ÖYKÜ",
+    "fourth": "YARADILIŞ"
+  },
+  {
+    "id": 999,
+    "word": "PERİSKOP",
+    "first": "ALET",
+    "second": "DENİZALTI",
+    "third": "AYNA",
+    "fourth": "OPTİK"
+  },
+  {
+    "id": 1000,
+    "word": "SODA",
+    "first": "MADEN SUYU",
+    "second": "İÇECEK",
+    "third": "GAZLI",
+    "fourth": "KAYNAK"
+  },
+  {
+    "id": 1001,
+    "word": "DİŞ ÇEKME",
+    "first": "UYUŞTURMA",
+    "second": "DİŞÇİ",
+    "third": "ÇÜRÜK",
+    "fourth": "AĞIZ"
+  },
+  {
+    "id": 1002,
+    "word": "ARKEOLOJİ",
+    "first": "BÖLÜM",
+    "second": "TARİHİ ESER",
+    "third": "ESKİ",
+    "fourth": "KAZI"
+  },
+  {
+    "id": 1003,
+    "word": "KEHANET",
+    "first": "NOSTRADAMUS",
+    "second": "KAHİN",
+    "third": "GELECEK",
+    "fourth": "BİLMEK"
+  },
+  {
+    "id": 1004,
+    "word": "BERAAT ETMEK",
+    "first": "CEZA",
+    "second": "HAPİS",
+    "third": "ÇIKMAK",
+    "fourth": "MAHKUM"
+  },
+  {
+    "id": 1005,
+    "word": "LİF",
+    "first": "BANYO",
+    "second": "UZUN",
+    "third": "KAS",
+    "fourth": "İPLİKSİ"
+  },
+  {
+    "id": 1006,
+    "word": "EVEREST TEPESİ",
+    "first": "DAĞCI",
+    "second": "YÜKSEK",
+    "third": "TIRMANMA",
+    "fourth": "HİMALAYA"
+  },
+  {
+    "id": 1007,
+    "word": "DEFTERDEN SİLMEK",
+    "first": "DARILMAK",
+    "second": "KIZMAK",
+    "third": "KÜSMEK",
+    "fourth": "KIRILMAK"
+  },
+  {
+    "id": 1008,
+    "word": "BENEK",
+    "first": "NOKTA",
+    "second": "KELEBEK",
+    "third": "LEKE",
+    "fourth": "İZ"
+  },
+  {
+    "id": 1009,
+    "word": "TESTİ",
+    "first": "ZEYTİNYAĞI",
+    "second": "SU KABI",
+    "third": "ÖLÇÜ",
+    "fourth": "SÜRAHİ"
+  },
+  {
+    "id": 1010,
+    "word": "TEPKİ",
+    "first": "KARŞILIK",
+    "second": "ETKİ",
+    "third": "ALMAK",
+    "fourth": "VERMEK"
+  },
+  {
+    "id": 1011,
+    "word": "PELUŞ",
+    "first": "SEVGİLİ",
+    "second": "AYI",
+    "third": "TÜYLÜ",
+    "fourth": "OYUNCAK"
+  },
+  {
+    "id": 1012,
+    "word": "AYRILMAK",
+    "first": "TERK ETMEK",
+    "second": "İSTİFA ETMEK",
+    "third": "BIRAKMAK",
+    "fourth": "GİTMEK"
+  },
+  {
+    "id": 1013,
+    "word": "PENCERE",
+    "first": "PANJUR",
+    "second": "BİNA",
+    "third": "AYDINLIK",
+    "fourth": "IŞIK"
+  },
+  {
+    "id": 1014,
+    "word": "ZÜĞÜRT",
+    "first": "ÇENE",
+    "second": "PARA",
+    "third": "TESELLİ",
+    "fourth": "FAKİR"
+  },
+  {
+    "id": 1015,
+    "word": "SÜPER MARKET",
+    "first": "TÜKETİM",
+    "second": "ALIŞVERİŞ",
+    "third": "SATIN ALMAK",
+    "fourth": "MİGROS"
+  },
+  {
+    "id": 1016,
+    "word": "SALÇA",
+    "first": "BİBER",
+    "second": "YEMEK",
+    "third": "KIRMIZI",
+    "fourth": "DOMATES"
+  },
+  {
+    "id": 1017,
+    "word": "SOHBET",
+    "first": "ARKADAŞ",
+    "second": "SÖYLEŞİ",
+    "third": "KONUŞMA",
+    "fourth": "HASBİHAL"
+  },
+  {
+    "id": 1018,
+    "word": "RAMAK KALMAK",
+    "first": "OLMAK",
+    "second": "AZ",
+    "third": "ZAMAN",
+    "fourth": "SÜRE"
+  },
+  {
+    "id": 1019,
+    "word": "DOGMA",
+    "first": "İNANÇ",
+    "second": "DÜŞÜNCE",
+    "third": "SAV",
+    "fourth": "GÖRÜŞ"
+  },
+  {
+    "id": 1020,
+    "word": "DÜŞES",
+    "first": "EŞ",
+    "second": "İNGİLTERE",
+    "third": "İNGİLİZ",
+    "fourth": "DÜK"
+  },
+  {
+    "id": 1021,
+    "word": "ZEYTİN",
+    "first": "SELE",
+    "second": "SİYAH",
+    "third": "TANE",
+    "fourth": "YEŞİL"
+  },
+  {
+    "id": 1022,
+    "word": "DART",
+    "first": "PUAN",
+    "second": "OK",
+    "third": "TAHTA",
+    "fourth": "FIRLATMAK"
+  },
+  {
+    "id": 1023,
+    "word": "NEMLENDİRİCİ",
+    "first": "SÜRMEK",
+    "second": "KREM",
+    "third": "YÜZ",
+    "fourth": "ÇATLAK"
+  },
+  {
+    "id": 1024,
+    "word": "KALDIRAÇ",
+    "first": "ÇUBUK",
+    "second": "YÜK",
+    "third": "KUVVET",
+    "fourth": "AĞIR"
+  },
+  {
+    "id": 1025,
+    "word": "GÖZ BOYAMAK",
+    "first": "OYALAMAK",
+    "second": "ALDATMAK",
+    "third": "YANILTMAK",
+    "fourth": "KANDIRMAK"
+  },
+  {
+    "id": 1026,
+    "word": "ARAKLAMAK",
+    "first": "HIRSIZLIK",
+    "second": "ÇALMAK",
+    "third": "AŞIRMAK",
+    "fourth": "YÜRÜTMEK"
+  },
+  {
+    "id": 1027,
+    "word": "NEŞET ERTAŞ",
+    "first": "ŞARKI",
+    "second": "TÜRKÜ",
+    "third": "NEVŞEHİR",
+    "fourth": "BOZKIR"
+  },
+  {
+    "id": 1028,
+    "word": "MARANGOZ",
+    "first": "USTA",
+    "second": "MOBİLYA",
+    "third": "ŞEKİL",
+    "fourth": "AĞAÇ"
+  },
+  {
+    "id": 1029,
+    "word": "ŞÖVALYE",
+    "first": "PAPA",
+    "second": "TAPINAK",
+    "third": "SAVAŞ",
+    "fourth": "ORTAÇAĞ"
+  },
+  {
+    "id": 1030,
+    "word": "ÇERKEZ",
+    "first": "YÖRÜK",
+    "second": "KAFKAS",
+    "third": "TOPLUM",
+    "fourth": "BOY"
+  },
+  {
+    "id": 1031,
+    "word": "YAZLIK EV",
+    "first": "DİNLENME",
+    "second": "TATİL",
+    "third": "YAZ",
+    "fourth": "DENİZ"
+  },
+  {
+    "id": 1032,
+    "word": "PONPON",
+    "first": "SÜS",
+    "second": "YUVARLAK",
+    "third": "KIZ",
+    "fourth": "PÜSKÜL"
+  },
+  {
+    "id": 1033,
+    "word": "BOTOKS",
+    "first": "YAŞLANMAK",
+    "second": "ESTETİK",
+    "third": "YÜZ",
+    "fourth": "KIRIŞIK"
+  },
+  {
+    "id": 1034,
+    "word": "MİSAFİRPERVER",
+    "first": "YEMEK",
+    "second": "KONUKSEVER",
+    "third": "İKRAM",
+    "fourth": "AĞIRLAMAK"
+  },
+  {
+    "id": 1035,
+    "word": "ARSENİK",
+    "first": "İNTIHAR",
+    "second": "SİYANÜR",
+    "third": "ÖLMEK",
+    "fourth": "ZEHİR"
+  },
+  {
+    "id": 1036,
+    "word": "ROMAN",
+    "first": "ÖYKÜ",
+    "second": "EDEBİYAT",
+    "third": "YAZAR",
+    "fourth": "KİTAP"
+  },
+  {
+    "id": 1037,
+    "word": "YÜKLEMEK",
+    "first": "ATMAK",
+    "second": "KOYMAK",
+    "third": "AKTARMAK",
+    "fourth": "TAŞIMAK"
+  },
+  {
+    "id": 1038,
+    "word": "SIKLET",
+    "first": "BOKS",
+    "second": "AĞIR",
+    "third": "TÜY",
+    "fourth": "HAFİF"
+  },
+  {
+    "id": 1039,
+    "word": "EKMEK KIRINTISI",
+    "first": "ATMAK",
+    "second": "YEMEK",
+    "third": "KUŞ",
+    "fourth": "DÖKÜLMEK"
+  },
+  {
+    "id": 1040,
+    "word": "FANTASTİK",
+    "first": "BÜYÜ",
+    "second": "KITAP",
+    "third": "FİLM",
+    "fourth": "OLAĞANÜSTÜ"
+  },
+  {
+    "id": 1041,
+    "word": "ALTIN",
+    "first": "KUYUMCU",
+    "second": "SARRAF",
+    "third": "KIYMET",
+    "fourth": "ÇEYREK"
+  },
+  {
+    "id": 1042,
+    "word": "FOTOKOPİ",
+    "first": "KOPYA",
+    "second": "FOTO",
+    "third": "BASIM",
+    "fourth": "ÇOĞALTMA"
+  },
+  {
+    "id": 1043,
+    "word": "KOKTEYL",
+    "first": "TOPLANTI",
+    "second": "KARIŞIM",
+    "third": "PARTİ",
+    "fourth": "İÇKİ"
+  },
+  {
+    "id": 1044,
+    "word": "USKUMRU",
+    "first": "PALAMUT",
+    "second": "BALIK",
+    "third": "HAMSİ",
+    "fourth": "LÜFER"
+  },
+  {
+    "id": 1045,
+    "word": "PROSPEKTÜS",
+    "first": "DOKTOR",
+    "second": "REÇETE",
+    "third": "HASTANE",
+    "fourth": "İLAÇ"
+  },
+  {
+    "id": 1046,
+    "word": "HAKİM",
+    "first": "AVUKAT",
+    "second": "MAHKEME",
+    "third": "SUÇLU",
+    "fourth": "OLAY"
+  },
+  {
+    "id": 1047,
+    "word": "MASKARA",
+    "first": "OLMAK",
+    "second": "GÜLDÜRÜCÜ",
+    "third": "MASKE",
+    "fourth": "SOYTARI"
+  },
+  {
+    "id": 1048,
+    "word": "AKS",
+    "first": "TEKER",
+    "second": "DİNGİL",
+    "third": "ARAÇ",
+    "fourth": "MİL"
+  },
+  {
+    "id": 1049,
+    "word": "IŞILDAK",
+    "first": "LAMBA",
+    "second": "KARANLIK",
+    "third": "IŞIK",
+    "fourth": "ELEKTRİK"
+  },
+  {
+    "id": 1050,
+    "word": "HAVA KİRLİLİĞİ",
+    "first": "ZARARLI GAZ",
+    "second": "NÜFUS",
+    "third": "ATMOSFER",
+    "fourth": "SANAYİLEŞME"
+  },
+  {
+    "id": 1051,
+    "word": "OMLET",
+    "first": "AK",
+    "second": "YUMURTA",
+    "third": "KIRMAK",
+    "fourth": "KAHVALTI"
+  },
+  {
+    "id": 1052,
+    "word": "MAKİNALI TÜFEK",
+    "first": "SERİ",
+    "second": "SİLAH",
+    "third": "SAVAŞ",
+    "fourth": "TARAMA"
+  },
+  {
+    "id": 1053,
+    "word": "AVANS",
+    "first": "VERMEK",
+    "second": "HARÇLIK",
+    "third": "PARA",
+    "fourth": "ÖDEME"
+  },
+  {
+    "id": 1054,
+    "word": "PLAY STATİON",
+    "first": "EKRAN",
+    "second": "EĞLENCE",
+    "third": "OYUN",
+    "fourth": "ALET"
+  },
+  {
+    "id": 1055,
+    "word": "BALÇIK",
+    "first": "YAPIŞKAN",
+    "second": "GÜNEŞ",
+    "third": "ÇAMUR",
+    "fourth": "SIVAMAK"
+  },
+  {
+    "id": 1056,
+    "word": "AŞERMEK",
+    "first": "YEMEK",
+    "second": "DOĞUM",
+    "third": "HAMİLE",
+    "fourth": "BEBEK"
+  },
+  {
+    "id": 1057,
+    "word": "BÜYÜLEMEK",
+    "first": "ÇEKMEK",
+    "second": "ETKİLEMEK",
+    "third": "BAĞLAMAK",
+    "fourth": "ALMAK"
+  },
+  {
+    "id": 1058,
+    "word": "ÖRTBAS ETMEK",
+    "first": "YOK ETMEK",
+    "second": "SAKLAMAK",
+    "third": "İNKAR",
+    "fourth": "GİZLEMEK"
+  },
+  {
+    "id": 1059,
+    "word": "KIBLE",
+    "first": "KILMAK",
+    "second": "İBADET",
+    "third": "KABE",
+    "fourth": "NAMAZ"
+  },
+  {
+    "id": 1060,
+    "word": "BÜFE",
+    "first": "SATMAK",
+    "second": "DÜKKAN",
+    "third": "GAZETE",
+    "fourth": "KÜÇÜK"
+  },
+  {
+    "id": 1061,
+    "word": "SAAT",
+    "first": "YELKOVAN",
+    "second": "AKREP",
+    "third": "ZAMAN",
+    "fourth": "GÜN"
+  },
+  {
+    "id": 1062,
+    "word": "GÜZERGAH",
+    "first": "ROTA",
+    "second": "YÖN",
+    "third": "YER",
+    "fourth": "GİTMEK"
+  },
+  {
+    "id": 1063,
+    "word": "KARŞILAŞTIRMA",
+    "first": "BENZETME",
+    "second": "MUKAYESE",
+    "third": "DEĞERLENDİRME",
+    "fourth": "KIYAS"
+  },
+  {
+    "id": 1064,
+    "word": "KONSEY",
+    "first": "MİLLİ GÜVENLİK",
+    "second": "TOPLANMAK",
+    "third": "YÖNETMEK",
+    "fourth": "GRUP"
+  },
+  {
+    "id": 1065,
+    "word": "ARALIKSIZ",
+    "first": "SIRA",
+    "second": "BİTİŞİK",
+    "third": "YAN",
+    "fourth": "AÇIKLIK"
+  },
+  {
+    "id": 1066,
+    "word": "SAÇ",
+    "first": "KESTİRMEK",
+    "second": "KUAFÖR/BERBER",
+    "third": "FÖN",
+    "fourth": "ERKEK/KADIN"
+  },
+  {
+    "id": 1067,
+    "word": "ALFABE",
+    "first": "CÜMLE",
+    "second": "KELİME",
+    "third": "SES",
+    "fourth": "HARF"
+  },
+  {
+    "id": 1068,
+    "word": "GÖZ DOKTORU",
+    "first": "NEZLE",
+    "second": "GÖZLÜK",
+    "third": "DOKTOR",
+    "fourth": "GÖZ"
+  },
+  {
+    "id": 1069,
+    "word": "AMELE",
+    "first": "SIVACI",
+    "second": "İNŞAAT",
+    "third": "İŞÇİ",
+    "fourth": "ÇALIŞMAK"
+  },
+  {
+    "id": 1070,
+    "word": "PAMUK",
+    "first": "KUMAŞ",
+    "second": "YUMUŞAK",
+    "third": "İP",
+    "fourth": "BİTKİ"
+  },
+  {
+    "id": 1071,
+    "word": "PATAVATSIZ",
+    "first": "İNSAN",
+    "second": "GEVEZE",
+    "third": "DENGESİZ",
+    "fourth": "SÖYLEMEK"
+  },
+  {
+    "id": 1072,
+    "word": "DAKTİLO",
+    "first": "METAL",
+    "second": "TUŞ",
+    "third": "ALET",
+    "fourth": "ARAÇ"
+  },
+  {
+    "id": 1073,
+    "word": "YORUMSUZ",
+    "first": "YAPMAK",
+    "second": "GÖRÜŞ",
+    "third": "AÇIKLAMA",
+    "fourth": "TEFSİR"
+  },
+  {
+    "id": 1074,
+    "word": "PİJAMA",
+    "first": "RAHAT",
+    "second": "GECELİK",
+    "third": "EŞOFMAN",
+    "fourth": "UYUMAK"
+  },
+  {
+    "id": 1075,
+    "word": "AKUSTİK",
+    "first": "TİTREŞİM",
+    "second": "GİTAR",
+    "third": "SES",
+    "fourth": "MÜZİK"
+  },
+  {
+    "id": 1076,
+    "word": "FİLİZ",
+    "first": "DAL",
+    "second": "SÜRGÜN",
+    "third": "YAPRAK",
+    "fourth": "BİTKİ"
+  },
+  {
+    "id": 1077,
+    "word": "TOPTANCI",
+    "first": "KOLİ",
+    "second": "TÜCCAR",
+    "third": "DAĞITICI",
+    "fourth": "SATICI"
+  },
+  {
+    "id": 1078,
+    "word": "YAYIK",
+    "first": "TEREYAĞ",
+    "second": "KAP",
+    "third": "ÇALKALAMA",
+    "fourth": "MAKİNE"
+  },
+  {
+    "id": 1079,
+    "word": "KADINBUDU",
+    "first": "İÇLİ",
+    "second": "KÖFTE",
+    "third": "PİRİNÇ",
+    "fourth": "YEMEK"
+  },
+  {
+    "id": 1080,
+    "word": "SAYISAL LOTO",
+    "first": "PARA",
+    "second": "İKRAMİYE",
+    "third": "TALİH KUŞU",
+    "fourth": "ŞANS"
+  },
+  {
+    "id": 1081,
+    "word": "KENAN IŞIK",
+    "first": "SUNUCU",
+    "second": "TİYATRO",
+    "third": "YARIŞMA",
+    "fourth": "ŞİİR"
+  },
+  {
+    "id": 1082,
+    "word": "SIĞ",
+    "first": "YÜZMEK",
+    "second": "DERİN",
+    "third": "KIYI",
+    "fourth": "DENİZ"
+  },
+  {
+    "id": 1083,
+    "word": "TERLİK",
+    "first": "AYAK",
+    "second": "ANNE",
+    "third": "GİYMEK",
+    "fourth": "FIRLATMAK"
+  },
+  {
+    "id": 1084,
+    "word": "YAĞMUR ORMANLARI",
+    "first": "DOĞA",
+    "second": "AĞAÇ",
+    "third": "AMAZON",
+    "fourth": "HAVA"
+  },
+  {
+    "id": 1085,
+    "word": "ÇALMAK",
+    "first": "İZİN",
+    "second": "ARAKLAMAK",
+    "third": "EV",
+    "fourth": "HIRSIZ"
+  },
+  {
+    "id": 1086,
+    "word": "HOROZ",
+    "first": "ÖTME",
+    "second": "KÜMES",
+    "third": "DENİZLİ",
+    "fourth": "TAVUK"
+  },
+  {
+    "id": 1087,
+    "word": "İFADE",
+    "first": "DEYİŞ",
+    "second": "VERMEK",
+    "third": "ANLATIM",
+    "fourth": "ALMAK"
+  },
+  {
+    "id": 1088,
+    "word": "CEVHER",
+    "first": "KEŞFETMEK",
+    "second": "MADEN",
+    "third": "ÇIKARMAK",
+    "fourth": "POTANSİYEL"
+  },
+  {
+    "id": 1089,
+    "word": "ASPARAGAS",
+    "first": "GAZETE",
+    "second": "YALAN",
+    "third": "UYDURMAK",
+    "fourth": "HABER"
+  },
+  {
+    "id": 1090,
+    "word": "ENİŞTE",
+    "first": "HALA",
+    "second": "KARDEŞ",
+    "third": "TEYZE",
+    "fourth": "ABLA"
+  },
+  {
+    "id": 1091,
+    "word": "ŞAMPANYA",
+    "first": "YILBAŞI",
+    "second": "İÇKİ",
+    "third": "PATLATMA",
+    "fourth": "KUTLAMA"
+  },
+  {
+    "id": 1092,
+    "word": "CİHAN",
+    "first": "PADİŞAH",
+    "second": "EVREN",
+    "third": "DÜNYA",
+    "fourth": "ALEM"
+  },
+  {
+    "id": 1093,
+    "word": "REKLAM",
+    "first": "MARKA",
+    "second": "TANITIM",
+    "third": "ÜRÜN",
+    "fourth": "TELEVİZYON"
+  },
+  {
+    "id": 1094,
+    "word": "FEDERASYON",
+    "first": "BİRLEŞME",
+    "second": "KURULUŞ",
+    "third": "ÖRGÜT",
+    "fourth": "FUTBOL"
+  },
+  {
+    "id": 1095,
+    "word": "KURAKLIK",
+    "first": "TARLA",
+    "second": "SUSUZLUK",
+    "third": "YAĞIŞ",
+    "fourth": "YAĞMUR"
+  },
+  {
+    "id": 1096,
+    "word": "SİLMEK",
+    "first": "KURULAMAK",
+    "second": "ISLAK",
+    "third": "BEZ",
+    "fourth": "ALMAK"
+  },
+  {
+    "id": 1097,
+    "word": "KORO",
+    "first": "TRT",
+    "second": "TOPLULUK",
+    "third": "MÜZİK",
+    "fourth": "SES"
+  },
+  {
+    "id": 1098,
+    "word": "TEMSİL",
+    "first": "OYUN",
+    "second": "ETMEK",
+    "third": "ESER",
+    "fourth": "DAVRANMAK"
+  },
+  {
+    "id": 1099,
+    "word": "DÜZ",
+    "first": "SADE",
+    "second": "EĞİK",
+    "third": "DOĞRU",
+    "fourth": "DİK"
+  },
+  {
+    "id": 1100,
+    "word": "SALINCAK",
+    "first": "BEŞİK",
+    "second": "OYUN PARKI",
+    "third": "İP",
+    "fourth": "ÇOCUK"
+  },
+  {
+    "id": 1101,
+    "word": "BİTLENMEK",
+    "first": "SAÇ",
+    "second": "KAŞINMAK",
+    "third": "AYIKLAMAK",
+    "fourth": "PİRE"
+  },
+  {
+    "id": 1102,
+    "word": "FARAZİ",
+    "first": "KONUŞMAK",
+    "second": "VARSAYMAK",
+    "third": "GERÇEK",
+    "fourth": "HAYALİ"
+  },
+  {
+    "id": 1103,
+    "word": "BULAŞIK",
+    "first": "KİRLİ",
+    "second": "DETERJAN",
+    "third": "TABAK",
+    "fourth": "ELDİVEN"
+  },
+  {
+    "id": 81,
+    "word": "MANDAL",
+    "first": "TAKMA",
+    "second": "BALKON",
+    "third": "RENKLİ",
+    "fourth": "ÇAMAŞIR"
+  },
+  {
+    "id": 1104,
+    "word": "KULİS",
+    "first": "POLİTİKACI",
+    "second": "SAHNE ARKASI",
+    "third": "SANATÇI",
+    "fourth": "GİZLİ KONUŞMA"
+  },
+  {
+    "id": 1105,
+    "word": "TUZ RUHU",
+    "first": "TAHRİŞ ETMEK",
+    "second": "KLOR",
+    "third": "TEMİZLEMEK",
+    "fourth": "ASİT"
+  },
+  {
+    "id": 1106,
+    "word": "LUNAPARK",
+    "first": "ALAN",
+    "second": "EĞLENCE",
+    "third": "OYUN",
+    "fourth": "PANAYIR"
+  },
+  {
+    "id": 1107,
+    "word": "KRAMPON",
+    "first": "DİŞ",
+    "second": "FUTBOL",
+    "third": "AYAK",
+    "fourth": "GİYMEK"
+  },
+  {
+    "id": 1108,
+    "word": "ÇEYİZ SANDIĞI",
+    "first": "GÖTÜRMEK",
+    "second": "GELİN",
+    "third": "EŞYA",
+    "fourth": "EVLENMEK"
+  },
+  {
+    "id": 1109,
+    "word": "TEZGAHTAR",
+    "first": "ÜRÜN",
+    "second": "SATICI",
+    "third": "PAZARLAMA",
+    "fourth": "DÜKKAN"
+  },
+  {
+    "id": 1110,
+    "word": "HAL",
+    "first": "PAZAR",
+    "second": "TIR",
+    "third": "SEBZE",
+    "fourth": "SANDIK"
+  },
+  {
+    "id": 1111,
+    "word": "HIÇKIRIK",
+    "first": "SES",
+    "second": "DİYAFRAM",
+    "third": "ÇIKARMAK",
+    "fourth": "HAVA"
+  },
+  {
+    "id": 1112,
+    "word": "TEKNOLOJİ",
+    "first": "SANAYİ",
+    "second": "BİLGİ",
+    "third": "ARAÇ GEREÇ",
+    "fourth": "YÖNTEM"
+  },
+  {
+    "id": 1113,
+    "word": "CÜCE",
+    "first": "GELİŞMEMİŞ",
+    "second": "BOY",
+    "third": "ÇOCUK",
+    "fourth": "KISA"
+  },
+  {
+    "id": 1114,
+    "word": "PELİKAN",
+    "first": "MARKA",
+    "second": "BALIKÇIL",
+    "third": "KESE",
+    "fourth": "GAGA"
+  },
+  {
+    "id": 1115,
+    "word": "MAHŞER",
+    "first": "ÖLÜLER",
+    "second": "KIYAMET",
+    "third": "DİRİLME",
+    "fourth": "TOPLANMA"
+  },
+  {
+    "id": 1116,
+    "word": "CİKLET",
+    "first": "NANE",
+    "second": "SAKIZ",
+    "third": "MENTOL",
+    "fourth": "ÇİĞNEME"
+  },
+  {
+    "id": 1117,
+    "word": "KARA KUTU",
+    "first": "SES KAYDI",
+    "second": "UÇAK",
+    "third": "KAZA",
+    "fourth": "PİLOT"
+  },
+  {
+    "id": 1118,
+    "word": "FOSFOR",
+    "first": "TRAFİK LEVHASI",
+    "second": "PARLAMAK",
+    "third": "BİSİKLET",
+    "fourth": "GECE"
+  },
+  {
+    "id": 1119,
+    "word": "ŞAMPİYON",
+    "first": "YARIŞMACI",
+    "second": "BİRİNCİ",
+    "third": "YARIŞ",
+    "fourth": "KAZANAN"
+  },
+  {
+    "id": 1120,
+    "word": "DAĞCILIK",
+    "first": "ÇIKMAK",
+    "second": "SPOR",
+    "third": "ZİRVE",
+    "fourth": "TIRMANMAK"
+  },
+  {
+    "id": 1121,
+    "word": "BROŞÜR",
+    "first": "ÜRÜN",
+    "second": "REKLAM",
+    "third": "KAPAK",
+    "fourth": "KATALOG"
+  },
+  {
+    "id": 1122,
+    "word": "HANIMELİ",
+    "first": "BİSKÜVİ",
+    "second": "ÇİÇEK",
+    "third": "BEYAZ",
+    "fourth": "SARI"
+  },
+  {
+    "id": 1123,
+    "word": "DİSİPLİN CEZASI",
+    "first": "LİSE",
+    "second": "SUÇ",
+    "third": "UZAKLAŞTIRMA",
+    "fourth": "OKUL"
+  },
+  {
+    "id": 1124,
+    "word": "TANKER",
+    "first": "TOP",
+    "second": "ASKER",
+    "third": "SİLAH",
+    "fourth": "ARAÇ"
+  },
+  {
+    "id": 1125,
+    "word": "ASİSTAN",
+    "first": "ARAŞTIRMA",
+    "second": "YARDIMCI",
+    "third": "GÖREVLİ",
+    "fourth": "ETMEK"
+  },
+  {
+    "id": 1126,
+    "word": "Q KLAVYE",
+    "first": "BASMAK",
+    "second": "BİLGİSAYAR",
+    "third": "TUŞ",
+    "fourth": "YAZMAK"
+  },
+  {
+    "id": 1127,
+    "word": "PROVA",
+    "first": "YAPMAK",
+    "second": "HAZIRLIK",
+    "third": "OYUN",
+    "fourth": "DENEME"
+  },
+  {
+    "id": 1128,
+    "word": "ŞEMSİYE",
+    "first": "RÜZGAR",
+    "second": "YAĞMUR",
+    "third": "KORUMA",
+    "fourth": "GÜNEŞ"
+  },
+  {
+    "id": 1129,
+    "word": "DÜĞÜM",
+    "first": "ATMAK",
+    "second": "İP",
+    "third": "BOĞUM",
+    "fourth": "DOLAMAK"
+  },
+  {
+    "id": 1130,
+    "word": "KORNİŞ",
+    "first": "CAM",
+    "second": "PERDE",
+    "third": "ASMAK",
+    "fourth": "TÜL"
+  },
+  {
+    "id": 1131,
+    "word": "PASTİL",
+    "first": "ÖKSÜRÜK",
+    "second": "BOĞAZ",
+    "third": "EMMEK",
+    "fourth": "İLAÇ"
+  },
+  {
+    "id": 1132,
+    "word": "İŞTAHSIZ",
+    "first": "HASTALIK",
+    "second": "YEMEK",
+    "third": "İSTEKSİZ",
+    "fourth": "İSTEMEMEK"
+  },
+  {
+    "id": 1133,
+    "word": "BARBEKÜ",
+    "first": "KÖFTE",
+    "second": "BAHÇE",
+    "third": "MANGAL",
+    "fourth": "ATEŞ"
+  },
+  {
+    "id": 1134,
+    "word": "ÇARK",
+    "first": "MAKİNE",
+    "second": "DÖNMEK",
+    "third": "PARÇA",
+    "fourth": "ÇEVİRMEK"
+  },
+  {
+    "id": 1135,
+    "word": "UYGULAMA",
+    "first": "YASA",
+    "second": "PRATİK",
+    "third": "YAPMAK",
+    "fourth": "TATBİK"
+  },
+  {
+    "id": 1136,
+    "word": "BORAZAN",
+    "first": "BANDO",
+    "second": "ÇALGI",
+    "third": "SES",
+    "fourth": "ÜFLEMEK"
+  },
+  {
+    "id": 1137,
+    "word": "BALIK",
+    "first": "FIRIN",
+    "second": "TAVA",
+    "third": "ROKA",
+    "fourth": "HELVA"
+  },
+  {
+    "id": 1138,
+    "word": "SAFKAN",
+    "first": "ÖZELLİK",
+    "second": "AT",
+    "third": "IRK",
+    "fourth": "CİNS"
+  },
+  {
+    "id": 1139,
+    "word": "TARTI",
+    "first": "ÖLÇMEK",
+    "second": "ORAN",
+    "third": "KARAR",
+    "fourth": "ÖLÇÜ"
+  },
+  {
+    "id": 1140,
+    "word": "HAYKIRMAK",
+    "first": "ACI",
+    "second": "BAĞIRMAK",
+    "third": "YÜKSEK",
+    "fourth": "SES"
+  },
+  {
+    "id": 1141,
+    "word": "ÇAY",
+    "first": "KAHVE",
+    "second": "DEMLEMEK",
+    "third": "MEŞRUBAT",
+    "fourth": "İÇMEK"
+  },
+  {
+    "id": 1142,
+    "word": "EDAT",
+    "first": "ANLAMSIZ",
+    "second": "TÜMLEÇ",
+    "third": "DİL",
+    "fourth": "GRUP"
+  },
+  {
+    "id": 1143,
+    "word": "KAPALI ÇARŞI",
+    "first": "İSTANBUL",
+    "second": "EMİNÖNÜ",
+    "third": "VAPUR",
+    "fourth": "MISIR"
+  },
+  {
+    "id": 1144,
+    "word": "KUYTU",
+    "first": "ISSIZ",
+    "second": "KÖŞE",
+    "third": "GİZLİ",
+    "fourth": "SAKLI"
+  },
+  {
+    "id": 1145,
+    "word": "BALIKLAMA",
+    "first": "ÇİVİLEME",
+    "second": "ATLAMAK",
+    "third": "DENİZ",
+    "fourth": "YÜZMEK"
+  },
+  {
+    "id": 1146,
+    "word": "ŞEHRİYE ÇORBASI",
+    "first": "TAVUK SUYU",
+    "second": "TEL",
+    "third": "SICAK",
+    "fourth": "ARPA"
+  },
+  {
+    "id": 1147,
+    "word": "DİŞ MACUNU",
+    "first": "YEMEK",
+    "second": "FIRÇALAMAK",
+    "third": "TEMİZLEMEK",
+    "fourth": "AĞIZ"
+  },
+  {
+    "id": 1148,
+    "word": "NEFER",
+    "first": "KİŞİ",
+    "second": "ERKEK",
+    "third": "ADAM",
+    "fourth": "KİMSE"
+  },
+  {
+    "id": 1149,
+    "word": "DÜĞME",
+    "first": "KAPAMA",
+    "second": "İLİK",
+    "third": "AÇMA",
+    "fourth": "CEKET"
+  },
+  {
+    "id": 1150,
+    "word": "NANE",
+    "first": "KURU",
+    "second": "BİTKİ",
+    "third": "YEMEK",
+    "fourth": "KOKU"
+  },
+  {
+    "id": 1151,
+    "word": "BAYRAM",
+    "first": "RAMAZAN",
+    "second": "ŞEKER",
+    "third": "KOLONYA",
+    "fourth": "MİSAFİR"
+  },
+  {
+    "id": 1152,
+    "word": "TÜFEK",
+    "first": "POMPALI",
+    "second": "ATEŞ",
+    "third": "AV",
+    "fourth": "SİLAH"
+  },
+  {
+    "id": 1153,
+    "word": "DİLİ TUTULMAK",
+    "first": "KONUŞMAK",
+    "second": "SEVİNÇ",
+    "third": "HEYECAN",
+    "fourth": "KORKU"
+  },
+  {
+    "id": 1154,
+    "word": "KİMYON",
+    "first": "NANE",
+    "second": "BAHARAT",
+    "third": "KARABİBER",
+    "fourth": "KÖFTE"
+  },
+  {
+    "id": 1155,
+    "word": "BESTE",
+    "first": "ŞARKI",
+    "second": "MÜZİK",
+    "third": "ÇALMAK",
+    "fourth": "EZGİ"
+  },
+  {
+    "id": 1156,
+    "word": "MONOTON",
+    "first": "YAŞAMAK",
+    "second": "AYNI",
+    "third": "DEVAMLI",
+    "fourth": "HER ZAMAN"
+  },
+  {
+    "id": 1157,
+    "word": "ÇİKOLATA",
+    "first": "BİTTER",
+    "second": "KAKAO",
+    "third": "SÜT",
+    "fourth": "ŞEKER"
+  },
+  {
+    "id": 1158,
+    "word": "HEDİYE KUTUSU",
+    "first": "DOĞUM GÜNÜ",
+    "second": "ARMAĞAN",
+    "third": "SÜPRİZ",
+    "fourth": "PAKET"
+  },
+  {
+    "id": 1159,
+    "word": "İNFAZ",
+    "first": "ÖLDÜRMEK",
+    "second": "ASMAK",
+    "third": "SUÇLU",
+    "fourth": "MAHKEME"
+  },
+  {
+    "id": 1160,
+    "word": "DİPLOMASİ",
+    "first": "TEMSİL",
+    "second": "ANTLAŞMA",
+    "third": "ÜLKE",
+    "fourth": "İLİŞKİ"
+  },
+  {
+    "id": 1161,
+    "word": "ÇİMEN",
+    "first": "SAHA",
+    "second": "YEŞİL",
+    "third": "OTURMAK",
+    "fourth": "PARK"
+  },
+  {
+    "id": 1162,
+    "word": "SİRKE",
+    "first": "KESKİN",
+    "second": "ÜZÜM",
+    "third": "YAĞ",
+    "fourth": "ELMA"
+  },
+  {
+    "id": 1163,
+    "word": "VAMPİR",
+    "first": "DRAKULA",
+    "second": "KAN",
+    "third": "SALDIRMAK",
+    "fourth": "EMMEK"
+  },
+  {
+    "id": 1164,
+    "word": "ORTALAMA",
+    "first": "BÖLMEK",
+    "second": "EŞİT",
+    "third": "MİKTAR",
+    "fourth": "AYNI"
+  },
+  {
+    "id": 1165,
+    "word": "KELİME",
+    "first": "ANLAM",
+    "second": "SÖZCÜK",
+    "third": "SES",
+    "fourth": "KONUŞMAK"
+  },
+  {
+    "id": 1166,
+    "word": "MESANE",
+    "first": "VÜCUT",
+    "second": "İDRAR",
+    "third": "BORU",
+    "fourth": "BÖBREK"
+  },
+  {
+    "id": 1167,
+    "word": "ETER",
+    "first": "KOKU",
+    "second": "UÇUCU",
+    "third": "ALKOL",
+    "fourth": "BAYGINLIK"
+  },
+  {
+    "id": 1168,
+    "word": "YENİÇERİ",
+    "first": "ASKER",
+    "second": "OCAK",
+    "third": "SAVAŞ",
+    "fourth": "OSMANLI"
+  },
+  {
+    "id": 1169,
+    "word": "DAĞINIK",
+    "first": "DÜZENSİZ",
+    "second": "GENİŞ",
+    "third": "YAYILMAK",
+    "fourth": "BAĞLANTISIZ"
+  },
+  {
+    "id": 1170,
+    "word": "MIZMIZ",
+    "first": "BEBEK",
+    "second": "AĞLAK",
+    "third": "GICIK",
+    "fourth": "YORUCU"
+  },
+  {
+    "id": 1171,
+    "word": "HAYAL KURMAK",
+    "first": "CANLANDIRMAK",
+    "second": "İSTEMEK",
+    "third": "ZİHİN",
+    "fourth": "DÜŞÜNMEK"
+  },
+  {
+    "id": 1172,
+    "word": "KARNIYARIK",
+    "first": "DOLDURMAK",
+    "second": "PATLICAN",
+    "third": "YEMEK",
+    "fourth": "KIYMA"
+  },
+  {
+    "id": 1173,
+    "word": "SU ÇİÇEĞİ",
+    "first": "BENEK",
+    "second": "HASTALIK",
+    "third": "YAĞMUR",
+    "fourth": "ÇOCUK"
+  },
+  {
+    "id": 1174,
+    "word": "TELEVİZYON",
+    "first": "EKRAN",
+    "second": "MONİTÖR",
+    "third": "KANAL",
+    "fourth": "KUMANDA"
+  },
+  {
+    "id": 1175,
+    "word": "TAŞ PLAK",
+    "first": "ESKİ",
+    "second": "CD",
+    "third": "GRAMAFON",
+    "fourth": "ÇALMAK"
+  },
+  {
+    "id": 1176,
+    "word": "NASİP",
+    "first": "TALİH",
+    "second": "PAY",
+    "third": "KISMET",
+    "fourth": "DÜŞMEK"
+  },
+  {
+    "id": 1177,
+    "word": "CAMBAZ",
+    "first": "TEHLİKE",
+    "second": "DENGE",
+    "third": "AKROBAT",
+    "fourth": "İP"
+  },
+  {
+    "id": 1178,
+    "word": "ÖKSÜRÜK",
+    "first": "HASTALIK",
+    "second": "BOĞAZ",
+    "third": "NEZLE",
+    "fourth": "BALGAM"
+  },
+  {
+    "id": 1179,
+    "word": "BAMBU",
+    "first": "BİTKİ",
+    "second": "KAMIŞ",
+    "third": "UZUN",
+    "fourth": "SICAK"
+  },
+  {
+    "id": 1180,
+    "word": "CEYLAN",
+    "first": "GÜZEL GÖZ",
+    "second": "KARACA",
+    "third": "AHU",
+    "fourth": "GAZAL"
+  },
+  {
+    "id": 1181,
+    "word": "HURDA",
+    "first": "ARABA",
+    "second": "DEMİR",
+    "third": "PAS",
+    "fourth": "ESKİ"
+  },
+  {
+    "id": 1182,
+    "word": "ŞİKE",
+    "first": "SPOR",
+    "second": "YAPMAK",
+    "third": "ÇIKAR",
+    "fourth": "ANLAŞMA"
+  },
+  {
+    "id": 1183,
+    "word": "BEŞİK",
+    "first": "UYUMAK",
+    "second": "SALLAMAK",
+    "third": "UYUTMAK",
+    "fourth": "BEBEK"
+  },
+  {
+    "id": 1184,
+    "word": "HIRKA",
+    "first": "DÜĞMELİ",
+    "second": "GİYMEK",
+    "third": "KOLLU",
+    "fourth": "KIŞ"
+  },
+  {
+    "id": 1185,
+    "word": "GANYAN",
+    "first": "BİLET",
+    "second": "BAYİ",
+    "third": "YARIŞ",
+    "fourth": "AT"
+  },
+  {
+    "id": 1186,
+    "word": "TARİH",
+    "first": "OLAYLAR",
+    "second": "GEÇMİŞ",
+    "third": "YIL",
+    "fourth": "ZAMAN"
+  },
+  {
+    "id": 1187,
+    "word": "EBEVEYN",
+    "first": "AİLE",
+    "second": "ANNE",
+    "third": "BÜYÜKLER",
+    "fourth": "BABA"
+  },
+  {
+    "id": 1188,
+    "word": "ANNE SÜTÜ",
+    "first": "DOĞMAK",
+    "second": "BEBEK",
+    "third": "EMZİRMEK",
+    "fourth": "KARDEŞ"
+  },
+  {
+    "id": 1189,
+    "word": "ÖRMEK",
+    "first": "YÜN",
+    "second": "TEL",
+    "third": "ŞİŞ",
+    "fourth": "DANTEL"
+  },
+  {
+    "id": 1190,
+    "word": "ZENCEFİL",
+    "first": "TOZ",
+    "second": "HASTALIK",
+    "third": "BOĞAZ",
+    "fourth": "YEŞİL"
+  },
+  {
+    "id": 1191,
+    "word": "İŞTAH",
+    "first": "AÇLIK",
+    "second": "YEMEK",
+    "third": "ARZU",
+    "fourth": "İSTEK"
+  },
+  {
+    "id": 1192,
+    "word": "AYVALIK TOSTU",
+    "first": "BALIKESİR",
+    "second": "EKMEK",
+    "third": "ŞARKÜTERİ",
+    "fourth": "TATİL"
+  },
+  {
+    "id": 1193,
+    "word": "PENÇE",
+    "first": "HAYVAN",
+    "second": "TIRNAK",
+    "third": "PARMAK",
+    "fourth": "AYAK"
+  },
+  {
+    "id": 1194,
+    "word": "KÜL TABLASI",
+    "first": "ÇÖP",
+    "second": "SİGARA",
+    "third": "KÜL",
+    "fourth": "DUMAN"
+  },
+  {
+    "id": 1195,
+    "word": "AŞK",
+    "first": "SEVMEK",
+    "second": "SEVGİLİ",
+    "third": "FLÖRT",
+    "fourth": "HİS"
+  },
+  {
+    "id": 1196,
+    "word": "ASMA",
+    "first": "ASILI",
+    "second": "ÜZÜM",
+    "third": "BAĞ",
+    "fourth": "BİTKİ"
+  },
+  {
+    "id": 1197,
+    "word": "YATIYA KALMAK",
+    "first": "UYUMAK",
+    "second": "MİSAFİR",
+    "third": "YATMAK",
+    "fourth": "GECELEMEK"
+  },
+  {
+    "id": 1198,
+    "word": "SÜPER TOTO",
+    "first": "YARIŞMA",
+    "second": "PARA",
+    "third": "OYUN",
+    "fourth": "TOP"
+  },
+  {
+    "id": 1199,
+    "word": "BARBIE",
+    "first": "BEBEK",
+    "second": "OYUNCAK",
+    "third": "SÜS",
+    "fourth": "KIZ"
+  },
+  {
+    "id": 1200,
+    "word": "KURULAMA",
+    "first": "BANYO",
+    "second": "ISLAK",
+    "third": "SİLME",
+    "fourth": "HAVLU"
+  },
+  {
+    "id": 1201,
+    "word": "AVOKADO",
+    "first": "ARMUT",
+    "second": "MEYVE",
+    "third": "YEŞİL",
+    "fourth": "TROPİK"
+  },
+  {
+    "id": 1202,
+    "word": "GRANİT",
+    "first": "AFYON",
+    "second": "MERMER",
+    "third": "TAŞ",
+    "fourth": "SERT"
+  },
+  {
+    "id": 1203,
+    "word": "PATİK",
+    "first": "DERİ",
+    "second": "AYAKKABI",
+    "third": "ÖRGÜ",
+    "fourth": "İNCE"
+  },
+  {
+    "id": 1204,
+    "word": "BEŞ PARMAK",
+    "first": "DAYAK",
+    "second": "EL",
+    "third": "ŞAPLAK",
+    "fourth": "TOKAT"
+  },
+  {
+    "id": 1205,
+    "word": "GONDOL",
+    "first": "SALINCAK",
+    "second": "VENEDİK",
+    "third": "KAMİKAZE",
+    "fourth": "LUNAPARK"
+  },
+  {
+    "id": 1206,
+    "word": "MAKSİMUM",
+    "first": "DERECE",
+    "second": "MİNİMUM",
+    "third": "TEPE",
+    "fourth": "ZİRVE"
+  },
+  {
+    "id": 1207,
+    "word": "SATRANÇ",
+    "first": "VEZİR",
+    "second": "FIL",
+    "third": "ŞAH MAT",
+    "fourth": "KALE"
+  },
+  {
+    "id": 1208,
+    "word": "DİZGİNLEMEK",
+    "first": "DUYGU",
+    "second": "FRENLEMEK",
+    "third": "ELE ALMAK",
+    "fourth": "ENGELLEMEK"
+  },
+  {
+    "id": 1209,
+    "word": "BATERİST",
+    "first": "MÜZİK",
+    "second": "ÇALMAK",
+    "third": "BAGET",
+    "fourth": "VURMAK"
+  },
+  {
+    "id": 1210,
+    "word": "SANDVİÇ",
+    "first": "ACIKMAK",
+    "second": "PEYNİR",
+    "third": "YEMEK",
+    "fourth": "DOMATES"
+  },
+  {
+    "id": 1211,
+    "word": "ROK",
+    "first": "ŞAH",
+    "second": "SATRANÇ",
+    "third": "KALE",
+    "fourth": "TAŞ DEĞİŞTİRME"
+  },
+  {
+    "id": 1212,
+    "word": "RUH İKİZİ",
+    "first": "BULMAK",
+    "second": "EŞ",
+    "third": "TAMAMLAMAK",
+    "fourth": "BENZER"
+  },
+  {
+    "id": 1213,
+    "word": "KIRMIZI GÜL",
+    "first": "AŞK",
+    "second": "SEVGİ",
+    "third": "ÇİÇEK",
+    "fourth": "YILDÖNÜMÜ"
+  },
+  {
+    "id": 1214,
+    "word": "ÇAPULCU",
+    "first": "ALMAK",
+    "second": "YAĞMA",
+    "third": "ÇALMAK",
+    "fourth": "PARASIZ"
+  },
+  {
+    "id": 1215,
+    "word": "MOTTO",
+    "first": "VECİZE",
+    "second": "AMAÇ",
+    "third": "SLOGAN",
+    "fourth": "SÖZ"
+  },
+  {
+    "id": 1216,
+    "word": "YARGIÇ",
+    "first": "SUÇ",
+    "second": "MAHKEME",
+    "third": "KARAR",
+    "fourth": "HAKİM"
+  },
+  {
+    "id": 1217,
+    "word": "KÜNEFE",
+    "first": "PEYNİR",
+    "second": "KADAYIF",
+    "third": "TATLI",
+    "fourth": "KAYMAK"
+  },
+  {
+    "id": 1218,
+    "word": "KARA DELİK",
+    "first": "ÇEKİM",
+    "second": "UZAY",
+    "third": "GÖKYÜZÜ",
+    "fourth": "FİZİK"
+  },
+  {
+    "id": 1219,
+    "word": "SAPITMAK",
+    "first": "AKIL",
+    "second": "RUHSAL",
+    "third": "SAÇMALAMAK",
+    "fourth": "DENGESİZLİK"
+  },
+  {
+    "id": 1220,
+    "word": "BAKLA",
+    "first": "BEZELYE",
+    "second": "FASULYE",
+    "third": "YEŞİL",
+    "fourth": "SEBZE"
+  },
+  {
+    "id": 1221,
+    "word": "TAKIM",
+    "first": "FENERBAHÇE",
+    "second": "BEŞİKTAŞ",
+    "third": "EKİPMAN",
+    "fourth": "MESLEK"
+  },
+  {
+    "id": 1222,
+    "word": "JETSKİ",
+    "first": "SÜRMEK",
+    "second": "DENİZ",
+    "third": "MOTOR",
+    "fourth": "BİNMEK"
+  },
+  {
+    "id": 1223,
+    "word": "PAPATYA FALI",
+    "first": "ÇİÇEK",
+    "second": "SEVMEK",
+    "third": "KOPARMAK",
+    "fourth": "YAPRAK"
+  },
+  {
+    "id": 1224,
+    "word": "DEMİRYOLU",
+    "first": "TAŞIMA",
+    "second": "RAY",
+    "third": "ULAŞIM",
+    "fourth": "TREN"
+  },
+  {
+    "id": 1225,
+    "word": "UĞUR BÖCEĞİ",
+    "first": "BENEK",
+    "second": "HAYVAN",
+    "third": "UÇMAK",
+    "fourth": "KIRMIZI"
+  },
+  {
+    "id": 1226,
+    "word": "ANEKTOD",
+    "first": "NOT",
+    "second": "FIKRA",
+    "third": "YAZMAK",
+    "fourth": "MAKALE"
+  },
+  {
+    "id": 1227,
+    "word": "FOLİK ASİT",
+    "first": "B12",
+    "second": "B",
+    "third": "KANSIZLIK",
+    "fourth": "VİTAMİN"
+  },
+  {
+    "id": 1228,
+    "word": "ANTİFRİZ",
+    "first": "KIŞ",
+    "second": "MOTOR",
+    "third": "DONMAK",
+    "fourth": "ÖNLEMEK"
+  },
+  {
+    "id": 1229,
+    "word": "TARAMAK",
+    "first": "ATEŞLEMEK",
+    "second": "SAÇ",
+    "third": "DERLEMEK",
+    "fourth": "ARAŞTIRMAK"
+  },
+  {
+    "id": 1230,
+    "word": "TÜP BEBEK",
+    "first": "KISIR",
+    "second": "HAMİLE",
+    "third": "DOĞUM",
+    "fourth": "DOKTOR"
+  },
+  {
+    "id": 1231,
+    "word": "STOK",
+    "first": "YIĞMA",
+    "second": "MAL",
+    "third": "İSTİF",
+    "fourth": "ÇOK"
+  },
+  {
+    "id": 1232,
+    "word": "POSTER",
+    "first": "DUVAR",
+    "second": "RESİM",
+    "third": "PANO",
+    "fourth": "BİLDİRİ"
+  },
+  {
+    "id": 1233,
+    "word": "MAYIN",
+    "first": "BASMAK",
+    "second": "PATLAMA",
+    "third": "SAVAŞ",
+    "fourth": "TERÖRİST"
+  },
+  {
+    "id": 1234,
+    "word": "MODEM",
+    "first": "İNTERNET",
+    "second": "ADSL",
+    "third": "KABLOSUZ",
+    "fourth": "FAX"
+  },
+  {
+    "id": 1235,
+    "word": "POLEMİK",
+    "first": "ÜNLÜ",
+    "second": "GİRMEK",
+    "third": "POLİTİKA",
+    "fourth": "KAVGA"
+  },
+  {
+    "id": 1236,
+    "word": "TETİK ÇEKME",
+    "first": "PATLAMA",
+    "second": "ATEŞ ETME",
+    "third": "KURŞUN",
+    "fourth": "SİLAH"
+  },
+  {
+    "id": 1237,
+    "word": "APOLET",
+    "first": "SÜS",
+    "second": "OMUZ",
+    "third": "ÜNİFORMA",
+    "fourth": "RÜTBE"
+  },
+  {
+    "id": 1238,
+    "word": "ANTİOKSİDAN",
+    "first": "ETKİ",
+    "second": "TOKSİN",
+    "third": "KİMYASAL",
+    "fourth": "ATMAK"
+  },
+  {
+    "id": 1239,
+    "word": "HUMUS",
+    "first": "EZME",
+    "second": "MEZE",
+    "third": "NOHUT",
+    "fourth": "YEMEK"
+  },
+  {
+    "id": 1240,
+    "word": "KARTAL",
+    "first": "KUŞ",
+    "second": "BEŞİKTAŞ",
+    "third": "KAFES",
+    "fourth": "YIRTICI"
+  },
+  {
+    "id": 1241,
+    "word": "BETONARME",
+    "first": "DAYANIKLI",
+    "second": "YAPI",
+    "third": "ÇİMENTO",
+    "fourth": "METAL"
+  },
+  {
+    "id": 1242,
+    "word": "KÖSE",
+    "first": "TÜY",
+    "second": "BIYIK",
+    "third": "ERKEK",
+    "fourth": "SAKAL"
+  },
+  {
+    "id": 1243,
+    "word": "DEPLASMAN",
+    "first": "DEĞİŞTİRMEK",
+    "second": "RAKİP",
+    "third": "YER",
+    "fourth": "GİTMEK"
+  },
+  {
+    "id": 1244,
+    "word": "TIMAR",
+    "first": "DERİ",
+    "second": "HAYVAN",
+    "third": "TEMİZLEMEK",
+    "fourth": "KIL"
+  },
+  {
+    "id": 1245,
+    "word": "SOMUN",
+    "first": "DEMİR",
+    "second": "EKMEK",
+    "third": "CİVATA",
+    "fourth": "YUVARLAK"
+  },
+  {
+    "id": 1246,
+    "word": "MİKROSKOP",
+    "first": "BÜYÜTEÇ",
+    "second": "İNCELEMEK",
+    "third": "YAKINLAŞTIRMAK",
+    "fourth": "HÜCRE"
+  },
+  {
+    "id": 1247,
+    "word": "HACİZ",
+    "first": "EL KOYMAK",
+    "second": "BORÇ",
+    "third": "MAL",
+    "fourth": "PARA"
+  },
+  {
+    "id": 1248,
+    "word": "RÖGAR",
+    "first": "YOL",
+    "second": "KAPAK",
+    "third": "GİDER",
+    "fourth": "SU"
+  },
+  {
+    "id": 1249,
+    "word": "ALLIK",
+    "first": "FIRÇA",
+    "second": "YANAK",
+    "third": "KIRMIZI",
+    "fourth": "SÜRMEK"
+  },
+  {
+    "id": 1250,
+    "word": "TAŞ KESİLMEK",
+    "first": "KORKU",
+    "second": "DONMAK",
+    "third": "TOPRAK",
+    "fourth": "KIPIRDAMAK"
+  },
+  {
+    "id": 1251,
+    "word": "MANEVRA",
+    "first": "PARK ETMEK",
+    "second": "HAREKET",
+    "third": "ARABA",
+    "fourth": "YAPMAK"
+  },
+  {
+    "id": 1252,
+    "word": "SANAT",
+    "first": "ANLATIM",
+    "second": "YARATICILIK",
+    "third": "GÜZELLİK",
+    "fourth": "TASARI"
+  },
+  {
+    "id": 1253,
+    "word": "TUVALET KAĞIDI",
+    "first": "RULO",
+    "second": "SİLMEK",
+    "third": "WC",
+    "fourth": "TEMİZLEMEK"
+  },
+  {
+    "id": 1254,
+    "word": "TİŞÖRT",
+    "first": "PAMUKLU",
+    "second": "GİYSİ",
+    "third": "KISA KOLLU",
+    "fourth": "SPOR"
+  },
+  {
+    "id": 1255,
+    "word": "MANA",
+    "first": "ÇIKARMAK",
+    "second": "ANLAM",
+    "third": "ANLATMAK",
+    "fourth": "RUH"
+  },
+  {
+    "id": 1256,
+    "word": "KOPYA ÇEKMEK",
+    "first": "YAZILI",
+    "second": "SINAV",
+    "third": "SORU",
+    "fourth": "BAKMAK"
+  },
+  {
+    "id": 1257,
+    "word": "ACENTA",
+    "first": "SİGORTA",
+    "second": "KURUM",
+    "third": "İŞ",
+    "fourth": "TİCARİ"
+  },
+  {
+    "id": 1258,
+    "word": "DİBE VURMAK",
+    "first": "BETER",
+    "second": "KÖTÜ",
+    "third": "DÜŞMEK",
+    "fourth": "DURUM"
+  },
+  {
+    "id": 1259,
+    "word": "ÖZÜMSEMEK",
+    "first": "GETİRMEK",
+    "second": "BENİMSEMEK",
+    "third": "TEMSİL ETMEK",
+    "fourth": "SİNDİRMEK"
+  },
+  {
+    "id": 1260,
+    "word": "VENEDİK",
+    "first": "İTALYA",
+    "second": "GONDOL",
+    "third": "SU",
+    "fourth": "ÜLKE"
+  },
+  {
+    "id": 1261,
+    "word": "TARAFTAR",
+    "first": "BAĞLI",
+    "second": "YANDAŞ",
+    "third": "DESTEK",
+    "fourth": "SPOR"
+  },
+  {
+    "id": 1262,
+    "word": "KASAP",
+    "first": "ET",
+    "second": "YEMEK",
+    "third": "YİYECEK",
+    "fourth": "KURBAN"
+  },
+  {
+    "id": 1263,
+    "word": "MED CEZİR",
+    "first": "YÜKSELME",
+    "second": "GELGİT",
+    "third": "ALÇALMA",
+    "fourth": "ÇAĞATAY ULUSOY"
+  },
+  {
+    "id": 1264,
+    "word": "NALBUR",
+    "first": "SATMAK",
+    "second": "AT",
+    "third": "ÇİVİ",
+    "fourth": "NAL"
+  },
+  {
+    "id": 1265,
+    "word": "EDİTÖR",
+    "first": "SAYFA",
+    "second": "GAZETE",
+    "third": "YAZI",
+    "fourth": "DERGİ"
+  },
+  {
+    "id": 1266,
+    "word": "SİNEMA",
+    "first": "BİLET",
+    "second": "BAHŞİŞ",
+    "third": "FİLM",
+    "fourth": "KARANLIK"
+  },
+  {
+    "id": 1267,
+    "word": "USAIN BOLT",
+    "first": "HIZLI",
+    "second": "REKOR",
+    "third": "KOŞU",
+    "fourth": "100 METRE"
+  },
+  {
+    "id": 1268,
+    "word": "SAHTE",
+    "first": "ORJİNAL",
+    "second": "BENZETMEK",
+    "third": "ÇAKMA",
+    "fourth": "DÜZMECE"
+  },
+  {
+    "id": 1269,
+    "word": "TESLİMAT",
+    "first": "MEKTUP",
+    "second": "POSTA",
+    "third": "GÖNDERMEK",
+    "fourth": "KARGO"
+  },
+  {
+    "id": 1270,
+    "word": "KAYINÇO",
+    "first": "ERKEK KARDEŞ",
+    "second": "BALDIZ",
+    "third": "EŞ",
+    "fourth": "GELİN"
+  },
+  {
+    "id": 1271,
+    "word": "EVLİLİK",
+    "first": "NİKAH",
+    "second": "DÜĞÜN",
+    "third": "HALAY",
+    "fourth": "GELİNLİK"
+  },
+  {
+    "id": 1272,
+    "word": "GAMA",
+    "first": "IŞIN",
+    "second": "FİZİK",
+    "third": "BİLİM",
+    "fourth": "FEN"
+  },
+  {
+    "id": 1273,
+    "word": "DOĞUM LEKESİ",
+    "first": "İZ",
+    "second": "BEBEK",
+    "third": "CİLT",
+    "fourth": "DOĞUM"
+  },
+  {
+    "id": 1274,
+    "word": "EKVATOR",
+    "first": "İKLİM",
+    "second": "DÜNYA",
+    "third": "SICAK",
+    "fourth": "ORTA"
+  },
+  {
+    "id": 1275,
+    "word": "BEYOĞLU",
+    "first": "PERA",
+    "second": "İSTANBUL",
+    "third": "İSTİKLAL",
+    "fourth": "TAKSİM"
+  },
+  {
+    "id": 1276,
+    "word": "SOĞUK",
+    "first": "DÜŞÜK",
+    "second": "HAVA",
+    "third": "ISI",
+    "fourth": "SICAK"
+  },
+  {
+    "id": 1277,
+    "word": "MUTFAK",
+    "first": "OCAK",
+    "second": "YEMEK",
+    "third": "ÇAYDANLIK",
+    "fourth": "TENCERE"
+  },
+  {
+    "id": 1278,
+    "word": "NOEL",
+    "first": "1 OCAK",
+    "second": "BABA",
+    "third": "HRİSTİYAN",
+    "fourth": "YILBAŞI"
+  },
+  {
+    "id": 1279,
+    "word": "RADYOTERAPİ",
+    "first": "KANSER",
+    "second": "X",
+    "third": "TEDAVİ",
+    "fourth": "IŞIN"
+  },
+  {
+    "id": 1280,
+    "word": "DIŞ TİCARET",
+    "first": "İTHALAT",
+    "second": "İHRACAT",
+    "third": "YABANCI",
+    "fourth": "SATMAK"
+  },
+  {
+    "id": 1281,
+    "word": "KÖZ",
+    "first": "MANGAL",
+    "second": "ATEŞ",
+    "third": "KOR",
+    "fourth": "YANMAK"
+  },
+  {
+    "id": 1282,
+    "word": "BUSE",
+    "first": "KIZ",
+    "second": "ÖPÜCÜK",
+    "third": "İSİM",
+    "fourth": "VEDA"
+  },
+  {
+    "id": 1283,
+    "word": "GÖLET",
+    "first": "YAPAY",
+    "second": "BİRİKİNTİ",
+    "third": "SU",
+    "fourth": "SET"
+  },
+  {
+    "id": 1284,
+    "word": "RUHSUZ",
+    "first": "ÖLÜ",
+    "second": "CANSIZ",
+    "third": "MİSKİN",
+    "fourth": "GÜÇSÜZ"
+  },
+  {
+    "id": 1285,
+    "word": "BÜZME",
+    "first": "ÇEKME",
+    "second": "TORBA",
+    "third": "İP",
+    "fourth": "KESE"
+  },
+  {
+    "id": 1286,
+    "word": "MİZAÇ",
+    "first": "KARAKTER",
+    "second": "HUY",
+    "third": "TABİAT",
+    "fourth": "YARADILIŞ"
+  },
+  {
+    "id": 1287,
+    "word": "AYAK PARMAĞI",
+    "first": "NASIR",
+    "second": "PEDİKÜR",
+    "third": "KOKU",
+    "fourth": "TIRNAK"
+  },
+  {
+    "id": 768,
+    "word": "HİTLER",
+    "first": "ALMANYA",
+    "second": "DİKTATÖR",
+    "third": "2.DÜNYA SAVAŞI",
+    "fourth": "STALİN"
+  }
+]

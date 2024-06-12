@@ -1,0 +1,842 @@
+[
+  {
+    "first": "red",
+    "second": "temperature",
+    "third": "thermometer",
+    "fourth": "poison",
+    "word": "mercury",
+    "id": 893
+  },
+  {
+    "first": "hair",
+    "second": "edge",
+    "third": "blade",
+    "fourth": "burn",
+    "word": "razor",
+    "id": 894
+  },
+  {
+    "first": "porn",
+    "second": "sex",
+    "third": "models",
+    "fourth": "nude",
+    "word": "Playboy",
+    "id": 895
+  },
+  {
+    "first": "cold",
+    "second": "farenheit",
+    "third": "degrees",
+    "fourth": "hot",
+    "word": "temperature",
+    "id": 897
+  },
+  {
+    "first": "Popeye",
+    "second": "lettuce",
+    "third": "vegetable",
+    "fourth": "baby",
+    "word": "spinach",
+    "id": 898
+  },
+  {
+    "first": "husband",
+    "second": "wife",
+    "third": "spouse",
+    "fourth": "separation",
+    "word": "divorce",
+    "id": 899
+  },
+  {
+    "first": "ivory",
+    "second": "antlers",
+    "third": "walrus",
+    "fourth": "long",
+    "word": "tusks",
+    "id": 900
+  },
+  {
+    "first": "watercolors",
+    "second": "coating",
+    "third": "Microsoft",
+    "fourth": "wall",
+    "word": "paint",
+    "id": 901
+  },
+  {
+    "first": "park",
+    "second": "latch",
+    "third": "lead",
+    "fourth": "pet",
+    "word": "leash",
+    "id": 902
+  },
+  {
+    "first": "tornado",
+    "second": "weather",
+    "third": "wind",
+    "fourth": "lightning",
+    "word": "storm",
+    "id": 903
+  },
+  {
+    "first": "ditch",
+    "second": "defense",
+    "third": "water",
+    "fourth": "surrounding",
+    "word": "moat",
+    "id": 904
+  },
+  {
+    "first": "phone",
+    "second": "fruit",
+    "third": "yellow",
+    "fourth": "monkey",
+    "word": "banana",
+    "id": 905
+  },
+  {
+    "first": "Tylenol",
+    "second": "Advil",
+    "third": "ache",
+    "fourth": "pain",
+    "word": "headache",
+    "id": 906
+  },
+  {
+    "first": "premeditated",
+    "second": "blood",
+    "third": "manslaughter",
+    "fourth": "crime",
+    "word": "murder",
+    "id": 907
+  },
+  {
+    "first": "upset",
+    "second": "nervous",
+    "third": "hungry",
+    "fourth": "vomit",
+    "word": "stomach",
+    "id": 908
+  },
+  {
+    "first": "sleep",
+    "second": "stay",
+    "third": "night",
+    "fourth": "room",
+    "word": "hotel",
+    "id": 909
+  },
+  {
+    "first": "clean",
+    "second": "doctor",
+    "third": "teeth",
+    "fourth": "cavity",
+    "word": "dentist",
+    "id": 910
+  },
+  {
+    "first": "vermouth",
+    "second": "martini",
+    "third": "alcohol",
+    "fourth": "tonic",
+    "word": "gin",
+    "id": 911
+  },
+  {
+    "first": "blossom",
+    "second": "boquet",
+    "third": "florist",
+    "fourth": "colors",
+    "word": "flowers",
+    "id": 912
+  },
+  {
+    "first": "program",
+    "second": "show",
+    "third": "screen",
+    "fourth": "broadcaster",
+    "word": "television",
+    "id": 913
+  },
+  {
+    "first": "George Bush",
+    "second": "Tigris",
+    "third": "Iran",
+    "fourth": "war",
+    "word": "Iraq",
+    "id": 914
+  },
+  {
+    "first": "Artic",
+    "second": "Alaska",
+    "third": "Titanic",
+    "fourth": "ice",
+    "word": "iceberg",
+    "id": 915
+  },
+  {
+    "first": "water",
+    "second": "ice",
+    "third": "dripping",
+    "fourth": "hanging",
+    "word": "icicle",
+    "id": 916
+  },
+  {
+    "first": "lock",
+    "second": "hands",
+    "third": "arrested",
+    "fourth": "Police",
+    "word": "handcuffs",
+    "id": 917
+  },
+  {
+    "first": "pine",
+    "second": "tall",
+    "third": "plant",
+    "fourth": "fruit",
+    "word": "tree",
+    "id": 918
+  },
+  {
+    "first": "fried",
+    "second": "potato",
+    "third": "fish and chips",
+    "fourth": "hamburger",
+    "word": "french fries",
+    "id": 919
+  },
+  {
+    "first": "honey",
+    "second": "fly",
+    "third": "sting",
+    "fourth": "hummed",
+    "word": "bee",
+    "id": 920
+  },
+  {
+    "first": "evil",
+    "second": "possessed",
+    "third": "movie",
+    "fourth": "remove",
+    "word": "exorcism",
+    "id": 921
+  },
+  {
+    "first": "cider",
+    "second": "fruit",
+    "third": "tree",
+    "fourth": "bob",
+    "word": "apples",
+    "id": 922
+  },
+  {
+    "first": "crescent",
+    "second": "flaky",
+    "third": "french",
+    "fourth": "sweet",
+    "word": "croissant",
+    "id": 923
+  },
+  {
+    "first": "goats",
+    "second": "growth",
+    "third": "facial",
+    "fourth": "old",
+    "word": "beard",
+    "id": 924
+  },
+  {
+    "first": "hair",
+    "second": "milk",
+    "third": "fiber",
+    "fourth": "tropical",
+    "word": "coconut",
+    "id": 925
+  },
+  {
+    "first": "style",
+    "second": "clothes",
+    "third": "runway",
+    "fourth": "hats",
+    "word": "fashion",
+    "id": 926
+  },
+  {
+    "first": "religious",
+    "second": "white",
+    "third": "god",
+    "fourth": "air",
+    "word": "angel",
+    "id": 927
+  },
+  {
+    "first": "flood",
+    "second": "ebb",
+    "third": "rise",
+    "fourth": "ocean",
+    "word": "tide",
+    "id": 929
+  },
+  {
+    "first": "car",
+    "second": "crosswalk",
+    "third": "sidewalk",
+    "fourth": "walk",
+    "word": "pedestrian",
+    "id": 930
+  },
+  {
+    "first": "pole",
+    "second": "south",
+    "third": "snow",
+    "fourth": "continent",
+    "word": "antarctica",
+    "id": 931
+  },
+  {
+    "first": "exercise",
+    "second": "bones",
+    "third": "ligaments",
+    "fourth": "contract",
+    "word": "muscles",
+    "id": 932
+  },
+  {
+    "first": "illegal",
+    "second": "wall",
+    "third": "writing",
+    "fourth": "drawings",
+    "word": "graffiti",
+    "id": 933
+  },
+  {
+    "first": "musical",
+    "second": "lease",
+    "third": "payment",
+    "fourth": "apartment",
+    "word": "rent",
+    "id": 934
+  },
+  {
+    "first": "Cleopatra",
+    "second": "Giza",
+    "third": "head",
+    "fourth": "Egypt",
+    "word": "Sphinx",
+    "id": 935
+  },
+  {
+    "first": "balm",
+    "second": "lavender",
+    "third": "peppermint",
+    "fourth": "gum",
+    "word": "mint",
+    "id": 936
+  },
+  {
+    "first": "schedule",
+    "second": "days",
+    "third": "time",
+    "fourth": "years",
+    "word": "calendar",
+    "id": 937
+  },
+  {
+    "first": "west",
+    "second": "United States",
+    "third": "Boise",
+    "fourth": "state",
+    "word": "Idaho",
+    "id": 938
+  },
+  {
+    "first": "nail",
+    "second": "grooves",
+    "third": "sexual",
+    "fourth": "driver",
+    "word": "screw",
+    "id": 939
+  },
+  {
+    "first": "close",
+    "second": "spasm",
+    "third": "eye",
+    "fourth": "sleep",
+    "word": "wink",
+    "id": 940
+  },
+  {
+    "first": "marinara",
+    "second": "tomato",
+    "third": "pasta",
+    "fourth": "noodles",
+    "word": "spaghetti",
+    "id": 941
+  },
+  {
+    "first": "men",
+    "second": "stalagmite",
+    "third": "stalactite",
+    "fourth": "spelunking",
+    "word": "cave",
+    "id": 942
+  },
+  {
+    "first": "plow",
+    "second": "rain",
+    "third": "white",
+    "fourth": "ice",
+    "word": "snow",
+    "id": 943
+  },
+  {
+    "first": "weather",
+    "second": "cold",
+    "third": "crystals",
+    "fourth": "freeze",
+    "word": "frost",
+    "id": 950
+  },
+  {
+    "first": "band",
+    "second": "long",
+    "third": "music",
+    "fourth": "sound",
+    "word": "flute",
+    "id": 951
+  },
+  {
+    "first": "ligher",
+    "second": "lungs",
+    "third": "pack",
+    "fourth": "light",
+    "word": "cigarette",
+    "id": 953
+  },
+  {
+    "first": "light",
+    "second": "night",
+    "third": "butterflies",
+    "fourth": "insect",
+    "word": "moths",
+    "id": 954
+  },
+  {
+    "first": "yarn",
+    "second": "row",
+    "third": "knit",
+    "fourth": "needle",
+    "word": "crochet",
+    "id": 955
+  },
+  {
+    "first": "archetypal",
+    "second": "covenantal",
+    "third": "childless",
+    "fourth": "hebrew",
+    "word": "Abraham",
+    "id": 956
+  },
+  {
+    "first": "cemetary",
+    "second": "body",
+    "third": "dead",
+    "fourth": "digging",
+    "word": "grave",
+    "id": 957
+  },
+  {
+    "first": "raise",
+    "second": "money",
+    "third": "employed",
+    "fourth": "wage",
+    "word": "salary",
+    "id": 958
+  },
+  {
+    "first": "clothing",
+    "second": "condom",
+    "third": "synthetic",
+    "fourth": "glove",
+    "word": "latex",
+    "id": 959
+  },
+  {
+    "first": "instructor",
+    "second": "tenure",
+    "third": "university",
+    "fourth": "college",
+    "word": "professor",
+    "id": 961
+  },
+  {
+    "first": "pet",
+    "second": "adopt",
+    "third": "bark",
+    "fourth": "tail",
+    "word": "dog",
+    "id": 962
+  },
+  {
+    "first": "privy",
+    "second": "bathroom",
+    "third": "building",
+    "fourth": "toilet",
+    "word": "outhouse",
+    "id": 963
+  },
+  {
+    "first": "extinct",
+    "second": "hair",
+    "third": "elephant",
+    "fourth": "iceage",
+    "word": "mammoth",
+    "id": 964
+  },
+  {
+    "first": "tusk",
+    "second": "Arctic",
+    "third": "whale",
+    "fourth": "sea",
+    "word": "narwhal",
+    "id": 965
+  },
+  {
+    "first": "pitcher",
+    "second": "ball",
+    "third": "play",
+    "fourth": "field",
+    "word": "infielder",
+    "id": 966
+  },
+  {
+    "first": "grapes",
+    "second": "dine",
+    "third": "bottle",
+    "fourth": "red",
+    "word": "wine",
+    "id": 968
+  },
+  {
+    "first": "sea",
+    "second": "shaker",
+    "third": "deposit",
+    "fourth": "season",
+    "word": "salt",
+    "id": 969
+  },
+  {
+    "first": "dusk",
+    "second": "light",
+    "third": "day",
+    "fourth": "sun",
+    "word": "sunset",
+    "id": 970
+  },
+  {
+    "first": "course",
+    "second": "ball",
+    "third": "fore!",
+    "fourth": "club",
+    "word": "golf",
+    "id": 971
+  },
+  {
+    "first": "leader",
+    "second": "religion",
+    "third": "cardinal",
+    "fourth": "Catholic",
+    "word": "pope",
+    "id": 972
+  },
+  {
+    "first": "stomach",
+    "second": "thirsty",
+    "third": "famine",
+    "fourth": "eat",
+    "word": "hunger",
+    "id": 973
+  },
+  {
+    "first": "sit",
+    "second": "bar",
+    "third": "back",
+    "fourth": "higher",
+    "word": "stool",
+    "id": 974
+  },
+  {
+    "first": "liquor",
+    "second": "agave",
+    "third": "margarita",
+    "fourth": "mexican",
+    "word": "tequila",
+    "id": 975
+  },
+  {
+    "first": "crown",
+    "second": "princess",
+    "third": "England",
+    "fourth": "royalty",
+    "word": "queen",
+    "id": 976
+  },
+  {
+    "first": "paper",
+    "second": "book",
+    "third": "ingredients",
+    "fourth": "directions",
+    "word": "recipe",
+    "id": 977
+  },
+  {
+    "first": "sleep",
+    "second": "shoot",
+    "third": "animals",
+    "fourth": "drug",
+    "word": "tranquilizer",
+    "id": 978
+  },
+  {
+    "first": "room",
+    "second": "space",
+    "third": "motel",
+    "fourth": "empty",
+    "word": "vacancy",
+    "id": 979
+  },
+  {
+    "first": "station",
+    "second": "listen",
+    "third": "music",
+    "fourth": "program",
+    "word": "radio",
+    "id": 980
+  },
+  {
+    "first": "building",
+    "second": "glass",
+    "third": "gases",
+    "fourth": "growing",
+    "word": "greenhouse",
+    "id": 981
+  },
+  {
+    "first": "uncle",
+    "second": "family",
+    "third": "sister",
+    "fourth": "brother",
+    "word": "nephew",
+    "id": 982
+  },
+  {
+    "first": "meat",
+    "second": "hen",
+    "third": "breast",
+    "fourth": "cooked",
+    "word": "chicken",
+    "id": 983
+  },
+  {
+    "first": "restaurant",
+    "second": "attendant",
+    "third": "guests",
+    "fourth": "park",
+    "word": "valet",
+    "id": 984
+  },
+  {
+    "first": "butter",
+    "second": "heat",
+    "third": "oven",
+    "fourth": "drinking",
+    "word": "toast",
+    "id": 985
+  },
+  {
+    "first": "cube",
+    "second": "sides",
+    "third": "six",
+    "fourth": "gamble",
+    "word": "dice",
+    "id": 986
+  },
+  {
+    "first": "pick",
+    "second": "choices",
+    "third": "eat",
+    "fourth": "food",
+    "word": "menu",
+    "id": 987
+  },
+  {
+    "first": "pirates",
+    "second": "gold",
+    "third": "buried",
+    "fourth": "valuable",
+    "word": "treasure",
+    "id": 988
+  },
+  {
+    "first": "cents",
+    "second": "payment",
+    "third": "envelope",
+    "fourth": "mail",
+    "word": "stamps",
+    "id": 989
+  },
+  {
+    "first": "baby",
+    "second": "naked",
+    "third": "bow",
+    "fourth": "eros",
+    "word": "cupid",
+    "id": 990
+  },
+  {
+    "first": "artifical",
+    "second": "cane",
+    "third": "candy",
+    "fourth": "sweet",
+    "word": "sugar",
+    "id": 991
+  },
+  {
+    "first": "ground",
+    "second": "dinosaurs",
+    "third": "archeologists",
+    "fourth": "bones",
+    "word": "fossils",
+    "id": 992
+  },
+  {
+    "first": "material",
+    "second": "knock",
+    "third": "stick",
+    "fourth": "board",
+    "word": "wood",
+    "id": 993
+  },
+  {
+    "first": "hand sanitizer",
+    "second": "Purell",
+    "third": "microorganism",
+    "fourth": "bacteria",
+    "word": "germs",
+    "id": 994
+  },
+  {
+    "first": "dye",
+    "second": "color",
+    "third": "spill",
+    "fourth": "marks",
+    "word": "stain",
+    "id": 995
+  },
+  {
+    "first": "asia",
+    "second": "sushi",
+    "third": "fried",
+    "fourth": "paddies",
+    "word": "rice",
+    "id": 996
+  },
+  {
+    "first": "defend",
+    "second": "protect",
+    "third": "goal",
+    "fourth": "socker",
+    "word": "goalie",
+    "id": 997
+  },
+  {
+    "first": "quadrilateral",
+    "second": "square",
+    "third": "parallel",
+    "fourth": "four",
+    "word": "rectangle",
+    "id": 998
+  },
+  {
+    "first": "point",
+    "second": "thumb",
+    "third": "toe",
+    "fourth": "diget",
+    "word": "finger",
+    "id": 999
+  },
+  {
+    "first": "prickly",
+    "second": "hedgehog",
+    "third": "rodent",
+    "fourth": "quills",
+    "word": "porcupine",
+    "id": 1000
+  },
+  {
+    "first": "mega",
+    "second": "energy",
+    "third": "units",
+    "fourth": "power",
+    "word": "Watt",
+    "id": 373
+  },
+  {
+    "first": "country",
+    "second": "southeast",
+    "third": "asia",
+    "fourth": "bangkok",
+    "word": "Thailand",
+    "id": 374
+  },
+  {
+    "first": "allied",
+    "second": "soviet",
+    "third": "border",
+    "fourth": "germany",
+    "word": "Berlin Wall",
+    "id": 375
+  },
+  {
+    "first": "film",
+    "second": "academy",
+    "third": "award",
+    "fourth": "actor",
+    "word": "George Clooney",
+    "id": 376
+  },
+  {
+    "first": "sudan",
+    "second": "united states",
+    "third": "attacks",
+    "fourth": "pakistan",
+    "word": "Osama bin Laden",
+    "id": 377
+  },
+  {
+    "first": "american",
+    "second": "michael jackson",
+    "third": "movie",
+    "fourth": "home alone",
+    "word": "Macaulay Culkin",
+    "id": 378
+  },
+  {
+    "first": "soviet",
+    "second": "slavic",
+    "third": "country",
+    "fourth": "war",
+    "word": "Poland",
+    "id": 379
+  },
+  {
+    "first": "artist",
+    "second": "paintings",
+    "third": "pop",
+    "fourth": "new york",
+    "word": "Andy Warhol",
+    "id": 380
+  }
+]

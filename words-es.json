@@ -1,0 +1,802 @@
+[
+  {
+    "first": "rojo",
+    "second": "temperatura",
+    "third": "termómetro",
+    "fourth": "veneno",
+    "word": "mercurio",
+    "id": 1
+  },
+  {
+    "first": "agua",
+    "second": "lluvia",
+    "third": "mar",
+    "fourth": "bebida",
+    "word": "océano",
+    "id": 2
+  },
+  {
+    "first": "árbol",
+    "second": "hojas",
+    "third": "naturaleza",
+    "fourth": "madera",
+    "word": "bosque",
+    "id": 3
+  },
+  {
+    "first": "música",
+    "second": "canción",
+    "third": "instrumento",
+    "fourth": "sonido",
+    "word": "guitarra",
+    "id": 4
+  },
+  {
+    "first": "cine",
+    "second": "película",
+    "third": "director",
+    "fourth": "actor",
+    "word": "Hollywood",
+    "id": 5
+  },
+  {
+    "first": "pan",
+    "second": "horno",
+    "third": "harina",
+    "fourth": "comida",
+    "word": "pastel",
+    "id": 6
+  },
+  {
+    "first": "cielo",
+    "second": "nubes",
+    "third": "sol",
+    "fourth": "noche",
+    "word": "luna",
+    "id": 7
+  },
+  {
+    "first": "deporte",
+    "second": "equipo",
+    "third": "pelota",
+    "fourth": "gol",
+    "word": "fútbol",
+    "id": 8
+  },
+  {
+    "first": "libro",
+    "second": "página",
+    "third": "escritor",
+    "fourth": "lectura",
+    "word": "biblioteca",
+    "id": 9
+  },
+  {
+    "first": "coche",
+    "second": "carretera",
+    "third": "motor",
+    "fourth": "ruedas",
+    "word": "automóvil",
+    "id": 10
+  },
+  {
+    "first": "computadora",
+    "second": "teclado",
+    "third": "pantalla",
+    "fourth": "internet",
+    "word": "ordenador",
+    "id": 11
+  },
+  {
+    "first": "avión",
+    "second": "volar",
+    "third": "aeropuerto",
+    "fourth": "piloto",
+    "word": "viaje",
+    "id": 12
+  },
+  {
+    "first": "teléfono",
+    "second": "llamada",
+    "third": "mensaje",
+    "fourth": "aplicación",
+    "word": "smartphone",
+    "id": 13
+  },
+  {
+    "first": "cine",
+    "second": "película",
+    "third": "director",
+    "fourth": "actores",
+    "word": "Hollywood",
+    "id": 14
+  },
+  {
+    "first": "música",
+    "second": "canción",
+    "third": "instrumento",
+    "fourth": "melodía",
+    "word": "guitarra",
+    "id": 15
+  },
+  {
+    "first": "montaña",
+    "second": "nieve",
+    "third": "escalar",
+    "fourth": "pico",
+    "word": "cumbre",
+    "id": 16
+  },
+  {
+    "first": "playa",
+    "second": "arena",
+    "third": "mar",
+    "fourth": "verano",
+    "word": "vacaciones",
+    "id": 17
+  },
+  {
+    "first": "sol",
+    "second": "calor",
+    "third": "día",
+    "fourth": "luz",
+    "word": "verano",
+    "id": 18
+  },
+  {
+    "first": "nieve",
+    "second": "invierno",
+    "third": "blanco",
+    "fourth": "frío",
+    "word": "navidad",
+    "id": 19
+  },
+  {
+    "first": "ciudad",
+    "second": "edificios",
+    "third": "gente",
+    "fourth": "tráfico",
+    "word": "metrópoli",
+    "id": 20
+  },
+  {
+    "first": "comida",
+    "second": "almuerzo",
+    "third": "cena",
+    "fourth": "hambre",
+    "word": "restaurante",
+    "id": 21
+  },
+  {
+    "first": "bebé",
+    "second": "niño",
+    "third": "cuna",
+    "fourth": "llorar",
+    "word": "familia",
+    "id": 22
+  },
+  {
+    "first": "noche",
+    "second": "oscuridad",
+    "third": "luna",
+    "fourth": "sueño",
+    "word": "estrella",
+    "id": 23
+  },
+  {
+    "first": "fiesta",
+    "second": "celebración",
+    "third": "amigos",
+    "fourth": "diversión",
+    "word": "cumpleaños",
+    "id": 24
+  },
+  {
+    "first": "mar",
+    "second": "agua",
+    "third": "olas",
+    "fourth": "nadar",
+    "word": "océano",
+    "id": 25
+  },
+  {
+    "first": "vacaciones",
+    "second": "viaje",
+    "third": "descanso",
+    "fourth": "verano",
+    "word": "turismo",
+    "id": 26
+  },
+  {
+    "first": "doctor",
+    "second": "hospital",
+    "third": "medicina",
+    "fourth": "salud",
+    "word": "enfermedad",
+    "id": 27
+  },
+  {
+    "first": "animal",
+    "second": "selva",
+    "third": "salvaje",
+    "fourth": "especies",
+    "word": "león",
+    "id": 28
+  },
+  {
+    "first": "foto",
+    "second": "cámara",
+    "third": "imagen",
+    "fourth": "capturar",
+    "word": "memoria",
+    "id": 29
+  },
+  {
+    "first": "zapatos",
+    "second": "pies",
+    "third": "caminar",
+    "fourth": "calzado",
+    "word": "botas",
+    "id": 30
+  },
+  {
+    "first": "musical",
+    "second": "instrumento",
+    "third": "partitura",
+    "fourth": "concierto",
+    "word": "piano",
+    "id": 31
+  },
+  {
+    "first": "historia",
+    "second": "antiguo",
+    "third": "reina",
+    "fourth": "guerra",
+    "word": "castillo",
+    "id": 32
+  },
+  {
+    "first": "juego",
+    "second": "tablero",
+    "third": "fichas",
+    "fourth": "estrategia",
+    "word": "ajedrez",
+    "id": 33
+  },
+  {
+    "first": "comedia",
+    "second": "actor",
+    "third": "risa",
+    "fourth": "teatro",
+    "word": "payaso",
+    "id": 34
+  },
+  {
+    "first": "tecnología",
+    "second": "innovación",
+    "third": "internet",
+    "fourth": "dispositivo",
+    "word": "teléfono",
+    "id": 35
+  },
+  {
+    "first": "vacaciones",
+    "second": "viaje",
+    "third": "avión",
+    "fourth": "playa",
+    "word": "exótico",
+    "id": 36
+  },
+  {
+    "first": "espacio",
+    "second": "astronauta",
+    "third": "planeta",
+    "fourth": "estrella",
+    "word": "galaxia",
+    "id": 37
+  },
+  {
+    "first": "ciencia",
+    "second": "investigación",
+    "third": "laboratorio",
+    "fourth": "experimento",
+    "word": "biología",
+    "id": 38
+  },
+  {
+    "first": "arte",
+    "second": "pintura",
+    "third": "escultura",
+    "fourth": "creatividad",
+    "word": "museo",
+    "id": 39
+  },
+  {
+    "first": "montaña",
+    "second": "escalada",
+    "third": "nieve",
+    "fourth": "paisaje",
+    "word": "cima",
+    "id": 40
+  },
+  {
+    "first": "moda",
+    "second": "ropa",
+    "third": "diseño",
+    "fourth": "pasarela",
+    "word": "modelo",
+    "id": 41
+  },
+  {
+    "first": "amor",
+    "second": "corazón",
+    "third": "beso",
+    "fourth": "romántico",
+    "word": "pareja",
+    "id": 42
+  },
+  {
+    "first": "naturaleza",
+    "second": "verde",
+    "third": "río",
+    "fourth": "flor",
+    "word": "bosque",
+    "id": 43
+  },
+  {
+    "first": "medicina",
+    "second": "enfermedad",
+    "third": "doctor",
+    "fourth": "hospital",
+    "word": "salud",
+    "id": 44
+  },
+  {
+    "first": "noche",
+    "second": "estrella",
+    "third": "oscuridad",
+    "fourth": "luna",
+    "word": "constelación",
+    "id": 45
+  },
+  {
+    "first": "familia",
+    "second": "padre",
+    "third": "madre",
+    "fourth": "hermano",
+    "word": "abuelo",
+    "id": 46
+  },
+  {
+    "first": "cine",
+    "second": "director",
+    "third": "película",
+    "fourth": "actor",
+    "word": "Hollywood",
+    "id": 47
+  },
+  {
+    "first": "música",
+    "second": "concierto",
+    "third": "instrumento",
+    "fourth": "melodía",
+    "word": "piano",
+    "id": 48
+  },
+  {
+    "first": "montaña",
+    "second": "nieve",
+    "third": "escalada",
+    "fourth": "cumbre",
+    "word": "alpinismo",
+    "id": 49
+  },
+  {
+    "first": "mar",
+    "second": "arena",
+    "third": "olas",
+    "fourth": "nadar",
+    "word": "playa",
+    "id": 50
+  },
+  {
+    "first": "ciudad",
+    "second": "edificios",
+    "third": "tráfico",
+    "fourth": "población",
+    "word": "metrópoli",
+    "id": 51
+  },
+  {
+    "first": "comida",
+    "second": "cocina",
+    "third": "sabor",
+    "fourth": "receta",
+    "word": "gourmet",
+    "id": 52
+  },
+  {
+    "first": "bebé",
+    "second": "niño",
+    "third": "infancia",
+    "fourth": "juguetes",
+    "word": "cuna",
+    "id": 53
+  },
+  {
+    "first": "sol",
+    "second": "calor",
+    "third": "verano",
+    "fourth": "brillante",
+    "word": "resplandor",
+    "id": 54
+  },
+  {
+    "first": "luz",
+    "second": "bombilla",
+    "third": "iluminación",
+    "fourth": "electricidad",
+    "word": "foco",
+    "id": 55
+  },
+  {
+    "first": "deporte",
+    "second": "balón",
+    "third": "gol",
+    "fourth": "equipo",
+    "word": "fútbol",
+    "id": 56
+  },
+  {
+    "first": "televisión",
+    "second": "programa",
+    "third": "canal",
+    "fourth": "entretenimiento",
+    "word": "noticias",
+    "id": 57
+  },
+  {
+    "first": "arte",
+    "second": "pintura",
+    "third": "escultura",
+    "fourth": "creatividad",
+    "word": "museo",
+    "id": 58
+  },
+  {
+    "first": "computadora",
+    "second": "teclado",
+    "third": "pantalla",
+    "fourth": "internet",
+    "word": "ordenador",
+    "id": 59
+  },
+  {
+    "first": "avión",
+    "second": "volar",
+    "third": "aeropuerto",
+    "fourth": "piloto",
+    "word": "viaje",
+    "id": 60
+  },
+  {
+    "first": "rojo",
+    "second": "temperatura",
+    "third": "termómetro",
+    "fourth": "veneno",
+    "word": "mercurio",
+    "id": 61
+  },
+  {
+    "first": "agua",
+    "second": "lluvia",
+    "third": "mar",
+    "fourth": "bebida",
+    "word": "océano",
+    "id": 62
+  },
+  {
+    "first": "árbol",
+    "second": "hojas",
+    "third": "naturaleza",
+    "fourth": "madera",
+    "word": "bosque",
+    "id": 63
+  },
+  {
+    "first": "música",
+    "second": "canción",
+    "third": "instrumento",
+    "fourth": "sonido",
+    "word": "guitarra",
+    "id": 64
+  },
+  {
+    "first": "cine",
+    "second": "película",
+    "third": "director",
+    "fourth": "actor",
+    "word": "Hollywood",
+    "id": 65
+  },
+  {
+    "first": "pan",
+    "second": "horno",
+    "third": "harina",
+    "fourth": "comida",
+    "word": "pastel",
+    "id": 66
+  },
+  {
+    "first": "cielo",
+    "second": "nubes",
+    "third": "sol",
+    "fourth": "noche",
+    "word": "luna",
+    "id": 67
+  },
+  {
+    "first": "deporte",
+    "second": "equipo",
+    "third": "pelota",
+    "fourth": "gol",
+    "word": "fútbol",
+    "id": 68
+  },
+  {
+    "first": "libro",
+    "second": "página",
+    "third": "escritor",
+    "fourth": "lectura",
+    "word": "biblioteca",
+    "id": 69
+  },
+  {
+    "first": "coche",
+    "second": "carretera",
+    "third": "motor",
+    "fourth": "ruedas",
+    "word": "automóvil",
+    "id": 70
+  },
+  {
+    "first": "computadora",
+    "second": "teclado",
+    "third": "pantalla",
+    "fourth": "internet",
+    "word": "ordenador",
+    "id": 71
+  },
+  {
+    "first": "avión",
+    "second": "volar",
+    "third": "aeropuerto",
+    "fourth": "piloto",
+    "word": "viaje",
+    "id": 72
+  },
+  {
+    "first": "teléfono",
+    "second": "llamada",
+    "third": "mensaje",
+    "fourth": "aplicación",
+    "word": "smartphone",
+    "id": 73
+  },
+  {
+    "first": "cine",
+    "second": "película",
+    "third": "director",
+    "fourth": "actores",
+    "word": "Hollywood",
+    "id": 74
+  },
+  {
+    "first": "música",
+    "second": "canción",
+    "third": "instrumento",
+    "fourth": "melodía",
+    "word": "guitarra",
+    "id": 75
+  },
+  {
+    "first": "montaña",
+    "second": "nieve",
+    "third": "escalar",
+    "fourth": "pico",
+    "word": "cumbre",
+    "id": 76
+  },
+  {
+    "first": "playa",
+    "second": "arena",
+    "third": "mar",
+    "fourth": "verano",
+    "word": "vacaciones",
+    "id": 77
+  },
+  {
+    "first": "sol",
+    "second": "calor",
+    "third": "día",
+    "fourth": "luz",
+    "word": "verano",
+    "id": 78
+  },
+  {
+    "first": "nieve",
+    "second": "invierno",
+    "third": "blanco",
+    "fourth": "frío",
+    "word": "navidad",
+    "id": 79
+  },
+  {
+    "first": "ciudad",
+    "second": "edificios",
+    "third": "gente",
+    "fourth": "tráfico",
+    "word": "metrópoli",
+    "id": 80
+  },
+  {
+    "first": "comida",
+    "second": "almuerzo",
+    "third": "cena",
+    "fourth": "hambre",
+    "word": "restaurante",
+    "id": 81
+  },
+  {
+    "first": "bebé",
+    "second": "niño",
+    "third": "cuna",
+    "fourth": "llorar",
+    "word": "familia",
+    "id": 82
+  },
+  {
+    "first": "noche",
+    "second": "oscuridad",
+    "third": "luna",
+    "fourth": "sueño",
+    "word": "estrella",
+    "id": 83
+  },
+  {
+    "first": "fiesta",
+    "second": "celebración",
+    "third": "amigos",
+    "fourth": "diversión",
+    "word": "cumpleaños",
+    "id": 84
+  },
+  {
+    "first": "mar",
+    "second": "agua",
+    "third": "olas",
+    "fourth": "nadar",
+    "word": "océano",
+    "id": 85
+  },
+  {
+    "first": "vacaciones",
+    "second": "viaje",
+    "third": "descanso",
+    "fourth": "verano",
+    "word": "turismo",
+    "id": 86
+  },
+  {
+    "first": "doctor",
+    "second": "hospital",
+    "third": "medicina",
+    "fourth": "salud",
+    "word": "enfermedad",
+    "id": 87
+  },
+  {
+    "first": "animal",
+    "second": "selva",
+    "third": "salvaje",
+    "fourth": "especies",
+    "word": "león",
+    "id": 88
+  },
+  {
+    "first": "foto",
+    "second": "cámara",
+    "third": "imagen",
+    "fourth": "capturar",
+    "word": "memoria",
+    "id": 89
+  },
+  {
+    "first": "zapatos",
+    "second": "pies",
+    "third": "caminar",
+    "fourth": "calzado",
+    "word": "botas",
+    "id": 90
+  },
+  {
+    "first": "musical",
+    "second": "instrumento",
+    "third": "partitura",
+    "fourth": "concierto",
+    "word": "piano",
+    "id": 91
+  },
+  {
+    "first": "historia",
+    "second": "antiguo",
+    "third": "reina",
+    "fourth": "guerra",
+    "word": "castillo",
+    "id": 92
+  },
+  {
+    "first": "juego",
+    "second": "tablero",
+    "third": "fichas",
+    "fourth": "estrategia",
+    "word": "ajedrez",
+    "id": 93
+  },
+  {
+    "first": "comedia",
+    "second": "actor",
+    "third": "risa",
+    "fourth": "teatro",
+    "word": "payaso",
+    "id": 94
+  },
+  {
+    "first": "tecnología",
+    "second": "innovación",
+    "third": "internet",
+    "fourth": "dispositivo",
+    "word": "teléfono",
+    "id": 95
+  },
+  {
+    "first": "vacaciones",
+    "second": "viaje",
+    "third": "avión",
+    "fourth": "playa",
+    "word": "exótico",
+    "id": 96
+  },
+  {
+    "first": "espacio",
+    "second": "astronauta",
+    "third": "planeta",
+    "fourth": "estrella",
+    "word": "galaxia",
+    "id": 97
+  },
+  {
+    "first": "ciencia",
+    "second": "investigación",
+    "third": "laboratorio",
+    "fourth": "experimento",
+    "word": "biología",
+    "id": 98
+  },
+  {
+    "first": "arte",
+    "second": "pintura",
+    "third": "escultura",
+    "fourth": "creatividad",
+    "word": "museo",
+    "id": 99
+  },
+  {
+    "first": "montaña",
+    "second": "escalada",
+    "third": "nieve",
+    "fourth": "paisaje",
+    "word": "cima",
+    "id": 100
+  }
+]

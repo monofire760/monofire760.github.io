@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "word": "Schmeichler",
+    "first": "Schleimer",
+    "second": "Heuchler",
+    "third": "Chef",
+    "fourth": "Büro"
+  },
+  {
+    "id": 2,
+    "word": "Freundschaft",
+    "first": "Kameradschaft",
+    "second": "Beziehung",
+    "third": "Vertrauen",
+    "fourth": "Freunde"
+  },
+  {
+    "id": 3,
+    "word": "Auto",
+    "first": "Fahrzeug",
+    "second": "Motor",
+    "third": "Straße",
+    "fourth": "Fahren"
+  },
+  {
+    "id": 4,
+    "word": "Essen",
+    "first": "Nahrung",
+    "second": "Mahlzeit",
+    "third": "Restaurant",
+    "fourth": "Hunger"
+  },
+  {
+    "id": 5,
+    "word": "Computer",
+    "first": "Technologie",
+    "second": "Internet",
+    "third": "Bildschirm",
+    "fourth": "Tastatur"
+  },
+  {
+    "id": 6,
+    "word": "Reisen",
+    "first": "Urlaub",
+    "second": "Flugzeug",
+    "third": "Hotel",
+    "fourth": "Koffer"
+  },
+  {
+    "id": 7,
+    "word": "Buch",
+    "first": "Lesen",
+    "second": "Bibliothek",
+    "third": "Geschichte",
+    "fourth": "Seiten"
+  },
+  {
+    "id": 8,
+    "word": "Schule",
+    "first": "Lehrer",
+    "second": "Klasse",
+    "third": "Unterricht",
+    "fourth": "Lernen"
+  },
+  {
+    "id": 9,
+    "word": "Musik",
+    "first": "Konzert",
+    "second": "Instrument",
+    "third": "Lied",
+    "fourth": "Tanzen"
+  },
+  {
+    "id": 10,
+    "word": "Sport",
+    "first": "Fußball",
+    "second": "Training",
+    "third": "Spiel",
+    "fourth": "Fitness"
+  },
+  {
+    "id": 11,
+    "word": "Liebe",
+    "first": "Herz",
+    "second": "Gefühl",
+    "third": "Romantik",
+    "fourth": "Partner"
+  },
+  {
+    "id": 12,
+    "word": "Hund",
+    "first": "Tier",
+    "second": "Bellen",
+    "third": "Haustier",
+    "fourth": "Leine"
+  },
+  {
+    "id": 13,
+    "word": "Haus",
+    "first": "Gebäude",
+    "second": "Wohnen",
+    "third": "Zimmer",
+    "fourth": "Familie"
+  },
+  {
+    "id": 14,
+    "word": "Arbeit",
+    "first": "Beruf",
+    "second": "Job",
+    "third": "Firma",
+    "fourth": "Gehalt"
+  },
+  {
+    "id": 15,
+    "word": "Küche",
+    "first": "Kochen",
+    "second": "Essen",
+    "third": "Herd",
+    "fourth": "Geschirr"
+  },
+  {
+    "id": 16,
+    "word": "Garten",
+    "first": "Blumen",
+    "second": "Pflanzen",
+    "third": "Rasen",
+    "fourth": "Gießen"
+  },
+  {
+    "id": 17,
+    "word": "Zug",
+    "first": "Bahnhof",
+    "second": "Schienen",
+    "third": "Lokomotive",
+    "fourth": "Reisen"
+  },
+  {
+    "id": 18,
+    "word": "Film",
+    "first": "Kino",
+    "second": "Schauspieler",
+    "third": "Leinwand",
+    "fourth": "Regisseur"
+  },
+  {
+    "id": 19,
+    "word": "Handy",
+    "first": "Telefon",
+    "second": "Anruf",
+    "third": "Smartphone",
+    "fourth": "Nachricht"
+  },
+  {
+    "id": 20,
+    "word": "Schlaf",
+    "first": "Bett",
+    "second": "Nacht",
+    "third": "Träume",
+    "fourth": "Ruhe"
+  },
+  {
+    "id": 21,
+    "word": "Fahrrad",
+    "first": "Rad",
+    "second": "Fahren",
+    "third": "Lenker",
+    "fourth": "Pedale"
+  },
+  {
+    "id": 22,
+    "word": "Meer",
+    "first": "Wasser",
+    "second": "Strand",
+    "third": "Wellen",
+    "fourth": "Schwimmen"
+  },
+  {
+    "id": 23,
+    "word": "Winter",
+    "first": "Schnee",
+    "second": "Kalt",
+    "third": "Eis",
+    "fourth": "Weihnachten"
+  },
+  {
+    "id": 24,
+    "word": "Sommer",
+    "first": "Sonne",
+    "second": "Hitze",
+    "third": "Ferien",
+    "fourth": "Schwimmbad"
+  },
+  {
+    "id": 25,
+    "word": "Herbst",
+    "first": "Blätter",
+    "second": "Wind",
+    "third": "Ernte",
+    "fourth": "Regen"
+  },
+  {
+    "id": 26,
+    "word": "Frühling",
+    "first": "Blumen",
+    "second": "Wärme",
+    "third": "Erwachen",
+    "fourth": "Pollen"
+  },
+  {
+    "id": 27,
+    "word": "Kaffee",
+    "first": "Trinken",
+    "second": "Tasse",
+    "third": "Bohnen",
+    "fourth": "Koffein"
+  },
+  {
+    "id": 28,
+    "word": "Tee",
+    "first": "Trinken",
+    "second": "Blätter",
+    "third": "Heiß",
+    "fourth": "Kanne"
+  },
+  {
+    "id": 29,
+    "word": "Bier",
+    "first": "Alkohol",
+    "second": "Trinken",
+    "third": "Flasche",
+    "fourth": "Brauerei"
+  },
+  {
+    "id": 30,
+    "word": "Wein",
+    "first": "Trauben",
+    "second": "Alkohol",
+    "third": "Flasche",
+    "fourth": "Trinken"
+  },
+  {
+    "id": 31,
+    "word": "Bäckerei",
+    "first": "Brot",
+    "second": "Kuchen",
+    "third": "Gebäck",
+    "fourth": "Ofen"
+  },
+  {
+    "id": 32,
+    "word": "Supermarkt",
+    "first": "Einkaufen",
+    "second": "Lebensmittel",
+    "third": "Regal",
+    "fourth": "Kasse"
+  },
+  {
+    "id": 33,
+    "word": "Krankenhaus",
+    "first": "Patient",
+    "second": "Arzt",
+    "third": "Pflege",
+    "fourth": "Medizin"
+  },
+  {
+    "id": 34,
+    "word": "Apotheke",
+    "first": "Medikamente",
+    "second": "Rezept",
+    "third": "Arznei",
+    "fourth": "Gesundheit"
+  },
+  {
+    "id": 35,
+    "word": "Friseur",
+    "first": "Haare",
+    "second": "Schneiden",
+    "third": "Styling",
+    "fourth": "Salon"
+  },
+  {
+    "id": 36,
+    "word": "Post",
+    "first": "Brief",
+    "second": "Paket",
+    "third": "Versenden",
+    "fourth": "Briefmarke"
+  },
+  {
+    "id": 37,
+    "word": "Bank",
+    "first": "Geld",
+    "second": "Konto",
+    "third": "Überweisung",
+    "fourth": "Zinsen"
+  },
+  {
+    "id": 38,
+    "word": "Polizei",
+    "first": "Gesetz",
+    "second": "Schutz",
+    "third": "Verbrechen",
+    "fourth": "Uniform"
+  },
+  {
+    "id": 39,
+    "word": "Feuerwehr",
+    "first": "Brand",
+    "second": "Löschen",
+    "third": "Schlauch",
+    "fourth": "Rettung"
+  },
+  {
+    "id": 40,
+    "word": "Arzt",
+    "first": "Krankenhaus",
+    "second": "Patient",
+    "third": "Medizin",
+    "fourth": "Heilen"
+  },
+  {
+    "id": 41,
+    "word": "Lehrer",
+    "first": "Schule",
+    "second": "Unterrichten",
+    "third": "Klasse",
+    "fourth": "Schüler"
+  },
+  {
+    "id": 42,
+    "word": "Künstler",
+    "first": "Kunst",
+    "second": "Malen",
+    "third": "Galerie",
+    "fourth": "Bild"
+  },
+  {
+    "id": 43,
+    "word": "Schauspieler",
+    "first": "Theater",
+    "second": "Film",
+    "third": "Rolle",
+    "fourth": "Bühne"
+  },
+  {
+    "id": 44,
+    "word": "Musiker",
+    "first": "Instrument",
+    "second": "Band",
+    "third": "Lied",
+    "fourth": "Konzert"
+  },
+  {
+    "id": 45,
+    "word": "Architekt",
+    "first": "Gebäude",
+    "second": "Bau",
+    "third": "Entwurf",
+    "fourth": "Plan"
+  },
+  {
+    "id": 46,
+    "word": "Ingenieur",
+    "first": "Technik",
+    "second": "Maschine",
+    "third": "Bau",
+    "fourth": "Projekt"
+  },
+  {
+    "id": 47,
+    "word": "Wissenschaftler",
+    "first": "Forschung",
+    "second": "Labor",
+    "third": "Experiment",
+    "fourth": "Theorie"
+  },
+  {
+    "id": 48,
+    "word": "Astronaut",
+    "first": "Raumfahrt",
+    "second": "Weltraum",
+    "third": "Rakete",
+    "fourth": "NASA"
+  },
+  {
+    "id": 49,
+    "word": "Pilot",
+    "first": "Flugzeug",
+    "second": "Cockpit",
+    "third": "Fliegen",
+    "fourth": "Airline"
+  },
+  {
+    "id": 50,
+    "word": "Kapitän",
+    "first": "Schiff",
+    "second": "Meer",
+    "third": "Besatzung",
+    "fourth": "Steuern"
+  },
+  {
+    "id": 51,
+    "word": "Zahnarzt",
+    "first": "Zähne",
+    "second": "Bohrer",
+    "third": "Praxis",
+    "fourth": "Karies"
+  },
+  {
+    "id": 52,
+    "word": "Journalist",
+    "first": "Nachrichten",
+    "second": "Zeitung",
+    "third": "Artikel",
+    "fourth": "Bericht"
+  },
+  {
+    "id": 53,
+    "word": "Bauer",
+    "first": "Feld",
+    "second": "Ernte",
+    "third": "Tiere",
+    "fourth": "Landwirtschaft"
+  },
+  {
+    "id": 54,
+    "word": "Bäcker",
+    "first": "Brot",
+    "second": "Teig",
+    "third": "Ofen",
+    "fourth": "Backen"
+  },
+  {
+    "id": 55,
+    "word": "Koch",
+    "first": "Küche",
+    "second": "Essen",
+    "third": "Rezept",
+    "fourth": "Gastronomie"
+  },
+  {
+    "id": 56,
+    "word": "Kellner",
+    "first": "Restaurant",
+    "second": "Bedienen",
+    "third": "Trinkgeld",
+    "fourth": "Tisch"
+  },
+  {
+    "id": 57,
+    "word": "Gärtner",
+    "first": "Pflanzen",
+    "second": "Blumen",
+    "third": "Gießen",
+    "fourth": "Garten"
+  },
+  {
+    "id": 58,
+    "word": "Frisör",
+    "first": "Haare",
+    "second": "Schneiden",
+    "third": "Färben",
+    "fourth": "Stylen"
+  },
+  {
+    "id": 59,
+    "word": "Verkäufer",
+    "first": "Geschäft",
+    "second": "Kunden",
+    "third": "Verkauf",
+    "fourth": "Produkt"
+  },
+  {
+    "id": 60,
+    "word": "Maurer",
+    "first": "Baustelle",
+    "second": "Zement",
+    "third": "Stein",
+    "fourth": "Mauer"
+  },
+  {
+    "id": 61,
+    "word": "Mechaniker",
+    "first": "Werkstatt",
+    "second": "Auto",
+    "third": "Reparatur",
+    "fourth": "Werkzeug"
+  },
+  {
+    "id": 62,
+    "word": "Elektriker",
+    "first": "Strom",
+    "second": "Kabel",
+    "third": "Installation",
+    "fourth": "Schalter"
+  },
+  {
+    "id": 63,
+    "word": "Installateur",
+    "first": "Wasser",
+    "second": "Rohr",
+    "third": "Heizung",
+    "fourth": "Sanitär"
+  },
+  {
+    "id": 64,
+    "word": "Schneider",
+    "first": "Stoff",
+    "second": "Nähen",
+    "third": "Maß",
+    "fourth": "Kleidung"
+  },
+  {
+    "id": 65,
+    "word": "Fotograf",
+    "first": "Kamera",
+    "second": "Bild",
+    "third": "Licht",
+    "fourth": "Objektiv"
+  },
+  {
+    "id": 66,
+    "word": "Grafiker",
+    "first": "Design",
+    "second": "Bildschirm",
+    "third": "Programm",
+    "fourth": "Illustration"
+  },
+  {
+    "id": 67,
+    "word": "Designer",
+    "first": "Mode",
+    "second": "Kleidung",
+    "third": "Kollektion",
+    "fourth": "Skizze"
+  },
+  {
+    "id": 68,
+    "word": "Modell",
+    "first": "Laufsteg",
+    "second": "Fotoshooting",
+    "third": "Kleidung",
+    "fourth": "Agentur"
+  },
+  {
+    "id": 69,
+    "word": "Sänger",
+    "first": "Lied",
+    "second": "Stimme",
+    "third": "Konzert",
+    "fourth": "Musik"
+  },
+  {
+    "id": 70,
+    "word": "Komponist",
+    "first": "Musik",
+    "second": "Noten",
+    "third": "Orchester",
+    "fourth": "Werk"
+  },
+  {
+    "id": 71,
+    "word": "Dirigent",
+    "first": "Orchester",
+    "second": "Musik",
+    "third": "Leitung",
+    "fourth": "Konzert"
+  },
+  {
+    "id": 72,
+    "word": "Schauspiel",
+    "first": "Theater",
+    "second": "Bühne",
+    "third": "Rolle",
+    "fourth": "Aufführung"
+  },
+  {
+    "id": 73,
+    "word": "Tänzer",
+    "first": "Bühne",
+    "second": "Choreografie",
+    "third": "Musik",
+    "fourth": "Körper"
+  },
+  {
+    "id": 74,
+    "word": "Athlet",
+    "first": "Sport",
+    "second": "Training",
+    "third": "Wettkampf",
+    "fourth": "Leistung"
+  },
+  {
+    "id": 75,
+    "word": "Trainer",
+    "first": "Sport",
+    "second": "Mannschaft",
+    "third": "Training",
+    "fourth": "Wettkampf"
+  },
+  {
+    "id": 76,
+    "word": "Fahrrad",
+    "first": "Rad",
+    "second": "Lenker",
+    "third": "Pedale",
+    "fourth": "Fahren"
+  },
+  {
+    "id": 77,
+    "word": "Ball",
+    "first": "Spiel",
+    "second": "Rund",
+    "third": "Werfen",
+    "fourth": "Schießen"
+  },
+  {
+    "id": 78,
+    "word": "Schwimmen",
+    "first": "Wasser",
+    "second": "Sport",
+    "third": "Schwimmbad",
+    "fourth": "Strecke"
+  },
+  {
+    "id": 79,
+    "word": "Rennen",
+    "first": "Laufen",
+    "second": "Schnell",
+    "third": "Wettbewerb",
+    "fourth": "Ziel"
+  },
+  {
+    "id": 80,
+    "word": "Springen",
+    "first": "Hoch",
+    "second": "Weit",
+    "third": "Beine",
+    "fourth": "Landung"
+  },
+  {
+    "id": 81,
+    "word": "Klettern",
+    "first": "Berg",
+    "second": "Hoch",
+    "third": "Seil",
+    "fourth": "Griff"
+  },
+  {
+    "id": 82,
+    "word": "Fußball",
+    "first": "Tor",
+    "second": "Spiel",
+    "third": "Ball",
+    "fourth": "Mannschaft"
+  },
+  {
+    "id": 83,
+    "word": "Basketball",
+    "first": "Korb",
+    "second": "Ball",
+    "third": "Spiel",
+    "fourth": "Mannschaft"
+  },
+  {
+    "id": 84,
+    "word": "Tennis",
+    "first": "Schläger",
+    "second": "Ball",
+    "third": "Netz",
+    "fourth": "Match"
+  },
+  {
+    "id": 85,
+    "word": "Golf",
+    "first": "Schläger",
+    "second": "Ball",
+    "third": "Loch",
+    "fourth": "Platz"
+  },
+  {
+    "id": 86,
+    "word": "Volleyball",
+    "first": "Netz",
+    "second": "Ball",
+    "third": "Spiel",
+    "fourth": "Mannschaft"
+  },
+  {
+    "id": 87,
+    "word": "Eishockey",
+    "first": "Puck",
+    "second": "Eis",
+    "third": "Schläger",
+    "fourth": "Tor"
+  },
+  {
+    "id": 88,
+    "word": "Skifahren",
+    "first": "Schnee",
+    "second": "Berg",
+    "third": "Ski",
+    "fourth": "Piste"
+  },
+  {
+    "id": 89,
+    "word": "Reiten",
+    "first": "Pferd",
+    "second": "Sattel",
+    "third": "Galopp",
+    "fourth": "Reiter"
+  },
+  {
+    "id": 90,
+    "word": "Bogenschießen",
+    "first": "Bogen",
+    "second": "Pfeil",
+    "third": "Ziel",
+    "fourth": "Spannung"
+  },
+  {
+    "id": 91,
+    "word": "Schach",
+    "first": "Brett",
+    "second": "Figuren",
+    "third": "König",
+    "fourth": "Spiel"
+  },
+  {
+    "id": 92,
+    "word": "Brettspiel",
+    "first": "Spielfeld",
+    "second": "Würfel",
+    "third": "Figuren",
+    "fourth": "Regeln"
+  },
+  {
+    "id": 93,
+    "word": "Karten",
+    "first": "Spiel",
+    "second": "Deck",
+    "third": "Ziehen",
+    "fourth": "Hände"
+  },
+  {
+    "id": 94,
+    "word": "Puzzeln",
+    "first": "Teile",
+    "second": "Bild",
+    "third": "Setzen",
+    "fourth": "Spaß"
+  },
+  {
+    "id": 95,
+    "word": "Quiz",
+    "first": "Fragen",
+    "second": "Antwort",
+    "third": "Wissen",
+    "fourth": "Spiel"
+  },
+  {
+    "id": 96,
+    "word": "Rätsel",
+    "first": "Lösung",
+    "second": "Denken",
+    "third": "Knobeln",
+    "fourth": "Schwierigkeit"
+  },
+  {
+    "id": 97,
+    "word": "Schreiben",
+    "first": "Stift",
+    "second": "Papier",
+    "third": "Text",
+    "fourth": "Buchstaben"
+  },
+  {
+    "id": 98,
+    "word": "Lesen",
+    "first": "Buch",
+    "second": "Worte",
+    "third": "Geschichte",
+    "fourth": "Seiten"
+  },
+  {
+    "id": 99,
+    "word": "Malen",
+    "first": "Pinsel",
+    "second": "Farbe",
+    "third": "Leinwand",
+    "fourth": "Bild"
+  },
+  {
+    "id": 100,
+    "word": "Fotografieren",
+    "first": "Kamera",
+    "second": "Bild",
+    "third": "Licht",
+    "fourth": "Moment"
+  }
+]

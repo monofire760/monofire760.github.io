@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "word": "Bilgisayar",
+    "first": "Klavye",
+    "second": "Fare",
+    "third": "Ekran",
+    "fourth": "İnternet"
+  },
+  {
+    "id": "2",
+    "word": "Yazılım",
+    "first": "Program",
+    "second": "Kod",
+    "third": "Geliştirici",
+    "fourth": "Uygulama"
+  },
+  {
+    "id": "3",
+    "word": "Akıllı Telefon",
+    "first": "Dokunmatik",
+    "second": "Uygulama",
+    "third": "Kamera",
+    "fourth": "Şarj"
+  },
+  {
+    "id": "4",
+    "word": "İnternet",
+    "first": "Web",
+    "second": "Bağlantı",
+    "third": "Tarayıcı",
+    "fourth": "Site"
+  },
+  {
+    "id": "5",
+    "word": "Yapay Zeka",
+    "first": "Öğrenme",
+    "second": "Robot",
+    "third": "Asistan",
+    "fourth": "Algoritma"
+  },
+  {
+    "id": "6",
+    "word": "Bulut",
+    "first": "Depolama",
+    "second": "Sunucu",
+    "third": "Veri",
+    "fourth": "Yedekleme"
+  },
+  {
+    "id": "7",
+    "word": "Bluetooth",
+    "first": "Kablosuz",
+    "second": "Bağlantı",
+    "third": "Kulaklık",
+    "fourth": "Eşleştirme"
+  },
+  {
+    "id": "8",
+    "word": "Veritabanı",
+    "first": "Bilgi",
+    "second": "Depolama",
+    "third": "SQL",
+    "fourth": "Sunucu"
+  },
+  {
+    "id": "9",
+    "word": "Oyun Konsolu",
+    "first": "PlayStation",
+    "second": "Xbox",
+    "third": "Kontrol",
+    "fourth": "Grafik"
+  },
+  {
+    "id": "10",
+    "word": "Sanal Gerçeklik",
+    "first": "Gözlük",
+    "second": "3D",
+    "third": "Deneyim",
+    "fourth": "Simülasyon"
+  },
+  {
+    "id": "11",
+    "word": "Processor",
+    "first": "CPU",
+    "second": "Çip",
+    "third": "Hız",
+    "fourth": "Çekirdek"
+  },
+  {
+    "id": "12",
+    "word": "RAM",
+    "first": "Bellek",
+    "second": "Geçici",
+    "third": "Hız",
+    "fourth": "Kapasiter"
+  },
+  {
+    "id": "13",
+    "word": "SSD",
+    "first": "Depolama",
+    "second": "Hızlı",
+    "third": "Disk",
+    "fourth": "Hafıza"
+  },
+  {
+    "id": "14",
+    "word": "Router",
+    "first": "İnternet",
+    "second": "Wifi",
+    "third": "Ağ",
+    "fourth": "Bağlantı"
+  },
+  {
+    "id": "15",
+    "word": "Tablet",
+    "first": "Dokunmatik",
+    "second": "Taşınabilir",
+    "third": "Ekran",
+    "fourth": "Uygulama"
+  },
+  {
+    "id": "16",
+    "word": "Drone",
+    "first": "Uçan",
+    "second": "Kamera",
+    "third": "Pervane",
+    "fourth": "Uzaktan"
+  },
+  {
+    "id": "17",
+    "word": "Kripto Para",
+    "first": "Bitcoin",
+    "second": "Blockchain",
+    "third": "Dijital",
+    "fourth": "Madencilik"
+  },
+  {
+    "id": "18",
+    "word": "Siber Güvenlik",
+    "first": "Hacker",
+    "second": "Koruma",
+    "third": "Şifre",
+    "fourth": "Virüs"
+  },
+  {
+    "id": "19",
+    "word": "Biyometrik",
+    "first": "Parmak İzi",
+    "second": "Yüz Tanıma",
+    "third": "Tarama",
+    "fourth": "Güvenlik"
+  },
+  {
+    "id": "20",
+    "word": "E-ticaret",
+    "first": "Alışveriş",
+    "second": "Online",
+    "third": "Satış",
+    "fourth": "Ödeme"
+  },
+  {
+    "id": "21",
+    "word": "Giyilebilir Teknoloji",
+    "first": "Akıllı Saat",
+    "second": "Fitness",
+    "third": "Bileklik",
+    "fourth": "Takip"
+  },
+  {
+    "id": "22",
+    "word": "Sosyal Medya",
+    "first": "Paylaşım",
+    "second": "Platform",
+    "third": "Beğeni",
+    "fourth": "Takipçi"
+  },
+  {
+    "id": "23",
+    "word": "GPS",
+    "first": "Navigasyon",
+    "second": "Konum",
+    "third": "Harita",
+    "fourth": "Uydu"
+  },
+  {
+    "id": "24",
+    "word": "Artırılmış Gerçeklik",
+    "first": "Sanal",
+    "second": "Gerçek",
+    "third": "Görüntü",
+    "fourth": "Uygulama"
+  },
+  {
+    "id": "25",
+    "word": "IOT",
+    "first": "Nesnelerin İnterneti",
+    "second": "Bağlantılı",
+    "third": "Akıllı Ev",
+    "fourth": "Cihaz"
+  },
+  {
+    "id": "26",
+    "word": "5G",
+    "first": "İnternet",
+    "second": "Hız",
+    "third": "Bağlantı",
+    "fourth": "Mobil"
+  },
+  {
+    "id": "27",
+    "word": "Yazıcı",
+    "first": "Baskı",
+    "second": "Kağıt",
+    "third": "Mürekkep",
+    "fourth": "3D"
+  },
+  {
+    "id": "28",
+    "word": "QR Kod",
+    "first": "Tarama",
+    "second": "Kare",
+    "third": "Bilgi",
+    "fourth": "Link"
+  },
+  {
+    "id": "29",
+    "word": "Kulaklık",
+    "first": "Ses",
+    "second": "Müzik",
+    "third": "Kablosuz",
+    "fourth": "Gürültü Engelleme"
+  },
+  {
+    "id": "30",
+    "word": "Algoritma",
+    "first": "Kod",
+    "second": "Sıralama",
+    "third": "Problem",
+    "fourth": "Çözüm"
+  }
+]

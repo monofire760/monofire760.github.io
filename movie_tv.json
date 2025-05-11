@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "word": "Hollywood",
+    "first": "Sinema",
+    "second": "Amerika",
+    "third": "Oscar",
+    "fourth": "Yıldız"
+  },
+  {
+    "id": "2",
+    "word": "Senaryo",
+    "first": "Film",
+    "second": "Hikaye",
+    "third": "Yazar",
+    "fourth": "Diyalog"
+  },
+  {
+    "id": "3",
+    "word": "Yönetmen",
+    "first": "Film",
+    "second": "Set",
+    "third": "Kamera",
+    "fourth": "Talimat"
+  },
+  {
+    "id": "4",
+    "word": "Aktör",
+    "first": "Oyuncu",
+    "second": "Rol",
+    "third": "Karakter",
+    "fourth": "Performans"
+  },
+  {
+    "id": "5",
+    "word": "Komedi",
+    "first": "Gülmek",
+    "second": "Eğlence",
+    "third": "Şaka",
+    "fourth": "Mizah"
+  },
+  {
+    "id": "6",
+    "word": "Bilet",
+    "first": "Sinema",
+    "second": "Gişe",
+    "third": "Satın almak",
+    "fourth": "Koltuk"
+  },
+  {
+    "id": "7",
+    "word": "Dizi",
+    "first": "Sezon",
+    "second": "Bölüm",
+    "third": "Televizyon",
+    "fourth": "Seri"
+  },
+  {
+    "id": "8",
+    "word": "Patlamış Mısır",
+    "first": "Sinema",
+    "second": "Yemek",
+    "third": "Film",
+    "fourth": "Kova"
+  },
+  {
+    "id": "9",
+    "word": "Efekt",
+    "first": "Görsel",
+    "second": "Bilgisayar",
+    "third": "Aksiyon",
+    "fourth": "Gerçekçi"
+  },
+  {
+    "id": "10",
+    "word": "Platform",
+    "first": "Netflix",
+    "second": "İzlemek",
+    "third": "Abonelik",
+    "fourth": "İçerik"
+  },
+  {
+    "id": "11",
+    "word": "Kamera",
+    "first": "Çekim",
+    "second": "Objektif",
+    "third": "Tripod",
+    "fourth": "Görüntü"
+  },
+  {
+    "id": "12",
+    "word": "Stüdyo",
+    "first": "Set",
+    "second": "Sahne",
+    "third": "Kayıt",
+    "fourth": "Prodüksiyon"
+  },
+  {
+    "id": "13",
+    "word": "Oskar",
+    "first": "Ödül",
+    "second": "Heykel",
+    "third": "Tören",
+    "fourth": "Akademi"
+  },
+  {
+    "id": "14",
+    "word": "Fragman",
+    "first": "Tanıtım",
+    "second": "Kısa",
+    "third": "Film",
+    "fourth": "Öngösterim"
+  },
+  {
+    "id": "15",
+    "word": "Klaketi",
+    "first": "Sahne",
+    "second": "Başlamak",
+    "third": "Film",
+    "fourth": "Kapatmak"
+  },
+  {
+    "id": "16",
+    "word": "Kurgu",
+    "first": "Montaj",
+    "second": "Kesme",
+    "third": "Sahne",
+    "fourth": "Düzenleme"
+  },
+  {
+    "id": "17",
+    "word": "Dublaj",
+    "first": "Ses",
+    "second": "Konuşma",
+    "third": "Aktör",
+    "fourth": "Çeviri"
+  },
+  {
+    "id": "18",
+    "word": "Altyazı",
+    "first": "Çeviri",
+    "second": "Metin",
+    "third": "Ekran",
+    "fourth": "Dil"
+  },
+  {
+    "id": "19",
+    "word": "Kostüm",
+    "first": "Giysi",
+    "second": "Tasarım",
+    "third": "Karakter",
+    "fourth": "Film"
+  },
+  {
+    "id": "20",
+    "word": "Gala",
+    "first": "Prömiyere",
+    "second": "İlk Gösterim",
+    "third": "Kırmızı Halı",
+    "fourth": "Davet"
+  },
+  {
+    "id": "21",
+    "word": "Korku",
+    "first": "Gerilim",
+    "second": "Korkmak",
+    "third": "Karanlık",
+    "fourth": "Film"
+  },
+  {
+    "id": "22",
+    "word": "Bilim Kurgu",
+    "first": "Uzay",
+    "second": "Gelecek",
+    "third": "Robot",
+    "fourth": "Teknoloji"
+  },
+  {
+    "id": "23",
+    "word": "Romantik",
+    "first": "Aşk",
+    "second": "Duygu",
+    "third": "Çift",
+    "fourth": "Film"
+  },
+  {
+    "id": "24",
+    "word": "Belgesel",
+    "first": "Gerçek",
+    "second": "Doğa",
+    "third": "Bilgi",
+    "fourth": "Araştırma"
+  },
+  {
+    "id": "25",
+    "word": "Animasyon",
+    "first": "Çizgi Film",
+    "second": "Karakter",
+    "third": "Çizim",
+    "fourth": "Pixar"
+  },
+  {
+    "id": "26",
+    "word": "Yıldız",
+    "first": "Ünlü",
+    "second": "Aktör",
+    "third": "Film",
+    "fourth": "Popüler"
+  },
+  {
+    "id": "27",
+    "word": "Ödül",
+    "first": "Tören",
+    "second": "Statue",
+    "third": "Kazanmak",
+    "fourth": "Film"
+  },
+  {
+    "id": "28",
+    "word": "Soundtrack",
+    "first": "Müzik",
+    "second": "Film",
+    "third": "Beste",
+    "fourth": "Sahne"
+  },
+  {
+    "id": "29",
+    "word": "Eleştirmen",
+    "first": "İnceleme",
+    "second": "Yorum",
+    "third": "Puan",
+    "fourth": "Analiz"
+  },
+  {
+    "id": "30",
+    "word": "Yeşil Perde",
+    "first": "Efekt",
+    "second": "Arkaplan",
+    "third": "Teknoloji",
+    "fourth": "Stüdyo"
+  }
+]

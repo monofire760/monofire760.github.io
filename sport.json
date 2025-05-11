@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "word": "Futbol",
+    "first": "Top",
+    "second": "Kale",
+    "third": "Stadyum",
+    "fourth": "Oyuncu"
+  },
+  {
+    "id": "2",
+    "word": "Basketbol",
+    "first": "Pota",
+    "second": "Sayı",
+    "third": "Smaç",
+    "fourth": "NBA"
+  },
+  {
+    "id": "3",
+    "word": "Tenis",
+    "first": "Raket",
+    "second": "Kort",
+    "third": "File",
+    "fourth": "Servis"
+  },
+  {
+    "id": "4",
+    "word": "Yüzme",
+    "first": "Havuz",
+    "second": "Su",
+    "third": "Dalış",
+    "fourth": "Mayo"
+  },
+  {
+    "id": "5",
+    "word": "Antrenman",
+    "first": "Egzersiz",
+    "second": "Fitness",
+    "third": "Kas",
+    "fourth": "Program"
+  },
+  {
+    "id": "6",
+    "word": "Madalya",
+    "first": "Olimpiyat",
+    "second": "Altın",
+    "third": "Kazanmak",
+    "fourth": "Ödül"
+  },
+  {
+    "id": "7",
+    "word": "Hakem",
+    "first": "Karar",
+    "second": "Düdük",
+    "third": "Kart",
+    "fourth": "Maç"
+  },
+  {
+    "id": "8",
+    "word": "Forma",
+    "first": "Takım",
+    "second": "Giysi",
+    "third": "Numara",
+    "fourth": "Renk"
+  },
+  {
+    "id": "9",
+    "word": "Stadyum",
+    "first": "Tribün",
+    "second": "Taraftar",
+    "third": "Maç",
+    "fourth": "Saha"
+  },
+  {
+    "id": "10",
+    "word": "Şampiyon",
+    "first": "Birinci",
+    "second": "Kupa",
+    "third": "Kazanmak",
+    "fourth": "Turnuva"
+  },
+  {
+    "id": "11",
+    "word": "Voleybol",
+    "first": "File",
+    "second": "Smaç",
+    "third": "Servis",
+    "fourth": "Salon"
+  },
+  {
+    "id": "12",
+    "word": "Atletizm",
+    "first": "Koşu",
+    "second": "Atlama",
+    "third": "Pist",
+    "fourth": "Yarış"
+  },
+  {
+    "id": "13",
+    "word": "Maraton",
+    "first": "Koşu",
+    "second": "Mesafe",
+    "third": "Dayanıklılık",
+    "fourth": "Bitiş"
+  },
+  {
+    "id": "14",
+    "word": "Yüzücü",
+    "first": "Havuz",
+    "second": "Kulaç",
+    "third": "Stil",
+    "fourth": "Yarış"
+  },
+  {
+    "id": "15",
+    "word": "Boks",
+    "first": "Yumruk",
+    "second": "Ring",
+    "third": "Eldiven",
+    "fourth": "Nakavt"
+  },
+  {
+    "id": "16",
+    "word": "Jimnastik",
+    "first": "Esneklik",
+    "second": "Denge",
+    "third": "Halka",
+    "fourth": "Salto"
+  },
+  {
+    "id": "17",
+    "word": "Karate",
+    "first": "Dövüş",
+    "second": "Tekme",
+    "third": "Yumruk",
+    "fourth": "Kuşak"
+  },
+  {
+    "id": "18",
+    "word": "Kayak",
+    "first": "Kar",
+    "second": "Pist",
+    "third": "Dağ",
+    "fourth": "Kış"
+  },
+  {
+    "id": "19",
+    "word": "Sörf",
+    "first": "Dalga",
+    "second": "Deniz",
+    "third": "Tahta",
+    "fourth": "Denge"
+  },
+  {
+    "id": "20",
+    "word": "Golf",
+    "first": "Sopa",
+    "second": "Top",
+    "third": "Çim",
+    "fourth": "Delik"
+  },
+  {
+    "id": "21",
+    "word": "Bisiklet",
+    "first": "Pedal",
+    "second": "Tekerlek",
+    "third": "Yarış",
+    "fourth": "Tur"
+  },
+  {
+    "id": "22",
+    "word": "Halter",
+    "first": "Ağırlık",
+    "second": "Kaldırmak",
+    "third": "Güç",
+    "fourth": "Kilogram"
+  },
+  {
+    "id": "23",
+    "word": "Güreş",
+    "first": "Rakip",
+    "second": "Mindak",
+    "third": "Tutmak",
+    "fourth": "Kıspet"
+  },
+  {
+    "id": "24",
+    "word": "Satranç",
+    "first": "Tahta",
+    "second": "Piyon",
+    "third": "Şah",
+    "fourth": "Hamle"
+  },
+  {
+    "id": "25",
+    "word": "Dart",
+    "first": "Hedef",
+    "second": "Atmak",
+    "third": "Puan",
+    "fourth": "Ok"
+  },
+  {
+    "id": "26",
+    "word": "Bilardo",
+    "first": "Istaka",
+    "second": "Top",
+    "third": "Masa",
+    "fourth": "Delik"
+  },
+  {
+    "id": "27",
+    "word": "Buz Hokeyi",
+    "first": "Buz",
+    "second": "Disk",
+    "third": "Sopa",
+    "fourth": "Kale"
+  },
+  {
+    "id": "28",
+    "word": "Okçuluk",
+    "first": "Yay",
+    "second": "Ok",
+    "third": "Hedef",
+    "fourth": "Nişan"
+  },
+  {
+    "id": "29",
+    "word": "Eskrim",
+    "first": "Kılıç",
+    "second": "Maske",
+    "third": "Düello",
+    "fourth": "Pist"
+  },
+  {
+    "id": "30",
+    "word": "Cimnastik",
+    "first": "Denge",
+    "second": "Barfiks",
+    "third": "Esneklik",
+    "fourth": "Takla"
+  }
+]

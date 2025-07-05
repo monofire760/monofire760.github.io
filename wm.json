@@ -238,5 +238,565 @@
     "second": "Arkaplan",
     "third": "Teknoloji",
     "fourth": "Stüdyo"
+  },
+  {
+    "id": "31",
+    "word": "Aksiyon",
+    "first": "Dövüş",
+    "second": "Hızlı",
+    "third": "Heyecan",
+    "fourth": "Film"
+  },
+  {
+    "id": "32",
+    "word": "Drama",
+    "first": "Ciddi",
+    "second": "Duygu",
+    "third": "Ağlamak",
+    "fourth": "Film"
+  },
+  {
+    "id": "33",
+    "word": "Thriller",
+    "first": "Gerilim",
+    "second": "Heyecan",
+    "third": "Sürpriz",
+    "fourth": "Film"
+  },
+  {
+    "id": "34",
+    "word": "Western",
+    "first": "Kovboy",
+    "second": "At",
+    "third": "Çöl",
+    "fourth": "Silah"
+  },
+  {
+    "id": "35",
+    "word": "Müzikal",
+    "first": "Şarkı",
+    "second": "Dans",
+    "third": "Broadway",
+    "fourth": "Film"
+  },
+  {
+    "id": "36",
+    "word": "Aktrisi",
+    "first": "Kadın",
+    "second": "Oyuncu",
+    "third": "Rol",
+    "fourth": "Performans"
+  },
+  {
+    "id": "37",
+    "word": "Prodüktör",
+    "first": "Yapımcı",
+    "second": "Film",
+    "third": "Para",
+    "fourth": "Proje"
+  },
+  {
+    "id": "38",
+    "word": "Senarist",
+    "first": "Yazar",
+    "second": "Hikaye",
+    "third": "Diyalog",
+    "fourth": "Metin"
+  },
+  {
+    "id": "39",
+    "word": "Çekim",
+    "first": "Kamera",
+    "second": "Sahne",
+    "third": "Görüntü",
+    "fourth": "Kayıt"
+  },
+  {
+    "id": "40",
+    "word": "Plan",
+    "first": "Kamera",
+    "second": "Açı",
+    "third": "Çekim",
+    "fourth": "Görüntü"
+  },
+  {
+    "id": "41",
+    "word": "Close-up",
+    "first": "Yakından",
+    "second": "Çekim",
+    "third": "Yüz",
+    "fourth": "Detay"
+  },
+  {
+    "id": "42",
+    "word": "Panorama",
+    "first": "Geniş",
+    "second": "Çekim",
+    "third": "Manzara",
+    "fourth": "Açı"
+  },
+  {
+    "id": "43",
+    "word": "Sahne",
+    "first": "Olay",
+    "second": "Yer",
+    "third": "Film",
+    "fourth": "Bölüm"
+  },
+  {
+    "id": "44",
+    "word": "Çıplak",
+    "first": "Soyunmak",
+    "second": "Film",
+    "third": "Sahne",
+    "fourth": "18+"
+  },
+  {
+    "id": "45",
+    "word": "Dublörlük",
+    "first": "Tehlikeli",
+    "second": "Sahne",
+    "third": "Aktör",
+    "fourth": "Yerine"
+  },
+  {
+    "id": "46",
+    "word": "Makyaj",
+    "first": "Yüz",
+    "second": "Güzellik",
+    "third": "Karakter",
+    "fourth": "Film"
+  },
+  {
+    "id": "47",
+    "word": "Işık",
+    "first": "Aydınlatma",
+    "second": "Set",
+    "third": "Atmosfer",
+    "fourth": "Görüntü"
+  },
+  {
+    "id": "48",
+    "word": "Ses",
+    "first": "Audio",
+    "second": "Mikrofon",
+    "third": "Kayıt",
+    "fourth": "Film"
+  },
+  {
+    "id": "49",
+    "word": "Oyunculuk",
+    "first": "Yetenek",
+    "second": "Rol",
+    "third": "Canlandırma",
+    "fourth": "Sanat"
+  },
+  {
+    "id": "50",
+    "word": "Karakter",
+    "first": "Kişilik",
+    "second": "Rol",
+    "third": "Oyuncu",
+    "fourth": "Film"
+  },
+  {
+    "id": "51",
+    "word": "Diyalog",
+    "first": "Konuşma",
+    "second": "Senaryo",
+    "third": "Metin",
+    "fourth": "Söz"
+  },
+  {
+    "id": "52",
+    "word": "Monolog",
+    "first": "Tek",
+    "second": "Konuşma",
+    "third": "Söylev",
+    "fourth": "Oyuncu"
+  },
+  {
+    "id": "53",
+    "word": "İmdb",
+    "first": "Puan",
+    "second": "Film",
+    "third": "Veritabanı",
+    "fourth": "İnternet"
+  },
+  {
+    "id": "54",
+    "word": "Festival",
+    "first": "Cannes",
+    "second": "Film",
+    "third": "Yarışma",
+    "fourth": "Ödül"
+  },
+  {
+    "id": "55",
+    "word": "Prömiyere",
+    "first": "İlk",
+    "second": "Gösterim",
+    "third": "Gala",
+    "fourth": "Özel"
+  },
+  {
+    "id": "56",
+    "word": "İndie",
+    "first": "Bağımsız",
+    "second": "Film",
+    "third": "Düşük",
+    "fourth": "Bütçe"
+  },
+  {
+    "id": "57",
+    "word": "Blockbuster",
+    "first": "Büyük",
+    "second": "Bütçe",
+    "third": "Popüler",
+    "fourth": "Film"
+  },
+  {
+    "id": "58",
+    "word": "Sequel",
+    "first": "Devam",
+    "second": "Filmi",
+    "third": "İkinci",
+    "fourth": "Seri"
+  },
+  {
+    "id": "59",
+    "word": "Prequel",
+    "first": "Öncesi",
+    "second": "Film",
+    "third": "Geçmiş",
+    "fourth": "Hikaye"
+  },
+  {
+    "id": "60",
+    "word": "Remake",
+    "first": "Yeniden",
+    "second": "Çekme",
+    "third": "Eski",
+    "fourth": "Film"
+  },
+  {
+    "id": "61",
+    "word": "Uyarlama",
+    "first": "Kitap",
+    "second": "Film",
+    "third": "Değişiklik",
+    "fourth": "Çeviri"
+  },
+  {
+    "id": "62",
+    "word": "Biografi",
+    "first": "Yaşam",
+    "second": "Hikayesi",
+    "third": "Gerçek",
+    "fourth": "Kişi"
+  },
+  {
+    "id": "63",
+    "word": "Spoiler",
+    "first": "Film",
+    "second": "Sonu",
+    "third": "Açıklama",
+    "fourth": "Bozma"
+  },
+  {
+    "id": "64",
+    "word": "Twist",
+    "first": "Sürpriz",
+    "second": "Son",
+    "third": "Beklenmedik",
+    "fourth": "Olay"
+  },
+  {
+    "id": "65",
+    "word": "Cliffhanger",
+    "first": "Gerilim",
+    "second": "Son",
+    "third": "Merak",
+    "fourth": "Bırakma"
+  },
+  {
+    "id": "66",
+    "word": "Flashback",
+    "first": "Geçmiş",
+    "second": "Hatıra",
+    "third": "Geri",
+    "fourth": "Dönüş"
+  },
+  {
+    "id": "67",
+    "word": "Montaj",
+    "first": "Kurgu",
+    "second": "Kesme",
+    "third": "Birleştirme",
+    "fourth": "Sahne"
+  },
+  {
+    "id": "68",
+    "word": "Sansür",
+    "first": "Kesme",
+    "second": "Yasak",
+    "third": "Saklama",
+    "fourth": "İçerik"
+  },
+  {
+    "id": "69",
+    "word": "Rating",
+    "first": "Yaş",
+    "second": "Sınırı",
+    "third": "Puan",
+    "fourth": "Değerlendirme"
+  },
+  {
+    "id": "70",
+    "word": "Box Office",
+    "first": "Gişe",
+    "second": "Hasılat",
+    "third": "Para",
+    "fourth": "Kazanç"
+  },
+  {
+    "id": "71",
+    "word": "Flop",
+    "first": "Başarısız",
+    "second": "Film",
+    "third": "Gişe",
+    "fourth": "Kayıp"
+  },
+  {
+    "id": "72",
+    "word": "Hit",
+    "first": "Başarılı",
+    "second": "Film",
+    "third": "Popüler",
+    "fourth": "Sevilen"
+  },
+  {
+    "id": "73",
+    "word": "Cult",
+    "first": "Kült",
+    "second": "Film",
+    "third": "Özel",
+    "fourth": "Takipçi"
+  },
+  {
+    "id": "74",
+    "word": "Classic",
+    "first": "Klasik",
+    "second": "Eski",
+    "third": "Değerli",
+    "fourth": "Film"
+  },
+  {
+    "id": "75",
+    "word": "B-Movie",
+    "first": "Düşük",
+    "second": "Bütçe",
+    "third": "Kalitesiz",
+    "fourth": "Film"
+  },
+  {
+    "id": "76",
+    "word": "Cameo",
+    "first": "Kısa",
+    "second": "Rol",
+    "third": "Ünlü",
+    "fourth": "Görünme"
+  },
+  {
+    "id": "77",
+    "word": "Easter Egg",
+    "first": "Gizli",
+    "second": "Mesaj",
+    "third": "Referans",
+    "fourth": "Detay"
+  },
+  {
+    "id": "78",
+    "word": "Blooper",
+    "first": "Hata",
+    "second": "Yanlış",
+    "third": "Komik",
+    "fourth": "Çekim"
+  },
+  {
+    "id": "79",
+    "word": "Outtake",
+    "first": "Kullanılmayan",
+    "second": "Sahne",
+    "third": "Çıkarılan",
+    "fourth": "Görüntü"
+  },
+  {
+    "id": "80",
+    "word": "Director's Cut",
+    "first": "Yönetmen",
+    "second": "Versiyonu",
+    "third": "Uzun",
+    "fourth": "Kesim"
+  },
+  {
+    "id": "81",
+    "word": "Extended",
+    "first": "Uzatılmış",
+    "second": "Versiyon",
+    "third": "Uzun",
+    "fourth": "Film"
+  },
+  {
+    "id": "82",
+    "word": "Deleted Scene",
+    "first": "Silinen",
+    "second": "Sahne",
+    "third": "Çıkarılan",
+    "fourth": "Bölüm"
+  },
+  {
+    "id": "83",
+    "word": "Behind The Scenes",
+    "first": "Kamera",
+    "second": "Arkası",
+    "third": "Çekim",
+    "fourth": "Süreç"
+  },
+  {
+    "id": "84",
+    "word": "Making Of",
+    "first": "Yapım",
+    "second": "Süreci",
+    "third": "Belgesel",
+    "fourth": "Film"
+  },
+  {
+    "id": "85",
+    "word": "Casting",
+    "first": "Oyuncu",
+    "second": "Seçimi",
+    "third": "Deneme",
+    "fourth": "Çekimi"
+  },
+  {
+    "id": "86",
+    "word": "Audition",
+    "first": "Seçme",
+    "second": "Sınavı",
+    "third": "Deneme",
+    "fourth": "Oyuncu"
+  },
+  {
+    "id": "87",
+    "word": "Rehearsal",
+    "first": "Prova",
+    "second": "Çalışma",
+    "third": "Tekrar",
+    "fourth": "Hazırlık"
+  },
+  {
+    "id": "88",
+    "word": "Take",
+    "first": "Çekim",
+    "second": "Deneme",
+    "third": "Tekrar",
+    "fourth": "Sahne"
+  },
+  {
+    "id": "89",
+    "word": "Action",
+    "first": "Başla",
+    "second": "Yönetmen",
+    "third": "Komut",
+    "fourth": "Çekim"
+  },
+  {
+    "id": "90",
+    "word": "Cut",
+    "first": "Kes",
+    "second": "Dur",
+    "third": "Yönetmen",
+    "fourth": "Komut"
+  },
+  {
+    "id": "91",
+    "word": "Wrap",
+    "first": "Bitiş",
+    "second": "Çekim",
+    "third": "Tamamlama",
+    "fourth": "Son"
+  },
+  {
+    "id": "92",
+    "word": "Dailies",
+    "first": "Günlük",
+    "second": "Çekimler",
+    "third": "Ham",
+    "fourth": "Görüntü"
+  },
+  {
+    "id": "93",
+    "word": "Rough Cut",
+    "first": "Ham",
+    "second": "Kurgu",
+    "third": "İlk",
+    "fourth": "Montaj"
+  },
+  {
+    "id": "94",
+    "word": "Final Cut",
+    "first": "Son",
+    "second": "Kurgu",
+    "third": "Tamamlanmış",
+    "fourth": "Film"
+  },
+  {
+    "id": "95",
+    "word": "Post Production",
+    "first": "Sonrası",
+    "second": "İşlem",
+    "third": "Kurgu",
+    "fourth": "Efekt"
+  },
+  {
+    "id": "96",
+    "word": "Pre Production",
+    "first": "Öncesi",
+    "second": "Hazırlık",
+    "third": "Planlama",
+    "fourth": "Çekim"
+  },
+  {
+    "id": "97",
+    "word": "Principal Photography",
+    "first": "Ana",
+    "second": "Çekim",
+    "third": "Fotoğraf",
+    "fourth": "Süreç"
+  },
+  {
+    "id": "98",
+    "word": "Location",
+    "first": "Çekim",
+    "second": "Yeri",
+    "third": "Mekan",
+    "fourth": "Yer"
+  },
+  {
+    "id": "99",
+    "word": "Set Design",
+    "first": "Sahne",
+    "second": "Tasarımı",
+    "third": "Dekor",
+    "fourth": "Düzen"
+  },
+  {
+    "id": "100",
+    "word": "Cinematography",
+    "first": "Görüntü",
+    "second": "Yönetmeni",
+    "third": "Kamera",
+    "fourth": "Sanatı"
   }
 ]

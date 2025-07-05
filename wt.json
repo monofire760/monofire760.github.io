@@ -238,5 +238,565 @@
     "second": "Sıralama",
     "third": "Problem",
     "fourth": "Çözüm"
+  },
+  {
+    "id": "31",
+    "word": "Veri Tabanı",
+    "first": "SQL",
+    "second": "Depolama",
+    "third": "Tablo",
+    "fourth": "Kayıt"
+  },
+  {
+    "id": "33",
+    "word": "Kodlama",
+    "first": "Yazılım",
+    "second": "Program",
+    "third": "Geliştirme",
+    "fourth": "Dil"
+  },
+  {
+    "id": "34",
+    "word": "Donanım",
+    "first": "Bilgisayar",
+    "second": "Fiziksel",
+    "third": "Aygıt",
+    "fourth": "Parça"
+  },
+  {
+    "id": "37",
+    "word": "Program",
+    "first": "Kod",
+    "second": "Bilgisayar",
+    "third": "Yazılım",
+    "fourth": "Uygulama"
+  },
+  {
+    "id": "38",
+    "word": "Mobil",
+    "first": "Telefon",
+    "second": "Uygulama",
+    "third": "Taşınabilir",
+    "fourth": "iOS"
+  },
+  {
+    "id": "39",
+    "word": "Android",
+    "first": "Google",
+    "second": "Mobil",
+    "third": "Uygulama",
+    "fourth": "Play Store"
+  },
+  {
+    "id": "40",
+    "word": "iOS",
+    "first": "Apple",
+    "second": "Mobil",
+    "third": "Uygulama",
+    "fourth": "iPhone"
+  },
+  {
+    "id": "41",
+    "word": "Tarayıcı",
+    "first": "Web",
+    "second": "Chrome",
+    "third": "Firefox",
+    "fourth": "Safari"
+  },
+  {
+    "id": "42",
+    "word": "Sunucu",
+    "first": "Hosting",
+    "second": "Veri",
+    "third": "Web",
+    "fourth": "Bilgisayar"
+  },
+  {
+    "id": "47",
+    "word": "CPU",
+    "first": "İşlemci",
+    "second": "Merkezi",
+    "third": "Beyin",
+    "fourth": "Bilgisayar"
+  },
+  {
+    "id": "48",
+    "word": "GPU",
+    "first": "Grafik",
+    "second": "Ekran",
+    "third": "Oyun",
+    "fourth": "Kart"
+  },
+  {
+    "id": "49",
+    "word": "Linux",
+    "first": "Açık Kaynak",
+    "second": "Ubuntu",
+    "third": "Sunucu",
+    "fourth": "Terminal"
+  },
+  {
+    "id": "50",
+    "word": "Windows",
+    "first": "Microsoft",
+    "second": "İşletim",
+    "third": "Sistem",
+    "fourth": "PC"
+  },
+  {
+    "id": "51",
+    "word": "MacOS",
+    "first": "Apple",
+    "second": "Bilgisayar",
+    "third": "İşletim",
+    "fourth": "Mac"
+  },
+  {
+    "id": "52",
+    "word": "Yazılım Geliştirici",
+    "first": "Kod",
+    "second": "Program",
+    "third": "Uygulama",
+    "fourth": "Engineer"
+  },
+  {
+    "id": "54",
+    "word": "VPN",
+    "first": "Gizlilik",
+    "second": "Ağ",
+    "third": "İnternet",
+    "fourth": "Koruma"
+  },
+  {
+    "id": "55",
+    "word": "Firewall",
+    "first": "Güvenlik",
+    "second": "Ağ",
+    "third": "Engelleme",
+    "fourth": "Koruma"
+  },
+  {
+    "id": "56",
+    "word": "Git",
+    "first": "Versiyon",
+    "second": "Kontrol",
+    "third": "Kod",
+    "fourth": "Commit"
+  },
+  {
+    "id": "57",
+    "word": "GitHub",
+    "first": "Repository",
+    "second": "Kod",
+    "third": "Proje",
+    "fourth": "Push"
+  },
+  {
+    "id": "58",
+    "word": "API",
+    "first": "Arayüz",
+    "second": "İstek",
+    "third": "Veri",
+    "fourth": "Endpoint"
+  },
+  {
+    "id": "59",
+    "word": "JSON",
+    "first": "Veri",
+    "second": "Format",
+    "third": "Anahtar",
+    "fourth": "Değer"
+  },
+  {
+    "id": "61",
+    "word": "Wi-Fi",
+    "first": "Kablosuz",
+    "second": "İnternet",
+    "third": "Ağ",
+    "fourth": "Modem"
+  },
+  {
+    "id": "62",
+    "word": "HTTP",
+    "first": "Web",
+    "second": "İstek",
+    "third": "URL",
+    "fourth": "Protokol"
+  },
+  {
+    "id": "63",
+    "word": "HTML",
+    "first": "Web",
+    "second": "Etiket",
+    "third": "Sayfa",
+    "fourth": "Kod"
+  },
+  {
+    "id": "64",
+    "word": "CSS",
+    "first": "Stil",
+    "second": "Web",
+    "third": "Tasarım",
+    "fourth": "Renk"
+  },
+  {
+    "id": "65",
+    "word": "JavaScript",
+    "first": "Web",
+    "second": "Kod",
+    "third": "Dinamik",
+    "fourth": "Tarayıcı"
+  },
+  {
+    "id": "66",
+    "word": "Python",
+    "first": "Dil",
+    "second": "Kod",
+    "third": "Yazılım",
+    "fourth": "Basit"
+  },
+  {
+    "id": "67",
+    "word": "Java",
+    "first": "Kod",
+    "second": "Dil",
+    "third": "Android",
+    "fourth": "OOP"
+  },
+  {
+    "id": "68",
+    "word": "Kotlin",
+    "first": "Android",
+    "second": "JetBrains",
+    "third": "Dil",
+    "fourth": "Kod"
+  },
+  {
+    "id": "69",
+    "word": "Flutter",
+    "first": "UI",
+    "second": "Mobil",
+    "third": "Google",
+    "fourth": "Uygulama"
+  },
+  {
+    "id": "70",
+    "word": "React",
+    "first": "JavaScript",
+    "second": "UI",
+    "third": "Component",
+    "fourth": "Web"
+  },
+  {
+    "id": "71",
+    "word": "Node.js",
+    "first": "Sunucu",
+    "second": "JavaScript",
+    "third": "Backend",
+    "fourth": "Kod"
+  },
+  {
+    "id": "72",
+    "word": "Docker",
+    "first": "Container",
+    "second": "Uygulama",
+    "third": "Taşınabilir",
+    "fourth": "İzolasyon"
+  },
+  {
+    "id": "73",
+    "word": "Kubernetes",
+    "first": "Container",
+    "second": "Orkestrasyon",
+    "third": "Cluster",
+    "fourth": "Yönetim"
+  },
+  {
+    "id": "74",
+    "word": "Machine Learning",
+    "first": "Veri",
+    "second": "Model",
+    "third": "Algoritma",
+    "fourth": "Tahmin"
+  },
+  {
+    "id": "75",
+    "word": "Blockchain",
+    "first": "Kripto",
+    "second": "Zincir",
+    "third": "Dağıtık",
+    "fourth": "Veri"
+  },
+  {
+    "id": "76",
+    "word": "NFT",
+    "first": "Token",
+    "second": "Kripto",
+    "third": "Sanat",
+    "fourth": "Dijital"
+  },
+  {
+    "id": "77",
+    "word": "Metaverse",
+    "first": "Sanal",
+    "second": "Gerçeklik",
+    "third": "3D",
+    "fourth": "Evrensel"
+  },
+  {
+    "id": "78",
+    "word": "Robot",
+    "first": "Makine",
+    "second": "Yapay",
+    "third": "Hareket",
+    "fourth": "Sensör"
+  },
+  {
+    "id": "79",
+    "word": "Sanal Gerçeklik",
+    "first": "Gözlük",
+    "second": "3D",
+    "third": "Deneyim",
+    "fourth": "Gerçek"
+  },
+  {
+    "id": "80",
+    "word": "Artırılmış Gerçeklik",
+    "first": "Gerçek",
+    "second": "Kamera",
+    "third": "Ekran",
+    "fourth": "3D"
+  },
+  {
+    "id": "81",
+    "word": "Veri Bilimi",
+    "first": "Analiz",
+    "second": "Veri",
+    "third": "Model",
+    "fourth": "Tahmin"
+  },
+  {
+    "id": "82",
+    "word": "Big Data",
+    "first": "Veri",
+    "second": "Büyük",
+    "third": "Analiz",
+    "fourth": "Hacim"
+  },
+  {
+    "id": "83",
+    "word": "Parmak İzi",
+    "first": "Biyometrik",
+    "second": "Güvenlik",
+    "third": "Kimlik",
+    "fourth": "Dokunma"
+  },
+  {
+    "id": "84",
+    "word": "Yüz Tanıma",
+    "first": "Kamera",
+    "second": "Güvenlik",
+    "third": "Yüz",
+    "fourth": "Algılayıcı"
+  },
+  {
+    "id": "85",
+    "word": "Quantum",
+    "first": "Fizik",
+    "second": "Bilgisayar",
+    "third": "Kuantum",
+    "fourth": "Süperpozisyon"
+  },
+  {
+    "id": "86",
+    "word": "Edge Computing",
+    "first": "Cihaz",
+    "second": "Veri",
+    "third": "Yerel",
+    "fourth": "Gecikme"
+  },
+  {
+    "id": "87",
+    "word": "5G",
+    "first": "Mobil",
+    "second": "Ağ",
+    "third": "Hız",
+    "fourth": "İnternet"
+  },
+  {
+    "id": "88",
+    "word": "Nesnelerin İnterneti",
+    "first": "Cihaz",
+    "second": "Bağlantı",
+    "third": "Veri",
+    "fourth": "IoT"
+  },
+  {
+    "id": "89",
+    "word": "Deep Learning",
+    "first": "Veri",
+    "second": "Ağ",
+    "third": "Yapay Zeka",
+    "fourth": "Katman"
+  },
+  {
+    "id": "90",
+    "word": "Cihaz Öğrenimi",
+    "first": "Yapay Zeka",
+    "second": "Veri",
+    "third": "Model",
+    "fourth": "Eğitim"
+  },
+  {
+    "id": "91",
+    "word": "Web3",
+    "first": "Blockchain",
+    "second": "Merkeziyetsiz",
+    "third": "Cüzdan",
+    "fourth": "Kripto"
+  },
+  {
+    "id": "92",
+    "word": "Token",
+    "first": "Kripto",
+    "second": "Blokzincir",
+    "third": "Varlık",
+    "fourth": "Dijital"
+  },
+  {
+    "id": "93",
+    "word": "Siber Saldırı",
+    "first": "Hacker",
+    "second": "Açık",
+    "third": "Virüs",
+    "fourth": "Güvenlik"
+  },
+  {
+    "id": "94",
+    "word": "Dijital Ayak İzi",
+    "first": "Veri",
+    "second": "İz",
+    "third": "İnternet",
+    "fourth": "Takip"
+  },
+  {
+    "id": "95",
+    "word": "Makine",
+    "first": "Otomatik",
+    "second": "Endüstri",
+    "third": "Çalışma",
+    "fourth": "Üretim"
+  },
+  {
+    "id": "96",
+    "word": "Sensör",
+    "first": "Cihaz",
+    "second": "Ölçüm",
+    "third": "Veri",
+    "fourth": "Giriş"
+  },
+  {
+    "id": "97",
+    "word": "Yapay Organ",
+    "first": "Biyonik",
+    "second": "Teknoloji",
+    "third": "İnsan",
+    "fourth": "Tıp"
+  },
+  {
+    "id": "98",
+    "word": "Akıllı Saat",
+    "first": "Giyilebilir",
+    "second": "Cihaz",
+    "third": "Mobil",
+    "fourth": "Zaman"
+  },
+  {
+    "id": "99",
+    "word": "Sesli Asistan",
+    "first": "Komut",
+    "second": "Cevap",
+    "third": "Yapay Zeka",
+    "fourth": "Ses"
+  },
+  {
+    "id": "100",
+    "word": "Uçtan Uca Şifreleme",
+    "first": "Gizlilik",
+    "second": "Mesaj",
+    "third": "Koruma",
+    "fourth": "Anahtar"
+  },
+  {
+    "id": "101",
+    "word": "Sanal Sunucu",
+    "first": "Bulut",
+    "second": "Barındırma",
+    "third": "Yazılım",
+    "fourth": "Donanım"
+  },
+  {
+    "id": "102",
+    "word": "Akıllı Ev",
+    "first": "Işık",
+    "second": "Kontrol",
+    "third": "Cihaz",
+    "fourth": "Ev"
+  },
+  {
+    "id": "103",
+    "word": "E-posta",
+    "first": "Mesaj",
+    "second": "Elektronik",
+    "third": "İletişim",
+    "fourth": "Adres"
+  },
+  {
+    "id": "104",
+    "word": "Tarayıcı Eklentisi",
+    "first": "Chrome",
+    "second": "Firefox",
+    "third": "Eklenti",
+    "fourth": "Web"
+  },
+  {
+    "id": "105",
+    "word": "QR Kod",
+    "first": "Karekod",
+    "second": "Tarama",
+    "third": "Kod",
+    "fourth": "Bilgi"
+  },
+  {
+    "id": "106",
+    "word": "Yazıcı",
+    "first": "Çıktı",
+    "second": "Kağıt",
+    "third": "Cihaz",
+    "fourth": "Ofis"
+  },
+  {
+    "id": "107",
+    "word": "Tarayıcı Motoru",
+    "first": "Web",
+    "second": "Render",
+    "third": "Sayfa",
+    "fourth": "İçerik"
+  },
+  {
+    "id": "108",
+    "word": "Akıllı Telefon",
+    "first": "Mobil",
+    "second": "Cihaz",
+    "third": "Uygulama",
+    "fourth": "Taşınabilir"
+  },
+  {
+    "id": "109",
+    "word": "Sanal Gerçeklik",
+    "first": "Gözlük",
+    "second": "3D",
+    "third": "Deneyim",
+    "fourth": "Gerçek"
   }
 ]

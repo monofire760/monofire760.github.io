@@ -238,5 +238,565 @@
     "second": "Barfiks",
     "third": "Esneklik",
     "fourth": "Takla"
+  },
+  {
+    "id": "31",
+    "word": "Masa Tenisi",
+    "first": "Raket",
+    "second": "Masa",
+    "third": "File",
+    "fourth": "Ping Pong"
+  },
+  {
+    "id": "32",
+    "word": "Badminton",
+    "first": "Raket",
+    "second": "Tüy",
+    "third": "File",
+    "fourth": "Kort"
+  },
+  {
+    "id": "33",
+    "word": "Ragbi",
+    "first": "Top",
+    "second": "Oval",
+    "third": "Tutmak",
+    "fourth": "Koşmak"
+  },
+  {
+    "id": "34",
+    "word": "Kriket",
+    "first": "Sopak",
+    "second": "Top",
+    "third": "Vurmak",
+    "fourth": "İngiltere"
+  },
+  {
+    "id": "35",
+    "word": "Beyzbol",
+    "first": "Sopa",
+    "second": "Top",
+    "third": "Koşu",
+    "fourth": "Amerika"
+  },
+  {
+    "id": "36",
+    "word": "Hentbol",
+    "first": "Top",
+    "second": "Kale",
+    "third": "El",
+    "fourth": "Atmak"
+  },
+  {
+    "id": "37",
+    "word": "Su Topu",
+    "first": "Havuz",
+    "second": "Top",
+    "third": "Yüzmek",
+    "fourth": "Kale"
+  },
+  {
+    "id": "38",
+    "word": "Sprint",
+    "first": "Hız",
+    "second": "Koşu",
+    "third": "Kısa",
+    "fourth": "Yarış"
+  },
+  {
+    "id": "39",
+    "word": "Uzun Atlama",
+    "first": "Atlama",
+    "second": "Mesafe",
+    "third": "Kum",
+    "fourth": "Koşu"
+  },
+  {
+    "id": "40",
+    "word": "Yüksek Atlama",
+    "first": "Atlama",
+    "second": "Çıta",
+    "third": "Yükseklik",
+    "fourth": "Minder"
+  },
+  {
+    "id": "41",
+    "word": "Disk Atma",
+    "first": "Disk",
+    "second": "Atmak",
+    "third": "Mesafe",
+    "fourth": "Dönme"
+  },
+  {
+    "id": "42",
+    "word": "Çekiç Atma",
+    "first": "Çekiç",
+    "second": "Atmak",
+    "third": "Dönme",
+    "fourth": "Güç"
+  },
+  {
+    "id": "43",
+    "word": "Cirit Atma",
+    "first": "Cirit",
+    "second": "Atmak",
+    "third": "Uzun",
+    "fourth": "Mesafe"
+  },
+  {
+    "id": "44",
+    "word": "Gülle Atma",
+    "first": "Gülle",
+    "second": "Ağır",
+    "third": "Atmak",
+    "fourth": "Güç"
+  },
+  {
+    "id": "45",
+    "word": "Triatlon",
+    "first": "Üç",
+    "second": "Branş",
+    "third": "Yüzme",
+    "fourth": "Koşu"
+  },
+  {
+    "id": "46",
+    "word": "Pentatlon",
+    "first": "Beş",
+    "second": "Branş",
+    "third": "Modern",
+    "fourth": "Olimpiyat"
+  },
+  {
+    "id": "47",
+    "word": "Dektatlon",
+    "first": "On",
+    "second": "Branş",
+    "third": "Erkek",
+    "fourth": "İki Gün"
+  },
+  {
+    "id": "48",
+    "word": "Antrenör",
+    "first": "Öğretmen",
+    "second": "Taktik",
+    "third": "Takım",
+    "fourth": "Çalıştırma"
+  },
+  {
+    "id": "49",
+    "word": "Sporcu",
+    "first": "Atlet",
+    "second": "Yarışma",
+    "third": "Antrenman",
+    "fourth": "Performans"
+  },
+  {
+    "id": "50",
+    "word": "Müsabaka",
+    "first": "Yarış",
+    "second": "Rekabet",
+    "third": "Kazanmak",
+    "fourth": "Sonuç"
+  },
+  {
+    "id": "51",
+    "word": "Turnuva",
+    "first": "Şampiyonluk",
+    "second": "Eleme",
+    "third": "Final",
+    "fourth": "Kupa"
+  },
+  {
+    "id": "52",
+    "word": "Lig",
+    "first": "Sezon",
+    "second": "Puan",
+    "third": "Sıralama",
+    "fourth": "Takım"
+  },
+  {
+    "id": "53",
+    "word": "Transfer",
+    "first": "Oyuncu",
+    "second": "Takım",
+    "third": "Para",
+    "fourth": "Değişim"
+  },
+  {
+    "id": "54",
+    "word": "Gol",
+    "first": "Sayı",
+    "second": "Kale",
+    "third": "Top",
+    "fourth": "Sevinç"
+  },
+  {
+    "id": "55",
+    "word": "Asist",
+    "first": "Pas",
+    "second": "Yardım",
+    "third": "Gol",
+    "fourth": "Oyuncu"
+  },
+  {
+    "id": "56",
+    "word": "Faul",
+    "first": "Kural",
+    "second": "İhlal",
+    "third": "Ceza",
+    "fourth": "Hakem"
+  },
+  {
+    "id": "57",
+    "word": "Penaltı",
+    "first": "Ceza",
+    "second": "Vuruş",
+    "third": "Kale",
+    "fourth": "On Bir"
+  },
+  {
+    "id": "58",
+    "word": "Ofsayt",
+    "first": "Kural",
+    "second": "Konum",
+    "third": "İhlal",
+    "fourth": "Çizgi"
+  },
+  {
+    "id": "59",
+    "word": "Korner",
+    "first": "Köşe",
+    "second": "Vuruş",
+    "third": "Bayrak",
+    "fourth": "Çizgi"
+  },
+  {
+    "id": "60",
+    "word": "Taç",
+    "first": "Çizgi",
+    "second": "Dışarı",
+    "third": "Atmak",
+    "fourth": "El"
+  },
+  {
+    "id": "61",
+    "word": "Serbest Vuruş",
+    "first": "Faul",
+    "second": "Ceza",
+    "third": "Duvar",
+    "fourth": "Vuruş"
+  },
+  {
+    "id": "62",
+    "word": "Kırmızı Kart",
+    "first": "Çıkarma",
+    "second": "Ceza",
+    "third": "Hakem",
+    "fourth": "Oyun"
+  },
+  {
+    "id": "63",
+    "word": "Sarı Kart",
+    "first": "Uyarı",
+    "second": "Hakem",
+    "third": "Ceza",
+    "fourth": "İkinci"
+  },
+  {
+    "id": "64",
+    "word": "İkinci Yarı",
+    "first": "Devre",
+    "second": "Kırk Beş",
+    "third": "Dakika",
+    "fourth": "Bitiş"
+  },
+  {
+    "id": "65",
+    "word": "Uzatma",
+    "first": "Ek",
+    "second": "Süre",
+    "third": "Beraberlik",
+    "fourth": "Dakika"
+  },
+  {
+    "id": "66",
+    "word": "Penaltı Atışları",
+    "first": "On Bir",
+    "second": "Metre",
+    "third": "Beş",
+    "fourth": "Atış"
+  },
+  {
+    "id": "67",
+    "word": "Derbi",
+    "first": "Rakip",
+    "second": "Şehir",
+    "third": "Düşman",
+    "fourth": "Özel"
+  },
+  {
+    "id": "68",
+    "word": "Şampiyonluk",
+    "first": "Birinci",
+    "second": "Kupa",
+    "third": "Kazanmak",
+    "fourth": "Başarı"
+  },
+  {
+    "id": "69",
+    "word": "Küme Düşme",
+    "first": "Alt",
+    "second": "Lig",
+    "third": "Düşmek",
+    "fourth": "Son"
+  },
+  {
+    "id": "70",
+    "word": "Playoff",
+    "first": "Eleme",
+    "second": "Final",
+    "third": "Çeyrek",
+    "fourth": "Yarı"
+  },
+  {
+    "id": "71",
+    "word": "Finale",
+    "first": "Son",
+    "second": "Maç",
+    "third": "Şampiyon",
+    "fourth": "İki"
+  },
+  {
+    "id": "72",
+    "word": "Yarı Final",
+    "first": "Dört",
+    "second": "Takım",
+    "third": "Eleme",
+    "fourth": "Son"
+  },
+  {
+    "id": "73",
+    "word": "Çeyrek Final",
+    "first": "Sekiz",
+    "second": "Takım",
+    "third": "Eleme",
+    "fourth": "Dördün"
+  },
+  {
+    "id": "74",
+    "word": "Eleme",
+    "first": "Çıkma",
+    "second": "Turnuva",
+    "third": "Kaybetmek",
+    "fourth": "Son"
+  },
+  {
+    "id": "75",
+    "word": "Kura",
+    "first": "Çekme",
+    "second": "Rastgele",
+    "third": "Eşleşme",
+    "fourth": "Şans"
+  },
+  {
+    "id": "76",
+    "word": "Deplasman",
+    "first": "Dış",
+    "second": "Saha",
+    "third": "Rakip",
+    "fourth": "Seyahat"
+  },
+  {
+    "id": "77",
+    "word": "İç Saha",
+    "first": "Ev",
+    "second": "Avantaj",
+    "third": "Taraftar",
+    "fourth": "Kendi"
+  },
+  {
+    "id": "78",
+    "word": "Seyirci",
+    "first": "Taraftar",
+    "second": "İzleyici",
+    "third": "Tribün",
+    "fourth": "Destek"
+  },
+  {
+    "id": "79",
+    "word": "Kombine",
+    "first": "Bilet",
+    "second": "Sezon",
+    "third": "Tüm",
+    "fourth": "Maç"
+  },
+  {
+    "id": "80",
+    "word": "Sezon Sonu",
+    "first": "Bitiş",
+    "second": "Yaz",
+    "third": "Tatil",
+    "fourth": "Final"
+  },
+  {
+    "id": "81",
+    "word": "Kamp",
+    "first": "Hazırlık",
+    "second": "Antrenman",
+    "third": "Toplanma",
+    "fourth": "Sezon"
+  },
+  {
+    "id": "82",
+    "word": "Kondisyon",
+    "first": "Form",
+    "second": "Dayanıklılık",
+    "third": "Fitness",
+    "fourth": "Güç"
+  },
+  {
+    "id": "83",
+    "word": "Taktik",
+    "first": "Strateji",
+    "second": "Plan",
+    "third": "Oyun",
+    "fourth": "Düzen"
+  },
+  {
+    "id": "84",
+    "word": "Strateji",
+    "first": "Plan",
+    "second": "Taktik",
+    "third": "Hedef",
+    "fourth": "Yöntem"
+  },
+  {
+    "id": "85",
+    "word": "Oyun Kurucu",
+    "first": "Pas",
+    "second": "Orta",
+    "third": "Saha",
+    "fourth": "Yaratıcı"
+  },
+  {
+    "id": "86",
+    "word": "Libero",
+    "first": "Savunma",
+    "second": "Son",
+    "third": "Adam",
+    "fourth": "Temizlik"
+  },
+  {
+    "id": "87",
+    "word": "Kaptan",
+    "first": "Lider",
+    "second": "Bant",
+    "third": "Takım",
+    "fourth": "Sorumlu"
+  },
+  {
+    "id": "88",
+    "word": "Yedek",
+    "first": "Bank",
+    "second": "Değişiklik",
+    "third": "Beklemek",
+    "fourth": "Kulübe"
+  },
+  {
+    "id": "89",
+    "word": "İlk On Bir",
+    "first": "Başlangıç",
+    "second": "Kadro",
+    "third": "Sahada",
+    "fourth": "Seçilen"
+  },
+  {
+    "id": "90",
+    "word": "Değişiklik",
+    "first": "Oyuncu",
+    "second": "Çıkarma",
+    "third": "Sokma",
+    "fourth": "Üç"
+  },
+  {
+    "id": "91",
+    "word": "Mola",
+    "first": "Dinlenme",
+    "second": "Su",
+    "third": "Nefes",
+    "fourth": "Kısa"
+  },
+  {
+    "id": "92",
+    "word": "Devre Arası",
+    "first": "On Beş",
+    "second": "Dakika",
+    "third": "Dinlenme",
+    "fourth": "Soyunma"
+  },
+  {
+    "id": "93",
+    "word": "Isınma",
+    "first": "Hazırlık",
+    "second": "Koşu",
+    "third": "Germe",
+    "fourth": "Başlangıç"
+  },
+  {
+    "id": "94",
+    "word": "Soğuma",
+    "first": "Bitiş",
+    "second": "Germe",
+    "third": "Rahatlama",
+    "fourth": "Yavaş"
+  },
+  {
+    "id": "95",
+    "word": "Fair Play",
+    "first": "Adil",
+    "second": "Oyun",
+    "third": "Saygı",
+    "fourth": "Centilmen"
+  },
+  {
+    "id": "96",
+    "word": "Doping",
+    "first": "Yasak",
+    "second": "Madde",
+    "third": "Test",
+    "fourth": "Ceza"
+  },
+  {
+    "id": "97",
+    "word": "Rekor",
+    "first": "En İyi",
+    "second": "Zaman",
+    "third": "Performans",
+    "fourth": "Kırmak"
+  },
+  {
+    "id": "98",
+    "word": "Dopinj",
+    "first": "İlaç",
+    "second": "Performans",
+    "third": "Artırıcı",
+    "fourth": "Kontrol"
+  },
+  {
+    "id": "99",
+    "word": "Sponsorluk",
+    "first": "Para",
+    "second": "Destek",
+    "third": "Reklam",
+    "fourth": "Anlaşma"
+  },
+  {
+    "id": "100",
+    "word": "Profesyonel",
+    "first": "Maaş",
+    "second": "İş",
+    "third": "Kariyer",
+    "fourth": "Amatör"
   }
 ]

@@ -5,7 +5,8 @@
     "first": "Klavye",
     "second": "Fare",
     "third": "Ekran",
-    "fourth": "İnternet"
+    "fourth": "İnternet",
+    "fifth": "Masaüstü"
   },
   {
     "id": "2",
@@ -13,7 +14,8 @@
     "first": "Program",
     "second": "Kod",
     "third": "Geliştirici",
-    "fourth": "Uygulama"
+    "fourth": "Uygulama",
+    "fifth": "Lisans"
   },
   {
     "id": "3",
@@ -21,7 +23,8 @@
     "first": "Dokunmatik",
     "second": "Uygulama",
     "third": "Kamera",
-    "fourth": "Şarj"
+    "fourth": "Şarj",
+    "fifth": "Mobil"
   },
   {
     "id": "4",
@@ -29,7 +32,8 @@
     "first": "Web",
     "second": "Bağlantı",
     "third": "Tarayıcı",
-    "fourth": "Site"
+    "fourth": "Site",
+    "fifth": "Ağ"
   },
   {
     "id": "5",
@@ -37,7 +41,8 @@
     "first": "Öğrenme",
     "second": "Robot",
     "third": "Asistan",
-    "fourth": "Algoritma"
+    "fourth": "Algoritma",
+    "fifth": "Veri"
   },
   {
     "id": "6",
@@ -45,7 +50,8 @@
     "first": "Depolama",
     "second": "Sunucu",
     "third": "Veri",
-    "fourth": "Yedekleme"
+    "fourth": "Yedekleme",
+    "fifth": "Erişim"
   },
   {
     "id": "7",
@@ -53,7 +59,8 @@
     "first": "Kablosuz",
     "second": "Bağlantı",
     "third": "Kulaklık",
-    "fourth": "Eşleştirme"
+    "fourth": "Eşleştirme",
+    "fifth": "Aktarım"
   },
   {
     "id": "8",
@@ -61,7 +68,8 @@
     "first": "Bilgi",
     "second": "Depolama",
     "third": "SQL",
-    "fourth": "Sunucu"
+    "fourth": "Sunucu",
+    "fifth": "Tablo"
   },
   {
     "id": "9",
@@ -69,7 +77,8 @@
     "first": "PlayStation",
     "second": "Xbox",
     "third": "Kontrol",
-    "fourth": "Grafik"
+    "fourth": "Grafik",
+    "fifth": "Joystick"
   },
   {
     "id": "10",
@@ -77,7 +86,8 @@
     "first": "Gözlük",
     "second": "3D",
     "third": "Deneyim",
-    "fourth": "Simülasyon"
+    "fourth": "Simülasyon",
+    "fifth": "Sanal"
   },
   {
     "id": "11",
@@ -85,7 +95,8 @@
     "first": "CPU",
     "second": "Çip",
     "third": "Hız",
-    "fourth": "Çekirdek"
+    "fourth": "Çekirdek",
+    "fifth": "İşlem"
   },
   {
     "id": "12",
@@ -93,7 +104,8 @@
     "first": "Bellek",
     "second": "Geçici",
     "third": "Hız",
-    "fourth": "Kapasiter"
+    "fourth": "Kapasiter",
+    "fifth": "Gigabayt"
   },
   {
     "id": "13",
@@ -101,7 +113,8 @@
     "first": "Depolama",
     "second": "Hızlı",
     "third": "Disk",
-    "fourth": "Hafıza"
+    "fourth": "Hafıza",
+    "fifth": "Katı Hal"
   },
   {
     "id": "14",
@@ -109,7 +122,8 @@
     "first": "İnternet",
     "second": "Wifi",
     "third": "Ağ",
-    "fourth": "Bağlantı"
+    "fourth": "Bağlantı",
+    "fifth": "Modem"
   },
   {
     "id": "15",
@@ -117,7 +131,8 @@
     "first": "Dokunmatik",
     "second": "Taşınabilir",
     "third": "Ekran",
-    "fourth": "Uygulama"
+    "fourth": "Uygulama",
+    "fifth": "iPad"
   },
   {
     "id": "16",
@@ -125,7 +140,8 @@
     "first": "Uçan",
     "second": "Kamera",
     "third": "Pervane",
-    "fourth": "Uzaktan"
+    "fourth": "Uzaktan",
+    "fifth": "Hava"
   },
   {
     "id": "17",
@@ -133,7 +149,8 @@
     "first": "Bitcoin",
     "second": "Blockchain",
     "third": "Dijital",
-    "fourth": "Madencilik"
+    "fourth": "Madencilik",
+    "fifth": "Cüzdan"
   },
   {
     "id": "18",
@@ -141,7 +158,8 @@
     "first": "Hacker",
     "second": "Koruma",
     "third": "Şifre",
-    "fourth": "Virüs"
+    "fourth": "Virüs",
+    "fifth": "Saldırı"
   },
   {
     "id": "19",
@@ -149,7 +167,8 @@
     "first": "Parmak İzi",
     "second": "Yüz Tanıma",
     "third": "Tarama",
-    "fourth": "Güvenlik"
+    "fourth": "Güvenlik",
+    "fifth": "Kimlik"
   },
   {
     "id": "20",
@@ -157,7 +176,8 @@
     "first": "Alışveriş",
     "second": "Online",
     "third": "Satış",
-    "fourth": "Ödeme"
+    "fourth": "Ödeme",
+    "fifth": "Sipariş"
   },
   {
     "id": "21",
@@ -165,7 +185,8 @@
     "first": "Akıllı Saat",
     "second": "Fitness",
     "third": "Bileklik",
-    "fourth": "Takip"
+    "fourth": "Takip",
+    "fifth": "Sağlık"
   },
   {
     "id": "22",
@@ -173,7 +194,8 @@
     "first": "Paylaşım",
     "second": "Platform",
     "third": "Beğeni",
-    "fourth": "Takipçi"
+    "fourth": "Takipçi",
+    "fifth": "Instagram"
   },
   {
     "id": "23",
@@ -181,7 +203,8 @@
     "first": "Navigasyon",
     "second": "Konum",
     "third": "Harita",
-    "fourth": "Uydu"
+    "fourth": "Uydu",
+    "fifth": "Yol"
   },
   {
     "id": "24",
@@ -189,7 +212,8 @@
     "first": "Sanal",
     "second": "Gerçek",
     "third": "Görüntü",
-    "fourth": "Uygulama"
+    "fourth": "Uygulama",
+    "fifth": "Kamera"
   },
   {
     "id": "25",
@@ -197,7 +221,8 @@
     "first": "Nesnelerin İnterneti",
     "second": "Bağlantılı",
     "third": "Akıllı Ev",
-    "fourth": "Cihaz"
+    "fourth": "Cihaz",
+    "fifth": "Sensör"
   },
   {
     "id": "26",
@@ -205,7 +230,8 @@
     "first": "İnternet",
     "second": "Hız",
     "third": "Bağlantı",
-    "fourth": "Mobil"
+    "fourth": "Mobil",
+    "fifth": "Anten"
   },
   {
     "id": "27",
@@ -213,7 +239,8 @@
     "first": "Baskı",
     "second": "Kağıt",
     "third": "Mürekkep",
-    "fourth": "3D"
+    "fourth": "3D",
+    "fifth": "Çıktı"
   },
   {
     "id": "28",
@@ -221,7 +248,8 @@
     "first": "Tarama",
     "second": "Kare",
     "third": "Bilgi",
-    "fourth": "Link"
+    "fourth": "Link",
+    "fifth": "Telefon"
   },
   {
     "id": "29",
@@ -229,7 +257,8 @@
     "first": "Ses",
     "second": "Müzik",
     "third": "Kablosuz",
-    "fourth": "Gürültü Engelleme"
+    "fourth": "Gürültü Engelleme",
+    "fifth": "Kulak"
   },
   {
     "id": "30",
@@ -237,7 +266,8 @@
     "first": "Kod",
     "second": "Sıralama",
     "third": "Problem",
-    "fourth": "Çözüm"
+    "fourth": "Çözüm",
+    "fifth": "Mantık"
   },
   {
     "id": "31",
@@ -245,7 +275,8 @@
     "first": "SQL",
     "second": "Depolama",
     "third": "Tablo",
-    "fourth": "Kayıt"
+    "fourth": "Kayıt",
+    "fifth": "Sorgu"
   },
   {
     "id": "33",
@@ -253,7 +284,8 @@
     "first": "Yazılım",
     "second": "Program",
     "third": "Geliştirme",
-    "fourth": "Dil"
+    "fourth": "Dil",
+    "fifth": "Editör"
   },
   {
     "id": "34",
@@ -261,7 +293,8 @@
     "first": "Bilgisayar",
     "second": "Fiziksel",
     "third": "Aygıt",
-    "fourth": "Parça"
+    "fourth": "Parça",
+    "fifth": "Anakart"
   },
   {
     "id": "37",
@@ -269,7 +302,8 @@
     "first": "Kod",
     "second": "Bilgisayar",
     "third": "Yazılım",
-    "fourth": "Uygulama"
+    "fourth": "Uygulama",
+    "fifth": "Çalıştırma"
   },
   {
     "id": "38",
@@ -277,7 +311,8 @@
     "first": "Telefon",
     "second": "Uygulama",
     "third": "Taşınabilir",
-    "fourth": "iOS"
+    "fourth": "iOS",
+    "fifth": "Android"
   },
   {
     "id": "39",
@@ -285,7 +320,8 @@
     "first": "Google",
     "second": "Mobil",
     "third": "Uygulama",
-    "fourth": "Play Store"
+    "fourth": "Play Store",
+    "fifth": "Samsung"
   },
   {
     "id": "40",
@@ -293,7 +329,8 @@
     "first": "Apple",
     "second": "Mobil",
     "third": "Uygulama",
-    "fourth": "iPhone"
+    "fourth": "iPhone",
+    "fifth": "App Store"
   },
   {
     "id": "41",
@@ -301,7 +338,8 @@
     "first": "Web",
     "second": "Chrome",
     "third": "Firefox",
-    "fourth": "Safari"
+    "fourth": "Safari",
+    "fifth": "İnternet"
   },
   {
     "id": "42",
@@ -309,7 +347,8 @@
     "first": "Hosting",
     "second": "Veri",
     "third": "Web",
-    "fourth": "Bilgisayar"
+    "fourth": "Bilgisayar",
+    "fifth": "İstemci"
   },
   {
     "id": "47",
@@ -317,7 +356,8 @@
     "first": "İşlemci",
     "second": "Merkezi",
     "third": "Beyin",
-    "fourth": "Bilgisayar"
+    "fourth": "Bilgisayar",
+    "fifth": "Hız"
   },
   {
     "id": "48",
@@ -325,7 +365,8 @@
     "first": "Grafik",
     "second": "Ekran",
     "third": "Oyun",
-    "fourth": "Kart"
+    "fourth": "Kart",
+    "fifth": "NVIDIA"
   },
   {
     "id": "49",
@@ -333,7 +374,8 @@
     "first": "Açık Kaynak",
     "second": "Ubuntu",
     "third": "Sunucu",
-    "fourth": "Terminal"
+    "fourth": "Terminal",
+    "fifth": "İşletim"
   },
   {
     "id": "50",
@@ -341,7 +383,8 @@
     "first": "Microsoft",
     "second": "İşletim",
     "third": "Sistem",
-    "fourth": "PC"
+    "fourth": "PC",
+    "fifth": "Masaüstü"
   },
   {
     "id": "51",
@@ -349,7 +392,8 @@
     "first": "Apple",
     "second": "Bilgisayar",
     "third": "İşletim",
-    "fourth": "Mac"
+    "fourth": "Mac",
+    "fifth": "Safari"
   },
   {
     "id": "52",
@@ -357,7 +401,8 @@
     "first": "Kod",
     "second": "Program",
     "third": "Uygulama",
-    "fourth": "Engineer"
+    "fourth": "Engineer",
+    "fifth": "Mühendis"
   },
   {
     "id": "54",
@@ -365,7 +410,8 @@
     "first": "Gizlilik",
     "second": "Ağ",
     "third": "İnternet",
-    "fourth": "Koruma"
+    "fourth": "Koruma",
+    "fifth": "Tünel"
   },
   {
     "id": "55",
@@ -373,7 +419,8 @@
     "first": "Güvenlik",
     "second": "Ağ",
     "third": "Engelleme",
-    "fourth": "Koruma"
+    "fourth": "Koruma",
+    "fifth": "Duvar"
   },
   {
     "id": "56",
@@ -381,7 +428,8 @@
     "first": "Versiyon",
     "second": "Kontrol",
     "third": "Kod",
-    "fourth": "Commit"
+    "fourth": "Commit",
+    "fifth": "Branch"
   },
   {
     "id": "57",
@@ -389,7 +437,8 @@
     "first": "Repository",
     "second": "Kod",
     "third": "Proje",
-    "fourth": "Push"
+    "fourth": "Push",
+    "fifth": "Açık Kaynak"
   },
   {
     "id": "58",
@@ -397,7 +446,8 @@
     "first": "Arayüz",
     "second": "İstek",
     "third": "Veri",
-    "fourth": "Endpoint"
+    "fourth": "Endpoint",
+    "fifth": "Entegrasyon"
   },
   {
     "id": "59",
@@ -405,7 +455,8 @@
     "first": "Veri",
     "second": "Format",
     "third": "Anahtar",
-    "fourth": "Değer"
+    "fourth": "Değer",
+    "fifth": "Dosya"
   },
   {
     "id": "61",
@@ -413,7 +464,8 @@
     "first": "Kablosuz",
     "second": "İnternet",
     "third": "Ağ",
-    "fourth": "Modem"
+    "fourth": "Modem",
+    "fifth": "Şifre"
   },
   {
     "id": "62",
@@ -421,7 +473,8 @@
     "first": "Web",
     "second": "İstek",
     "third": "URL",
-    "fourth": "Protokol"
+    "fourth": "Protokol",
+    "fifth": "Sunucu"
   },
   {
     "id": "63",
@@ -429,7 +482,8 @@
     "first": "Web",
     "second": "Etiket",
     "third": "Sayfa",
-    "fourth": "Kod"
+    "fourth": "Kod",
+    "fifth": "Yapı"
   },
   {
     "id": "64",
@@ -437,7 +491,8 @@
     "first": "Stil",
     "second": "Web",
     "third": "Tasarım",
-    "fourth": "Renk"
+    "fourth": "Renk",
+    "fifth": "Düzen"
   },
   {
     "id": "65",
@@ -445,7 +500,8 @@
     "first": "Web",
     "second": "Kod",
     "third": "Dinamik",
-    "fourth": "Tarayıcı"
+    "fourth": "Tarayıcı",
+    "fifth": "Fonksiyon"
   },
   {
     "id": "66",
@@ -453,7 +509,8 @@
     "first": "Dil",
     "second": "Kod",
     "third": "Yazılım",
-    "fourth": "Basit"
+    "fourth": "Basit",
+    "fifth": "Yılan"
   },
   {
     "id": "67",
@@ -461,7 +518,8 @@
     "first": "Kod",
     "second": "Dil",
     "third": "Android",
-    "fourth": "OOP"
+    "fourth": "OOP",
+    "fifth": "Sınıf"
   },
   {
     "id": "68",
@@ -469,7 +527,8 @@
     "first": "Android",
     "second": "JetBrains",
     "third": "Dil",
-    "fourth": "Kod"
+    "fourth": "Kod",
+    "fifth": "Modern"
   },
   {
     "id": "69",
@@ -477,7 +536,8 @@
     "first": "UI",
     "second": "Mobil",
     "third": "Google",
-    "fourth": "Uygulama"
+    "fourth": "Uygulama",
+    "fifth": "Widget"
   },
   {
     "id": "70",
@@ -485,7 +545,8 @@
     "first": "JavaScript",
     "second": "UI",
     "third": "Component",
-    "fourth": "Web"
+    "fourth": "Web",
+    "fifth": "Facebook"
   },
   {
     "id": "71",
@@ -493,7 +554,8 @@
     "first": "Sunucu",
     "second": "JavaScript",
     "third": "Backend",
-    "fourth": "Kod"
+    "fourth": "Kod",
+    "fifth": "NPM"
   },
   {
     "id": "72",
@@ -501,7 +563,8 @@
     "first": "Container",
     "second": "Uygulama",
     "third": "Taşınabilir",
-    "fourth": "İzolasyon"
+    "fourth": "İzolasyon",
+    "fifth": "İmaj"
   },
   {
     "id": "73",
@@ -509,7 +572,8 @@
     "first": "Container",
     "second": "Orkestrasyon",
     "third": "Cluster",
-    "fourth": "Yönetim"
+    "fourth": "Yönetim",
+    "fifth": "Pod"
   },
   {
     "id": "74",
@@ -517,7 +581,8 @@
     "first": "Veri",
     "second": "Model",
     "third": "Algoritma",
-    "fourth": "Tahmin"
+    "fourth": "Tahmin",
+    "fifth": "Eğitim"
   },
   {
     "id": "75",
@@ -525,7 +590,8 @@
     "first": "Kripto",
     "second": "Zincir",
     "third": "Dağıtık",
-    "fourth": "Veri"
+    "fourth": "Veri",
+    "fifth": "Blok"
   },
   {
     "id": "76",
@@ -533,7 +599,8 @@
     "first": "Token",
     "second": "Kripto",
     "third": "Sanat",
-    "fourth": "Dijital"
+    "fourth": "Dijital",
+    "fifth": "Koleksiyon"
   },
   {
     "id": "77",
@@ -541,7 +608,8 @@
     "first": "Sanal",
     "second": "Gerçeklik",
     "third": "3D",
-    "fourth": "Evrensel"
+    "fourth": "Evrensel",
+    "fifth": "Avatar"
   },
   {
     "id": "78",
@@ -549,7 +617,8 @@
     "first": "Makine",
     "second": "Yapay",
     "third": "Hareket",
-    "fourth": "Sensör"
+    "fourth": "Sensör",
+    "fifth": "Otomasyon"
   },
   {
     "id": "79",
@@ -557,7 +626,8 @@
     "first": "Gözlük",
     "second": "3D",
     "third": "Deneyim",
-    "fourth": "Gerçek"
+    "fourth": "Gerçek",
+    "fifth": "VR"
   },
   {
     "id": "80",
@@ -565,7 +635,8 @@
     "first": "Gerçek",
     "second": "Kamera",
     "third": "Ekran",
-    "fourth": "3D"
+    "fourth": "3D",
+    "fifth": "AR"
   },
   {
     "id": "81",
@@ -573,7 +644,8 @@
     "first": "Analiz",
     "second": "Veri",
     "third": "Model",
-    "fourth": "Tahmin"
+    "fourth": "Tahmin",
+    "fifth": "İstatistik"
   },
   {
     "id": "82",
@@ -581,7 +653,8 @@
     "first": "Veri",
     "second": "Büyük",
     "third": "Analiz",
-    "fourth": "Hacim"
+    "fourth": "Hacim",
+    "fifth": "İşleme"
   },
   {
     "id": "83",
@@ -589,7 +662,8 @@
     "first": "Biyometrik",
     "second": "Güvenlik",
     "third": "Kimlik",
-    "fourth": "Dokunma"
+    "fourth": "Dokunma",
+    "fifth": "Sensör"
   },
   {
     "id": "84",
@@ -597,7 +671,8 @@
     "first": "Kamera",
     "second": "Güvenlik",
     "third": "Yüz",
-    "fourth": "Algılayıcı"
+    "fourth": "Algılayıcı",
+    "fifth": "Kilit"
   },
   {
     "id": "85",
@@ -605,7 +680,8 @@
     "first": "Fizik",
     "second": "Bilgisayar",
     "third": "Kuantum",
-    "fourth": "Süperpozisyon"
+    "fourth": "Süperpozisyon",
+    "fifth": "Parçacık"
   },
   {
     "id": "86",
@@ -613,7 +689,8 @@
     "first": "Cihaz",
     "second": "Veri",
     "third": "Yerel",
-    "fourth": "Gecikme"
+    "fourth": "Gecikme",
+    "fifth": "İşlem"
   },
   {
     "id": "87",
@@ -621,7 +698,8 @@
     "first": "Mobil",
     "second": "Ağ",
     "third": "Hız",
-    "fourth": "İnternet"
+    "fourth": "İnternet",
+    "fifth": "Sinyal"
   },
   {
     "id": "88",
@@ -629,7 +707,8 @@
     "first": "Cihaz",
     "second": "Bağlantı",
     "third": "Veri",
-    "fourth": "IoT"
+    "fourth": "IoT",
+    "fifth": "Sensör"
   },
   {
     "id": "89",
@@ -637,7 +716,8 @@
     "first": "Veri",
     "second": "Ağ",
     "third": "Yapay Zeka",
-    "fourth": "Katman"
+    "fourth": "Katman",
+    "fifth": "Nöron"
   },
   {
     "id": "90",
@@ -645,7 +725,8 @@
     "first": "Yapay Zeka",
     "second": "Veri",
     "third": "Model",
-    "fourth": "Eğitim"
+    "fourth": "Eğitim",
+    "fifth": "Algoritma"
   },
   {
     "id": "91",
@@ -653,7 +734,8 @@
     "first": "Blockchain",
     "second": "Merkeziyetsiz",
     "third": "Cüzdan",
-    "fourth": "Kripto"
+    "fourth": "Kripto",
+    "fifth": "Token"
   },
   {
     "id": "92",
@@ -661,7 +743,8 @@
     "first": "Kripto",
     "second": "Blokzincir",
     "third": "Varlık",
-    "fourth": "Dijital"
+    "fourth": "Dijital",
+    "fifth": "Coin"
   },
   {
     "id": "93",
@@ -669,7 +752,8 @@
     "first": "Hacker",
     "second": "Açık",
     "third": "Virüs",
-    "fourth": "Güvenlik"
+    "fourth": "Güvenlik",
+    "fifth": "Fidye"
   },
   {
     "id": "94",
@@ -677,7 +761,8 @@
     "first": "Veri",
     "second": "İz",
     "third": "İnternet",
-    "fourth": "Takip"
+    "fourth": "Takip",
+    "fifth": "Gizlilik"
   },
   {
     "id": "95",
@@ -685,7 +770,8 @@
     "first": "Otomatik",
     "second": "Endüstri",
     "third": "Çalışma",
-    "fourth": "Üretim"
+    "fourth": "Üretim",
+    "fifth": "Motor"
   },
   {
     "id": "96",
@@ -693,7 +779,8 @@
     "first": "Cihaz",
     "second": "Ölçüm",
     "third": "Veri",
-    "fourth": "Giriş"
+    "fourth": "Giriş",
+    "fifth": "Algılama"
   },
   {
     "id": "97",
@@ -701,7 +788,8 @@
     "first": "Biyonik",
     "second": "Teknoloji",
     "third": "İnsan",
-    "fourth": "Tıp"
+    "fourth": "Tıp",
+    "fifth": "Protez"
   },
   {
     "id": "98",
@@ -709,7 +797,8 @@
     "first": "Giyilebilir",
     "second": "Cihaz",
     "third": "Mobil",
-    "fourth": "Zaman"
+    "fourth": "Zaman",
+    "fifth": "Bildirim"
   },
   {
     "id": "99",
@@ -717,7 +806,8 @@
     "first": "Komut",
     "second": "Cevap",
     "third": "Yapay Zeka",
-    "fourth": "Ses"
+    "fourth": "Ses",
+    "fifth": "Siri"
   },
   {
     "id": "100",
@@ -725,7 +815,8 @@
     "first": "Gizlilik",
     "second": "Mesaj",
     "third": "Koruma",
-    "fourth": "Anahtar"
+    "fourth": "Anahtar",
+    "fifth": "WhatsApp"
   },
   {
     "id": "101",
@@ -733,7 +824,8 @@
     "first": "Bulut",
     "second": "Barındırma",
     "third": "Yazılım",
-    "fourth": "Donanım"
+    "fourth": "Donanım",
+    "fifth": "VPS"
   },
   {
     "id": "102",
@@ -741,7 +833,8 @@
     "first": "Işık",
     "second": "Kontrol",
     "third": "Cihaz",
-    "fourth": "Ev"
+    "fourth": "Ev",
+    "fifth": "Otomasyon"
   },
   {
     "id": "103",
@@ -749,7 +842,8 @@
     "first": "Mesaj",
     "second": "Elektronik",
     "third": "İletişim",
-    "fourth": "Adres"
+    "fourth": "Adres",
+    "fifth": "Gmail"
   },
   {
     "id": "104",
@@ -757,7 +851,8 @@
     "first": "Chrome",
     "second": "Firefox",
     "third": "Eklenti",
-    "fourth": "Web"
+    "fourth": "Web",
+    "fifth": "Araç Çubuğu"
   },
   {
     "id": "105",
@@ -765,7 +860,8 @@
     "first": "Karekod",
     "second": "Tarama",
     "third": "Kod",
-    "fourth": "Bilgi"
+    "fourth": "Bilgi",
+    "fifth": "Kamera"
   },
   {
     "id": "106",
@@ -773,7 +869,8 @@
     "first": "Çıktı",
     "second": "Kağıt",
     "third": "Cihaz",
-    "fourth": "Ofis"
+    "fourth": "Ofis",
+    "fifth": "Mürekkep"
   },
   {
     "id": "107",
@@ -781,7 +878,8 @@
     "first": "Web",
     "second": "Render",
     "third": "Sayfa",
-    "fourth": "İçerik"
+    "fourth": "İçerik",
+    "fifth": "Chromium"
   },
   {
     "id": "108",
@@ -789,7 +887,8 @@
     "first": "Mobil",
     "second": "Cihaz",
     "third": "Uygulama",
-    "fourth": "Taşınabilir"
+    "fourth": "Taşınabilir",
+    "fifth": "Ekran"
   },
   {
     "id": "109",
@@ -797,6 +896,7 @@
     "first": "Gözlük",
     "second": "3D",
     "third": "Deneyim",
-    "fourth": "Gerçek"
+    "fourth": "Gerçek",
+    "fifth": "Simülasyon"
   }
 ]

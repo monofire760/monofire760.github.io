@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scroll Zombie Gizlilik Politikası</title>
+<meta name="description" content="Scroll Zombie Android uygulamasının (com.monofire.reels.shorts.blocker) gizlilik politikası ve KVKK aydınlatma metni.">
+<meta name="color-scheme" content="light dark">
+<link rel="alternate" hreflang="en" href="https://monofire760.github.io/scrollzombie/privacy/">
+<link rel="alternate" hreflang="tr" href="https://monofire760.github.io/scrollzombie/privacy/tr/">
+<style>
+:root{--bg:#fbfbfa;--fg:#1d1d1f;--muted:#5f6368;--line:#e3e3e0;--card:#fff;--accent:#2f7d4f;--accent-bg:#e8f3ec}
+@media (prefers-color-scheme:dark){:root{--bg:#121413;--fg:#e8eae8;--muted:#a3a8a5;--line:#2c302e;--card:#1a1d1b;--accent:#7fd3a0;--accent-bg:#1d2b23}}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif}
+main{max-width:760px;margin:0 auto;padding:32px 16px 64px}
+header{border-bottom:1px solid var(--line);padding-bottom:20px;margin-bottom:8px}
+.lang{float:right;font-size:14px}
+h1{font-size:1.9rem;line-height:1.25;margin:8px 0 6px}
+h2{font-size:1.25rem;margin:36px 0 8px;line-height:1.3}
+h3{font-size:1.05rem;margin:22px 0 6px}
+p,ul,table{margin:0 0 14px}
+ul{padding-left:22px}
+li{margin:4px 0}
+a{color:var(--accent)}
+.meta{color:var(--muted);font-size:14px;margin:0}
+.summary{background:var(--accent-bg);border-radius:12px;padding:16px 18px;margin:24px 0}
+.summary h2{margin-top:0}
+.summary ul{margin-bottom:0}
+.tablewrap{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:15px;background:var(--card)}
+th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
+th{font-weight:600}
+code{font-size:.92em}
+footer{border-top:1px solid var(--line);margin-top:40px;padding-top:16px;color:var(--muted);font-size:14px}
+</style>
+</head>
+<body>
+<main>
+<header>
+<a class="lang" href="../" hreflang="en" lang="en">English</a>
+<p class="meta">Scroll Zombie · Android uygulaması · <code>com.monofire.reels.shorts.blocker</code></p>
+<h1>Gizlilik Politikası</h1>
+<p class="meta">Yürürlük tarihi: 30 Ekim 2026 · Son güncelleme: 30 Ekim 2026</p>
+</header>
+
+<section class="summary">
+<h2>Kısaca</h2>
+<ul>
+<li>Scroll Zombie, günlük bir sınır koyabilmen için izlediğin Reels, Shorts ve Facebook Reels videolarını sayar. Bunun için Android'in Erişilebilirlik API'sini <strong>yalnızca Instagram, YouTube ve Facebook içinde</strong> kullanır.</li>
+<li>Ekranında görünenler <strong>yalnızca telefonunda</strong> işlenir. Hiçbir zaman saklanmaz ve hiçbir yere gönderilmez.</li>
+<li>Sayıların ve ayarların telefonunda saklanır. Hesap yok, giriş yok, reklam yok.</li>
+<li>İzin verirsen uygulama, hataları düzeltip uygulamayı geliştirebilmemiz için Google Firebase'e <strong>anonim kullanım istatistikleri ve çökme raporları</strong> gönderir. Bunu Ayarlar'dan istediğin zaman kapatabilirsin.</li>
+<li>AEA, Birleşik Krallık ve İsviçre'de, ilk açılışta onay vermeden hiçbir şey gönderilmez.</li>
+</ul>
+</section>
+
+<h2>1. Biz kimiz</h2>
+<p>Scroll Zombie, Monofire Studio (İstanbul, Türkiye) tarafından geliştirilir ve yayınlanır (“biz”). Bu politikada anlatılan sınırlı veriler için veri sorumlusu biziz. Bu metin aynı zamanda 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamındaki aydınlatma metnidir. İletişim: <a href="mailto:monofire760@gmail.com">monofire760@gmail.com</a>.</p>
+
+<h2>2. Telefonunda kalan veriler</h2>
+<ul>
+<li><strong>Günlük sayılar</strong>: uygulama başına (Instagram, YouTube, Facebook) Reels/Shorts sayısı, hangi günlerin sayıldığı, seri ve sınır geçmişin. 65 günden eski geçmiş otomatik olarak silinir.</li>
+<li><strong>Ayarların</strong>: günlük sınır, Hatırlat veya Kilit modu, kilit seçenekleri, rapor ve bildirim tercihleri, uygulama dili ve kullanım istatistikleri tercihin.</li>
+</ul>
+<p>Sunucumuz yok ve bu verileri göremeyiz. Çoğu Android uygulamasında olduğu gibi, telefonunda yedeklemeyi açtıysan bu veriler Android'in Google hesabına yaptığı cihaz yedeğine dahil olabilir; bu yedeği Google, Google hesabı ayarlarına göre yönetir.</p>
+
+<h2>3. Erişilebilirlik API'si: ne için kullanılıyor</h2>
+<p>Scroll Zombie <code>AccessibilityService</code> API'sini kullanır, çünkü ekranda yeni bir Reel veya Short açıldığını fark etmenin tek yolu budur. Uygulama içindeki açıklama ve onay ekranından sonra bunu Android Ayarları'ndan kendin açarsın ve istediğin zaman kapatabilirsin.</p>
+<ul>
+<li>Yalnızca üç uygulamayla sınırlıdır: Instagram, YouTube ve Facebook. Başka hiçbir uygulamayı izlemez.</li>
+<li>Bu uygulamalarda ekran düzenine bakarak bir Reel veya Short gösterilip gösterilmediğini anlar; böylece uygulama onu sayabilir, sana hatırlatabilir ya da (yalnızca Kilit modunu seçtiysen) kendi koyduğun günlük sınıra ulaştığında kilit ekranı gösterebilir.</li>
+<li>Ekran içeriği (metinler, video başlıkları, hesap adları, açıklamalar, yorumlar, bağlantılar) <strong>yalnızca telefonunda işlenir, hiçbir zaman saklanmaz ve gönderilmez</strong>.</li>
+<li>Telefonunda yalnızca ortaya çıkan sayılar tutulur (örneğin “bugün Instagram'da 12 Reels”). Kullanım istatistikleri açıksa, anonim günlük toplamlar ve “sınıra ulaşıldı” gibi kilometre taşları 4. bölümdeki analizlere dahil edilir.</li>
+<li>Erişilebilirlik verileri hiçbir zaman reklam için kullanılmaz, satılmaz ve senin hakkında profil oluşturmak için kullanılmaz.</li>
+</ul>
+
+<h2>4. Google Firebase'e gönderilen veriler (isteğe bağlı)</h2>
+<p>Tek bir anahtara bağlı iki Google hizmeti kullanıyoruz: <strong>Firebase Analytics</strong> ve <strong>Firebase Crashlytics</strong>. Anahtar: <em>Ayarlar → Anonim kullanım verileri</em>.</p>
+<h3>Neler gönderilir</h3>
+<ul>
+<li><strong>Uygulama içi etkileşimler</strong>: uygulamada açılan ekranlar ve yapılan işlemler (örneğin kurulum adımları, ayar değişiklikleri, sınır modu, raporları açıp kapatma).</li>
+<li><strong>Uygulama etkinliği toplamları</strong>: uygulama başına günlük Reels/Shorts sayısı, sınıra ulaşma, gösterilen hatırlatma ve kilit ekranları, kilit açmalar. Yalnızca toplamlar ve kilometre taşları; video bazında hiçbir veri yok.</li>
+<li><strong>Tanılama</strong>: sayma hizmetinin çalışıp çalışmadığı, kurulum rehberinin sonuçları, bildirim izninin durumu.</li>
+<li><strong>Çökme raporları</strong>: hata ve kodumuzda nerede oluştuğu, uygulama sürümü, cihaz modeli, Android sürümü ve uygulamanın ön planda olup olmadığı.</li>
+<li><strong>Firebase'in otomatik topladığı teknik veriler</strong>: rastgele bir uygulama örneği kimliği ve Crashlytics kurulum kimliği, cihaz modeli, Android sürümü, uygulama sürümü, dil ve IP adresinden çıkarılan yaklaşık ülke/bölge. Google Analytics tam IP adresini saklamaz.</li>
+</ul>
+<h3>Neler asla gönderilmez</h3>
+<ul>
+<li>Ekranından okunan hiçbir şey: video kimlikleri, başlıklar, açıklamalar, hesap adları, bağlantılar, yorumlar.</li>
+<li>Kullandığın diğer uygulamaların adları.</li>
+<li>Reklam kimliği (bu izni kaldırdık), Android kimliği, IMEI, telefon numarası, e-posta adresi, rehber veya hassas konum.</li>
+<li>Kullanıcı kimliği veya yazdığın herhangi bir metin.</li>
+</ul>
+<h3>Neden</h3>
+<p>Çökmeleri bulup düzeltmek, kurulumun hangi telefonlarda takıldığını görmek ve hangi özelliklerin insanların daha az kısa video izlemesine yardım ettiğini anlamak için. Bu verileri reklam için kullanmayız. Google Analytics reklam özellikleri kapalıdır: reklam depolama, reklam kullanıcı verisi ve reklam kişiselleştirme onay sinyalleri her zaman <em>reddedildi</em> olarak ayarlıdır ve hesap hiçbir reklam ürününe bağlı değildir.</p>
+
+<h2>5. Onay ve hukuki sebepler</h2>
+<ul>
+<li><strong>AEA, Birleşik Krallık ve İsviçre</strong>: kullanım istatistikleri ve çökme raporları yalnızca ilk açılışta onay verdikten sonra toplanır. Hukuki sebep: <strong>açık rızan</strong> (GDPR md. 6(1)(a) ve cihazında veri saklamaya ilişkin ePrivacy kuralları).</li>
+<li><strong>Diğer ülkeler (Türkiye dahil)</strong>: varsayılan olarak açıktır ve Ayarlar'dan istediğin zaman kapatabilirsin. Hukuki sebep: uygulamayı kararlı tutma ve geliştirme konusundaki <strong>meşru menfaatimiz</strong> (KVKK md. 5(2)(f), GDPR md. 6(1)(f)); veriler asgari ve takma adlıdır, kapatmak kolaydır. Kanunun açık rıza gerektirdiği durumlarda açık rızana dayanırız.</li>
+<li><strong>Telefondaki veriler</strong> (sayılar ve ayarlar), istediğin hizmeti sunmak için işlenir (KVKK md. 5(2)(c), GDPR md. 6(1)(b)); bizim aracılığımızla telefonundan hiç çıkmaz.</li>
+</ul>
+<h3>Onayını geri çekme veya kapatma</h3>
+<p>Scroll Zombie'yi aç → <em>Ayarlar</em> → <em>Anonim kullanım verileri</em>'ni kapat. Analytics ve Crashlytics için veri toplama hemen durur ve telefonundaki analiz kimliği sıfırlanır; böylece yeni veriler eskilerle ilişkilendirilemez. Onayını geri çekmen, daha önce yapılan işlemeyi etkilemez.</p>
+
+<h2>6. Veriler ne kadar saklanır</h2>
+<div class="tablewrap">
+<table>
+<tr><th>Veri</th><th>Nerede</th><th>Saklama süresi</th></tr>
+<tr><td>Günlük sayılar ve geçmiş</td><td>Telefonun</td><td>65 gün, sonra otomatik silinir; uygulamayı kaldırınca her şey silinir</td></tr>
+<tr><td>Ayarlar</td><td>Telefonun</td><td>Uygulamayı kaldırana veya verilerini temizleyene kadar</td></tr>
+<tr><td>Kullanım istatistikleri (Firebase Analytics)</td><td>Google</td><td>En fazla 14 ay, sonra otomatik silinir</td></tr>
+<tr><td>Çökme raporları (Crashlytics)</td><td>Google</td><td>90 gün</td></tr>
+</table>
+</div>
+
+<h2>7. Verileri kim işliyor</h2>
+<p>Verilerini satmayız ve paylaşmayız. Tek hizmet sağlayıcımız, Firebase Analytics ve Crashlytics'i Firebase veri işleme şartları kapsamında veri işleyen olarak çalıştıran <strong>Google LLC / Google Ireland Limited</strong>'dir. Bkz. <a href="https://firebase.google.com/support/privacy">Privacy and Security in Firebase</a> ve <a href="https://policies.google.com/privacy?hl=tr">Google Gizlilik Politikası</a>.</p>
+<p>Kanunen zorunlu olduğunda verileri yetkili makamlara açıklayabiliriz.</p>
+
+<h2>8. Yurt dışına aktarım</h2>
+<p>Google, Firebase verilerini Amerika Birleşik Devletleri'nde ve başka ülkelerde işleyebilir. Türkiye'den yapılan aktarımlar, KVKK md. 9'da öngörülen güvenceler (standart sözleşmeler dahil) veya gerektiğinde açık rızan ile yapılır. AEA, Birleşik Krallık ve İsviçre'den yapılan aktarımlar için Google, AB–ABD Veri Gizliliği Çerçevesi'ne (ve Birleşik Krallık ile İsviçre uzantılarına) ve Standart Sözleşme Maddeleri'ne dayanır. Veriler aktarım sırasında şifrelenir.</p>
+
+<h2>9. Hakların</h2>
+<p><strong>KVKK md. 11</strong> uyarınca; kişisel verilerinin işlenip işlenmediğini öğrenme, işlenmişse bilgi talep etme, işlenme amacını ve amacına uygun kullanılıp kullanılmadığını öğrenme, yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme, eksik veya yanlış işlenmişse düzeltilmesini, silinmesini veya yok edilmesini isteme ve bu işlemlerin aktarılan üçüncü kişilere bildirilmesini isteme, münhasıran otomatik sistemlerle analiz edilmesi sonucu aleyhine bir sonuç çıkmasına itiraz etme ve kanuna aykırı işleme nedeniyle zarara uğrarsan zararın giderilmesini talep etme hakların var. Kişisel Verileri Koruma Kurumu'na şikâyette de bulunabilirsin.</p>
+<ul>
+<li><strong>AEA/Birleşik Krallık (GDPR)</strong>: erişim, düzeltme, silme, veri taşınabilirliği, işlemeyi kısıtlama ve itiraz hakların var; yerel veri koruma otoritene şikâyette bulunabilirsin.</li>
+<li><strong>Kaliforniya (CCPA/CPRA)</strong>: bilme, silme ve düzeltme hakların var ve bu hakları kullandığın için ayrımcılığa uğramazsın. Kişisel bilgileri satmayız veya bağlamlar arası davranışsal reklam için “paylaşmayız”.</li>
+</ul>
+<p>Hesap olmadığı ve Firebase'deki veriler yalnızca rastgele bir kimliğe bağlı olduğu için genellikle seni tanımlayamayız. Haklarını kullanmanın en hızlı yolları:</p>
+<ul>
+<li><strong>Toplamayı durdur ve kimliğini sıfırla</strong>: Ayarlar'da <em>Anonim kullanım verileri</em>'ni kapat.</li>
+<li><strong>Telefondaki verileri sil</strong>: uygulamayı kaldır veya Android Ayarları'ndan depolama alanını temizle.</li>
+<li><strong>Diğer her şey</strong>: <a href="mailto:monofire760@gmail.com">monofire760@gmail.com</a> adresine yaz. En geç 30 gün içinde yanıt veririz. Cihazına bağlı verileri bulabilmek için cihaz modelin ve uygulamayı kullandığın yaklaşık tarih gibi bilgiler isteyebiliriz.</li>
+</ul>
+
+<h2>10. Çocuklar</h2>
+<p>Scroll Zombie 13 yaşından küçük çocuklara yönelik değildir ve onlardan bilerek kişisel veri toplamayız. Instagram, YouTube ve Facebook da kullanıcıların en az 13 yaşında olmasını şart koşar. Ülkende çevrimiçi hizmetler için onay verebilme yaşının altındaysan, kullanım istatistiklerini açmadan önce anne, baba veya vasine sor. 13 yaşından küçük bir çocuğun bize veri gönderdiğini düşünüyorsan bize yaz, silelim.</p>
+
+<h2>11. Güvenlik</h2>
+<p>Firebase'e gönderilen veriler aktarım sırasında şifrelenir (HTTPS). Telefonunda uygulama verileri, diğer uygulamaların okuyamadığı uygulamaya özel depolama alanında tutulur.</p>
+
+<h2>12. Bu politikadaki değişiklikler</h2>
+<p>Politikayı değiştirirsek bu sayfayı ve “Son güncelleme” tarihini güncelleriz. Değişiklik verilerinin kullanımını önemli ölçüde etkiliyorsa sana uygulama içinde de haber veririz ve kanunun gerektirdiği yerlerde onayını yeniden isteriz.</p>
+
+<h2>13. İletişim</h2>
+<p>Monofire Studio · İstanbul, Türkiye · <a href="mailto:monofire760@gmail.com">monofire760@gmail.com</a></p>
+
+<footer>
+<p>Scroll Zombie Gizlilik Politikası · Yürürlük: 30 Ekim 2026 · <a href="../" hreflang="en" lang="en">English version</a></p>
+</footer>
+</main>
+</body>
+</html>

@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "1",
+    "word": "Şıkıdım",
+    "first": "Tarkan",
+    "second": "Oynama",
+    "third": "Kıl Oldum",
+    "fourth": "Şarkı",
+    "fifth": "Pop"
+  },
+  {
+    "id": "2",
+    "word": "Abone",
+    "first": "Yonca Evcimik",
+    "second": "Dans",
+    "third": "Bilet",
+    "fourth": "İlk",
+    "fifth": "Albüm"
+  },
+  {
+    "id": "3",
+    "word": "Araba",
+    "first": "Mustafa Sandal",
+    "second": "Onun Arabası Var",
+    "third": "Güzel mi Güzel",
+    "fourth": "Şoför",
+    "fifth": "Klip"
+  },
+  {
+    "id": "4",
+    "word": "Karabiberim",
+    "first": "Serdar Ortaç",
+    "second": "Göbek",
+    "third": "Zeytin",
+    "fourth": "Vur Kadehlere",
+    "fifth": "Klip"
+  },
+  {
+    "id": "5",
+    "word": "Dönence",
+    "first": "Barış Manço",
+    "second": "Kurtalan Ekspres",
+    "third": "Güneş",
+    "fourth": "Dünya",
+    "fifth": "Gece"
+  },
+  {
+    "id": "6",
+    "word": "Gülümse",
+    "first": "Sezen Aksu",
+    "second": "Kemal Burkay",
+    "third": "Hadi",
+    "fourth": "Bulut",
+    "fifth": "Mizah"
+  },
+  {
+    "id": "7",
+    "word": "Her Gece",
+    "first": "Mirkelam",
+    "second": "Koşmak",
+    "third": "Klip",
+    "fourth": "Ayakkabı",
+    "fifth": "Gece"
+  },
+  {
+    "id": "8",
+    "word": "Ateşteyim",
+    "first": "Çelik",
+    "second": "Ben Ateşteyim",
+    "third": "Söz",
+    "fourth": "Şarkı",
+    "fifth": "Yanmak"
+  },
+  {
+    "id": "9",
+    "word": "Gir Kanıma",
+    "first": "Harun Kolçak",
+    "second": "Pop",
+    "third": "Aşk",
+    "fourth": "Damar",
+    "fifth": "Dans"
+  },
+  {
+    "id": "10",
+    "word": "Benimle Oynama",
+    "first": "Burak Kut",
+    "second": "Bebeto",
+    "third": "Çılgınım",
+    "fourth": "Genç",
+    "fifth": "Klip"
+  },
+  {
+    "id": "11",
+    "word": "Bandıra Bandıra",
+    "first": "Yonca Evcimik",
+    "second": "Ye Beni",
+    "third": "Doyamazsın",
+    "fourth": "Dans",
+    "fifth": "Tatlı"
+  },
+  {
+    "id": "12",
+    "word": "Ele Güne Karşı",
+    "first": "MFÖ",
+    "second": "Mazhar Fuat Özkan",
+    "third": "Yapayalnız",
+    "fourth": "Böyle de Olmaz ki",
+    "fifth": "Grup"
+  },
+  {
+    "id": "13",
+    "word": "Kıl Oldum",
+    "first": "Tarkan",
+    "second": "Abi",
+    "third": "İlk Şarkı",
+    "fourth": "Yine Sensiz",
+    "fifth": "Saç"
+  },
+  {
+    "id": "14",
+    "word": "Hovarda",
+    "first": "Emel Müftüoğlu",
+    "second": "Sezen Aksu",
+    "third": "Gece",
+    "fourth": "Çapkın",
+    "fifth": "Klip"
+  },
+  {
+    "id": "15",
+    "word": "Delice Bir Sevda",
+    "first": "Bendeniz",
+    "second": "Saç",
+    "third": "Aşk",
+    "fourth": "Pop",
+    "fifth": "90lar"
+  },
+  {
+    "id": "16",
+    "word": "Gözlerinin Hapsindeyim",
+    "first": "Kayahan",
+    "second": "Eurovision",
+    "third": "Gitar",
+    "fourth": "Hapis",
+    "fifth": "Bakarım"
+  },
+  {
+    "id": "17",
+    "word": "Arkadaşım Eşek",
+    "first": "Barış Manço",
+    "second": "Hayvan",
+    "third": "Kulak",
+    "fourth": "Çocuk",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "18",
+    "word": "Mavi Mavi",
+    "first": "İbrahim Tatlıses",
+    "second": "Göz",
+    "third": "Hülya Avşar",
+    "fourth": "Türkü",
+    "fifth": "Mas Mavi"
+  },
+  {
+    "id": "19",
+    "word": "Fırtınalar",
+    "first": "Ebru Gündeş",
+    "second": "Koparsa Kopsun",
+    "third": "Rüzgar",
+    "fourth": "Dizi",
+    "fifth": "Ses"
+  },
+  {
+    "id": "20",
+    "word": "Gülpembe",
+    "first": "Barış Manço",
+    "second": "Çiçek",
+    "third": "Gül",
+    "fourth": "Pembe",
+    "fifth": "Dudak"
+  },
+  {
+    "id": "21",
+    "word": "Yaz Yaz Yaz",
+    "first": "Ajda Pekkan",
+    "second": "Gör Bak",
+    "third": "Bir Kenara",
+    "fourth": "Mevsim",
+    "fifth": "Süperstar"
+  },
+  {
+    "id": "22",
+    "word": "Bum Bum",
+    "first": "Seden Gürel",
+    "second": "Kalbim",
+    "third": "Atıyor",
+    "fourth": "Akrep",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "23",
+    "word": "Sultan-ı Yegah",
+    "first": "Nur Yoldaş",
+    "second": "Ergüder Yoldaş",
+    "third": "Makam",
+    "fourth": "Klasik",
+    "fifth": "Attila İlhan"
+  },
+  {
+    "id": "24",
+    "word": "Of Deli Gönül",
+    "first": "Tarık Mengüç",
+    "second": "Gönül",
+    "third": "Aşk",
+    "fourth": "Şarkı",
+    "fifth": "Kaset"
+  },
+  {
+    "id": "25",
+    "word": "Ateşini Yolla Bana",
+    "first": "Hakan Peker",
+    "second": "Ateş",
+    "third": "Klip",
+    "fourth": "Dans",
+    "fifth": "Bir Efsane"
+  },
+  {
+    "id": "26",
+    "word": "Sevdik Sevdalandık",
+    "first": "Reyhan Karaca",
+    "second": "Aşk",
+    "third": "Göz",
+    "fourth": "Eurovision",
+    "fifth": "Pop"
+  },
+  {
+    "id": "27",
+    "word": "Kınalı Bebek",
+    "first": "Demet Sağıroğlu",
+    "second": "Kına",
+    "third": "Bebek",
+    "fourth": "Şehrazat",
+    "fifth": "Klip"
+  },
+  {
+    "id": "28",
+    "word": "Sakin Ol",
+    "first": "Sertab Erener",
+    "second": "Doğan Canku",
+    "third": "İlk Albüm",
+    "fourth": "Sinir",
+    "fifth": "Klip"
+  },
+  {
+    "id": "29",
+    "word": "Hey Corç",
+    "first": "Grup Vitamin",
+    "second": "Versene Borç",
+    "third": "Olmaz Mayk",
+    "fourth": "Parodi",
+    "fifth": "Komik"
+  },
+  {
+    "id": "30",
+    "word": "Nerdesin Birader",
+    "first": "Barış Manço",
+    "second": "Kardeş",
+    "third": "Aramak",
+    "fourth": "Mançoloji",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "31",
+    "word": "Rakkas",
+    "first": "Sezen Aksu",
+    "second": "Dansöz",
+    "third": "Oryantal",
+    "fourth": "Gel Yanıma",
+    "fifth": "Gül"
+  },
+  {
+    "id": "32",
+    "word": "Sarı Çizmeli Mehmet Ağa",
+    "first": "Barış Manço",
+    "second": "Çizme",
+    "third": "Yaz Dostum",
+    "fourth": "Borç",
+    "fifth": "Köy"
+  },
+  {
+    "id": "33",
+    "word": "Lambaya Püf De",
+    "first": "Barış Manço",
+    "second": "Lamba",
+    "third": "Işık",
+    "fourth": "Karanlık",
+    "fifth": "Üflemek"
+  },
+  {
+    "id": "34",
+    "word": "Dağlar Dağlar",
+    "first": "Barış Manço",
+    "second": "Kurban Olam",
+    "third": "Yol",
+    "fourth": "İlk Plak",
+    "fifth": "Gitar"
+  },
+  {
+    "id": "35",
+    "word": "Unutamadım",
+    "first": "Müslüm Gürses",
+    "second": "Barış Manço",
+    "third": "Kaç Kadeh Kırıldı",
+    "fourth": "Aşk",
+    "fifth": "Damar"
+  },
+  {
+    "id": "36",
+    "word": "Zalim",
+    "first": "Levent Yüksel",
+    "second": "Sezen Aksu",
+    "third": "Şarkı",
+    "fourth": "Sevda",
+    "fifth": "Dünya"
+  },
+  {
+    "id": "37",
+    "word": "Med Cezir",
+    "first": "Levent Yüksel",
+    "second": "Gelgit",
+    "third": "Ay",
+    "fourth": "Yediveren",
+    "fifth": "Fırtına"
+  },
+  {
+    "id": "38",
+    "word": "Tuana",
+    "first": "Levent Yüksel",
+    "second": "İspanyol",
+    "third": "Gitar",
+    "fourth": "Şarkı",
+    "fifth": "Dans"
+  },
+  {
+    "id": "39",
+    "word": "Yeter ki Onursuz Olmasın Aşk",
+    "first": "Levent Yüksel",
+    "second": "Onur",
+    "third": "Gurur",
+    "fourth": "Şarkı",
+    "fifth": "Sezen Aksu"
+  },
+  {
+    "id": "40",
+    "word": "Yemin Ettim",
+    "first": "Kayahan",
+    "second": "Geri Dönmem",
+    "third": "Şarkı",
+    "fourth": "Gitar",
+    "fifth": "Nilüfer"
+  },
+  {
+    "id": "41",
+    "word": "Sarı Şekerim",
+    "first": "Kayahan",
+    "second": "Tatlı",
+    "third": "Gitar",
+    "fourth": "Şarkı",
+    "fifth": "Beste"
+  },
+  {
+    "id": "42",
+    "word": "Mor Menekşe",
+    "first": "Kayahan",
+    "second": "Çiçek",
+    "third": "Bahar",
+    "fourth": "Şarkı",
+    "fifth": "Beste"
+  },
+  {
+    "id": "43",
+    "word": "Odalarda Işıksızım",
+    "first": "Kayahan",
+    "second": "Karanlık",
+    "third": "Işık",
+    "fourth": "Yalnız",
+    "fifth": "Oda"
+  },
+  {
+    "id": "44",
+    "word": "Yaşandı Bitti",
+    "first": "Burak Kut",
+    "second": "Bebeto",
+    "third": "Saygısızca",
+    "fourth": "Klip",
+    "fifth": "Pop"
+  },
+  {
+    "id": "45",
+    "word": "Heyecanlıyım",
+    "first": "Burak Kut",
+    "second": "Kalp",
+    "third": "Bebeto",
+    "fourth": "Şarkı",
+    "fifth": "Dans"
+  },
+  {
+    "id": "46",
+    "word": "Karam",
+    "first": "Hakan Peker",
+    "second": "Kaşları Kara",
+    "third": "Dans",
+    "fourth": "Klip",
+    "fifth": "Pop"
+  },
+  {
+    "id": "47",
+    "word": "Bir Efsane",
+    "first": "Hakan Peker",
+    "second": "Aşk",
+    "third": "İlk Albüm",
+    "fourth": "Şarkı",
+    "fifth": "Klip"
+  },
+  {
+    "id": "48",
+    "word": "Amma Velakin",
+    "first": "Hakan Peker",
+    "second": "Kelime",
+    "third": "Dans",
+    "fourth": "Şarkı",
+    "fifth": "Klip"
+  },
+  {
+    "id": "49",
+    "word": "İsmail",
+    "first": "Grup Vitamin",
+    "second": "Gökhan Semiz",
+    "third": "Komik",
+    "fourth": "Parodi",
+    "fifth": "Kaset"
+  },
+  {
+    "id": "50",
+    "word": "Tavukları Pişirmişem",
+    "first": "Grup Vitamin",
+    "second": "Hacı",
+    "third": "Kaz",
+    "fourth": "Komik",
+    "fifth": "Kaset"
+  },
+  {
+    "id": "51",
+    "word": "Al Aşkını Sok Gözüne",
+    "first": "Grup Vitamin",
+    "second": "Parodi",
+    "third": "Gökhan Semiz",
+    "fourth": "Kaset",
+    "fifth": "Gülmek"
+  },
+  {
+    "id": "52",
+    "word": "Ellere Var Da Bize Yok Mu",
+    "first": "Grup Vitamin",
+    "second": "Sitem",
+    "third": "Komik",
+    "fourth": "Şarkı",
+    "fifth": "Kaset"
+  },
+  {
+    "id": "53",
+    "word": "Dön Bebeğim",
+    "first": "Tarkan",
+    "second": "A-Acayipsin",
+    "third": "Klip",
+    "fourth": "Geri Dön",
+    "fifth": "Dağlar"
+  },
+  {
+    "id": "54",
+    "word": "Ölürüm Sana",
+    "first": "Tarkan",
+    "second": "Kır Zincirlerini",
+    "third": "Albüm",
+    "fourth": "Şarkı",
+    "fifth": "Pop"
+  },
+  {
+    "id": "55",
+    "word": "Kış Güneşi",
+    "first": "Tarkan",
+    "second": "Yıldız Tilbe",
+    "third": "Soğuk",
+    "fourth": "Mevsim",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "56",
+    "word": "Şımarık",
+    "first": "Tarkan",
+    "second": "Öpücük",
+    "third": "Yakalarsam",
+    "fourth": "Klip",
+    "fifth": "Dans"
+  },
+  {
+    "id": "57",
+    "word": "Hepsi Senin mi",
+    "first": "Tarkan",
+    "second": "Oynama Şıkıdım",
+    "third": "Dans",
+    "fourth": "Klip",
+    "fifth": "Pop"
+  },
+  {
+    "id": "58",
+    "word": "Arnavut Kaldırımı",
+    "first": "Demet Sağıroğlu",
+    "second": "Sokak",
+    "third": "Taş",
+    "fourth": "Klip",
+    "fifth": "Çocuk"
+  },
+  {
+    "id": "59",
+    "word": "Ay İnanmıyorum",
+    "first": "Aşkın Nur Yengi",
+    "second": "Şaşırmak",
+    "third": "Pop",
+    "fourth": "Şarkı",
+    "fifth": "Sevgili"
+  },
+  {
+    "id": "60",
+    "word": "Yalancı Bahar",
+    "first": "Aşkın Nur Yengi",
+    "second": "Mevsim",
+    "third": "Aldanmak",
+    "fourth": "Şarkı",
+    "fifth": "Pop"
+  },
+  {
+    "id": "61",
+    "word": "Susma",
+    "first": "Aşkın Nur Yengi",
+    "second": "Konuş",
+    "third": "Sessiz",
+    "fourth": "Sevgili",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "62",
+    "word": "Hesap Ver",
+    "first": "Aşkın Nur Yengi",
+    "second": "Soru",
+    "third": "Kavga",
+    "fourth": "Albüm",
+    "fifth": "Pop"
+  },
+  {
+    "id": "63",
+    "word": "Onu Alma Beni Al",
+    "first": "Sezen Aksu",
+    "second": "Düğün",
+    "third": "Evlenmek",
+    "fourth": "Gelin",
+    "fifth": "Koca"
+  },
+  {
+    "id": "64",
+    "word": "Hadi Bakalım",
+    "first": "Sezen Aksu",
+    "second": "Kolay Gelsin",
+    "third": "Gülümse",
+    "fourth": "Klip",
+    "fifth": "Dans"
+  },
+  {
+    "id": "65",
+    "word": "Seni Yerler",
+    "first": "Sezen Aksu",
+    "second": "Elma",
+    "third": "Dişlemek",
+    "fourth": "Şarkı",
+    "fifth": "Pop"
+  },
+  {
+    "id": "66",
+    "word": "Sarışınım",
+    "first": "Sezen Aksu",
+    "second": "Sarı Saç",
+    "third": "Aşk",
+    "fourth": "Şarkı",
+    "fifth": "Beste"
+  },
+  {
+    "id": "67",
+    "word": "Belalım",
+    "first": "Sezen Aksu",
+    "second": "Zülfü Livaneli",
+    "third": "Hüzün",
+    "fourth": "Ağlamak",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "68",
+    "word": "Kaç Yıl Geçti Aradan",
+    "first": "Sezen Aksu",
+    "second": "Zaman",
+    "third": "Eski",
+    "fourth": "Aşk",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "69",
+    "word": "Değer mi",
+    "first": "Sezen Aksu",
+    "second": "Gözyaşı",
+    "third": "Ağlamak",
+    "fourth": "Boş Yere",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "70",
+    "word": "Sarı Laleler",
+    "first": "MFÖ",
+    "second": "Mazhar Alanson",
+    "third": "Çiçek",
+    "fourth": "Amsterdam",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "71",
+    "word": "Ali Desidero",
+    "first": "MFÖ",
+    "second": "Takım Elbise",
+    "third": "Kültür",
+    "fourth": "Klip",
+    "fifth": "Mazhar Alanson"
+  },
+  {
+    "id": "72",
+    "word": "Buselik Makamına",
+    "first": "MFÖ",
+    "second": "Makam",
+    "third": "Gitar",
+    "fourth": "Şarkı",
+    "fifth": "Beste"
+  },
+  {
+    "id": "73",
+    "word": "Yalnızlık Ömür Boyu",
+    "first": "MFÖ",
+    "second": "Tek Başına",
+    "third": "Birlikte",
+    "fourth": "Gitar",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "74",
+    "word": "Diday Diday Day",
+    "first": "MFÖ",
+    "second": "Eurovision",
+    "third": "Yarışma",
+    "fourth": "Dans",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "75",
+    "word": "Yaparım Bilirsin",
+    "first": "Kenan Doğulu",
+    "second": "İlk Albüm",
+    "third": "Dans",
+    "fourth": "Pop",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "76",
+    "word": "Sımsıkı Sıkı Sıkı",
+    "first": "Kenan Doğulu",
+    "second": "Sarılmak",
+    "third": "Klip",
+    "fourth": "Dans",
+    "fifth": "Pop"
+  },
+  {
+    "id": "77",
+    "word": "Kurşun Adres Sormaz Ki",
+    "first": "Kenan Doğulu",
+    "second": "Silah",
+    "third": "Vurulmak",
+    "fourth": "Slow",
+    "fifth": "Aşk"
+  },
+  {
+    "id": "78",
+    "word": "Kandırdım",
+    "first": "Kenan Doğulu",
+    "second": "Yalan",
+    "third": "Naz",
+    "fourth": "Klip",
+    "fifth": "Dans"
+  },
+  {
+    "id": "79",
+    "word": "Korkuyorum",
+    "first": "Harun Kolçak",
+    "second": "Aşkın Nur Yengi",
+    "third": "Düet",
+    "fourth": "Korku",
+    "fifth": "Slow"
+  },
+  {
+    "id": "80",
+    "word": "Yanımda Kal",
+    "first": "Harun Kolçak",
+    "second": "Gitme",
+    "third": "Aşk",
+    "fourth": "Slow",
+    "fifth": "Beste"
+  },
+  {
+    "id": "81",
+    "word": "Kar Beyazdır Ölüm",
+    "first": "Kerim Tekin",
+    "second": "Kaza",
+    "third": "Genç",
+    "fourth": "Kış",
+    "fifth": "Hüzün"
+  },
+  {
+    "id": "82",
+    "word": "Bak Bir Varmış Bir Yokmuş",
+    "first": "Kerim Tekin",
+    "second": "Masal",
+    "third": "Eski",
+    "fourth": "Klip",
+    "fifth": "Pop"
+  },
+  {
+    "id": "83",
+    "word": "Hercai",
+    "first": "Çelik",
+    "second": "Gönül",
+    "third": "Klip",
+    "fourth": "Slow",
+    "fifth": "Pop"
+  },
+  {
+    "id": "84",
+    "word": "Yaman Sevda",
+    "first": "Çelik",
+    "second": "Zor",
+    "third": "Aşk",
+    "fourth": "Dans",
+    "fifth": "Kaset"
+  },
+  {
+    "id": "85",
+    "word": "Meyhaneci",
+    "first": "Çelik",
+    "second": "Kadeh",
+    "third": "İçki",
+    "fourth": "Dert",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "86",
+    "word": "Ya Sen Ya Hiç",
+    "first": "Bendeniz",
+    "second": "Saç",
+    "third": "Klip",
+    "fourth": "Pop",
+    "fifth": "Seçim"
+  },
+  {
+    "id": "87",
+    "word": "Müjdeler Ver",
+    "first": "Bendeniz",
+    "second": "Haber",
+    "third": "Klip",
+    "fourth": "Dans",
+    "fifth": "Pop"
+  },
+  {
+    "id": "88",
+    "word": "Gönül Yorgunu",
+    "first": "Bendeniz",
+    "second": "Yorgun",
+    "third": "Kalp",
+    "fourth": "Slow",
+    "fifth": "Kaset"
+  },
+  {
+    "id": "89",
+    "word": "Kum Gibi",
+    "first": "Ahmet Kaya",
+    "second": "Ezip Geçme",
+    "third": "Akşam",
+    "fourth": "Deniz",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "90",
+    "word": "Ağladıkça",
+    "first": "Ahmet Kaya",
+    "second": "Gözyaşı",
+    "third": "Dağlar",
+    "fourth": "Gülüm",
+    "fifth": "Türkü"
+  },
+  {
+    "id": "91",
+    "word": "Kafama Sıkar Giderim",
+    "first": "Ahmet Kaya",
+    "second": "Silah",
+    "third": "Gitmek",
+    "fourth": "Öfke",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "92",
+    "word": "Yollarda Bulurum Seni",
+    "first": "Haluk Levent",
+    "second": "Rock",
+    "third": "Gitar",
+    "fourth": "Yol",
+    "fifth": "Aramak"
+  },
+  {
+    "id": "93",
+    "word": "Anlasana",
+    "first": "Haluk Levent",
+    "second": "İlhan İrem",
+    "third": "Slow",
+    "fourth": "Rock",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "94",
+    "word": "Dert Olur",
+    "first": "Haluk Levent",
+    "second": "Üzüntü",
+    "third": "Gitar",
+    "fourth": "Rock",
+    "fifth": "Kaset"
+  },
+  {
+    "id": "95",
+    "word": "Bu Aşk Fazla Sana",
+    "first": "Şebnem Ferah",
+    "second": "Kadın",
+    "third": "Rock",
+    "fourth": "Gitar",
+    "fifth": "Ayrılık"
+  },
+  {
+    "id": "96",
+    "word": "Yağmurlar",
+    "first": "Şebnem Ferah",
+    "second": "Su",
+    "third": "Bulut",
+    "fourth": "Islanmak",
+    "fifth": "Slow"
+  },
+  {
+    "id": "97",
+    "word": "Vazgeçtim Dünyadan",
+    "first": "Şebnem Ferah",
+    "second": "Rock",
+    "third": "İlk Albüm",
+    "fourth": "Gitar",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "98",
+    "word": "Senden Benden Bizden",
+    "first": "Athena",
+    "second": "Ska",
+    "third": "Gökhan",
+    "fourth": "Gitar",
+    "fifth": "Grup"
+  },
+  {
+    "id": "99",
+    "word": "Skalonga",
+    "first": "Athena",
+    "second": "Dans",
+    "third": "Ska",
+    "fourth": "Balkan",
+    "fifth": "Grup"
+  },
+  {
+    "id": "100",
+    "word": "Holigan",
+    "first": "Athena",
+    "second": "Futbol",
+    "third": "Taraftar",
+    "fourth": "Tribün",
+    "fifth": "Klip"
+  },
+  {
+    "id": "101",
+    "word": "Değirmenler",
+    "first": "Bülent Ortaçgil",
+    "second": "Rüzgar",
+    "third": "Gitar",
+    "fourth": "Akustik",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "102",
+    "word": "Sensiz Olmaz",
+    "first": "Bülent Ortaçgil",
+    "second": "Yalnız",
+    "third": "Akustik",
+    "fourth": "Aşk",
+    "fifth": "Gitar"
+  },
+  {
+    "id": "103",
+    "word": "Bu Gece Son",
+    "first": "Mustafa Sandal",
+    "second": "Suç Bende",
+    "third": "Klip",
+    "fourth": "Ayrılık",
+    "fifth": "Pop"
+  },
+  {
+    "id": "104",
+    "word": "Aya Benzer",
+    "first": "Mustafa Sandal",
+    "second": "Gökyüzü",
+    "third": "Dans",
+    "fourth": "Klip",
+    "fifth": "Gözleri"
+  },
+  {
+    "id": "105",
+    "word": "Jest Oldu",
+    "first": "Mustafa Sandal",
+    "second": "İyilik",
+    "third": "Klip",
+    "fourth": "Pop",
+    "fifth": "Dans"
+  },
+  {
+    "id": "106",
+    "word": "Bize Gidelim",
+    "first": "Mustafa Sandal",
+    "second": "Ev",
+    "third": "Davet",
+    "fourth": "Dans",
+    "fifth": "Pop"
+  },
+  {
+    "id": "107",
+    "word": "Neredesin Sen",
+    "first": "Neşet Ertaş",
+    "second": "Bozkır",
+    "third": "Bağlama",
+    "fourth": "Türkü",
+    "fifth": "Zahidem"
+  },
+  {
+    "id": "108",
+    "word": "Zahidem",
+    "first": "Neşet Ertaş",
+    "second": "Türkü",
+    "third": "Aşk",
+    "fourth": "Bağlama",
+    "fifth": "Ozan"
+  },
+  {
+    "id": "109",
+    "word": "Gönül Dağı",
+    "first": "Neşet Ertaş",
+    "second": "Bozkır",
+    "third": "Türkü",
+    "fourth": "Yağmur",
+    "fifth": "Bağlama"
+  },
+  {
+    "id": "110",
+    "word": "Dom Dom Kurşunu",
+    "first": "İbrahim Tatlıses",
+    "second": "Mahzuni Şerif",
+    "third": "Tüfek",
+    "fourth": "Klip",
+    "fifth": "Vurulmak"
+  },
+  {
+    "id": "111",
+    "word": "Bebeğim",
+    "first": "İbrahim Tatlıses",
+    "second": "Slow",
+    "third": "Sevgi",
+    "fourth": "Aşk",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "112",
+    "word": "Vur Gitsin Beni",
+    "first": "İbrahim Tatlıses",
+    "second": "Silah",
+    "third": "Ayrılık",
+    "fourth": "Damar",
+    "fifth": "Kaset"
+  },
+  {
+    "id": "113",
+    "word": "Sobe",
+    "first": "Sertab Erener",
+    "second": "Saklambaç",
+    "third": "Oyun",
+    "fourth": "Klip",
+    "fifth": "Pop"
+  },
+  {
+    "id": "114",
+    "word": "Lal",
+    "first": "Sertab Erener",
+    "second": "Dilsiz",
+    "third": "Sezen Aksu",
+    "fourth": "Beste",
+    "fifth": "Slow"
+  },
+  {
+    "id": "115",
+    "word": "Aldırma Deli Gönlüm",
+    "first": "Sertab Erener",
+    "second": "Sakin",
+    "third": "Boşver",
+    "fourth": "İlk Albüm",
+    "fifth": "Pop"
+  },
+  {
+    "id": "116",
+    "word": "Ateşle Barut",
+    "first": "Sertab Erener",
+    "second": "Tehlike",
+    "third": "Klip",
+    "fourth": "Patlama",
+    "fifth": "Dans"
+  },
+  {
+    "id": "117",
+    "word": "Yanarım",
+    "first": "Sertab Erener",
+    "second": "Ateş",
+    "third": "Slow",
+    "fourth": "Aşk",
+    "fifth": "Ses"
+  },
+  {
+    "id": "118",
+    "word": "Divane",
+    "first": "Yaşar",
+    "second": "Aşık",
+    "third": "Deli",
+    "fourth": "Klip",
+    "fifth": "Gitar"
+  },
+  {
+    "id": "119",
+    "word": "Kuşlar",
+    "first": "Yaşar",
+    "second": "Uçmak",
+    "third": "Kanat",
+    "fourth": "Şarkı",
+    "fifth": "Akdeniz"
+  },
+  {
+    "id": "120",
+    "word": "Sebepsiz Fırtına",
+    "first": "Yaşar",
+    "second": "Rüzgar",
+    "third": "Deniz",
+    "fourth": "Klip",
+    "fifth": "Slow"
+  },
+  {
+    "id": "121",
+    "word": "Yalan",
+    "first": "Candan Erçetin",
+    "second": "Doğru",
+    "third": "Klip",
+    "fourth": "İnanmak",
+    "fifth": "Pop"
+  },
+  {
+    "id": "122",
+    "word": "Onlar Yanlış Biliyor",
+    "first": "Candan Erçetin",
+    "second": "Hata",
+    "third": "Şarkı",
+    "fourth": "Fransızca",
+    "fifth": "Pop"
+  },
+  {
+    "id": "123",
+    "word": "Hangi Aşk Adil Ki",
+    "first": "Candan Erçetin",
+    "second": "Adalet",
+    "third": "Ayrılık",
+    "fourth": "Slow",
+    "fifth": "Beste"
+  },
+  {
+    "id": "124",
+    "word": "Elbette",
+    "first": "Candan Erçetin",
+    "second": "Tabii",
+    "third": "Gülümsemek",
+    "fourth": "Umut",
+    "fifth": "Klip"
+  },
+  {
+    "id": "125",
+    "word": "Seni Seviyorum",
+    "first": "Rafet El Roman",
+    "second": "Aşk",
+    "third": "Klip",
+    "fourth": "Slow",
+    "fifth": "Romantik"
+  },
+  {
+    "id": "126",
+    "word": "Affetmem",
+    "first": "Rafet El Roman",
+    "second": "Bağışlamak",
+    "third": "Hata",
+    "fourth": "Slow",
+    "fifth": "Ayrılık"
+  },
+  {
+    "id": "127",
+    "word": "Bana Sen Lazımsın",
+    "first": "Rafet El Roman",
+    "second": "İhtiyaç",
+    "third": "Klip",
+    "fourth": "Romantik",
+    "fifth": "Pop"
+  },
+  {
+    "id": "128",
+    "word": "Hasret Rüzgarları",
+    "first": "İzel Çelik Ercan",
+    "second": "Özlem",
+    "third": "Grup",
+    "fourth": "Klip",
+    "fifth": "Pop"
+  },
+  {
+    "id": "129",
+    "word": "Özledim",
+    "first": "İzel Çelik Ercan",
+    "second": "Hasret",
+    "third": "Grup",
+    "fourth": "Slow",
+    "fifth": "Kaset"
+  },
+  {
+    "id": "130",
+    "word": "Hasretim",
+    "first": "İzel",
+    "second": "Özlem",
+    "third": "Klip",
+    "fourth": "Pop",
+    "fifth": "Solo"
+  },
+  {
+    "id": "131",
+    "word": "Bebek",
+    "first": "İzel",
+    "second": "Çocuk",
+    "third": "Klip",
+    "fourth": "Dans",
+    "fifth": "Pop"
+  },
+  {
+    "id": "132",
+    "word": "Bitmesin Bu Rüya",
+    "first": "İzel",
+    "second": "Uyku",
+    "third": "Slow",
+    "fourth": "Aşk",
+    "fifth": "Klip"
+  },
+  {
+    "id": "133",
+    "word": "Unutulmaz",
+    "first": "Mirkelam",
+    "second": "Koşan Adam",
+    "third": "Klip",
+    "fourth": "Gece",
+    "fifth": "Pop"
+  },
+  {
+    "id": "134",
+    "word": "Tavla",
+    "first": "Mirkelam",
+    "second": "Zar",
+    "third": "Pul",
+    "fourth": "Oyun",
+    "fifth": "Klip"
+  },
+  {
+    "id": "135",
+    "word": "Hatıralar",
+    "first": "Mirkelam",
+    "second": "Geçmiş",
+    "third": "Anı",
+    "fourth": "Slow",
+    "fifth": "Beste"
+  },
+  {
+    "id": "136",
+    "word": "Alla Beni Pulla Beni",
+    "first": "Barış Manço",
+    "second": "Süslemek",
+    "third": "Gelin",
+    "fourth": "Şarkı",
+    "fifth": "Düet"
+  },
+  {
+    "id": "137",
+    "word": "Hal Hal",
+    "first": "Barış Manço",
+    "second": "Bilezik",
+    "third": "Ayak",
+    "fourth": "Takı",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "138",
+    "word": "Can Bedenden Çıkmayınca",
+    "first": "Barış Manço",
+    "second": "Ruh",
+    "third": "Ölüm",
+    "fourth": "Aşk",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "139",
+    "word": "Kara Sevda",
+    "first": "Barış Manço",
+    "second": "Aşk",
+    "third": "Gözler",
+    "fourth": "Şarkı",
+    "fifth": "Klip"
+  },
+  {
+    "id": "140",
+    "word": "Gözlerin Doğuyor Gecelerime",
+    "first": "Zeki Müren",
+    "second": "Sanat Güneşi",
+    "third": "Gece",
+    "fourth": "Klasik",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "141",
+    "word": "Gitme Sana Muhtacım",
+    "first": "Zeki Müren",
+    "second": "İhtiyaç",
+    "third": "Ayrılık",
+    "fourth": "Sanat Güneşi",
+    "fifth": "Klasik"
+  },
+  {
+    "id": "142",
+    "word": "Ah Bu Şarkıların Gözü Kör Olsun",
+    "first": "Zeki Müren",
+    "second": "Beste",
+    "third": "Makam",
+    "fourth": "Sanat Güneşi",
+    "fifth": "Klasik"
+  },
+  {
+    "id": "143",
+    "word": "Benim İçin Üzülme",
+    "first": "Bergen",
+    "second": "Acıların Kadını",
+    "third": "Damar",
+    "fourth": "Ağlamak",
+    "fifth": "Kaset"
+  },
+  {
+    "id": "144",
+    "word": "Sen Affetsen Ben Affetmem",
+    "first": "Bergen",
+    "second": "Bağışlamak",
+    "third": "Acıların Kadını",
+    "fourth": "Tanrı",
+    "fifth": "Kaset"
+  },
+  {
+    "id": "145",
+    "word": "Dilek Taşı",
+    "first": "Ferdi Özbeğen",
+    "second": "Piyano",
+    "third": "Havuz",
+    "fourth": "Dilek",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "146",
+    "word": "Büklüm Büklüm",
+    "first": "Tülay Özer",
+    "second": "Sezen Aksu",
+    "third": "Boyun",
+    "fourth": "Keder",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "147",
+    "word": "Resimdeki Gözyaşları",
+    "first": "Cem Karaca",
+    "second": "Fotoğraf",
+    "third": "Ağlamak",
+    "fourth": "Rock",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "148",
+    "word": "Tamirci Çırağı",
+    "first": "Cem Karaca",
+    "second": "Usta",
+    "third": "Tulum",
+    "fourth": "Araba",
+    "fifth": "Zengin Kız"
+  },
+  {
+    "id": "149",
+    "word": "Islak Islak",
+    "first": "Barış Akarsu",
+    "second": "Cem Karaca",
+    "third": "Yağmur",
+    "fourth": "Gözler",
+    "fifth": "Rock"
+  },
+  {
+    "id": "150",
+    "word": "Namus Belası",
+    "first": "Cem Karaca",
+    "second": "Hapishane",
+    "third": "Silah",
+    "fourth": "Töre",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "151",
+    "word": "Şinanay",
+    "first": "Sezen Aksu",
+    "second": "Ada Sahili",
+    "third": "Dans",
+    "fourth": "Pop",
+    "fifth": "Yaz"
+  },
+  {
+    "id": "152",
+    "word": "Beni Unutma",
+    "first": "Sezen Aksu",
+    "second": "Hatırla",
+    "third": "Ayrılık",
+    "fourth": "Slow",
+    "fifth": "Aşk"
+  },
+  {
+    "id": "153",
+    "word": "Tükeneceğiz",
+    "first": "Sezen Aksu",
+    "second": "Bitmek",
+    "third": "Son",
+    "fourth": "Slow",
+    "fifth": "Ayrılık"
+  },
+  {
+    "id": "154",
+    "word": "Keskin Bıçak",
+    "first": "Sezen Aksu",
+    "second": "Kesiği",
+    "third": "Yara",
+    "fourth": "Acı",
+    "fifth": "Slow"
+  },
+  {
+    "id": "155",
+    "word": "Masum Değiliz",
+    "first": "Sezen Aksu",
+    "second": "Hiçbirimiz",
+    "third": "Günah",
+    "fourth": "Suç",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "156",
+    "word": "Güllerim Soldu",
+    "first": "Sezen Aksu",
+    "second": "Çiçek",
+    "third": "Kaldırım",
+    "fourth": "Sonbahar",
+    "fifth": "Hüzün"
+  },
+  {
+    "id": "157",
+    "word": "Unut",
+    "first": "Sezen Aksu",
+    "second": "Aklından Çıkar",
+    "third": "Gittiğin Yerde",
+    "fourth": "Slow",
+    "fifth": "Aşk"
+  },
+  {
+    "id": "158",
+    "word": "Kuzu Kuzu",
+    "first": "Tarkan",
+    "second": "Geldin",
+    "third": "Zil",
+    "fourth": "Klip",
+    "fifth": "Dans"
+  },
+  {
+    "id": "159",
+    "word": "Hüp",
+    "first": "Tarkan",
+    "second": "Diye İçine Çek",
+    "third": "Klip",
+    "fourth": "Dans",
+    "fifth": "Pop"
+  },
+  {
+    "id": "160",
+    "word": "İnci Tanem",
+    "first": "Tarkan",
+    "second": "Değerli",
+    "third": "Slow",
+    "fourth": "Gözyaşı",
+    "fifth": "Aşk"
+  },
+  {
+    "id": "161",
+    "word": "Salına Salına Sinsice",
+    "first": "Tarkan",
+    "second": "Yürümek",
+    "third": "Klip",
+    "fourth": "Dans",
+    "fifth": "Pop"
+  },
+  {
+    "id": "162",
+    "word": "Başka Bahara",
+    "first": "Aşkın Nur Yengi",
+    "second": "Mevsim",
+    "third": "Ertelenmek",
+    "fourth": "Umut",
+    "fifth": "Slow"
+  },
+  {
+    "id": "163",
+    "word": "Çek Bebeğim Çek",
+    "first": "Grup Vitamin",
+    "second": "Fotoğraf",
+    "third": "Komik",
+    "fourth": "Parodi",
+    "fifth": "Kaset"
+  },
+  {
+    "id": "164",
+    "word": "Turkish Kovboylar",
+    "first": "Grup Vitamin",
+    "second": "Vahşi Batı",
+    "third": "At",
+    "fourth": "Komik",
+    "fifth": "Kaset"
+  },
+  {
+    "id": "165",
+    "word": "İstanbul'da Sonbahar",
+    "first": "Teoman",
+    "second": "Yağmur",
+    "third": "Mevsim",
+    "fourth": "Boğaz",
+    "fifth": "Slow"
+  },
+  {
+    "id": "166",
+    "word": "Papatya",
+    "first": "Teoman",
+    "second": "Çiçek",
+    "third": "Seviyor Sevmiyor",
+    "fourth": "Rock",
+    "fifth": "Gitar"
+  },
+  {
+    "id": "167",
+    "word": "Paramparça",
+    "first": "Teoman",
+    "second": "Kırılmak",
+    "third": "Bugün Benim Doğum Günüm",
+    "fourth": "Rock",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "168",
+    "word": "O On Beş Kişiye Saldırdım",
+    "first": "Teoman",
+    "second": "Kavga",
+    "third": "Boks",
+    "fourth": "Rock",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "169",
+    "word": "Gemiler",
+    "first": "Teoman",
+    "second": "Orhan Atasoy",
+    "third": "Deniz",
+    "fourth": "Liman",
+    "fifth": "Sallanmak"
+  },
+  {
+    "id": "170",
+    "word": "Cambaz",
+    "first": "Mor ve Ötesi",
+    "second": "İp",
+    "third": "Düşmek",
+    "fourth": "Rock",
+    "fifth": "Televizyon"
+  },
+  {
+    "id": "171",
+    "word": "Bir Derdim Var",
+    "first": "Mor ve Ötesi",
+    "second": "Tutamam İçimde",
+    "third": "Rock",
+    "fourth": "Gitar",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "172",
+    "word": "Gül Güzeli",
+    "first": "Leman Sam",
+    "second": "Çiçek",
+    "third": "Balkon",
+    "fourth": "Akustik",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "173",
+    "word": "Anladım Ki",
+    "first": "Leman Sam",
+    "second": "Fark Etmek",
+    "third": "Slow",
+    "fourth": "Aşk",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "174",
+    "word": "Daha Gidecek Yolumuz Var",
+    "first": "Leman Sam",
+    "second": "Yolculuk",
+    "third": "Umut",
+    "fourth": "Şarkı",
+    "fifth": "Gitar"
+  },
+  {
+    "id": "175",
+    "word": "Ayrılık",
+    "first": "Selda Bağcan",
+    "second": "Hasret",
+    "third": "Gözyaşı",
+    "fourth": "Azeri",
+    "fifth": "Türkü"
+  },
+  {
+    "id": "176",
+    "word": "Uğurlar Olsun",
+    "first": "Selda Bağcan",
+    "second": "Uğur Mumcu",
+    "third": "Veda",
+    "fourth": "Hüzün",
+    "fifth": "Türkü"
+  },
+  {
+    "id": "177",
+    "word": "Adaletin Bu Mu Dünya",
+    "first": "Selda Bağcan",
+    "second": "Haksızlık",
+    "third": "Felek",
+    "fourth": "Türkü",
+    "fifth": "Gitar"
+  },
+  {
+    "id": "178",
+    "word": "Nane Limon Kabuğu",
+    "first": "Barış Manço",
+    "second": "Grip",
+    "third": "Hastalık",
+    "fourth": "Ihlamur",
+    "fifth": "Çorba"
+  },
+  {
+    "id": "179",
+    "word": "Bugün Bayram",
+    "first": "Barış Manço",
+    "second": "Erken Kalkın",
+    "third": "Çocuklar",
+    "fourth": "Giyinmek",
+    "fifth": "Şeker"
+  },
+  {
+    "id": "180",
+    "word": "Ali Yazar Veli Bozar",
+    "first": "Barış Manço",
+    "second": "Küp",
+    "third": "Sirke",
+    "fourth": "Şarkı",
+    "fifth": "Söz"
+  },
+  {
+    "id": "181",
+    "word": "İşte Hendek İşte Deve",
+    "first": "Barış Manço",
+    "second": "Atlamak",
+    "third": "Zor",
+    "fourth": "Gülüm",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "182",
+    "word": "Anlıyorsun Değil Mi",
+    "first": "Barış Manço",
+    "second": "Soru",
+    "third": "Slow",
+    "fourth": "Gözler",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "183",
+    "word": "Kol Düğmeleri",
+    "first": "Barış Manço",
+    "second": "Gömlek",
+    "third": "Kavuşamamak",
+    "fourth": "İki Aşık",
+    "fifth": "İlk Şarkı"
+  },
+  {
+    "id": "184",
+    "word": "Gönül Ferman Dinlemiyor",
+    "first": "Barış Manço",
+    "second": "Aşk",
+    "third": "Kalp",
+    "fourth": "Söz Dinlemek",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "185",
+    "word": "Sevemedim Karagözlüm",
+    "first": "Belkıs Özener",
+    "second": "Türkan Şoray",
+    "third": "Yeşilçam",
+    "fourth": "Gözler",
+    "fifth": "Klasik"
+  },
+  {
+    "id": "186",
+    "word": "Boş Çerçeve",
+    "first": "Belkıs Özener",
+    "second": "Resim",
+    "third": "Duvar",
+    "fourth": "Yeşilçam",
+    "fifth": "Ayrılık"
+  },
+  {
+    "id": "187",
+    "word": "Damarımda Kanımsın",
+    "first": "Emel Sayın",
+    "second": "Damar",
+    "third": "Vücut",
+    "fourth": "Aşk",
+    "fifth": "Klasik"
+  },
+  {
+    "id": "188",
+    "word": "Mavi Boncuk",
+    "first": "Emel Sayın",
+    "second": "Nazar",
+    "third": "Yeşilçam",
+    "fourth": "Film",
+    "fifth": "Gülüş"
+  },
+  {
+    "id": "189",
+    "word": "Rüyalar Gerçek Olsa",
+    "first": "Emel Sayın",
+    "second": "Uyku",
+    "third": "Masal",
+    "fourth": "Dilek",
+    "fifth": "Klasik"
+  },
+  {
+    "id": "190",
+    "word": "Feride",
+    "first": "Emel Sayın",
+    "second": "Çalıkuşu",
+    "third": "Öğretmen",
+    "fourth": "Yeşilçam",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "191",
+    "word": "Kemancı",
+    "first": "Gönül Akkor",
+    "second": "Keman",
+    "third": "Meyhane",
+    "fourth": "Çal",
+    "fifth": "Dert"
+  },
+  {
+    "id": "192",
+    "word": "Karlı Kayın Ormanı",
+    "first": "Zülfü Livaneli",
+    "second": "Nazım Hikmet",
+    "third": "Kar",
+    "fourth": "Ağaç",
+    "fifth": "Gitar"
+  },
+  {
+    "id": "193",
+    "word": "Ey Özgürlük",
+    "first": "Zülfü Livaneli",
+    "second": "Hürriyet",
+    "third": "Gitar",
+    "fourth": "Kuş",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "194",
+    "word": "Leylim Ley",
+    "first": "Zülfü Livaneli",
+    "second": "Sabahattin Ali",
+    "third": "Ayın Şavkı",
+    "fourth": "Türkü",
+    "fifth": "Bağlama"
+  },
+  {
+    "id": "195",
+    "word": "Yiğidim Aslanım",
+    "first": "Zülfü Livaneli",
+    "second": "Uğur Mumcu",
+    "third": "Ağıt",
+    "fourth": "Burada Yatar",
+    "fifth": "Gitar"
+  },
+  {
+    "id": "196",
+    "word": "Minik Kuş",
+    "first": "Barış Manço",
+    "second": "Kafes",
+    "third": "Uçmak",
+    "fourth": "Pencere",
+    "fifth": "Çocuk"
+  },
+  {
+    "id": "197",
+    "word": "Oku Bakayım Ayı",
+    "first": "Barış Manço",
+    "second": "Orman",
+    "third": "A-Y-I",
+    "fourth": "Harf",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "198",
+    "word": "Gül Dudaklım",
+    "first": "Kerim Tekin",
+    "second": "Dudak",
+    "third": "Slow",
+    "fourth": "Klip",
+    "fifth": "Pop"
+  },
+  {
+    "id": "199",
+    "word": "Ayşem",
+    "first": "İbrahim Tatlıses",
+    "second": "Türkü",
+    "third": "Kız İsmi",
+    "fourth": "Bağlama",
+    "fifth": "Aşk"
+  },
+  {
+    "id": "200",
+    "word": "Mavi Mavi Masmavi",
+    "first": "İbrahim Tatlıses",
+    "second": "Hülya Avşar",
+    "third": "Gözler",
+    "fourth": "Yeşilçam",
+    "fifth": "Şarkı"
+  }
+]

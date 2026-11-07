@@ -1,232 +1,2252 @@
 [
-  {"id": 1, "word": "Yerçekimi", "first": "Newton", "second": "Düşme", "third": "Kuvvet", "fourth": "Elma", "fifth": "Ağırlık"},
-  {"id": 2, "word": "Atom", "first": "Proton", "second": "Nötron", "third": "Elektron", "fourth": "Çekirdek", "fifth": "Küçük"},
-  {"id": 3, "word": "DNA", "first": "Gen", "second": "Kalıtım", "third": "Hücre", "fourth": "Çift sarmal", "fifth": "Genetik"},
-  {"id": 4, "word": "Güneş Sistemi", "first": "Gezegen", "second": "Yıldız", "third": "Dünya", "fourth": "Yörünge", "fifth": "Merkür"},
-  {"id": 5, "word": "Einstein", "first": "Görelilik", "second": "E=mc²", "third": "Fizik", "fourth": "Deha", "fifth": "Nobel"},
-  {"id": 6, "word": "Fotosentez", "first": "Bitki", "second": "Güneş", "third": "Oksijen", "fourth": "Klorofil", "fifth": "Yaprak"},
-  {"id": 7, "word": "Periyodik Tablo", "first": "Element", "second": "Kimya", "third": "Mendeleev", "fourth": "Atom numarası", "fifth": "Hidrojen"},
-  {"id": 8, "word": "Evrim", "first": "Darwin", "second": "Doğal seçilim", "third": "Tür", "fourth": "Adaptasyon", "fifth": "Değişim"},
-  {"id": 9, "word": "Kara Delik", "first": "Uzay", "second": "Işık", "third": "Yutmak", "fourth": "Çekim", "fifth": "Yıldız"},
-  {"id": 10, "word": "Hücre", "first": "Biyoloji", "second": "Canlı", "third": "Çekirdek", "fourth": "Zar", "fifth": "Bölünme"},
-  {"id": 11, "word": "Teleskop", "first": "Uzay", "second": "Gözlem", "third": "Yıldız", "fourth": "Mercek", "fifth": "Galileo"},
-  {"id": 12, "word": "Elektrik", "first": "Akım", "second": "Voltaj", "third": "Kablo", "fourth": "Enerji", "fifth": "Priz"},
-  {"id": 13, "word": "Mikroskop", "first": "Büyütmek", "second": "Küçük", "third": "Mercek", "fourth": "Hücre", "fifth": "Laboratuvar"},
-  {"id": 14, "word": "Newton", "first": "Elma", "second": "Yerçekimi", "third": "Fizik", "fourth": "Hareket", "fifth": "Kuvvet"},
-  {"id": 15, "word": "Oksijen", "first": "Nefes", "second": "Hava", "third": "Gaz", "fourth": "Solunma", "fifth": "O2"},
-  {"id": 16, "word": "Deney", "first": "Laboratuvar", "second": "Bilim", "third": "Test", "fourth": "Hipotez", "fifth": "Sonuç"},
-  {"id": 17, "word": "Galaksi", "first": "Yıldız", "second": "Samanyolu", "third": "Uzay", "fourth": "Spiral", "fifth": "Evren"},
-  {"id": 18, "word": "Proton", "first": "Atom", "second": "Çekirdek", "third": "Pozitif", "fourth": "Yük", "fifth": "Parçacık"},
-  {"id": 19, "word": "Volkan", "first": "Lav", "second": "Patlama", "third": "Dağ", "fourth": "Magma", "fifth": "Krater"},
-  {"id": 20, "word": "Pi Sayısı", "first": "3.14", "second": "Daire", "third": "Matematik", "fourth": "Çevre", "fifth": "Sonsuz"},
-  {"id": 21, "word": "Antibiyotik", "first": "İlaç", "second": "Bakteri", "third": "Tedavi", "fourth": "Penisilin", "fifth": "Enfeksiyon"},
-  {"id": 22, "word": "Deprem", "first": "Sarsıntı", "second": "Fay", "third": "Richter", "fourth": "Yıkım", "fifth": "Yer kabuğu"},
-  {"id": 23, "word": "Kromozom", "first": "DNA", "second": "Gen", "third": "Kalıtım", "fourth": "Hücre", "fifth": "46"},
-  {"id": 24, "word": "Lazer", "first": "Işık", "second": "Işın", "third": "Kırmızı", "fourth": "Kesme", "fifth": "Yoğun"},
-  {"id": 25, "word": "Mıknatıs", "first": "Çekim", "second": "Kutup", "third": "Demir", "fourth": "Kuzey", "fifth": "Alan"},
-  {"id": 26, "word": "Vitamin", "first": "Sağlık", "second": "Besin", "third": "C vitamini", "fourth": "Eksiklik", "fifth": "Meyve"},
-  {"id": 27, "word": "Röntgen", "first": "X ışını", "second": "Kemik", "third": "Hastane", "fourth": "Görüntüleme", "fifth": "Radyasyon"},
-  {"id": 28, "word": "Nöron", "first": "Sinir", "second": "Beyin", "third": "İletim", "fourth": "Hücre", "fifth": "Akson"},
-  {"id": 29, "word": "Karbon", "first": "Element", "second": "Organik", "third": "Kömür", "fourth": "Elmas", "fifth": "C"},
-  {"id": 30, "word": "Büyük Patlama", "first": "Evren", "second": "Başlangıç", "third": "Genişleme", "fourth": "Kozmoloji", "fifth": "Oluşum"},
-  {"id": 31, "word": "Aşı", "first": "Hastalık", "second": "Bağışıklık", "third": "İğne", "fourth": "Koruma", "fifth": "Virüs"},
-  {"id": 32, "word": "Gökkuşağı", "first": "Renk", "second": "Yağmur", "third": "Güneş", "fourth": "Yedi", "fifth": "Işık"},
-  {"id": 33, "word": "Asit", "first": "Baz", "second": "pH", "third": "Yakıcı", "fourth": "Kimya", "fifth": "Limon"},
-  {"id": 34, "word": "Meteor", "first": "Uzay", "second": "Düşme", "third": "Gökyüzü", "fourth": "Kaya", "fifth": "Yanan"},
-  {"id": 35, "word": "Enzim", "first": "Protein", "second": "Katalizör", "third": "Sindirim", "fourth": "Reaksiyon", "fifth": "Hızlandırmak"},
-  {"id": 36, "word": "Tesla", "first": "Elektrik", "second": "Alternatif akım", "third": "Mucit", "fourth": "Bobin", "fifth": "Edison"},
-  {"id": 37, "word": "Fosil", "first": "Dinozor", "second": "Kalıntı", "third": "Taş", "fourth": "Eski", "fifth": "Arkeoloji"},
-  {"id": 38, "word": "Genom", "first": "DNA", "second": "Gen", "third": "Harita", "fourth": "Dizi", "fifth": "İnsan"},
-  {"id": 39, "word": "Işık Hızı", "first": "Einstein", "second": "Hız", "third": "Saniye", "fourth": "300.000 km", "fifth": "En hızlı"},
-  {"id": 40, "word": "Bakteri", "first": "Mikrop", "second": "Hastalık", "third": "Tek hücreli", "fourth": "Küçük", "fifth": "Antibiyotik"},
-  {"id": 41, "word": "Ozon Tabakası", "first": "Atmosfer", "second": "Koruma", "third": "Ultraviyole", "fourth": "Delik", "fifth": "Güneş"},
-  {"id": 42, "word": "Fibonacci", "first": "Dizi", "second": "Sayı", "third": "Altın oran", "fourth": "Matematik", "fifth": "Spiral"},
-  {"id": 43, "word": "Hormon", "first": "Salgı", "second": "Bez", "third": "Vücut", "fourth": "Düzenleme", "fifth": "İnsülin"},
-  {"id": 44, "word": "Kuantum", "first": "Fizik", "second": "Parçacık", "third": "Belirsizlik", "fourth": "Atom altı", "fifth": "Dalga"},
-  {"id": 45, "word": "Marie Curie", "first": "Radyoaktivite", "second": "Nobel", "third": "Polonya", "fourth": "Bilim kadını", "fifth": "Radyum"},
-  {"id": 46, "word": "İzafiyet", "first": "Einstein", "second": "Zaman", "third": "Uzay", "fourth": "Görelilik", "fifth": "Hız"},
-  {"id": 47, "word": "Penisilin", "first": "Antibiyotik", "second": "Fleming", "third": "Mantar", "fourth": "İlaç", "fifth": "Keşif"},
-  {"id": 48, "word": "Ay", "first": "Gece", "second": "Dünya", "third": "Uydu", "fourth": "Dolunay", "fifth": "Gelgit"},
-  {"id": 49, "word": "Sindirim", "first": "Mide", "second": "Yemek", "third": "Bağırsak", "fourth": "Enzim", "fifth": "Besin"},
-  {"id": 50, "word": "Supernova", "first": "Yıldız", "second": "Patlama", "third": "Parlak", "fourth": "Ölüm", "fifth": "Uzay"},
-  {"id": 51, "word": "Plazma", "first": "Kan", "second": "Gaz", "third": "Madde hali", "fourth": "Sıcak", "fifth": "İyon"},
-  {"id": 52, "word": "Termometre", "first": "Sıcaklık", "second": "Ölçmek", "third": "Derece", "fourth": "Ateş", "fifth": "Cıva"},
-  {"id": 53, "word": "Erozyon", "first": "Toprak", "second": "Aşınma", "third": "Su", "fourth": "Rüzgar", "fifth": "Doğa"},
-  {"id": 54, "word": "Hemoglobin", "first": "Kan", "second": "Kırmızı", "third": "Oksijen", "fourth": "Demir", "fifth": "Hücre"},
-  {"id": 55, "word": "Radyasyon", "first": "Işın", "second": "Tehlike", "third": "Nükleer", "fourth": "Kanser", "fifth": "Enerji"},
-  {"id": 56, "word": "Hipotez", "first": "Varsayım", "second": "Bilim", "third": "Deney", "fourth": "Teori", "fifth": "Tahmin"},
-  {"id": 57, "word": "Galile", "first": "Teleskop", "second": "Dünya dönüyor", "third": "Astronomi", "fourth": "İtalya", "fifth": "Kilise"},
-  {"id": 58, "word": "Kök Hücre", "first": "Bölünme", "second": "Doku", "third": "Tedavi", "fourth": "Embriyonik", "fifth": "Yenilenme"},
-  {"id": 59, "word": "Graviton", "first": "Yerçekimi", "second": "Parçacık", "third": "Kuantum", "fourth": "Kuvvet", "fifth": "Teorik"},
-  {"id": 60, "word": "Metan", "first": "Gaz", "second": "Sera", "third": "Doğalgaz", "fourth": "CH4", "fifth": "Koku"},
-  {"id": 61, "word": "Dolaşım Sistemi", "first": "Kan", "second": "Kalp", "third": "Damar", "fourth": "Vücut", "fifth": "Pompa"},
-  {"id": 62, "word": "Spektrum", "first": "Renk", "second": "Işık", "third": "Gökkuşağı", "fourth": "Dalga boyu", "fifth": "Prizma"},
-  {"id": 63, "word": "Archimedes", "first": "Kaldırma kuvveti", "second": "Banyo", "third": "Eureka", "fourth": "Su", "fifth": "Yunan"},
-  {"id": 64, "word": "Mitoz", "first": "Bölünme", "second": "Hücre", "third": "Çoğalma", "fourth": "Kromozom", "fifth": "Eşit"},
-  {"id": 65, "word": "Kaldırma Kuvveti", "first": "Su", "second": "Batmak", "third": "Archimedes", "fourth": "Yüzmek", "fifth": "Hacim"},
-  {"id": 66, "word": "İnsülin", "first": "Şeker", "second": "Diyabet", "third": "Hormon", "fourth": "Pankreas", "fifth": "Kan"},
-  {"id": 67, "word": "Sürtünme", "first": "Kuvvet", "second": "Yüzey", "third": "Pürüzlü", "fourth": "Fren", "fifth": "Yavaşlama"},
-  {"id": 68, "word": "Samanyolu", "first": "Galaksi", "second": "Yıldız", "third": "Dünya", "fourth": "Uzay", "fifth": "Gece"},
-  {"id": 69, "word": "Polimer", "first": "Plastik", "second": "Zincir", "third": "Monomer", "fourth": "Kimya", "fifth": "Uzun"},
-  {"id": 70, "word": "Pasteur", "first": "Mikrop", "second": "Pastörizasyon", "third": "Süt", "fourth": "Aşı", "fifth": "Fransız"},
-  {"id": 71, "word": "Metabolizma", "first": "Enerji", "second": "Vücut", "third": "Kalori", "fourth": "Hızlı", "fifth": "Yavaş"},
-  {"id": 72, "word": "Elektromanyetik", "first": "Dalga", "second": "Işık", "third": "Alan", "fourth": "Radyo", "fifth": "Spektrum"},
-  {"id": 73, "word": "Mutasyon", "first": "Gen", "second": "Değişim", "third": "DNA", "fourth": "Evrim", "fifth": "Anormal"},
-  {"id": 74, "word": "Nikel", "first": "Metal", "second": "Element", "third": "Gümüş rengi", "fourth": "Alaşım", "fifth": "Madeni para"},
-  {"id": 75, "word": "Plüton", "first": "Cüce gezegen", "second": "Uzak", "third": "Soğuk", "fourth": "Güneş sistemi", "fifth": "Gezegen değil"},
-  {"id": 76, "word": "Bağışıklık Sistemi", "first": "Savunma", "second": "Vücut", "third": "Akyuvar", "fourth": "Hastalık", "fifth": "Antikor"},
-  {"id": 77, "word": "Pisagor", "first": "Üçgen", "second": "Teorem", "third": "Matematik", "fourth": "Hipotenüs", "fifth": "Kenar"},
-  {"id": 78, "word": "Küresel Isınma", "first": "Sera etkisi", "second": "İklim", "third": "Sıcaklık", "fourth": "Buzul", "fifth": "Karbon"},
-  {"id": 79, "word": "Titanyum", "first": "Metal", "second": "Hafif", "third": "Güçlü", "fourth": "Element", "fifth": "Uçak"},
-  {"id": 80, "word": "Adaptasyon", "first": "Uyum", "second": "Evrim", "third": "Çevre", "fourth": "Hayvan", "fifth": "Değişim"},
-  {"id": 81, "word": "Boyun Eğme", "first": "Kuvvet", "second": "Fizik", "third": "Elastik", "fourth": "Deforme", "fifth": "Gerilme"},
-  {"id": 82, "word": "Katalizör", "first": "Hızlandırmak", "second": "Reaksiyon", "third": "Kimya", "fourth": "Enzim", "fifth": "Değişmez"},
-  {"id": 83, "word": "Stephen Hawking", "first": "Kara delik", "second": "Tekerlekli sandalye", "third": "Fizik", "fourth": "Evren", "fifth": "Zamanın kısa tarihi"},
-  {"id": 84, "word": "Alyuvar", "first": "Kan", "second": "Kırmızı", "third": "Oksijen", "fourth": "Hücre", "fifth": "Hemoglobin"},
-  {"id": 85, "word": "Ohm Yasası", "first": "Elektrik", "second": "Direnç", "third": "Akım", "fourth": "Voltaj", "fifth": "Formül"},
-  {"id": 86, "word": "Uydu", "first": "Uzay", "second": "Yörünge", "third": "Dünya", "fourth": "Sinyal", "fifth": "İletişim"},
-  {"id": 87, "word": "Magma", "first": "Volkan", "second": "Erimiş", "third": "Sıcak", "fourth": "Yer altı", "fifth": "Kaya"},
-  {"id": 88, "word": "Osmoz", "first": "Su", "second": "Zar", "third": "Geçiş", "fourth": "Yoğunluk", "fifth": "Hücre"},
-  {"id": 89, "word": "Heisenberg", "first": "Belirsizlik", "second": "Kuantum", "third": "Fizik", "fourth": "İlke", "fifth": "Alman"},
-  {"id": 90, "word": "Solunum", "first": "Nefes", "second": "Akciğer", "third": "Oksijen", "fourth": "Karbondioksit", "fifth": "Yaşam"},
-  {"id": 91, "word": "İntegral", "first": "Matematik", "second": "Türev", "third": "Alan", "fourth": "Hesap", "fifth": "Toplam"},
-  {"id": 92, "word": "Nötron", "first": "Atom", "second": "Çekirdek", "third": "Yüksüz", "fourth": "Parçacık", "fifth": "Proton"},
-  {"id": 93, "word": "Biyoteknoloji", "first": "Gen", "second": "Mühendislik", "third": "Canlı", "fourth": "Teknoloji", "fifth": "GDO"},
-  {"id": 94, "word": "Jüpiter", "first": "Gezegen", "second": "Büyük", "third": "Gaz", "fourth": "Güneş sistemi", "fifth": "Kırmızı leke"},
-  {"id": 95, "word": "Stetoskop", "first": "Doktor", "second": "Kalp", "third": "Dinleme", "fourth": "Tıp", "fifth": "Muayene"},
-  {"id": 96, "word": "İzotop", "first": "Atom", "second": "Nötron", "third": "Aynı element", "fourth": "Farklı kütle", "fifth": "Radyoaktif"},
-  {"id": 97, "word": "Mars", "first": "Gezegen", "second": "Kırmızı", "third": "Uzay", "fourth": "NASA", "fifth": "Robot"},
-  {"id": 98, "word": "Albümin", "first": "Protein", "second": "Kan", "third": "Yumurta", "fourth": "Karaciğer", "fifth": "Serum"},
-  {"id": 99, "word": "Trigonometri", "first": "Sinüs", "second": "Kosinüs", "third": "Açı", "fourth": "Üçgen", "fifth": "Matematik"},
-  {"id": 100, "word": "Klonlama", "first": "Kopya", "second": "Genetik", "third": "Dolly", "fourth": "Koyun", "fifth": "Aynı"},
-  {"id": 101, "word": "Süperiletken", "first": "Sıfır direnç", "second": "Soğuk", "third": "Elektrik", "fourth": "Akım", "fifth": "Manyetik"},
-  {"id": 102, "word": "Fay Hattı", "first": "Deprem", "second": "Kırık", "third": "Yer kabuğu", "fourth": "Levha", "fifth": "Sarsıntı"},
-  {"id": 103, "word": "Logaritma", "first": "Matematik", "second": "Üs", "third": "log", "fourth": "10", "fifth": "Hesap"},
-  {"id": 104, "word": "Virüs", "first": "Hastalık", "second": "Mikrop", "third": "Bulaşıcı", "fourth": "Grip", "fifth": "Canlı değil"},
-  {"id": 105, "word": "Karbon Ayak İzi", "first": "Çevre", "second": "Sera gazı", "third": "Kirlilik", "fourth": "Emisyon", "fifth": "İklim"},
-  {"id": 106, "word": "Higgs Bozonu", "first": "Parçacık", "second": "Kütle", "third": "CERN", "fourth": "Tanrı parçacığı", "fifth": "Fizik"},
-  {"id": 107, "word": "Adrenalin", "first": "Hormon", "second": "Heyecan", "third": "Korku", "fourth": "Kalp", "fifth": "Hız"},
-  {"id": 108, "word": "Paralel Evren", "first": "Çoklu evren", "second": "Alternatif", "third": "Boyut", "fourth": "Kuantum", "fifth": "Teori"},
-  {"id": 109, "word": "Klorofil", "first": "Yeşil", "second": "Bitki", "third": "Fotosentez", "fourth": "Yaprak", "fifth": "Pigment"},
-  {"id": 110, "word": "Algoritma", "first": "Hesaplama", "second": "Adım", "third": "Bilgisayar", "fourth": "Matematik", "fifth": "Sıralama"},
-  {"id": 111, "word": "Edison", "first": "Ampul", "second": "Buluş", "third": "Elektrik", "fourth": "Mucit", "fifth": "Amerikan"},
-  {"id": 112, "word": "Amino Asit", "first": "Protein", "second": "Yapı taşı", "third": "20 tane", "fourth": "Zincir", "fifth": "Biyokimya"},
-  {"id": 113, "word": "Atmosfer", "first": "Hava", "second": "Dünya", "third": "Katman", "fourth": "Basınç", "fifth": "Koruma"},
-  {"id": 114, "word": "Titan", "first": "Satürn", "second": "Uydu", "third": "Büyük", "fourth": "Metan", "fifth": "Atmosfer"},
-  {"id": 115, "word": "Çekirge Etkisi", "first": "Kaos", "second": "Kelebek", "third": "Küçük değişim", "fourth": "Büyük sonuç", "fifth": "Hava durumu"},
-  {"id": 116, "word": "Termodinamik", "first": "Isı", "second": "Enerji", "third": "Fizik", "fourth": "Entropi", "fifth": "Yasa"},
-  {"id": 117, "word": "Mikroorganizma", "first": "Küçük", "second": "Bakteri", "third": "Canlı", "fourth": "Görünmez", "fifth": "Mikroskop"},
-  {"id": 118, "word": "Nükleer Fisyon", "first": "Atom", "second": "Bölünme", "third": "Enerji", "fourth": "Bomba", "fifth": "Uranyum"},
-  {"id": 119, "word": "Darwin", "first": "Evrim", "second": "Doğal seçilim", "third": "Galapagos", "fourth": "Türlerin kökeni", "fifth": "İngiliz"},
-  {"id": 120, "word": "Parazit", "first": "Asalak", "second": "Beslenme", "third": "Konak", "fourth": "Zarar", "fifth": "Canlı"},
-  {"id": 121, "word": "Bohr", "first": "Atom modeli", "second": "Yörünge", "third": "Fizik", "fourth": "Danimarkalı", "fifth": "Kuantum"},
-  {"id": 122, "word": "Titreşim", "first": "Sallanma", "second": "Frekans", "third": "Hareket", "fourth": "Ses", "fifth": "Dalga"},
-  {"id": 123, "word": "Alaşım", "first": "Metal", "second": "Karışım", "third": "Çelik", "fourth": "Bronz", "fifth": "Güçlü"},
-  {"id": 124, "word": "Nükleer Füzyon", "first": "Güneş", "second": "Birleşme", "third": "Hidrojen", "fourth": "Enerji", "fifth": "Yıldız"},
-  {"id": 125, "word": "Ribozom", "first": "Protein", "second": "Sentez", "third": "Hücre", "fourth": "RNA", "fifth": "Organel"},
-  {"id": 126, "word": "Feynman", "first": "Fizik", "second": "Nobel", "third": "Diyagram", "fourth": "Kuantum", "fifth": "Amerikan"},
-  {"id": 127, "word": "Yoğunluk", "first": "Kütle", "second": "Hacim", "third": "Ağır", "fourth": "Batmak", "fifth": "Sıvı"},
-  {"id": 128, "word": "Troposfer", "first": "Atmosfer", "second": "Katman", "third": "Hava durumu", "fourth": "En alt", "fifth": "Bulut"},
-  {"id": 129, "word": "İbn-i Sina", "first": "Tıp", "second": "Kanun", "third": "Doktor", "fourth": "İslam", "fifth": "Felsefe"},
-  {"id": 130, "word": "Difüzyon", "first": "Yayılma", "second": "Molekül", "third": "Koku", "fourth": "Derişim", "fifth": "Hareket"},
-  {"id": 131, "word": "Karantina", "first": "İzolasyon", "second": "Hastalık", "third": "Ayrı tutma", "fourth": "Bulaşıcı", "fifth": "Koruma"},
-  {"id": 132, "word": "Elektroliz", "first": "Akım", "second": "Ayrışma", "third": "Su", "fourth": "Elektrot", "fifth": "Kimya"},
-  {"id": 133, "word": "Dopamin", "first": "Mutluluk", "second": "Beyin", "third": "Nörotransmitter", "fourth": "Hormon", "fifth": "Ödül"},
-  {"id": 134, "word": "Hubble", "first": "Teleskop", "second": "Uzay", "third": "NASA", "fourth": "Gözlem", "fifth": "Genişleme"},
-  {"id": 135, "word": "Elektron", "first": "Atom", "second": "Negatif", "third": "Yük", "fourth": "Yörünge", "fifth": "Parçacık"},
-  {"id": 136, "word": "Antikor", "first": "Bağışıklık", "second": "Savunma", "third": "Protein", "fourth": "Kan", "fifth": "Virüs"},
-  {"id": 137, "word": "Lavoisier", "first": "Kimya", "second": "Fransız", "third": "Yanma", "fourth": "Oksijen", "fifth": "Modern kimya"},
-  {"id": 138, "word": "Satelit", "first": "Uydu", "second": "Yörünge", "third": "Uzay", "fourth": "İletişim", "fifth": "Sinyal"},
-  {"id": 139, "word": "Mitokondri", "first": "Enerji", "second": "Hücre", "third": "ATP", "fourth": "Güç merkezi", "fifth": "Organel"},
-  {"id": 140, "word": "Dalton", "first": "Atom", "second": "Kütle", "third": "Model", "fourth": "Kimya", "fifth": "Renk körlüğü"},
-  {"id": 141, "word": "Ekvator", "first": "Çizgi", "second": "Ortası", "third": "Dünya", "fourth": "Sıcak", "fifth": "Kuzey güney"},
-  {"id": 142, "word": "Baz", "first": "Asit", "second": "pH", "third": "Kaygan", "fourth": "Kimya", "fifth": "Sabun"},
-  {"id": 143, "word": "Kozmik Işın", "first": "Uzay", "second": "Enerji", "third": "Parçacık", "fourth": "Radyasyon", "fifth": "Atmosfer"},
-  {"id": 144, "word": "Havva'nın Mitokondri DNA'sı", "first": "Anne", "second": "Soy", "third": "Afrika", "fourth": "Kalıtım", "fifth": "İlk kadın"},
-  {"id": 145, "word": "Optiğin", "first": "Işık", "second": "Mercek", "third": "Kırılma", "fourth": "Fizik", "fifth": "Gözlük"},
-  {"id": 146, "word": "Pankreas", "first": "İnsülin", "second": "Organ", "third": "Sindirim", "fourth": "Şeker", "fifth": "Hormon"},
-  {"id": 147, "word": "Boyut", "first": "Uzunluk", "second": "Genişlik", "third": "Derinlik", "fourth": "3D", "fifth": "Ölçü"},
-  {"id": 148, "word": "Ses Hızı", "first": "Mach", "second": "Hız", "third": "340 m/s", "fourth": "Ses", "fifth": "Uçak"},
-  {"id": 149, "word": "Fleming", "first": "Penisilin", "second": "Buluş", "third": "Antibiyotik", "fourth": "İskoç", "fifth": "Tıp"},
-  {"id": 150, "word": "Yer Çekirdeği", "first": "Dünya", "second": "Sıcak", "third": "Demir", "fourth": "İç", "fifth": "Katman"},
-  {"id": 151, "word": "Optik Fiber", "first": "Işık", "second": "Kablo", "third": "İnternet", "fourth": "Cam", "fifth": "İletim"},
-  {"id": 152, "word": "Oksidasyon", "first": "Paslanma", "second": "Oksijen", "third": "Reaksiyon", "fourth": "Elektron", "fifth": "Yanma"},
-  {"id": 153, "word": "Mendel", "first": "Genetik", "second": "Bezelye", "third": "Kalıtım", "fourth": "Baskın", "fifth": "Çekinik"},
-  {"id": 154, "word": "Ay Tutulması", "first": "Gölge", "second": "Dünya", "third": "Güneş", "fourth": "Gece", "fifth": "Kırmızı"},
-  {"id": 155, "word": "Süpernova", "first": "Yıldız", "second": "Patlama", "third": "Ölüm", "fourth": "Parlak", "fifth": "Uzay"},
-  {"id": 156, "word": "Termit", "first": "Yanma", "second": "Alüminyum", "third": "Demir oksit", "fourth": "Sıcak", "fifth": "Reaksiyon"},
-  {"id": 157, "word": "Ampere", "first": "Akım", "second": "Elektrik", "third": "Birim", "fourth": "Fransız", "fifth": "Amper"},
-  {"id": 158, "word": "Güneş Enerjisi", "first": "Panel", "second": "Yenilenebilir", "third": "Işık", "fourth": "Temiz", "fifth": "Fotovoltaik"},
-  {"id": 159, "word": "Tümör", "first": "Kanser", "second": "Kitle", "third": "Hücre", "fourth": "Büyüme", "fifth": "İyi/kötü huylu"},
-  {"id": 160, "word": "Dalga Boyu", "first": "Işık", "second": "Renk", "third": "Uzunluk", "fourth": "Frekans", "fifth": "Nanometre"},
-  {"id": 161, "word": "Pastörizasyon", "first": "Süt", "second": "Isıtma", "third": "Mikrop", "fourth": "Pasteur", "fifth": "Sterilize"},
-  {"id": 162, "word": "Plankton", "first": "Deniz", "second": "Küçük", "third": "Balina", "fourth": "Besin zinciri", "fifth": "Mikroskobik"},
-  {"id": 163, "word": "Schrödinger", "first": "Kedi", "second": "Kuantum", "third": "Fizik", "fourth": "Denklem", "fifth": "Belirsizlik"},
-  {"id": 164, "word": "Reaktör", "first": "Nükleer", "second": "Enerji", "third": "Santral", "fourth": "Fisyon", "fifth": "Uranyum"},
-  {"id": 165, "word": "Otoimmün", "first": "Bağışıklık", "second": "Hastalık", "third": "Kendi saldırı", "fourth": "Vücut", "fifth": "Savunma"},
-  {"id": 166, "word": "Pascal", "first": "Basınç", "second": "Birim", "third": "Matematik", "fourth": "Fransız", "fifth": "Üçgen"},
-  {"id": 167, "word": "Akyuvar", "first": "Kan", "second": "Beyaz", "third": "Savunma", "fourth": "Bağışıklık", "fifth": "Hücre"},
-  {"id": 168, "word": "Plütonyum", "first": "Radyoaktif", "second": "Element", "third": "Bomba", "fourth": "Nükleer", "fifth": "Tehlikeli"},
-  {"id": 169, "word": "Türev", "first": "Matematik", "second": "Eğim", "third": "Fonksiyon", "fourth": "Değişim", "fifth": "Limit"},
-  {"id": 170, "word": "Rüzgar Enerjisi", "first": "Türbin", "second": "Pervane", "third": "Yenilenebilir", "fourth": "Temiz", "fifth": "Elektrik"},
-  {"id": 171, "word": "Serotonin", "first": "Mutluluk", "second": "Beyin", "third": "Nörotransmitter", "fourth": "Ruh hali", "fifth": "Kimyasal"},
-  {"id": 172, "word": "Kepler", "first": "Gezegen", "second": "Yörünge", "third": "Astronomi", "fourth": "Elips", "fifth": "Yasalar"},
-  {"id": 173, "word": "Karbonhidrat", "first": "Enerji", "second": "Şeker", "third": "Ekmek", "fourth": "Besin", "fifth": "Nişasta"},
-  {"id": 174, "word": "Termit Reaksiyonu", "first": "Yanma", "second": "Alüminyum", "third": "Demir", "fourth": "Sıcak", "fifth": "Kaynak"},
-  {"id": 175, "word": "Güneş Tutulması", "first": "Ay", "second": "Gölge", "third": "Karanlık", "fourth": "Gündüz", "fifth": "Tam/kısmi"},
-  {"id": 176, "word": "Epigenetik", "first": "Gen", "second": "Değişim", "third": "Kalıtım", "fourth": "Çevre", "fifth": "Açılıp kapanma"},
-  {"id": 177, "word": "Volta", "first": "Pil", "second": "Elektrik", "third": "İtalyan", "fourth": "Voltaj", "fifth": "Buluş"},
-  {"id": 178, "word": "Beyin", "first": "Düşünme", "second": "Sinir", "third": "Organ", "fourth": "Kafa", "fifth": "Nöron"},
-  {"id": 179, "word": "Frekans", "first": "Dalga", "second": "Hertz", "third": "Ses", "fourth": "Titreşim", "fifth": "Sıklık"},
-  {"id": 180, "word": "Karbondioksit", "first": "CO2", "second": "Sera gazı", "third": "Nefes verme", "fourth": "Bitki", "fifth": "Hava"},
-  {"id": 181, "word": "Rönesans", "first": "Bilim", "second": "Avrupa", "third": "Yeniden doğuş", "fourth": "Sanat", "fifth": "Keşif"},
-  {"id": 182, "word": "Endorfin", "first": "Mutluluk", "second": "Ağrı", "third": "Spor", "fourth": "Beyin", "fifth": "Hormon"},
-  {"id": 183, "word": "Uranyum", "first": "Radyoaktif", "second": "Nükleer", "third": "Element", "fourth": "Enerji", "fifth": "Bomba"},
-  {"id": 184, "word": "Fotosfer", "first": "Güneş", "second": "Yüzey", "third": "Işık", "fourth": "Sıcak", "fifth": "Katman"},
-  {"id": 185, "word": "Biyoçeşitlilik", "first": "Doğa", "second": "Tür", "third": "Çeşitlilik", "fourth": "Ekosistem", "fifth": "Canlı"},
-  {"id": 186, "word": "Joule", "first": "Enerji", "second": "Birim", "third": "Fizik", "fourth": "Isı", "fifth": "İş"},
-  {"id": 187, "word": "Serum", "first": "Kan", "second": "Sıvı", "third": "Damar", "fourth": "Hastane", "fifth": "Tedavi"},
-  {"id": 188, "word": "Santrifüj", "first": "Döndürme", "second": "Ayırma", "third": "Hız", "fourth": "Kuvvet", "fifth": "Laboratuvar"},
-  {"id": 189, "word": "Simbiyoz", "first": "Birlikte yaşam", "second": "Karşılıklı", "third": "Fayda", "fourth": "Organizma", "fifth": "Liken"},
-  {"id": 190, "word": "Faraday", "first": "Elektromanyetik", "second": "İndüksiyon", "third": "Fizik", "fourth": "İngiliz", "fifth": "Kafes"},
-  {"id": 191, "word": "Aort", "first": "Damar", "second": "Kalp", "third": "Büyük", "fourth": "Atardamar", "fifth": "Kan"},
-  {"id": 192, "word": "İndüksiyon", "first": "Elektrik", "second": "Manyetik", "third": "Faraday", "fourth": "Akım", "fifth": "Ocak"},
-  {"id": 193, "word": "Meioz", "first": "Bölünme", "second": "Hücre", "third": "Üreme", "fourth": "Yarıya indirme", "fifth": "Kromozom"},
-  {"id": 194, "word": "Karanlık Madde", "first": "Evren", "second": "Görünmez", "third": "Kütle", "fourth": "Gizemli", "fifth": "Galaksi"},
-  {"id": 195, "word": "Nikotin", "first": "Sigara", "second": "Bağımlılık", "third": "Tütün", "fourth": "Zehir", "fifth": "Kimyasal"},
-  {"id": 196, "word": "Copernicus", "first": "Güneş merkezli", "second": "Astronomi", "third": "Polonyalı", "fourth": "Dünya dönüyor", "fifth": "Model"},
-  {"id": 197, "word": "Kalsiyum", "first": "Kemik", "second": "Süt", "third": "Mineral", "fourth": "Element", "fifth": "Diş"},
-  {"id": 198, "word": "Nanoteknoloji", "first": "Küçük", "second": "Atom", "third": "Teknoloji", "fourth": "Milimetrenin milyonda biri", "fifth": "Malzeme"},
-  {"id": 199, "word": "Kanser", "first": "Tümör", "second": "Hastalık", "third": "Hücre", "fourth": "Kemoterapi", "fifth": "Tedavi"},
-  {"id": 200, "word": "Matris", "first": "Matematik", "second": "Satır", "third": "Sütun", "fourth": "Dizi", "fifth": "Lineer"},
-  {"id": 201, "word": "Doppler Etkisi", "first": "Ses", "second": "Ambulans", "third": "Frekans", "fourth": "Yaklaşma", "fifth": "Dalga"},
-  {"id": 202, "word": "Lenf", "first": "Sıvı", "second": "Düğüm", "third": "Bağışıklık", "fourth": "Damar", "fifth": "Sistem"},
-  {"id": 203, "word": "Oksijenli Solunum", "first": "Enerji", "second": "ATP", "third": "Hücre", "fourth": "Glikoz", "fifth": "Mitokondri"},
-  {"id": 204, "word": "Hubble Yasası", "first": "Genişleme", "second": "Evren", "third": "Uzaklaşma", "fourth": "Hız", "fifth": "Galaksi"},
-  {"id": 205, "word": "Karbon-14", "first": "Yaş tayini", "second": "Radyoaktif", "third": "Fosil", "fourth": "Tarih", "fifth": "İzotop"},
-  {"id": 206, "word": "Sinapsis", "first": "Sinir", "second": "Bağlantı", "third": "Nöron", "fourth": "İletim", "fifth": "Boşluk"},
-  {"id": 207, "word": "Maddenin Halleri", "first": "Katı", "second": "Sıvı", "third": "Gaz", "fourth": "Plazma", "fifth": "Değişim"},
-  {"id": 208, "word": "Büyük Hadron Çarpıştırıcısı", "first": "CERN", "second": "Parçacık", "third": "İsviçre", "fourth": "Hızlandırıcı", "fifth": "Higgs"},
-  {"id": 209, "word": "Herbivore", "first": "Otçul", "second": "Hayvan", "third": "Bitki", "fourth": "Ot", "fifth": "İnek"},
-  {"id": 210, "word": "Tundra", "first": "Soğuk", "second": "Kutup", "third": "Biyom", "fourth": "Bitki örtüsü", "fifth": "Donmuş"},
-  {"id": 211, "word": "Elastikiyet", "first": "Esneklik", "second": "Geri dönme", "third": "Lastik", "fourth": "Kuvvet", "fifth": "Fizik"},
-  {"id": 212, "word": "Tiroit", "first": "Bez", "second": "Boyun", "third": "Hormon", "fourth": "Metabolizma", "fifth": "Guatr"},
-  {"id": 213, "word": "Işık Yılı", "first": "Mesafe", "second": "Uzay", "third": "Yıldız", "fourth": "Uzaklık", "fifth": "Hız"},
-  {"id": 214, "word": "Asimetri", "first": "Simetri", "second": "Dengesiz", "third": "Eşitsiz", "fourth": "Düzensiz", "fifth": "Şekil"},
-  {"id": 215, "word": "Birim", "first": "Ölçü", "second": "Metre", "third": "Kilogram", "fourth": "Saniye", "fifth": "SI"},
-  {"id": 216, "word": "Kuvars", "first": "Mineral", "second": "Kristal", "third": "Saat", "fourth": "Taş", "fifth": "Sert"},
-  {"id": 217, "word": "RNA", "first": "DNA", "second": "Riboz", "third": "Gen", "fourth": "Protein", "fifth": "Tek zincir"},
-  {"id": 218, "word": "Watt", "first": "Güç", "second": "Birim", "third": "Elektrik", "fourth": "Ampul", "fifth": "Enerji"},
-  {"id": 219, "word": "Levha Tektoniği", "first": "Yer kabuğu", "second": "Deprem", "third": "Kıta", "fourth": "Hareket", "fifth": "Volkan"},
-  {"id": 220, "word": "Telomer", "first": "Kromozom", "second": "Uç", "third": "Yaşlanma", "fourth": "DNA", "fifth": "Kısalma"},
-  {"id": 221, "word": "Radyoaktif Bozunma", "first": "Yarı ömür", "second": "Atom", "third": "Parçalanma", "fourth": "Işın", "fifth": "Kararsız"},
-  {"id": 222, "word": "Hubble Teleskobu", "first": "Uzay", "second": "NASA", "third": "Gözlem", "fourth": "Yörünge", "fifth": "Fotoğraf"},
-  {"id": 223, "word": "Cerrahi", "first": "Ameliyat", "second": "Doktor", "third": "Bıçak", "fourth": "Hastane", "fifth": "Kesme"},
-  {"id": 224, "word": "Bor", "first": "Element", "second": "Türkiye", "third": "Mineral", "fourth": "Maden", "fifth": "Cam"},
-  {"id": 225, "word": "İvme", "first": "Hızlanma", "second": "Fizik", "third": "Hareket", "fourth": "Kuvvet", "fifth": "Newton"},
-  {"id": 226, "word": "Besin Zinciri", "first": "Enerji", "second": "Canlı", "third": "Yemek", "fourth": "Üretici", "fifth": "Tüketici"},
-  {"id": 227, "word": "Helyum", "first": "Gaz", "second": "Balon", "third": "Hafif", "fourth": "Element", "fifth": "Ses"},
-  {"id": 228, "word": "MRI", "first": "Görüntüleme", "second": "Manyetik", "third": "Hastane", "fourth": "Beyin", "fifth": "Rezonans"},
-  {"id": 229, "word": "Momentum", "first": "Kütle", "second": "Hız", "third": "Hareket", "fourth": "Fizik", "fifth": "Korunum"},
-  {"id": 230, "word": "Penisillin", "first": "Mantar", "second": "Fleming", "third": "Antibiyotik", "fourth": "İlaç", "fifth": "Bakteri"}
+  {
+    "id": "1",
+    "word": "Yerçekimi",
+    "first": "Newton",
+    "second": "Düşme",
+    "third": "Kütle",
+    "fourth": "Elma",
+    "fifth": "Ağırlık"
+  },
+  {
+    "id": "2",
+    "word": "Atom",
+    "first": "Proton",
+    "second": "Nötron",
+    "third": "Elektron",
+    "fourth": "Çekirdek",
+    "fifth": "Küçük"
+  },
+  {
+    "id": "3",
+    "word": "DNA",
+    "first": "Gen",
+    "second": "Kalıtım",
+    "third": "Çift sarmal",
+    "fourth": "Kromozom",
+    "fifth": "Genetik"
+  },
+  {
+    "id": "4",
+    "word": "Einstein",
+    "first": "Görelilik",
+    "second": "E=mc²",
+    "third": "Fizik",
+    "fourth": "Dahi",
+    "fifth": "Nobel"
+  },
+  {
+    "id": "5",
+    "word": "Güneş Sistemi",
+    "first": "Gezegen",
+    "second": "Yıldız",
+    "third": "Dünya",
+    "fourth": "Yörünge",
+    "fifth": "Uzay"
+  },
+  {
+    "id": "6",
+    "word": "Fotosentez",
+    "first": "Bitki",
+    "second": "Güneş",
+    "third": "Oksijen",
+    "fourth": "Klorofil",
+    "fifth": "Yaprak"
+  },
+  {
+    "id": "7",
+    "word": "Periyodik Tablo",
+    "first": "Element",
+    "second": "Kimya",
+    "third": "Mendeleev",
+    "fourth": "Atom numarası",
+    "fifth": "Altın"
+  },
+  {
+    "id": "8",
+    "word": "Evrim",
+    "first": "Darwin",
+    "second": "Doğal seçilim",
+    "third": "Tür",
+    "fourth": "Adaptasyon",
+    "fifth": "Mutasyon"
+  },
+  {
+    "id": "9",
+    "word": "Kara Delik",
+    "first": "Uzay",
+    "second": "Işık",
+    "third": "Çekim",
+    "fourth": "Yıldız",
+    "fifth": "Hawking"
+  },
+  {
+    "id": "10",
+    "word": "Hücre",
+    "first": "Biyoloji",
+    "second": "Çekirdek",
+    "third": "Zar",
+    "fourth": "Canlı",
+    "fifth": "Bölünme"
+  },
+  {
+    "id": "11",
+    "word": "Teleskop",
+    "first": "Gökyüzü",
+    "second": "Yıldız",
+    "third": "Büyütme",
+    "fourth": "Mercek",
+    "fifth": "Galileo"
+  },
+  {
+    "id": "12",
+    "word": "Mikrosop",
+    "first": "Büyütme",
+    "second": "Küçük",
+    "third": "Laboratuvar",
+    "fourth": "Lens",
+    "fifth": "Hücre"
+  },
+  {
+    "id": "13",
+    "word": "Oksijen",
+    "first": "Nefes",
+    "second": "Hava",
+    "third": "Soluma",
+    "fourth": "Gaz",
+    "fifth": "O₂"
+  },
+  {
+    "id": "14",
+    "word": "Elektrik",
+    "first": "Akım",
+    "second": "Voltaj",
+    "third": "Kablo",
+    "fourth": "Enerji",
+    "fifth": "Priz"
+  },
+  {
+    "id": "15",
+    "word": "Deprem",
+    "first": "Fay",
+    "second": "Sarsıntı",
+    "third": "Richter",
+    "fourth": "Yer kabuğu",
+    "fifth": "Afet"
+  },
+  {
+    "id": "16",
+    "word": "Mıknatıs",
+    "first": "Kutup",
+    "second": "Demir",
+    "third": "Çekim",
+    "fourth": "Kuzey",
+    "fifth": "Alan"
+  },
+  {
+    "id": "17",
+    "word": "Newton",
+    "first": "Elma",
+    "second": "Yerçekimi",
+    "third": "Fizik",
+    "fourth": "Hareket",
+    "fifth": "Kuvvet"
+  },
+  {
+    "id": "18",
+    "word": "Hidrojen",
+    "first": "Gaz",
+    "second": "Su",
+    "third": "Element",
+    "fourth": "Hafif",
+    "fifth": "H"
+  },
+  {
+    "id": "19",
+    "word": "Volkan",
+    "first": "Lav",
+    "second": "Patlama",
+    "third": "Dağ",
+    "fourth": "Magma",
+    "fifth": "Krater"
+  },
+  {
+    "id": "20",
+    "word": "Işık Hızı",
+    "first": "Hız",
+    "second": "Einstein",
+    "third": "Saniye",
+    "fourth": "Foton",
+    "fifth": "Uzay"
+  },
+  {
+    "id": "21",
+    "word": "Bakteri",
+    "first": "Mikrop",
+    "second": "Hastalık",
+    "third": "Tek hücreli",
+    "fourth": "Antibiyotik",
+    "fifth": "Enfeksiyon"
+  },
+  {
+    "id": "22",
+    "word": "Galaksi",
+    "first": "Samanyolu",
+    "second": "Yıldız",
+    "third": "Uzay",
+    "fourth": "Spiral",
+    "fifth": "Evren"
+  },
+  {
+    "id": "23",
+    "word": "Termodinamik",
+    "first": "Isı",
+    "second": "Enerji",
+    "third": "Sıcaklık",
+    "fourth": "Entropi",
+    "fifth": "Fizik"
+  },
+  {
+    "id": "24",
+    "word": "Kromozom",
+    "first": "DNA",
+    "second": "Gen",
+    "third": "Kalıtım",
+    "fourth": "23 çift",
+    "fifth": "Hücre"
+  },
+  {
+    "id": "25",
+    "word": "Röntgen",
+    "first": "X ışını",
+    "second": "Kemik",
+    "third": "Hastane",
+    "fourth": "Görüntüleme",
+    "fifth": "Radyasyon"
+  },
+  {
+    "id": "26",
+    "word": "Sinir Sistemi",
+    "first": "Beyin",
+    "second": "Omurilik",
+    "third": "Nöron",
+    "fourth": "Sinyal",
+    "fifth": "Refleks"
+  },
+  {
+    "id": "27",
+    "word": "Pi Sayısı",
+    "first": "3.14",
+    "second": "Daire",
+    "third": "Matematik",
+    "fourth": "Çevre",
+    "fifth": "İrrasyonel"
+  },
+  {
+    "id": "28",
+    "word": "Aşı",
+    "first": "İğne",
+    "second": "Bağışıklık",
+    "third": "Virüs",
+    "fourth": "Hastalık",
+    "fifth": "Pasteur"
+  },
+  {
+    "id": "29",
+    "word": "Büyük Patlama",
+    "first": "Evren",
+    "second": "Başlangıç",
+    "third": "Genişleme",
+    "fourth": "Kozmoloji",
+    "fifth": "Tekillik"
+  },
+  {
+    "id": "30",
+    "word": "Lazer",
+    "first": "Işık",
+    "second": "Kırmızı",
+    "third": "Işın",
+    "fourth": "Cerrahi",
+    "fifth": "Odaklanma"
+  },
+  {
+    "id": "31",
+    "word": "Karbon",
+    "first": "Element",
+    "second": "Organik",
+    "third": "Elmas",
+    "fourth": "Grafit",
+    "fifth": "C"
+  },
+  {
+    "id": "32",
+    "word": "Kan Grubu",
+    "first": "A",
+    "second": "B",
+    "third": "Rh",
+    "fourth": "Nakil",
+    "fifth": "Antikor"
+  },
+  {
+    "id": "33",
+    "word": "Ay",
+    "first": "Uydu",
+    "second": "Dünya",
+    "third": "Gece",
+    "fourth": "Dolunay",
+    "fifth": "Gelgit"
+  },
+  {
+    "id": "34",
+    "word": "Asit",
+    "first": "pH",
+    "second": "Baz",
+    "third": "Yakıcı",
+    "fourth": "Limon",
+    "fifth": "Kimya"
+  },
+  {
+    "id": "35",
+    "word": "Dinozor",
+    "first": "Soyu tükenmiş",
+    "second": "Fosil",
+    "third": "Tarih öncesi",
+    "fourth": "Dev",
+    "fifth": "T-Rex"
+  },
+  {
+    "id": "36",
+    "word": "Ekvator",
+    "first": "Çizgi",
+    "second": "Sıcak",
+    "third": "Dünya",
+    "fourth": "Ortası",
+    "fifth": "Tropikal"
+  },
+  {
+    "id": "37",
+    "word": "Radyoaktivite",
+    "first": "Uranyum",
+    "second": "Radyasyon",
+    "third": "Çekirdek",
+    "fourth": "Curie",
+    "fifth": "Bozunma"
+  },
+  {
+    "id": "38",
+    "word": "Penisilin",
+    "first": "Antibiyotik",
+    "second": "Fleming",
+    "third": "İlaç",
+    "fourth": "Bakteri",
+    "fifth": "Küf"
+  },
+  {
+    "id": "39",
+    "word": "Mars",
+    "first": "Kızıl gezegen",
+    "second": "Uzay",
+    "third": "NASA",
+    "fourth": "Robot",
+    "fifth": "Yaşam"
+  },
+  {
+    "id": "40",
+    "word": "Enzim",
+    "first": "Protein",
+    "second": "Katalizör",
+    "third": "Sindirim",
+    "fourth": "Hızlandırma",
+    "fifth": "Biyoloji"
+  },
+  {
+    "id": "41",
+    "word": "Gökkuşağı",
+    "first": "Renk",
+    "second": "Yağmur",
+    "third": "Güneş",
+    "fourth": "Işık",
+    "fifth": "Kırılma"
+  },
+  {
+    "id": "42",
+    "word": "Tesla",
+    "first": "Nikola",
+    "second": "Elektrik",
+    "third": "Alternatif akım",
+    "fourth": "Mucit",
+    "fifth": "Bobin"
+  },
+  {
+    "id": "43",
+    "word": "Ozon Tabakası",
+    "first": "Atmosfer",
+    "second": "Koruma",
+    "third": "Ultraviyole",
+    "fourth": "Delik",
+    "fifth": "Güneş"
+  },
+  {
+    "id": "44",
+    "word": "Protein",
+    "first": "Amino asit",
+    "second": "Et",
+    "third": "Kas",
+    "fourth": "Beslenme",
+    "fifth": "Yapı taşı"
+  },
+  {
+    "id": "45",
+    "word": "Jüpiter",
+    "first": "Gezegen",
+    "second": "Büyük",
+    "third": "Gaz",
+    "fourth": "Leke",
+    "fifth": "Uydu"
+  },
+  {
+    "id": "46",
+    "word": "Kuantum",
+    "first": "Fizik",
+    "second": "Parçacık",
+    "third": "Belirsizlik",
+    "fourth": "Atom altı",
+    "fifth": "Dalga"
+  },
+  {
+    "id": "47",
+    "word": "İnsan Genomu",
+    "first": "DNA",
+    "second": "Gen",
+    "third": "Haritalama",
+    "fourth": "Proje",
+    "fifth": "Dizi"
+  },
+  {
+    "id": "48",
+    "word": "Pithagor",
+    "first": "Teorem",
+    "second": "Üçgen",
+    "third": "Matematik",
+    "fourth": "Kenar",
+    "fifth": "Hipotenüs"
+  },
+  {
+    "id": "49",
+    "word": "Bağışıklık",
+    "first": "Savunma",
+    "second": "Antikor",
+    "third": "Akyuvar",
+    "fourth": "Hastalık",
+    "fifth": "Vücut"
+  },
+  {
+    "id": "50",
+    "word": "Meteoroloji",
+    "first": "Hava",
+    "second": "Tahmin",
+    "third": "Sıcaklık",
+    "fourth": "Yağış",
+    "fifth": "Rüzgâr"
+  },
+  {
+    "id": "51",
+    "word": "Pluto",
+    "first": "Cüce gezegen",
+    "second": "Uzak",
+    "third": "Soğuk",
+    "fourth": "Sınıflandırma",
+    "fifth": "Güneş sistemi"
+  },
+  {
+    "id": "52",
+    "word": "Hipotez",
+    "first": "Tahmin",
+    "second": "Teori",
+    "third": "Deney",
+    "fourth": "Bilimsel yöntem",
+    "fifth": "Varsayım"
+  },
+  {
+    "id": "53",
+    "word": "Marie Curie",
+    "first": "Radyoaktivite",
+    "second": "Nobel",
+    "third": "Polonyum",
+    "fourth": "Radyum",
+    "fifth": "Kadın bilim insanı"
+  },
+  {
+    "id": "54",
+    "word": "Tsunami",
+    "first": "Dalga",
+    "second": "Deprem",
+    "third": "Okyanus",
+    "fourth": "Afet",
+    "fifth": "Dev"
+  },
+  {
+    "id": "55",
+    "word": "Sindirim",
+    "first": "Mide",
+    "second": "Bağırsak",
+    "third": "Yemek",
+    "fourth": "Enzim",
+    "fifth": "Besin"
+  },
+  {
+    "id": "56",
+    "word": "Fibonacci",
+    "first": "Sayı dizisi",
+    "second": "Altın oran",
+    "third": "Matematik",
+    "fourth": "Spiral",
+    "fifth": "Doğa"
+  },
+  {
+    "id": "57",
+    "word": "Kan Basıncı",
+    "first": "Tansiyon",
+    "second": "Kalp",
+    "third": "Ölçüm",
+    "fourth": "Damar",
+    "fifth": "Yüksek"
+  },
+  {
+    "id": "58",
+    "word": "Samanyolu",
+    "first": "Galaksi",
+    "second": "Yıldız",
+    "third": "Uzay",
+    "fourth": "Dünya",
+    "fifth": "Gece"
+  },
+  {
+    "id": "59",
+    "word": "Anatomi",
+    "first": "Vücut",
+    "second": "Organ",
+    "third": "İnsan",
+    "fourth": "Tıp",
+    "fifth": "Kas"
+  },
+  {
+    "id": "60",
+    "word": "Virüs",
+    "first": "Hastalık",
+    "second": "Enfeksiyon",
+    "third": "Bulaşıcı",
+    "fourth": "Mikrop",
+    "fifth": "Pandemi"
+  },
+  {
+    "id": "61",
+    "word": "Görelilik",
+    "first": "Einstein",
+    "second": "Zaman",
+    "third": "Uzay",
+    "fourth": "Hız",
+    "fifth": "Teori"
+  },
+  {
+    "id": "62",
+    "word": "Deney",
+    "first": "Laboratuvar",
+    "second": "Test",
+    "third": "Hipotez",
+    "fourth": "Sonuç",
+    "fifth": "Bilimsel"
+  },
+  {
+    "id": "63",
+    "word": "Nötron",
+    "first": "Atom",
+    "second": "Çekirdek",
+    "third": "Yüksüz",
+    "fourth": "Proton",
+    "fifth": "Parçacık"
+  },
+  {
+    "id": "64",
+    "word": "Buharlaşma",
+    "first": "Su",
+    "second": "Gaz",
+    "third": "Isı",
+    "fourth": "Sıvı",
+    "fifth": "Kaynama"
+  },
+  {
+    "id": "65",
+    "word": "Galile",
+    "first": "Teleskop",
+    "second": "Dünya dönüyor",
+    "third": "Astronomi",
+    "fourth": "İtalya",
+    "fifth": "Pisa"
+  },
+  {
+    "id": "66",
+    "word": "Hemoglobin",
+    "first": "Kan",
+    "second": "Kırmızı",
+    "third": "Oksijen",
+    "fourth": "Demir",
+    "fifth": "Alyuvar"
+  },
+  {
+    "id": "67",
+    "word": "Satürn",
+    "first": "Halka",
+    "second": "Gezegen",
+    "third": "Gaz",
+    "fourth": "Büyük",
+    "fifth": "Titan"
+  },
+  {
+    "id": "68",
+    "word": "Logaritma",
+    "first": "Matematik",
+    "second": "Üs",
+    "third": "Log",
+    "fourth": "Hesaplama",
+    "fifth": "Taban"
+  },
+  {
+    "id": "69",
+    "word": "Kök Hücre",
+    "first": "Farklılaşma",
+    "second": "Tedavi",
+    "third": "Embriyo",
+    "fourth": "Yenilenme",
+    "fifth": "Tıp"
+  },
+  {
+    "id": "70",
+    "word": "Katalizör",
+    "first": "Hızlandırma",
+    "second": "Tepkime",
+    "third": "Kimya",
+    "fourth": "Enzim",
+    "fifth": "Değişmeden"
+  },
+  {
+    "id": "71",
+    "word": "Buz Çağı",
+    "first": "Soğuk",
+    "second": "Buzul",
+    "third": "Mamut",
+    "fourth": "Tarih öncesi",
+    "fifth": "İklim"
+  },
+  {
+    "id": "72",
+    "word": "Beyin",
+    "first": "Düşünce",
+    "second": "Organ",
+    "third": "Nöron",
+    "fourth": "Kafa",
+    "fifth": "Zekâ"
+  },
+  {
+    "id": "73",
+    "word": "Çekim Kuvveti",
+    "first": "Newton",
+    "second": "Kütle",
+    "third": "Düşme",
+    "fourth": "Ağırlık",
+    "fifth": "Fizik"
+  },
+  {
+    "id": "74",
+    "word": "Antibiyotik",
+    "first": "İlaç",
+    "second": "Bakteri",
+    "third": "Tedavi",
+    "fourth": "Penisilin",
+    "fifth": "Enfeksiyon"
+  },
+  {
+    "id": "75",
+    "word": "Halley Kuyruklu Yıldızı",
+    "first": "Kuyruk",
+    "second": "76 yıl",
+    "third": "Uzay",
+    "fourth": "Gökbilim",
+    "fifth": "Periyodik"
+  },
+  {
+    "id": "76",
+    "word": "Kimyasal Bağ",
+    "first": "İyonik",
+    "second": "Kovalent",
+    "third": "Atom",
+    "fourth": "Elektron",
+    "fifth": "Molekül"
+  },
+  {
+    "id": "77",
+    "word": "Paleontoloji",
+    "first": "Fosil",
+    "second": "Dinozor",
+    "third": "Tarih öncesi",
+    "fourth": "Kazı",
+    "fifth": "Bilim dalı"
+  },
+  {
+    "id": "78",
+    "word": "Kalp",
+    "first": "Organ",
+    "second": "Pompa",
+    "third": "Kan",
+    "fourth": "Atım",
+    "fifth": "Nabız"
+  },
+  {
+    "id": "79",
+    "word": "Sürtünme",
+    "first": "Kuvvet",
+    "second": "Yüzey",
+    "third": "Hareket",
+    "fourth": "Direnç",
+    "fifth": "Fizik"
+  },
+  {
+    "id": "80",
+    "word": "Venüs",
+    "first": "Gezegen",
+    "second": "Sıcak",
+    "third": "Çoban Yıldızı",
+    "fourth": "Sera etkisi",
+    "fifth": "Dünya'ya yakın"
+  },
+  {
+    "id": "81",
+    "word": "İntegral",
+    "first": "Matematik",
+    "second": "Türev",
+    "third": "Alan",
+    "fourth": "Hesaplama",
+    "fifth": "Fonksiyon"
+  },
+  {
+    "id": "82",
+    "word": "Alyuvar",
+    "first": "Kan",
+    "second": "Kırmızı",
+    "third": "Oksijen",
+    "fourth": "Hemoglobin",
+    "fifth": "Hücre"
+  },
+  {
+    "id": "83",
+    "word": "Elektromanyetik Dalga",
+    "first": "Işık",
+    "second": "Radyo",
+    "third": "Frekans",
+    "fourth": "Spektrum",
+    "fifth": "Enerji"
+  },
+  {
+    "id": "84",
+    "word": "Arşimet",
+    "first": "Kaldırma",
+    "second": "Su",
+    "third": "Eureka",
+    "fourth": "Taşma",
+    "fifth": "Yoğunluk"
+  },
+  {
+    "id": "85",
+    "word": "Genetik Mühendisliği",
+    "first": "DNA",
+    "second": "Gen",
+    "third": "Değiştirme",
+    "fourth": "GDO",
+    "fifth": "Biyoteknoloji"
+  },
+  {
+    "id": "86",
+    "word": "Fosil",
+    "first": "Taş",
+    "second": "Eski",
+    "third": "Kalıntı",
+    "fourth": "Dinozor",
+    "fifth": "Paleontoloji"
+  },
+  {
+    "id": "87",
+    "word": "Dolaşım Sistemi",
+    "first": "Kan",
+    "second": "Kalp",
+    "third": "Damar",
+    "fourth": "Atar",
+    "fifth": "Toplardamar"
+  },
+  {
+    "id": "88",
+    "word": "Mercek",
+    "first": "Cam",
+    "second": "Büyütme",
+    "third": "Optik",
+    "fourth": "Kırılma",
+    "fifth": "Odak"
+  },
+  {
+    "id": "89",
+    "word": "Küresel Isınma",
+    "first": "İklim",
+    "second": "Sera etkisi",
+    "third": "Karbon",
+    "fourth": "Sıcaklık",
+    "fifth": "Buzul"
+  },
+  {
+    "id": "90",
+    "word": "Niels Bohr",
+    "first": "Atom modeli",
+    "second": "Fizik",
+    "third": "Kuantum",
+    "fourth": "Danimarkalı",
+    "fifth": "Nobel"
+  },
+  {
+    "id": "91",
+    "word": "Mitoz",
+    "first": "Bölünme",
+    "second": "Hücre",
+    "third": "Çoğalma",
+    "fourth": "Kromozom",
+    "fifth": "Eşleme"
+  },
+  {
+    "id": "92",
+    "word": "Dalga Boyu",
+    "first": "Işık",
+    "second": "Frekans",
+    "third": "Renk",
+    "fourth": "Enerji",
+    "fifth": "Fizik"
+  },
+  {
+    "id": "93",
+    "word": "Stetoskop",
+    "first": "Doktor",
+    "second": "Kalp",
+    "third": "Dinleme",
+    "fourth": "Ses",
+    "fifth": "Muayene"
+  },
+  {
+    "id": "94",
+    "word": "Plazma",
+    "first": "Madde hali",
+    "second": "Gaz",
+    "third": "Sıcak",
+    "fourth": "Güneş",
+    "fifth": "İyon"
+  },
+  {
+    "id": "95",
+    "word": "Galton",
+    "first": "İstatistik",
+    "second": "Regresyon",
+    "third": "Parmak izi",
+    "fourth": "Kalıtım",
+    "fifth": "Öjeni"
+  },
+  {
+    "id": "96",
+    "word": "Solunum",
+    "first": "Akciğer",
+    "second": "Oksijen",
+    "third": "Nefes",
+    "fourth": "Karbondioksit",
+    "fifth": "Hava"
+  },
+  {
+    "id": "97",
+    "word": "Terazi",
+    "first": "Ölçme",
+    "second": "Ağırlık",
+    "third": "Gram",
+    "fourth": "Denge",
+    "fifth": "Kilo"
+  },
+  {
+    "id": "98",
+    "word": "Supernova",
+    "first": "Yıldız",
+    "second": "Patlama",
+    "third": "Parlak",
+    "fourth": "Uzay",
+    "fifth": "Ölüm"
+  },
+  {
+    "id": "99",
+    "word": "Mayoz",
+    "first": "Bölünme",
+    "second": "Üreme",
+    "third": "Hücre",
+    "fourth": "Kromozom",
+    "fifth": "Gamet"
+  },
+  {
+    "id": "100",
+    "word": "Hacim",
+    "first": "Ölçü",
+    "second": "Litre",
+    "third": "Küp",
+    "fourth": "Alan",
+    "fifth": "Kap"
+  },
+  {
+    "id": "101",
+    "word": "İbn-i Sina",
+    "first": "Tıp",
+    "second": "Kanun",
+    "third": "Doktor",
+    "fourth": "İslam",
+    "fifth": "Filozof"
+  },
+  {
+    "id": "102",
+    "word": "İzafiyet",
+    "first": "Einstein",
+    "second": "Görelilik",
+    "third": "Zaman",
+    "fourth": "Hız",
+    "fifth": "Teori"
+  },
+  {
+    "id": "103",
+    "word": "Erozyon",
+    "first": "Toprak",
+    "second": "Aşınma",
+    "third": "Su",
+    "fourth": "Rüzgâr",
+    "fifth": "Doğa"
+  },
+  {
+    "id": "104",
+    "word": "Nöron",
+    "first": "Sinir",
+    "second": "Beyin",
+    "third": "Hücre",
+    "fourth": "Sinyal",
+    "fifth": "Akson"
+  },
+  {
+    "id": "105",
+    "word": "Ses Dalgası",
+    "first": "Titreşim",
+    "second": "Frekans",
+    "third": "Kulak",
+    "fourth": "Hava",
+    "fifth": "Yayılma"
+  },
+  {
+    "id": "106",
+    "word": "Edison",
+    "first": "Ampul",
+    "second": "Mucit",
+    "third": "Elektrik",
+    "fourth": "Buluş",
+    "fifth": "Thomas"
+  },
+  {
+    "id": "107",
+    "word": "Osmoz",
+    "first": "Su",
+    "second": "Zar",
+    "third": "Geçiş",
+    "fourth": "Yoğunluk",
+    "fifth": "Hücre"
+  },
+  {
+    "id": "108",
+    "word": "Atmosfer",
+    "first": "Hava",
+    "second": "Dünya",
+    "third": "Katman",
+    "fourth": "Basınç",
+    "fifth": "Koruma"
+  },
+  {
+    "id": "109",
+    "word": "Cerrahi",
+    "first": "Ameliyat",
+    "second": "Doktor",
+    "third": "Bıçak",
+    "fourth": "Hastane",
+    "fifth": "Operasyon"
+  },
+  {
+    "id": "110",
+    "word": "Proton",
+    "first": "Atom",
+    "second": "Çekirdek",
+    "third": "Pozitif",
+    "fourth": "Yük",
+    "fifth": "Parçacık"
+  },
+  {
+    "id": "111",
+    "word": "Tuz",
+    "first": "Sodyum",
+    "second": "Klor",
+    "third": "NaCl",
+    "fourth": "Kristal",
+    "fifth": "Çözelti"
+  },
+  {
+    "id": "112",
+    "word": "Doğal Seçilim",
+    "first": "Darwin",
+    "second": "Evrim",
+    "third": "Uyum",
+    "fourth": "Hayatta kalma",
+    "fifth": "Güçlü"
+  },
+  {
+    "id": "113",
+    "word": "İvme",
+    "first": "Hız",
+    "second": "Artış",
+    "third": "Fizik",
+    "fourth": "Hareket",
+    "fifth": "Kuvvet"
+  },
+  {
+    "id": "114",
+    "word": "Merkür",
+    "first": "Gezegen",
+    "second": "Güneş",
+    "third": "Yakın",
+    "fourth": "Sıcak",
+    "fifth": "Küçük"
+  },
+  {
+    "id": "115",
+    "word": "Geometri",
+    "first": "Şekil",
+    "second": "Açı",
+    "third": "Matematik",
+    "fourth": "Üçgen",
+    "fifth": "Daire"
+  },
+  {
+    "id": "116",
+    "word": "Adrenalin",
+    "first": "Hormon",
+    "second": "Heyecan",
+    "third": "Kalp",
+    "fourth": "Savaş ya da kaç",
+    "fifth": "Böbrek üstü"
+  },
+  {
+    "id": "117",
+    "word": "Eşik Değer",
+    "first": "Sınır",
+    "second": "Minimum",
+    "third": "Ölçüm",
+    "fourth": "Tepki",
+    "fifth": "Başlangıç"
+  },
+  {
+    "id": "118",
+    "word": "Pasteur",
+    "first": "Pastörizasyon",
+    "second": "Aşı",
+    "third": "Mikrop",
+    "fourth": "Süt",
+    "fifth": "Fransız"
+  },
+  {
+    "id": "119",
+    "word": "Titreşim",
+    "first": "Sallanma",
+    "second": "Frekans",
+    "third": "Hareket",
+    "fourth": "Dalga",
+    "fifth": "Ses"
+  },
+  {
+    "id": "120",
+    "word": "Klonlama",
+    "first": "Kopyalama",
+    "second": "Dolly",
+    "third": "Koyun",
+    "fourth": "Genetik",
+    "fifth": "Aynı"
+  },
+  {
+    "id": "121",
+    "word": "Magma",
+    "first": "Lav",
+    "second": "Sıcak",
+    "third": "Yer altı",
+    "fourth": "Volkan",
+    "fifth": "Eriyik"
+  },
+  {
+    "id": "122",
+    "word": "Akciğer",
+    "first": "Solunum",
+    "second": "Nefes",
+    "third": "Oksijen",
+    "fourth": "Organ",
+    "fifth": "Hava"
+  },
+  {
+    "id": "123",
+    "word": "Elektron",
+    "first": "Atom",
+    "second": "Negatif",
+    "third": "Yük",
+    "fourth": "Yörünge",
+    "fifth": "Parçacık"
+  },
+  {
+    "id": "124",
+    "word": "Buzul",
+    "first": "Buz",
+    "second": "Kutup",
+    "third": "Erime",
+    "fourth": "Soğuk",
+    "fifth": "İklim"
+  },
+  {
+    "id": "125",
+    "word": "Heisenberg",
+    "first": "Belirsizlik",
+    "second": "Kuantum",
+    "third": "Fizik",
+    "fourth": "İlke",
+    "fifth": "Alman"
+  },
+  {
+    "id": "126",
+    "word": "Mitokondri",
+    "first": "Enerji",
+    "second": "Hücre",
+    "third": "ATP",
+    "fourth": "Organel",
+    "fifth": "Güç merkezi"
+  },
+  {
+    "id": "127",
+    "word": "Yansıma",
+    "first": "Ayna",
+    "second": "Işık",
+    "third": "Görüntü",
+    "fourth": "Yüzey",
+    "fifth": "Optik"
+  },
+  {
+    "id": "128",
+    "word": "İnsülin",
+    "first": "Hormon",
+    "second": "Şeker",
+    "third": "Diyabet",
+    "fourth": "Pankreas",
+    "fifth": "Kan"
+  },
+  {
+    "id": "129",
+    "word": "Asteroid",
+    "first": "Uzay",
+    "second": "Taş",
+    "third": "Çarpma",
+    "fourth": "Yörünge",
+    "fifth": "Göktaşı"
+  },
+  {
+    "id": "130",
+    "word": "Türev",
+    "first": "Matematik",
+    "second": "Eğim",
+    "third": "Fonksiyon",
+    "fourth": "Limit",
+    "fifth": "İntegral"
+  },
+  {
+    "id": "131",
+    "word": "Boyun Eğme Refleksi",
+    "first": "Otomatik",
+    "second": "Tepki",
+    "third": "Sinir",
+    "fourth": "İstem dışı",
+    "fifth": "Omurilik"
+  },
+  {
+    "id": "132",
+    "word": "Kimyasal Tepkime",
+    "first": "Reaksiyon",
+    "second": "Madde",
+    "third": "Ürün",
+    "fourth": "Enerji",
+    "fifth": "Denge"
+  },
+  {
+    "id": "133",
+    "word": "Ekvivalans",
+    "first": "Eşdeğer",
+    "second": "Denklik",
+    "third": "Matematik",
+    "fourth": "Eşitlik",
+    "fifth": "Mantık"
+  },
+  {
+    "id": "134",
+    "word": "Stephen Hawking",
+    "first": "Kara delik",
+    "second": "Fizik",
+    "third": "Tekerlekli sandalye",
+    "fourth": "Zamanın kısa tarihi",
+    "fifth": "ALS"
+  },
+  {
+    "id": "135",
+    "word": "Elektroliz",
+    "first": "Su",
+    "second": "Akım",
+    "third": "Ayrışma",
+    "fourth": "Hidrojen",
+    "fifth": "Oksijen"
+  },
+  {
+    "id": "136",
+    "word": "Hormon",
+    "first": "Salgı",
+    "second": "Bez",
+    "third": "Düzenleme",
+    "fourth": "Vücut",
+    "fifth": "Endokrin"
+  },
+  {
+    "id": "137",
+    "word": "Paralel Evren",
+    "first": "Çoklu evren",
+    "second": "Alternatif",
+    "third": "Boyut",
+    "fourth": "Teori",
+    "fifth": "Kuantum"
+  },
+  {
+    "id": "138",
+    "word": "Baz",
+    "first": "pH",
+    "second": "Asit",
+    "third": "Alkalin",
+    "fourth": "Sabun",
+    "fifth": "Kimya"
+  },
+  {
+    "id": "139",
+    "word": "Jeoloji",
+    "first": "Yer",
+    "second": "Kaya",
+    "third": "Toprak",
+    "fourth": "Bilim",
+    "fifth": "Mineral"
+  },
+  {
+    "id": "140",
+    "word": "Çekirdek Fisyon",
+    "first": "Atom",
+    "second": "Bölünme",
+    "third": "Nükleer",
+    "fourth": "Enerji",
+    "fifth": "Bomba"
+  },
+  {
+    "id": "141",
+    "word": "Karaciğer",
+    "first": "Organ",
+    "second": "Safra",
+    "third": "Zehir",
+    "fourth": "Metabolizma",
+    "fifth": "Karın"
+  },
+  {
+    "id": "142",
+    "word": "Kırılma",
+    "first": "Işık",
+    "second": "Cam",
+    "third": "Su",
+    "fourth": "Açı",
+    "fifth": "Prizma"
+  },
+  {
+    "id": "143",
+    "word": "Fotosfer",
+    "first": "Güneş",
+    "second": "Yüzey",
+    "third": "Işık",
+    "fourth": "Katman",
+    "fifth": "Sıcak"
+  },
+  {
+    "id": "144",
+    "word": "Olasılık",
+    "first": "Şans",
+    "second": "Matematik",
+    "third": "Yüzde",
+    "fourth": "Hesap",
+    "fifth": "İstatistik"
+  },
+  {
+    "id": "145",
+    "word": "Böbrek",
+    "first": "Organ",
+    "second": "Süzme",
+    "third": "İdrar",
+    "fourth": "Kan",
+    "fifth": "Taş"
+  },
+  {
+    "id": "146",
+    "word": "Yoğunluk",
+    "first": "Kütle",
+    "second": "Hacim",
+    "third": "Ağırlık",
+    "fourth": "Batma",
+    "fifth": "Sıvı"
+  },
+  {
+    "id": "147",
+    "word": "Da Vinci",
+    "first": "Mona Lisa",
+    "second": "Ressam",
+    "third": "Mucit",
+    "fourth": "İtalyan",
+    "fifth": "Anatomi"
+  },
+  {
+    "id": "148",
+    "word": "Ekosistem",
+    "first": "Doğa",
+    "second": "Canlı",
+    "third": "Denge",
+    "fourth": "Çevre",
+    "fifth": "Besin zinciri"
+  },
+  {
+    "id": "149",
+    "word": "Pankreas",
+    "first": "İnsülin",
+    "second": "Organ",
+    "third": "Şeker",
+    "fourth": "Sindirim",
+    "fifth": "Hormon"
+  },
+  {
+    "id": "150",
+    "word": "Momentum",
+    "first": "Kütle",
+    "second": "Hız",
+    "third": "Fizik",
+    "fourth": "Hareket",
+    "fifth": "Korunum"
+  },
+  {
+    "id": "151",
+    "word": "Neptün",
+    "first": "Gezegen",
+    "second": "Mavi",
+    "third": "Uzak",
+    "fourth": "Gaz",
+    "fifth": "Soğuk"
+  },
+  {
+    "id": "152",
+    "word": "Cebir",
+    "first": "Matematik",
+    "second": "Denklem",
+    "third": "X",
+    "fourth": "Bilinmeyen",
+    "fifth": "Formül"
+  },
+  {
+    "id": "153",
+    "word": "Parmak İzi",
+    "first": "Kimlik",
+    "second": "Eşsiz",
+    "third": "Suç",
+    "fourth": "İz",
+    "fifth": "Kriminoloji"
+  },
+  {
+    "id": "154",
+    "word": "Sismograf",
+    "first": "Deprem",
+    "second": "Ölçüm",
+    "third": "Titreşim",
+    "fourth": "Cihaz",
+    "fifth": "Büyüklük"
+  },
+  {
+    "id": "155",
+    "word": "Çekirdek Füzyon",
+    "first": "Birleşme",
+    "second": "Güneş",
+    "third": "Enerji",
+    "fourth": "Hidrojen",
+    "fifth": "Nükleer"
+  },
+  {
+    "id": "156",
+    "word": "Akyuvar",
+    "first": "Kan",
+    "second": "Beyaz",
+    "third": "Savunma",
+    "fourth": "Bağışıklık",
+    "fifth": "Hücre"
+  },
+  {
+    "id": "157",
+    "word": "Prizma",
+    "first": "Cam",
+    "second": "Işık",
+    "third": "Gökkuşağı",
+    "fourth": "Renk",
+    "fifth": "Kırılma"
+  },
+  {
+    "id": "158",
+    "word": "Nikola Tesla",
+    "first": "Alternatif akım",
+    "second": "Mucit",
+    "third": "Elektrik",
+    "fourth": "Bobin",
+    "fifth": "Sırp"
+  },
+  {
+    "id": "159",
+    "word": "Difüzyon",
+    "first": "Yayılma",
+    "second": "Molekül",
+    "third": "Hareket",
+    "fourth": "Konsantrasyon",
+    "fifth": "Çay"
+  },
+  {
+    "id": "160",
+    "word": "Tektonik Plaka",
+    "first": "Yer kabuğu",
+    "second": "Deprem",
+    "third": "Hareket",
+    "fourth": "Kıta",
+    "fifth": "Fay"
+  },
+  {
+    "id": "161",
+    "word": "Retina",
+    "first": "Göz",
+    "second": "Görme",
+    "third": "Tabaka",
+    "fourth": "Işık",
+    "fifth": "Ağ"
+  },
+  {
+    "id": "162",
+    "word": "Basınç",
+    "first": "Kuvvet",
+    "second": "Alan",
+    "third": "Atmosfer",
+    "fourth": "Pascal",
+    "fifth": "Hava"
+  },
+  {
+    "id": "163",
+    "word": "Uranüs",
+    "first": "Gezegen",
+    "second": "Mavi-yeşil",
+    "third": "Yan yatmış",
+    "fourth": "Gaz",
+    "fifth": "Soğuk"
+  },
+  {
+    "id": "164",
+    "word": "Asimetri",
+    "first": "Simetri",
+    "second": "Eşitsizlik",
+    "third": "Denge",
+    "fourth": "Farklı",
+    "fifth": "Şekil"
+  },
+  {
+    "id": "165",
+    "word": "Tiroit",
+    "first": "Bez",
+    "second": "Hormon",
+    "third": "Boyun",
+    "fourth": "Metabolizma",
+    "fifth": "İyot"
+  },
+  {
+    "id": "166",
+    "word": "Sarkacın Periyodu",
+    "first": "Salınım",
+    "second": "Süre",
+    "third": "Uzunluk",
+    "fourth": "Galileo",
+    "fifth": "Saat"
+  },
+  {
+    "id": "167",
+    "word": "Karbondioksit",
+    "first": "CO₂",
+    "second": "Gaz",
+    "third": "Sera",
+    "fourth": "Nefes",
+    "fifth": "Bitki"
+  },
+  {
+    "id": "168",
+    "word": "Robert Koch",
+    "first": "Bakteri",
+    "second": "Tüberküloz",
+    "third": "Mikrobiyoloji",
+    "fourth": "Alman",
+    "fifth": "Nobel"
+  },
+  {
+    "id": "169",
+    "word": "Eşik Frekans",
+    "first": "Fotoelektrik",
+    "second": "Işık",
+    "third": "Metal",
+    "fourth": "Elektron",
+    "fifth": "Minimum"
+  },
+  {
+    "id": "170",
+    "word": "Vitamin",
+    "first": "Beslenme",
+    "second": "Sağlık",
+    "third": "C",
+    "fourth": "Eksiklik",
+    "fifth": "Takviye"
+  },
+  {
+    "id": "171",
+    "word": "Karbon Ayak İzi",
+    "first": "Çevre",
+    "second": "Emisyon",
+    "third": "CO₂",
+    "fourth": "Kirlilik",
+    "fifth": "İklim"
+  },
+  {
+    "id": "172",
+    "word": "Mendel",
+    "first": "Genetik",
+    "second": "Bezelye",
+    "third": "Kalıtım",
+    "fourth": "Baskın",
+    "fifth": "Çekinik"
+  },
+  {
+    "id": "173",
+    "word": "Dalgakıran",
+    "first": "Deniz",
+    "second": "Dalga",
+    "third": "Koruma",
+    "fourth": "Kıyı",
+    "fifth": "Liman"
+  },
+  {
+    "id": "174",
+    "word": "MR",
+    "first": "Görüntüleme",
+    "second": "Manyetik",
+    "third": "Hastane",
+    "fourth": "Beyin",
+    "fifth": "Tarama"
+  },
+  {
+    "id": "175",
+    "word": "Kütle Çekim",
+    "first": "Newton",
+    "second": "Ağırlık",
+    "third": "Çekim",
+    "fourth": "Gezegen",
+    "fifth": "Kuvvet"
+  },
+  {
+    "id": "176",
+    "word": "Ribozom",
+    "first": "Protein",
+    "second": "Sentez",
+    "third": "Hücre",
+    "fourth": "Organel",
+    "fifth": "RNA"
+  },
+  {
+    "id": "177",
+    "word": "Yıldırım",
+    "first": "Gök gürültüsü",
+    "second": "Elektrik",
+    "third": "Bulut",
+    "fourth": "Şimşek",
+    "fifth": "Fırtına"
+  },
+  {
+    "id": "178",
+    "word": "Ampere",
+    "first": "Akım",
+    "second": "Elektrik",
+    "third": "Birim",
+    "fourth": "Amper",
+    "fifth": "Ölçü"
+  },
+  {
+    "id": "179",
+    "word": "Biyoçeşitlilik",
+    "first": "Tür",
+    "second": "Doğa",
+    "third": "Çeşitlilik",
+    "fourth": "Ekosistem",
+    "fifth": "Koruma"
+  },
+  {
+    "id": "180",
+    "word": "Endoskopi",
+    "first": "Kamera",
+    "second": "Mide",
+    "third": "İç organ",
+    "fourth": "Tıp",
+    "fifth": "Bağırsak"
+  },
+  {
+    "id": "181",
+    "word": "Yüzey Gerilimi",
+    "first": "Su",
+    "second": "Molekül",
+    "third": "Damla",
+    "fourth": "Böcek",
+    "fifth": "Kohezyon"
+  },
+  {
+    "id": "182",
+    "word": "Kuyruklu Yıldız",
+    "first": "Uzay",
+    "second": "Kuyruk",
+    "third": "Buz",
+    "fourth": "Yörünge",
+    "fifth": "Halley"
+  },
+  {
+    "id": "183",
+    "word": "Üs",
+    "first": "Kuvvet",
+    "second": "Matematik",
+    "third": "Çarpma",
+    "fourth": "Sayı",
+    "fifth": "Kare"
+  },
+  {
+    "id": "184",
+    "word": "EKG",
+    "first": "Kalp",
+    "second": "Elektrik",
+    "third": "Sinyal",
+    "fourth": "Grafik",
+    "fifth": "Ritim"
+  },
+  {
+    "id": "185",
+    "word": "Sera Etkisi",
+    "first": "Sıcaklık",
+    "second": "Atmosfer",
+    "third": "Karbon",
+    "fourth": "Isınma",
+    "fifth": "Cam"
+  },
+  {
+    "id": "186",
+    "word": "Ohm Kanunu",
+    "first": "Direnç",
+    "second": "Akım",
+    "third": "Voltaj",
+    "fourth": "Elektrik",
+    "fifth": "Fizik"
+  },
+  {
+    "id": "187",
+    "word": "Klorofil",
+    "first": "Yeşil",
+    "second": "Bitki",
+    "third": "Fotosentez",
+    "fourth": "Yaprak",
+    "fifth": "Pigment"
+  },
+  {
+    "id": "188",
+    "word": "Darwin",
+    "first": "Evrim",
+    "second": "Doğal seçilim",
+    "third": "Türlerin kökeni",
+    "fourth": "Galapagos",
+    "fifth": "İngiliz"
+  },
+  {
+    "id": "189",
+    "word": "Direnç",
+    "first": "Ohm",
+    "second": "Elektrik",
+    "third": "Akım",
+    "fourth": "Engel",
+    "fifth": "Devre"
+  },
+  {
+    "id": "190",
+    "word": "Çiçek Tozu",
+    "first": "Polen",
+    "second": "Bitki",
+    "third": "Tozlaşma",
+    "fourth": "Arı",
+    "fifth": "Üreme"
+  },
+  {
+    "id": "191",
+    "word": "Kepler",
+    "first": "Gezegen",
+    "second": "Yörünge",
+    "third": "Astronomi",
+    "fourth": "Kanun",
+    "fifth": "Elips"
+  },
+  {
+    "id": "192",
+    "word": "Aseton",
+    "first": "Çözücü",
+    "second": "Oje",
+    "third": "Kimya",
+    "fourth": "Uçucu",
+    "fifth": "Sıvı"
+  },
+  {
+    "id": "193",
+    "word": "İskelet",
+    "first": "Kemik",
+    "second": "Vücut",
+    "third": "206",
+    "fourth": "Yapı",
+    "fifth": "Kafatası"
+  },
+  {
+    "id": "194",
+    "word": "Voltaj",
+    "first": "Elektrik",
+    "second": "Gerilim",
+    "third": "Volt",
+    "fourth": "Akım",
+    "fifth": "Pil"
+  },
+  {
+    "id": "195",
+    "word": "Yıldız Kayması",
+    "first": "Meteor",
+    "second": "Gökyüzü",
+    "third": "Dilek",
+    "fourth": "Gece",
+    "fifth": "Parçacık"
+  },
+  {
+    "id": "196",
+    "word": "Adaptasyon",
+    "first": "Uyum",
+    "second": "Evrim",
+    "third": "Çevre",
+    "fourth": "Canlı",
+    "fifth": "Hayatta kalma"
+  },
+  {
+    "id": "197",
+    "word": "Bor",
+    "first": "Element",
+    "second": "Türkiye",
+    "third": "Mineral",
+    "fourth": "Maden",
+    "fifth": "Temizlik"
+  },
+  {
+    "id": "198",
+    "word": "Hubble",
+    "first": "Teleskop",
+    "second": "Uzay",
+    "third": "NASA",
+    "fourth": "Galaksi",
+    "fifth": "Görüntü"
+  },
+  {
+    "id": "199",
+    "word": "Civa",
+    "first": "Sıvı metal",
+    "second": "Termometre",
+    "third": "Zehirli",
+    "fourth": "Gümüş",
+    "fifth": "Ağır"
+  },
+  {
+    "id": "200",
+    "word": "Refleks",
+    "first": "Otomatik",
+    "second": "Tepki",
+    "third": "Diz",
+    "fourth": "İstemsiz",
+    "fifth": "Sinir"
+  },
+  {
+    "id": "201",
+    "word": "Matris",
+    "first": "Matematik",
+    "second": "Sayılar",
+    "third": "Tablo",
+    "fourth": "Satır",
+    "fifth": "Sütun"
+  },
+  {
+    "id": "202",
+    "word": "Penisillin Küfü",
+    "first": "Mantar",
+    "second": "Fleming",
+    "third": "Antibiyotik",
+    "fourth": "Keşif",
+    "fifth": "Kaza"
+  },
+  {
+    "id": "203",
+    "word": "Manyetik Alan",
+    "first": "Mıknatıs",
+    "second": "Kutup",
+    "third": "Kuvvet",
+    "fourth": "Pusula",
+    "fifth": "Dünya"
+  },
+  {
+    "id": "204",
+    "word": "Göz",
+    "first": "Görme",
+    "second": "Retina",
+    "third": "Lens",
+    "fourth": "Iris",
+    "fifth": "Organ"
+  },
+  {
+    "id": "205",
+    "word": "Kapillarite",
+    "first": "Su",
+    "second": "İnce tüp",
+    "third": "Yükselme",
+    "fourth": "Bitki",
+    "fifth": "Adezyon"
+  },
+  {
+    "id": "206",
+    "word": "Uzay İstasyonu",
+    "first": "ISS",
+    "second": "Yörünge",
+    "third": "Astronot",
+    "fourth": "Dünya",
+    "fifth": "NASA"
+  },
+  {
+    "id": "207",
+    "word": "Fenotip",
+    "first": "Dış görünüş",
+    "second": "Gen",
+    "third": "Genetik",
+    "fourth": "Göz rengi",
+    "fifth": "Genotip"
+  },
+  {
+    "id": "208",
+    "word": "Sonar",
+    "first": "Ses",
+    "second": "Deniz",
+    "third": "Dalga",
+    "fourth": "Tespit",
+    "fifth": "Denizaltı"
+  },
+  {
+    "id": "209",
+    "word": "Radar",
+    "first": "Dalga",
+    "second": "Tespit",
+    "third": "Uçak",
+    "fourth": "Sinyal",
+    "fifth": "Hız"
+  },
+  {
+    "id": "210",
+    "word": "İmmünoloji",
+    "first": "Bağışıklık",
+    "second": "Antikor",
+    "third": "Aşı",
+    "fourth": "Hastalık",
+    "fifth": "Savunma"
+  },
+  {
+    "id": "211",
+    "word": "Eşitsizlik",
+    "first": "Matematik",
+    "second": "Büyük",
+    "third": "Küçük",
+    "fourth": "İşaret",
+    "fifth": "Denklem"
+  },
+  {
+    "id": "212",
+    "word": "Hubble Sabiti",
+    "first": "Genişleme",
+    "second": "Evren",
+    "third": "Hız",
+    "fourth": "Uzaklık",
+    "fifth": "Kozmoloji"
+  },
+  {
+    "id": "213",
+    "word": "Timsah Gözyaşı",
+    "first": "Sahte",
+    "second": "Ağlama",
+    "third": "Deyim",
+    "fourth": "Tuz",
+    "fifth": "Sürüngen"
+  },
+  {
+    "id": "214",
+    "word": "Altın Oran",
+    "first": "1.618",
+    "second": "Fibonacci",
+    "third": "Güzellik",
+    "fourth": "Doğa",
+    "fifth": "Matematik"
+  },
+  {
+    "id": "215",
+    "word": "Biyopsi",
+    "first": "Doku",
+    "second": "Örnek",
+    "third": "İnceleme",
+    "fourth": "Kanser",
+    "fifth": "Patoloji"
+  },
+  {
+    "id": "216",
+    "word": "Açısal Momentum",
+    "first": "Dönme",
+    "second": "Fizik",
+    "third": "Korunum",
+    "fourth": "Hız",
+    "fifth": "Tekerlek"
+  },
+  {
+    "id": "217",
+    "word": "Azot",
+    "first": "Gaz",
+    "second": "Hava",
+    "third": "%78",
+    "fourth": "Element",
+    "fifth": "N"
+  },
+  {
+    "id": "218",
+    "word": "Epigenetik",
+    "first": "Gen",
+    "second": "Çevre",
+    "third": "Kalıtım",
+    "fourth": "Değişim",
+    "fifth": "DNA"
+  },
+  {
+    "id": "219",
+    "word": "Barometre",
+    "first": "Basınç",
+    "second": "Hava",
+    "third": "Ölçüm",
+    "fourth": "Cıva",
+    "fifth": "Meteoroloji"
+  },
+  {
+    "id": "220",
+    "word": "Kopernikus",
+    "first": "Güneş merkezli",
+    "second": "Astronomi",
+    "third": "Polonyalı",
+    "fourth": "Dünya dönüyor",
+    "fifth": "Devrim"
+  },
+  {
+    "id": "221",
+    "word": "Antibiyotik Direnci",
+    "first": "Bakteri",
+    "second": "Dayanıklılık",
+    "third": "İlaç",
+    "fourth": "Mutasyon",
+    "fifth": "Tehlike"
+  },
+  {
+    "id": "222",
+    "word": "Joule",
+    "first": "Enerji",
+    "second": "Birim",
+    "third": "Isı",
+    "fourth": "Fizik",
+    "fifth": "Kalori"
+  },
+  {
+    "id": "223",
+    "word": "Genotip",
+    "first": "Gen",
+    "second": "Kalıtım",
+    "third": "Genetik",
+    "fourth": "Fenotip",
+    "fifth": "DNA"
+  },
+  {
+    "id": "224",
+    "word": "Karbon Dioksit",
+    "first": "CO₂",
+    "second": "Gaz",
+    "third": "Nefes",
+    "fourth": "Sera",
+    "fifth": "Fotosentez"
+  },
+  {
+    "id": "225",
+    "word": "Planck",
+    "first": "Kuantum",
+    "second": "Sabit",
+    "third": "Fizik",
+    "fourth": "Enerji",
+    "fifth": "Alman"
+  },
+  {
+    "id": "226",
+    "word": "Omurilik",
+    "first": "Sinir",
+    "second": "Omurga",
+    "third": "Beyin",
+    "fourth": "Refleks",
+    "fifth": "Kanal"
+  },
+  {
+    "id": "227",
+    "word": "Radar Dalgası",
+    "first": "Elektromanyetik",
+    "second": "Radyo",
+    "third": "Yansıma",
+    "fourth": "Tespit",
+    "fifth": "Frekans"
+  },
+  {
+    "id": "228",
+    "word": "Pewton",
+    "first": "Birim",
+    "second": "Kuvvet",
+    "third": "Fizik",
+    "fourth": "Newton",
+    "fifth": "SI"
+  },
+  {
+    "id": "229",
+    "word": "Evren",
+    "first": "Uzay",
+    "second": "Galaksi",
+    "third": "Sonsuz",
+    "fourth": "Yıldız",
+    "fifth": "Büyük Patlama"
+  },
+  {
+    "id": "230",
+    "word": "Soylu Gaz",
+    "first": "Helyum",
+    "second": "Neon",
+    "third": "Tepkimesiz",
+    "fourth": "Periyodik tablo",
+    "fifth": "Argon"
+  },
+  {
+    "id": "231",
+    "word": "Ultrason",
+    "first": "Ses",
+    "second": "Görüntüleme",
+    "third": "Hamile",
+    "fourth": "Bebek",
+    "fifth": "Dalga"
+  },
+  {
+    "id": "232",
+    "word": "Simetri",
+    "first": "Denge",
+    "second": "Eşit",
+    "third": "Ayna",
+    "fourth": "Şekil",
+    "fifth": "Matematik"
+  },
+  {
+    "id": "233",
+    "word": "Faraday",
+    "first": "Elektromanyetik",
+    "second": "İndüksiyon",
+    "third": "Kafes",
+    "fourth": "Fizik",
+    "fifth": "İngiliz"
+  },
+  {
+    "id": "234",
+    "word": "Metabolizma",
+    "first": "Enerji",
+    "second": "Vücut",
+    "third": "Hız",
+    "fourth": "Kalori",
+    "fifth": "Sindirim"
+  },
+  {
+    "id": "235",
+    "word": "Nebula",
+    "first": "Bulutsu",
+    "second": "Uzay",
+    "third": "Gaz",
+    "fourth": "Yıldız doğumu",
+    "fifth": "Renkli"
+  },
+  {
+    "id": "236",
+    "word": "Trigonometri",
+    "first": "Sinüs",
+    "second": "Kosinüs",
+    "third": "Açı",
+    "fourth": "Üçgen",
+    "fifth": "Matematik"
+  },
+  {
+    "id": "237",
+    "word": "Antijen",
+    "first": "Bağışıklık",
+    "second": "Yabancı",
+    "third": "Antikor",
+    "fourth": "Tepki",
+    "fifth": "Protein"
+  },
+  {
+    "id": "238",
+    "word": "Kaldıraç",
+    "first": "Kuvvet",
+    "second": "Basit makine",
+    "third": "Arşimet",
+    "fourth": "Destek",
+    "fifth": "Kolaylık"
+  },
+  {
+    "id": "239",
+    "word": "Helyum",
+    "first": "Gaz",
+    "second": "Balon",
+    "third": "Hafif",
+    "fourth": "Güneş",
+    "fifth": "He"
+  },
+  {
+    "id": "240",
+    "word": "Pandemi",
+    "first": "Salgın",
+    "second": "Dünya",
+    "third": "Virüs",
+    "fourth": "Hastalık",
+    "fifth": "Covid"
+  },
+  {
+    "id": "241",
+    "word": "Optik",
+    "first": "Işık",
+    "second": "Lens",
+    "third": "Görme",
+    "fourth": "Fizik",
+    "fifth": "Kırılma"
+  },
+  {
+    "id": "242",
+    "word": "Gauss",
+    "first": "Matematik",
+    "second": "Normal dağılım",
+    "third": "Manyetik",
+    "fourth": "Alman",
+    "fifth": "Dahi"
+  },
+  {
+    "id": "243",
+    "word": "Otoimmün",
+    "first": "Bağışıklık",
+    "second": "Vücut",
+    "third": "Hastalık",
+    "fourth": "Saldırı",
+    "fifth": "Hücre"
+  },
+  {
+    "id": "244",
+    "word": "Termal Enerji",
+    "first": "Isı",
+    "second": "Sıcaklık",
+    "third": "Hareket",
+    "fourth": "Molekül",
+    "fifth": "Fizik"
+  },
+  {
+    "id": "245",
+    "word": "Pulsar",
+    "first": "Nötron yıldızı",
+    "second": "Dönme",
+    "third": "Sinyal",
+    "fourth": "Radyo",
+    "fifth": "Uzay"
+  },
+  {
+    "id": "246",
+    "word": "İstatistik",
+    "first": "Veri",
+    "second": "Analiz",
+    "third": "Ortalama",
+    "fourth": "Sayı",
+    "fifth": "Matematik"
+  },
+  {
+    "id": "247",
+    "word": "Alerji",
+    "first": "Tepki",
+    "second": "Bağışıklık",
+    "third": "Polen",
+    "fourth": "Hapşırma",
+    "fifth": "Histamin"
+  },
+  {
+    "id": "248",
+    "word": "Santrifüj",
+    "first": "Döndürme",
+    "second": "Ayırma",
+    "third": "Kuvvet",
+    "fourth": "Laboratuvar",
+    "fifth": "Hız"
+  },
+  {
+    "id": "249",
+    "word": "Karanlık Madde",
+    "first": "Evren",
+    "second": "Görünmez",
+    "third": "Kütle",
+    "fourth": "Gizemli",
+    "fifth": "Astrofizik"
+  },
+  {
+    "id": "250",
+    "word": "Limit",
+    "first": "Matematik",
+    "second": "Yaklaşma",
+    "third": "Sonsuz",
+    "fourth": "Fonksiyon",
+    "fifth": "Değer"
+  }
 ]

@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "1",
+    "word": "Cedric",
+    "first": "8 Yaşında",
+    "second": "Chen",
+    "third": "Christian",
+    "fourth": "Büyükbaba",
+    "fifth": "Sarı Saç"
+  },
+  {
+    "id": "2",
+    "word": "Ben 10",
+    "first": "Omnitrix",
+    "second": "Saat",
+    "third": "Uzaylı",
+    "fourth": "Gwen",
+    "fifth": "Büyükbaba Max"
+  },
+  {
+    "id": "3",
+    "word": "Samuray Jack",
+    "first": "Kılıç",
+    "second": "Aku",
+    "third": "Gelecek",
+    "fourth": "Zaman",
+    "fifth": "Çizgi Film"
+  },
+  {
+    "id": "4",
+    "word": "Sünger Bob",
+    "first": "Kare Pantolon",
+    "second": "Patrick",
+    "third": "Bikini Kasabası",
+    "fourth": "Yengeç Restoran",
+    "fifth": "Squidward"
+  },
+  {
+    "id": "5",
+    "word": "Powerpuff Girls",
+    "first": "Blossom",
+    "second": "Bubbles",
+    "third": "Buttercup",
+    "fourth": "Profesör",
+    "fifth": "Mojo Jojo"
+  },
+  {
+    "id": "6",
+    "word": "Pokemon",
+    "first": "Pikachu",
+    "second": "Ash Ketchum",
+    "third": "Top",
+    "fourth": "Charizard",
+    "fifth": "Anime"
+  },
+  {
+    "id": "7",
+    "word": "Beyblade",
+    "first": "Takao",
+    "second": "Topaç",
+    "third": "Kutsal Canavar",
+    "fourth": "Kai",
+    "fifth": "Fırlatıcı"
+  },
+  {
+    "id": "8",
+    "word": "Yu-Gi-Oh!",
+    "first": "Kart",
+    "second": "Mısır",
+    "third": "Milenyum Yapbozu",
+    "fourth": "Yugi",
+    "fifth": "Mavi Gözlü Beyaz Ejder"
+  },
+  {
+    "id": "9",
+    "word": "Ed, Edd ve Eddy",
+    "first": "Çene Kıran",
+    "second": "Mahalle",
+    "third": "Üçlü",
+    "fourth": "Para",
+    "fifth": "Tahta Johnny"
+  },
+  {
+    "id": "10",
+    "word": "Johnny Bravo",
+    "first": "Kaslı",
+    "second": "Gözlük",
+    "third": "Sarı Saç",
+    "fourth": "Anne",
+    "fifth": "Kız Tavlamak"
+  },
+  {
+    "id": "11",
+    "word": "Dexter'ın Laboratuvarı",
+    "first": "Deney",
+    "second": "Dee Dee",
+    "third": "Abla",
+    "fourth": "Bilim",
+    "fifth": "Gizli"
+  },
+  {
+    "id": "12",
+    "word": "Cesur Korkak Köpek",
+    "first": "Muriel",
+    "second": "Eustace",
+    "third": "Canavar",
+    "fourth": "Hiçbiryer Kasabası",
+    "fifth": "Korku"
+  },
+  {
+    "id": "13",
+    "word": "Winx Club",
+    "first": "Bloom",
+    "second": "Peri",
+    "third": "Stella",
+    "fourth": "Sihir",
+    "fifth": "Trix"
+  },
+  {
+    "id": "14",
+    "word": "Avatar: Son Hava Bükücü",
+    "first": "Aang",
+    "second": "Katara",
+    "third": "Sokka",
+    "fourth": "Zuko",
+    "fifth": "Element"
+  },
+  {
+    "id": "15",
+    "word": "Camp Lazlo",
+    "first": "İzci",
+    "second": "Maymun",
+    "third": "Kamp",
+    "fourth": "Fasulye",
+    "fifth": "Lumpus"
+  },
+  {
+    "id": "16",
+    "word": "Foster'ın Hayali Dostlar Mekanı",
+    "first": "Bloo",
+    "second": "Mac",
+    "third": "Eduardo",
+    "fourth": "Wilt",
+    "fifth": "Ev"
+  },
+  {
+    "id": "17",
+    "word": "Kim Possible",
+    "first": "Ajan",
+    "second": "Ron Stoppable",
+    "third": "Rufus",
+    "fourth": "Dr. Drakken",
+    "fifth": "Köstebek"
+  },
+  {
+    "id": "18",
+    "word": "Phineas ve Ferb",
+    "first": "Perry",
+    "second": "Ornitorenk",
+    "third": "Yaz Tatili",
+    "fourth": "Candace",
+    "fifth": "İcat"
+  },
+  {
+    "id": "19",
+    "word": "Tsubasa",
+    "first": "Futbol",
+    "second": "Röveşata",
+    "third": "Wakabayashi",
+    "fourth": "Saha",
+    "fifth": "Japonya"
+  },
+  {
+    "id": "20",
+    "word": "Bakugan",
+    "first": "Dan Kuso",
+    "second": "Küre",
+    "third": "Drago",
+    "fourth": "Kart",
+    "fifth": "Savaş"
+  },
+  {
+    "id": "21",
+    "word": "Marsupilami",
+    "first": "Kuyruk",
+    "second": "Sarı",
+    "third": "Orman",
+    "fourth": "Uzun",
+    "fifth": "Hoba"
+  },
+  {
+    "id": "22",
+    "word": "Müfettiş Gadget",
+    "first": "Dedektif",
+    "second": "Pervane",
+    "third": "Penny",
+    "fourth": "Şapka",
+    "fifth": "Robot"
+  },
+  {
+    "id": "23",
+    "word": "Casper",
+    "first": "Sevimli",
+    "second": "Hayalet",
+    "third": "Beyaz",
+    "fourth": "Uçmak",
+    "fifth": "Korkutmak"
+  },
+  {
+    "id": "24",
+    "word": "Scooby Doo",
+    "first": "Köpek",
+    "second": "Shaggy",
+    "third": "Minibüs",
+    "fourth": "Canavar",
+    "fifth": "Bisküvi"
+  },
+  {
+    "id": "25",
+    "word": "Tom ve Jerry",
+    "first": "Kedi",
+    "second": "Fare",
+    "third": "Kovalamaca",
+    "fourth": "Peynir",
+    "fifth": "Tuzak"
+  },
+  {
+    "id": "26",
+    "word": "Danny Phantom",
+    "first": "Hayalet",
+    "second": "Genç",
+    "third": "Güç",
+    "fourth": "Yeşil",
+    "fifth": "Portalı"
+  },
+  {
+    "id": "27",
+    "word": "Totally Spies",
+    "first": "Casus Kızlar",
+    "second": "Sam",
+    "third": "Clover",
+    "fourth": "Alex",
+    "fifth": "Ruj"
+  },
+  {
+    "id": "28",
+    "word": "Flapjack",
+    "first": "Kaptan Yosun",
+    "second": "Balina Bubbie",
+    "third": "Şeker Adası",
+    "fourth": "Deniz",
+    "fifth": "Macera"
+  },
+  {
+    "id": "29",
+    "word": "Megas XLR",
+    "first": "Robot",
+    "second": "Coop",
+    "third": "Araba",
+    "fourth": "Oyun Konsolu",
+    "fifth": "Gelecek"
+  },
+  {
+    "id": "30",
+    "word": "Code Lyoko",
+    "first": "Sanal Dünya",
+    "second": "Aelita",
+    "third": "Ulrich",
+    "fourth": "XANA",
+    "fifth": "Kule"
+  },
+  {
+    "id": "31",
+    "word": "Ninja Kaplumbağalar",
+    "first": "Leonardo",
+    "second": "Pizza",
+    "third": "Splinter Usta",
+    "fourth": "Shredder",
+    "fifth": "Kanalizasyon"
+  },
+  {
+    "id": "32",
+    "word": "Caillou",
+    "first": "Kel",
+    "second": "Sarı Tişört",
+    "third": "Gilbert",
+    "fourth": "Ağlamak",
+    "fifth": "Çocuk"
+  },
+  {
+    "id": "33",
+    "word": "Pepee",
+    "first": "Şila",
+    "second": "Çizgi Film",
+    "third": "Halay",
+    "fourth": "Dede",
+    "fifth": "Mavi Şapka"
+  },
+  {
+    "id": "34",
+    "word": "Digimon",
+    "first": "Dijital Canavar",
+    "second": "Tai",
+    "third": "Agumon",
+    "fourth": "Evrim",
+    "fifth": "Cihaz"
+  },
+  {
+    "id": "35",
+    "word": "Arthur",
+    "first": "Karıncayiyen",
+    "second": "Gözlük",
+    "third": "Sarı Kazak",
+    "fourth": "D.W.",
+    "fifth": "Okul"
+  },
+  {
+    "id": "36",
+    "word": "Life with Louie",
+    "first": "Andy",
+    "second": "Baba",
+    "third": "Fox Kids",
+    "fourth": "Savaş",
+    "fifth": "Çocukluk"
+  },
+  {
+    "id": "37",
+    "word": "Çılgın Korsan Jack",
+    "first": "Snuk",
+    "second": "Gemi",
+    "third": "Korsan",
+    "fourth": "Fare",
+    "fifth": "Fox Kids"
+  },
+  {
+    "id": "38",
+    "word": "Andy'nin Nesi Var",
+    "first": "Şaka",
+    "second": "Danny",
+    "third": "Lori",
+    "fourth": "Fox Kids",
+    "fifth": "Okul"
+  },
+  {
+    "id": "39",
+    "word": "Afacan Dennis",
+    "first": "Bay Wilson",
+    "second": "Komşu",
+    "third": "Sarı Saç",
+    "fourth": "Sapan",
+    "fifth": "Yaramaz"
+  },
+  {
+    "id": "40",
+    "word": "Kene",
+    "first": "Mavi",
+    "second": "Arthur",
+    "third": "Güve",
+    "fourth": "Kostüm",
+    "fifth": "Fox Kids"
+  },
+  {
+    "id": "41",
+    "word": "Teletabiler",
+    "first": "Tinky Winky",
+    "second": "Dipsy",
+    "third": "Laa-Laa",
+    "fourth": "Po",
+    "fifth": "Güneş"
+  },
+  {
+    "id": "42",
+    "word": "W.I.T.C.H.",
+    "first": "Beş Kız",
+    "second": "Element",
+    "third": "Büyü",
+    "fourth": "Portal",
+    "fifth": "Çizgi Film"
+  },
+  {
+    "id": "43",
+    "word": "Roket Takımı",
+    "first": "Jessie",
+    "second": "James",
+    "third": "Meowth",
+    "fourth": "Pokemon",
+    "fifth": "Bela"
+  },
+  {
+    "id": "44",
+    "word": "Taş Devri",
+    "first": "Fred Çakmaktaş",
+    "second": "Barney",
+    "third": "Wilma",
+    "fourth": "Dino",
+    "fifth": "Yabba Dabba"
+  },
+  {
+    "id": "45",
+    "word": "Jetgiller",
+    "first": "Gelecek",
+    "second": "Uçan Araba",
+    "third": "Robot Rosie",
+    "fourth": "George",
+    "fifth": "Uzay"
+  },
+  {
+    "id": "46",
+    "word": "Red Kit",
+    "first": "Daltonlar",
+    "second": "Düldül",
+    "third": "Rintintin",
+    "fourth": "Kovboy",
+    "fifth": "Sigara"
+  },
+  {
+    "id": "47",
+    "word": "Daltonlar",
+    "first": "Joe",
+    "second": "Averell",
+    "third": "Hapishane",
+    "fourth": "Red Kit",
+    "fifth": "Boy Sırası"
+  },
+  {
+    "id": "48",
+    "word": "Gargamel",
+    "first": "Şirinler",
+    "second": "Azman",
+    "third": "Kedi",
+    "fourth": "Büyücü",
+    "fifth": "Şato"
+  },
+  {
+    "id": "49",
+    "word": "Şirin Baba",
+    "first": "Kırmızı Şapka",
+    "second": "Beyaz Sakal",
+    "third": "Şirinler",
+    "fourth": "Köy",
+    "fifth": "Büyü"
+  },
+  {
+    "id": "50",
+    "word": "Şirine",
+    "first": "Sarı Saç",
+    "second": "Tek Kız",
+    "third": "Şirinler",
+    "fourth": "Gargamel",
+    "fifth": "Elbise"
+  },
+  {
+    "id": "51",
+    "word": "Bugs Bunny",
+    "first": "Havuç",
+    "second": "Tavşan",
+    "third": "Naber Canım",
+    "fourth": "Elmer",
+    "fifth": "Looney Tunes"
+  },
+  {
+    "id": "52",
+    "word": "Daffy Duck",
+    "first": "Ördek",
+    "second": "Siyah",
+    "third": "Peltek",
+    "fourth": "Av Sezonu",
+    "fifth": "Bugs Bunny"
+  },
+  {
+    "id": "53",
+    "word": "Tweety",
+    "first": "Kuş",
+    "second": "Sarı",
+    "third": "Sylvester",
+    "fourth": "Kedi",
+    "fifth": "Kafes"
+  },
+  {
+    "id": "54",
+    "word": "Sylvester",
+    "first": "Kedi",
+    "second": "Tweety",
+    "third": "Kuş",
+    "fourth": "Siyah Beyaz",
+    "fifth": "Büyükanne"
+  },
+  {
+    "id": "55",
+    "word": "Road Runner",
+    "first": "Bip Bip",
+    "second": "Çakal",
+    "third": "Çöl",
+    "fourth": "Hızlı",
+    "fifth": "Koşmak"
+  },
+  {
+    "id": "56",
+    "word": "Çakal Coyote",
+    "first": "Road Runner",
+    "second": "ACME",
+    "third": "Bomba",
+    "fourth": "Tuzak",
+    "fifth": "Uçurum"
+  },
+  {
+    "id": "57",
+    "word": "Tazmanya Canavarı",
+    "first": "Dönmek",
+    "second": "Hortum",
+    "third": "Yemek",
+    "fourth": "Looney Tunes",
+    "fifth": "Canavar"
+  },
+  {
+    "id": "58",
+    "word": "He-Man",
+    "first": "Gölgelerin Gücü",
+    "second": "İskeletor",
+    "third": "Kılıç",
+    "fourth": "Şato",
+    "fifth": "Prens Adam"
+  },
+  {
+    "id": "59",
+    "word": "İskeletor",
+    "first": "He-Man",
+    "second": "Kafatası",
+    "third": "Kötü",
+    "fourth": "Yılan Dağı",
+    "fifth": "Mor"
+  },
+  {
+    "id": "60",
+    "word": "Voltran",
+    "first": "Aslan",
+    "second": "Birleşmek",
+    "third": "Robot",
+    "fourth": "Kılıç",
+    "fifth": "Beş"
+  },
+  {
+    "id": "61",
+    "word": "Kojiro Hyuga",
+    "first": "Tsubasa",
+    "second": "Kaplan Vuruşu",
+    "third": "Forvet",
+    "fourth": "Rakip",
+    "fifth": "Futbol"
+  },
+  {
+    "id": "62",
+    "word": "Genzo Wakabayashi",
+    "first": "Tsubasa",
+    "second": "Kaleci",
+    "third": "Şapka",
+    "fourth": "Gol",
+    "fifth": "Kaptan"
+  },
+  {
+    "id": "63",
+    "word": "Takao Kinomiya",
+    "first": "Beyblade",
+    "second": "Dragoon",
+    "third": "Mavi Ejderha",
+    "fourth": "Dönmek",
+    "fifth": "Şampiyon"
+  },
+  {
+    "id": "64",
+    "word": "Kai Hiwatari",
+    "first": "Beyblade",
+    "second": "Dranzer",
+    "third": "Kırmızı Anka",
+    "fourth": "Yüz Boyası",
+    "fifth": "Kaptan"
+  },
+  {
+    "id": "65",
+    "word": "Yugi Muto",
+    "first": "Yu-Gi-Oh",
+    "second": "Milenyum Bulmacası",
+    "third": "Kart",
+    "fourth": "Firavun",
+    "fifth": "Düello"
+  },
+  {
+    "id": "66",
+    "word": "Seto Kaiba",
+    "first": "Yu-Gi-Oh",
+    "second": "Mavi Gözlü Beyaz Ejder",
+    "third": "Zengin",
+    "fourth": "Şirket",
+    "fifth": "Düello"
+  },
+  {
+    "id": "67",
+    "word": "Ash Ketchum",
+    "first": "Pokemon",
+    "second": "Pikachu",
+    "third": "Şapka",
+    "fourth": "Eğitmen",
+    "fifth": "Top"
+  },
+  {
+    "id": "68",
+    "word": "Pikachu",
+    "first": "Pokemon",
+    "second": "Elektrik",
+    "third": "Sarı",
+    "fourth": "Yıldırım",
+    "fifth": "Kuyruk"
+  },
+  {
+    "id": "69",
+    "word": "Patrick Yıldız",
+    "first": "SüngerBob",
+    "second": "Deniz Yıldızı",
+    "third": "Pembe",
+    "fourth": "Aptal",
+    "fifth": "Kaya"
+  },
+  {
+    "id": "70",
+    "word": "Squidward",
+    "first": "SüngerBob",
+    "second": "Klarnet",
+    "third": "Ahtapot",
+    "fourth": "Huysuz",
+    "fifth": "Kasiyer"
+  },
+  {
+    "id": "71",
+    "word": "Bay Yengeç",
+    "first": "SüngerBob",
+    "second": "Para",
+    "third": "Restoran",
+    "fourth": "Yengeç Burger",
+    "fifth": "Kasa"
+  },
+  {
+    "id": "72",
+    "word": "Plankton",
+    "first": "SüngerBob",
+    "second": "Formül",
+    "third": "Tek Göz",
+    "fourth": "Çalmak",
+    "fifth": "Küçük"
+  },
+  {
+    "id": "73",
+    "word": "Gary",
+    "first": "SüngerBob",
+    "second": "Salyangoz",
+    "third": "Evcil Hayvan",
+    "fourth": "Miyav",
+    "fifth": "Kabuk"
+  },
+  {
+    "id": "74",
+    "word": "Sandy Cheeks",
+    "first": "SüngerBob",
+    "second": "Sincap",
+    "third": "Teksas",
+    "fourth": "Kask",
+    "fifth": "Karate"
+  },
+  {
+    "id": "75",
+    "word": "Chen",
+    "first": "Cedric",
+    "second": "Aşk",
+    "third": "Çinli",
+    "fourth": "Sarı Saç",
+    "fifth": "Sınıf"
+  },
+  {
+    "id": "76",
+    "word": "Christian",
+    "first": "Cedric",
+    "second": "Zengin",
+    "third": "Rakip",
+    "fourth": "Gözlük",
+    "fifth": "Çocuk"
+  },
+  {
+    "id": "77",
+    "word": "Büyükbaba Jules",
+    "first": "Cedric",
+    "second": "Baston",
+    "third": "Tavsiye",
+    "fourth": "Oda",
+    "fifth": "Yaşlı"
+  },
+  {
+    "id": "78",
+    "word": "Mojo Jojo",
+    "first": "Powerpuff Girls",
+    "second": "Maymun",
+    "third": "Beyin",
+    "fourth": "Kötü",
+    "fifth": "Yeşil"
+  },
+  {
+    "id": "79",
+    "word": "Aku",
+    "first": "Samuray Jack",
+    "second": "Şekil Değiştiren",
+    "third": "Kötülük",
+    "fourth": "Gelecek",
+    "fifth": "Alev"
+  },
+  {
+    "id": "80",
+    "word": "Omnitrix",
+    "first": "Ben 10",
+    "second": "Saat",
+    "third": "Uzaylı",
+    "fourth": "Kol",
+    "fifth": "Dönüşmek"
+  },
+  {
+    "id": "81",
+    "word": "Aang",
+    "first": "Avatar",
+    "second": "Hava Bükücü",
+    "third": "Ok",
+    "fourth": "Kel",
+    "fifth": "Buzul"
+  },
+  {
+    "id": "82",
+    "word": "Prens Zuko",
+    "first": "Avatar",
+    "second": "Ateş Ulusu",
+    "third": "Yara İzi",
+    "fourth": "Sürgün",
+    "fifth": "Amca Iroh"
+  },
+  {
+    "id": "83",
+    "word": "Katara",
+    "first": "Avatar",
+    "second": "Su Bükücü",
+    "third": "Güney Kutbu",
+    "fourth": "Sokka",
+    "fifth": "Kardeş"
+  },
+  {
+    "id": "84",
+    "word": "Sokka",
+    "first": "Avatar",
+    "second": "Bumerang",
+    "third": "Kılıç",
+    "fourth": "Komik",
+    "fifth": "Katara"
+  },
+  {
+    "id": "85",
+    "word": "Toph",
+    "first": "Avatar",
+    "second": "Toprak Bükücü",
+    "third": "Kör",
+    "fourth": "Metal",
+    "fifth": "Güçlü"
+  },
+  {
+    "id": "86",
+    "word": "Appa",
+    "first": "Avatar",
+    "second": "Uçan Bizon",
+    "third": "Boynuz",
+    "fourth": "Yip Yip",
+    "fifth": "Tüy"
+  },
+  {
+    "id": "87",
+    "word": "Kırmızı Başlıklı Kız",
+    "first": "Kurt",
+    "second": "Büyükanne",
+    "third": "Orman",
+    "fourth": "Sepet",
+    "fifth": "Avcı"
+  },
+  {
+    "id": "88",
+    "word": "Pinokyo",
+    "first": "Burun",
+    "second": "Yalan",
+    "third": "Uzamak",
+    "fourth": "Gepetto",
+    "fifth": "Kukla"
+  },
+  {
+    "id": "89",
+    "word": "Peter Pan",
+    "first": "Uçmak",
+    "second": "Varolmayan Ülke",
+    "third": "Kaptan Kanca",
+    "fourth": "Tinker Bell",
+    "fifth": "Gölge"
+  },
+  {
+    "id": "90",
+    "word": "Kaptan Kanca",
+    "first": "Peter Pan",
+    "second": "Timsah",
+    "third": "Saat",
+    "fourth": "Korsan",
+    "fifth": "Gemi"
+  },
+  {
+    "id": "91",
+    "word": "Robin Hood",
+    "first": "Ok",
+    "second": "Yay",
+    "third": "Zengin",
+    "fourth": "Fakir",
+    "fifth": "Orman"
+  },
+  {
+    "id": "92",
+    "word": "Ay Savaşçısı",
+    "first": "Sailor Moon",
+    "second": "Gezegen",
+    "third": "Dönüşüm",
+    "fourth": "Anime",
+    "fifth": "Tavşan"
+  },
+  {
+    "id": "93",
+    "word": "Dr. Pençe",
+    "first": "Müfettiş Gadget",
+    "second": "Kedi",
+    "third": "Demir El",
+    "fourth": "Kötü",
+    "fifth": "Gizli"
+  },
+  {
+    "id": "94",
+    "word": "Penny",
+    "first": "Müfettiş Gadget",
+    "second": "Yeğen",
+    "third": "Bilgisayar Kitap",
+    "fourth": "Köpek",
+    "fifth": "Akıllı"
+  },
+  {
+    "id": "95",
+    "word": "Şrek",
+    "first": "Ogr",
+    "second": "Yeşil",
+    "third": "Bataklık",
+    "fourth": "Fiona",
+    "fifth": "Eşek"
+  },
+  {
+    "id": "96",
+    "word": "Eşek",
+    "first": "Şrek",
+    "second": "Konuşmak",
+    "third": "Ejderha",
+    "fourth": "Waffle",
+    "fifth": "Dost"
+  },
+  {
+    "id": "97",
+    "word": "Çizmeli Kedi",
+    "first": "Şrek",
+    "second": "Kılıç",
+    "third": "Gözler",
+    "fourth": "Yavru",
+    "fifth": "Şapka"
+  },
+  {
+    "id": "98",
+    "word": "Lord Farquaad",
+    "first": "Şrek",
+    "second": "Kısa Boy",
+    "third": "Kale",
+    "fourth": "Kral",
+    "fifth": "Ayna"
+  },
+  {
+    "id": "99",
+    "word": "Kayıp Balık Nemo",
+    "first": "Baba",
+    "second": "Okyanus",
+    "third": "Akvaryum",
+    "fourth": "Yüzgeç",
+    "fifth": "Palyaço Balığı"
+  },
+  {
+    "id": "100",
+    "word": "Dory",
+    "first": "Nemo",
+    "second": "Unutkan",
+    "third": "Mavi Balık",
+    "fourth": "Yüzmeye Devam Et",
+    "fifth": "Balina"
+  },
+  {
+    "id": "101",
+    "word": "Oyuncak Hikayesi",
+    "first": "Woody",
+    "second": "Buzz Lightyear",
+    "third": "Andy",
+    "fourth": "Kovboy",
+    "fifth": "Canlanmak"
+  },
+  {
+    "id": "102",
+    "word": "Woody",
+    "first": "Kovboy",
+    "second": "İp",
+    "third": "Şerif",
+    "fourth": "Oyuncak Hikayesi",
+    "fifth": "Çizme"
+  },
+  {
+    "id": "103",
+    "word": "Buzz Lightyear",
+    "first": "Sonsuzluk ve Ötesi",
+    "second": "Uzay Korucusu",
+    "third": "Lazer",
+    "fourth": "Kanat",
+    "fifth": "Oyuncak"
+  },
+  {
+    "id": "104",
+    "word": "Canavarlar Dünyası",
+    "first": "Sulley",
+    "second": "Mike Wazowski",
+    "third": "Kapı",
+    "fourth": "Çığlık",
+    "fifth": "Boo"
+  },
+  {
+    "id": "105",
+    "word": "Mike Wazowski",
+    "first": "Tek Göz",
+    "second": "Yeşil",
+    "third": "Sulley",
+    "fourth": "Canavar",
+    "fifth": "Küçük"
+  },
+  {
+    "id": "106",
+    "word": "Buz Devri",
+    "first": "Manny",
+    "second": "Sid",
+    "third": "Diego",
+    "fourth": "Mamut",
+    "fifth": "Buzul"
+  },
+  {
+    "id": "107",
+    "word": "Manny",
+    "first": "Buz Devri",
+    "second": "Mamut",
+    "third": "Hortum",
+    "fourth": "Büyük",
+    "fifth": "Ellie"
+  },
+  {
+    "id": "108",
+    "word": "Sid",
+    "first": "Buz Devri",
+    "second": "Tembel Hayvan",
+    "third": "Komik",
+    "fourth": "Pelin",
+    "fifth": "Yumurta"
+  },
+  {
+    "id": "109",
+    "word": "Diego",
+    "first": "Buz Devri",
+    "second": "Kılıç Dişli Kaplan",
+    "third": "Avcı",
+    "fourth": "Sürü",
+    "fifth": "Koşmak"
+  },
+  {
+    "id": "110",
+    "word": "Scrat",
+    "first": "Buz Devri",
+    "second": "Meşe Palamudu",
+    "third": "Sincap",
+    "fourth": "Buzul",
+    "fifth": "Çatlak"
+  },
+  {
+    "id": "111",
+    "word": "Aslan Kral",
+    "first": "Simba",
+    "second": "Mufasa",
+    "third": "Scar",
+    "fourth": "Afrika",
+    "fifth": "Hakuna Matata"
+  },
+  {
+    "id": "112",
+    "word": "Simba",
+    "first": "Aslan Kral",
+    "second": "Yavru",
+    "third": "Prens",
+    "fourth": "Orman",
+    "fifth": "Kral"
+  },
+  {
+    "id": "113",
+    "word": "Mufasa",
+    "first": "Aslan Kral",
+    "second": "Baba",
+    "third": "Uçurum",
+    "fourth": "Kral",
+    "fifth": "Yıldız"
+  },
+  {
+    "id": "114",
+    "word": "Scar",
+    "first": "Aslan Kral",
+    "second": "Amca",
+    "third": "Yara İzi",
+    "fourth": "Sırtlan",
+    "fifth": "Kötü"
+  },
+  {
+    "id": "115",
+    "word": "Timon ve Pumbaa",
+    "first": "Hakuna Matata",
+    "second": "Mirket",
+    "third": "Yaban Domuzu",
+    "fourth": "Böcek",
+    "fifth": "Aslan Kral"
+  },
+  {
+    "id": "116",
+    "word": "Madagaskar",
+    "first": "Alex",
+    "second": "Marty",
+    "third": "Zebra",
+    "fourth": "Aslan",
+    "fifth": "Ada"
+  },
+  {
+    "id": "117",
+    "word": "Kral Julien",
+    "first": "Madagaskar",
+    "second": "Lemur",
+    "third": "Dans",
+    "fourth": "Taç",
+    "fifth": "Fiziksel"
+  },
+  {
+    "id": "118",
+    "word": "Penguenler",
+    "first": "Madagaskar",
+    "second": "Kowalski",
+    "third": "Skipper",
+    "fourth": "Ajan",
+    "fifth": "Kutup"
+  },
+  {
+    "id": "119",
+    "word": "Kung Fu Panda",
+    "first": "Po",
+    "second": "Dövüş",
+    "third": "Usta Shifu",
+    "fourth": "Erişte",
+    "fifth": "Ejder Savaşçısı"
+  },
+  {
+    "id": "120",
+    "word": "Usta Shifu",
+    "first": "Kung Fu Panda",
+    "second": "Kızıl Panda",
+    "third": "Öğretmen",
+    "fourth": "Usta",
+    "fifth": "Huzur"
+  },
+  {
+    "id": "121",
+    "word": "Şimşek McQueen",
+    "first": "Arabalar",
+    "second": "Kırmızı",
+    "third": "Yarış",
+    "fourth": "Piston Kupası",
+    "fifth": "Ka-Chow"
+  },
+  {
+    "id": "122",
+    "word": "Çekici Mater",
+    "first": "Arabalar",
+    "second": "Paslı",
+    "third": "Kurtarıcı",
+    "fourth": "Geri Geri",
+    "fifth": "Diş"
+  },
+  {
+    "id": "123",
+    "word": "Ratatouille",
+    "first": "Fare",
+    "second": "Aşçı",
+    "third": "Yemek",
+    "fourth": "Fransa",
+    "fifth": "Şef"
+  },
+  {
+    "id": "124",
+    "word": "WALL-E",
+    "first": "Robot",
+    "second": "Çöp",
+    "third": "Dünya",
+    "fourth": "Eve",
+    "fifth": "Bitki"
+  },
+  {
+    "id": "125",
+    "word": "Yukarı Bak",
+    "first": "Balon",
+    "second": "Ev",
+    "third": "Yaşlı Adam",
+    "fourth": "Uçmak",
+    "fifth": "İzcilik"
+  },
+  {
+    "id": "126",
+    "word": "Homer Simpson",
+    "first": "Donut",
+    "second": "D'oh",
+    "third": "Nükleer Santral",
+    "fourth": "Sarı",
+    "fifth": "Bira"
+  },
+  {
+    "id": "127",
+    "word": "Bart Simpson",
+    "first": "Kaykay",
+    "second": "Sarı Saç",
+    "third": "Sapan",
+    "fourth": "Yaramaz",
+    "fifth": "Lisa"
+  },
+  {
+    "id": "128",
+    "word": "Stewie Griffin",
+    "first": "Family Guy",
+    "second": "Bebek",
+    "third": "Futbol Kafalı",
+    "fourth": "Silah",
+    "fifth": "Köpek Brian"
+  },
+  {
+    "id": "129",
+    "word": "Garfield",
+    "first": "Lazanya",
+    "second": "Pazartesi",
+    "third": "Tombul",
+    "fourth": "Turuncu Kedi",
+    "fifth": "Odie"
+  },
+  {
+    "id": "130",
+    "word": "Odie",
+    "first": "Garfield",
+    "second": "Köpek",
+    "third": "Sarı",
+    "fourth": "Dil",
+    "fifth": "Aptal"
+  },
+  {
+    "id": "131",
+    "word": "Tenten",
+    "first": "Köpek Milu",
+    "second": "Gazeteci",
+    "third": "Kaptan Haddock",
+    "fourth": "Macera",
+    "fifth": "Sarı Saç"
+  },
+  {
+    "id": "132",
+    "word": "Kaptan Haddock",
+    "first": "Tenten",
+    "second": "Pipo",
+    "third": "Korsan",
+    "fourth": "Milyar Mavi Baloncuk",
+    "fifth": "Denizci"
+  },
+  {
+    "id": "133",
+    "word": "Asteriks ve Oburiks",
+    "first": "Sihirli İksir",
+    "second": "Roma",
+    "third": "Sezar",
+    "fourth": "Galya",
+    "fifth": "Yaban Domuzu"
+  },
+  {
+    "id": "134",
+    "word": "Oburiks",
+    "first": "Menhir",
+    "second": "Taş",
+    "third": "Kazan",
+    "fourth": "Düşmek",
+    "fifth": "İdefiks"
+  },
+  {
+    "id": "135",
+    "word": "Temel Reis",
+    "first": "Ispanak",
+    "second": "Pipo",
+    "third": "Safinaz",
+    "fourth": "Kabasakal",
+    "fifth": "Güç"
+  },
+  {
+    "id": "136",
+    "word": "Safinaz",
+    "first": "Temel Reis",
+    "second": "Zayıf",
+    "third": "Uzun Boy",
+    "fourth": "İmdat",
+    "fifth": "Kabasakal"
+  },
+  {
+    "id": "137",
+    "word": "Kabasakal",
+    "first": "Temel Reis",
+    "second": "Düşman",
+    "third": "Siyah Sakal",
+    "fourth": "Korsan",
+    "fifth": "Safinaz"
+  },
+  {
+    "id": "138",
+    "word": "Keloğlan",
+    "first": "Saçsız",
+    "second": "TRT Çocuk",
+    "third": "Balkız",
+    "fourth": "Cadı",
+    "fifth": "Dev"
+  },
+  {
+    "id": "139",
+    "word": "Rafadan Tayfa",
+    "first": "Mahalle",
+    "second": "Hayri",
+    "third": "Kamil",
+    "fourth": "TRT Çocuk",
+    "fifth": "Sokak"
+  },
+  {
+    "id": "140",
+    "word": "Kral Şakir",
+    "first": "Aslan",
+    "second": "Fil Necati",
+    "third": "Dürüm",
+    "fourth": "Remzi",
+    "fifth": "Çizgi Film"
+  },
+  {
+    "id": "141",
+    "word": "Fil Necati",
+    "first": "Kral Şakir",
+    "second": "Mor Fil",
+    "third": "Dürüm",
+    "fourth": "Yemek",
+    "fifth": "Komik"
+  },
+  {
+    "id": "142",
+    "word": "Canan",
+    "first": "Kral Şakir",
+    "second": "Kedi",
+    "third": "Kitap",
+    "fourth": "Akıllı",
+    "fifth": "Kız Kardeş"
+  },
+  {
+    "id": "143",
+    "word": "Casus Kızlar",
+    "first": "Totally Spies",
+    "second": "Sam",
+    "third": "Clover",
+    "fourth": "Alex",
+    "fifth": "Ruj"
+  },
+  {
+    "id": "144",
+    "word": "Ed Edd ve Eddy",
+    "first": "Çene Kıran",
+    "second": "Para",
+    "third": "Mahalle",
+    "fourth": "Üçlü",
+    "fifth": "Şaka"
+  },
+  {
+    "id": "145",
+    "word": "Aladdin",
+    "first": "Sihirli Lamba",
+    "second": "Cin",
+    "third": "Uçan Halı",
+    "fourth": "Yasemin",
+    "fifth": "Cafer"
+  },
+  {
+    "id": "146",
+    "word": "Herkül",
+    "first": "Zeus",
+    "second": "Hades",
+    "third": "Pegasus",
+    "fourth": "Güç",
+    "fifth": "Mitoloji"
+  },
+  {
+    "id": "147",
+    "word": "Tarzan",
+    "first": "Orman",
+    "second": "Sarmaşık",
+    "third": "Jane",
+    "fourth": "Goril",
+    "fifth": "Bağırmak"
+  },
+  {
+    "id": "148",
+    "word": "Clementine",
+    "first": "Mavi Küre",
+    "second": "Uçmak",
+    "third": "Kötü Şeytan",
+    "fourth": "TRT",
+    "fifth": "Kedi"
+  },
+  {
+    "id": "149",
+    "word": "Köstebekgiller",
+    "first": "Yeraltı",
+    "second": "TRT Çocuk",
+    "third": "Boyo",
+    "fourth": "Süslü",
+    "fifth": "Toprak"
+  },
+  {
+    "id": "150",
+    "word": "Canım Kardeşim",
+    "first": "Müge",
+    "second": "Mine",
+    "third": "Mıncır",
+    "fourth": "Kedi",
+    "fifth": "TRT Çocuk"
+  },
+  {
+    "id": "151",
+    "word": "Gilbert",
+    "first": "Caillou",
+    "second": "Kedi",
+    "third": "Miyav",
+    "fourth": "Evcil Hayvan",
+    "fifth": "Gri"
+  },
+  {
+    "id": "152",
+    "word": "Rosie",
+    "first": "Caillou",
+    "second": "Kız Kardeş",
+    "third": "Küçük",
+    "fourth": "Bebek",
+    "fifth": "Kızıl Saç"
+  },
+  {
+    "id": "153",
+    "word": "D.W.",
+    "first": "Arthur",
+    "second": "Kız Kardeş",
+    "third": "Yaramaz",
+    "fourth": "Huysuz",
+    "fifth": "Gözlük"
+  },
+  {
+    "id": "154",
+    "word": "Buster Baxter",
+    "first": "Arthur",
+    "second": "Tavşan",
+    "third": "Uzaylı",
+    "fourth": "En İyi Arkadaş",
+    "fifth": "Yemek"
+  },
+  {
+    "id": "155",
+    "word": "Francine",
+    "first": "Arthur",
+    "second": "Maymun",
+    "third": "Sporcu",
+    "fourth": "Kıvırcık",
+    "fifth": "Okul"
+  },
+  {
+    "id": "156",
+    "word": "Kaşif Dora",
+    "first": "Sırt Çantası",
+    "second": "Harita",
+    "third": "Boots",
+    "fourth": "İspanyolca",
+    "fifth": "Arakçı"
+  },
+  {
+    "id": "157",
+    "word": "Boots",
+    "first": "Dora",
+    "second": "Maymun",
+    "third": "Kırmızı Çizme",
+    "fourth": "Arkadaş",
+    "fifth": "Zıplamak"
+  },
+  {
+    "id": "158",
+    "word": "Arakçı Tilki",
+    "first": "Dora",
+    "second": "Aşırma",
+    "third": "Hırsız",
+    "fourth": "Maske",
+    "fifth": "Üç Kere"
+  },
+  {
+    "id": "159",
+    "word": "Bob Usta",
+    "first": "Tamir",
+    "second": "Yapabilir Miyiz",
+    "third": "Baret",
+    "fourth": "İnşaat",
+    "fifth": "Kepçe"
+  },
+  {
+    "id": "160",
+    "word": "Thomas",
+    "first": "Tren",
+    "second": "Lokomotif",
+    "third": "Mavi",
+    "fourth": "Ray",
+    "fifth": "Ada"
+  },
+  {
+    "id": "161",
+    "word": "Şişman Kont",
+    "first": "Thomas",
+    "second": "İstasyon",
+    "third": "Müdür",
+    "fourth": "Silindir Şapka",
+    "fifth": "Tren"
+  },
+  {
+    "id": "162",
+    "word": "Postacı Pat",
+    "first": "Mektup",
+    "second": "Kırmızı Kamyonet",
+    "third": "Siyah Beyaz Kedi",
+    "fourth": "Dağıtmak",
+    "fifth": "Köy"
+  },
+  {
+    "id": "163",
+    "word": "İtfaiyeci Sam",
+    "first": "Yangın",
+    "second": "Kask",
+    "third": "Kurtarma",
+    "fourth": "Kırmızı Kamyon",
+    "fifth": "Hortum"
+  },
+  {
+    "id": "164",
+    "word": "Noddy",
+    "first": "Oyuncaklar Ülkesi",
+    "second": "Çanlı Şapka",
+    "third": "Sarı Araba",
+    "fourth": "Mavi Şapka",
+    "fifth": "Kulaklı"
+  },
+  {
+    "id": "165",
+    "word": "Pingu",
+    "first": "Penguen",
+    "second": "Noot Noot",
+    "third": "İglo",
+    "fourth": "Buzul",
+    "fifth": "Balık"
+  },
+  {
+    "id": "166",
+    "word": "Roboroach",
+    "first": "Hamamböceği",
+    "second": "Robot",
+    "third": "Reg",
+    "fourth": "Rube",
+    "fifth": "Fox Kids"
+  },
+  {
+    "id": "167",
+    "word": "Değerli Yarışlar",
+    "first": "Wacky Races",
+    "second": "Araba",
+    "third": "Pist",
+    "fourth": "Dick Dastardly",
+    "fifth": "Muttley"
+  },
+  {
+    "id": "168",
+    "word": "Dick Dastardly",
+    "first": "Tuzak",
+    "second": "Bıyık",
+    "third": "Kötü",
+    "fourth": "Muttley",
+    "fifth": "Yarış"
+  },
+  {
+    "id": "169",
+    "word": "Muttley",
+    "first": "Köpek",
+    "second": "Kıkırdamak",
+    "third": "Gülüş",
+    "fourth": "Madalya",
+    "fifth": "Uçmak"
+  },
+  {
+    "id": "170",
+    "word": "Hong Kong Phooey",
+    "first": "Köpek",
+    "second": "Karate",
+    "third": "Kung Fu",
+    "fourth": "Kıyafet",
+    "fifth": "Süper Kahraman"
+  },
+  {
+    "id": "171",
+    "word": "Kaptan Mağara Adamı",
+    "first": "Sopa",
+    "second": "Kıllar",
+    "third": "Uçmak",
+    "fourth": "Bağırmak",
+    "fifth": "Taş Devri"
+  },
+  {
+    "id": "172",
+    "word": "Yogi Ayı",
+    "first": "Piknik Sepeti",
+    "second": "Jellystone Parkı",
+    "third": "Kravat",
+    "fourth": "Ayı",
+    "fifth": "Çalmak"
+  },
+  {
+    "id": "173",
+    "word": "Boo-Boo",
+    "first": "Yogi Ayı",
+    "second": "Küçük Ayı",
+    "third": "Mavi Papyon",
+    "fourth": "Park",
+    "fifth": "Arkadaş"
+  },
+  {
+    "id": "174",
+    "word": "Atom Karınca",
+    "first": "Küçük",
+    "second": "Kask",
+    "third": "Uçmak",
+    "fourth": "Güçlü",
+    "fifth": "Süper Karınca"
+  },
+  {
+    "id": "175",
+    "word": "Şila",
+    "first": "Pepee",
+    "second": "Kuzen",
+    "third": "Kız",
+    "fourth": "Pembe",
+    "fifth": "Çizgi Film"
+  },
+  {
+    "id": "176",
+    "word": "Bebee",
+    "first": "Pepee",
+    "second": "Bebek",
+    "third": "Kardeş",
+    "fourth": "Emzik",
+    "fifth": "TRT Çocuk"
+  },
+  {
+    "id": "177",
+    "word": "Zulu",
+    "first": "Pepee",
+    "second": "Zürafa",
+    "third": "Uzun Boyun",
+    "fourth": "Sarı",
+    "fifth": "Arkadaş"
+  },
+  {
+    "id": "178",
+    "word": "Niloya",
+    "first": "Tospik",
+    "second": "Kız",
+    "third": "Nehir",
+    "fourth": "Şarkı",
+    "fifth": "TRT Çocuk"
+  },
+  {
+    "id": "179",
+    "word": "Tospik",
+    "first": "Niloya",
+    "second": "Kaplumbağa",
+    "third": "Yeşil",
+    "fourth": "Yavaş",
+    "fifth": "Kabuk"
+  },
+  {
+    "id": "180",
+    "word": "Arı Maya",
+    "first": "Kovan",
+    "second": "Bal",
+    "third": "Willy",
+    "fourth": "Sarı Siyah",
+    "fifth": "Uçmak"
+  },
+  {
+    "id": "181",
+    "word": "Willy",
+    "first": "Arı Maya",
+    "second": "Tembel",
+    "third": "Uykucu",
+    "fourth": "Erkek Arı",
+    "fifth": "Arkadaş"
+  },
+  {
+    "id": "182",
+    "word": "Heidi",
+    "first": "Alp Dağları",
+    "second": "Büyükbaba",
+    "third": "Peter",
+    "fourth": "Keçi",
+    "fifth": "Çıplak Ayak"
+  },
+  {
+    "id": "183",
+    "word": "Çoban Peter",
+    "first": "Heidi",
+    "second": "Keçi",
+    "third": "Dağ",
+    "fourth": "Düdük",
+    "fifth": "Arkadaş"
+  },
+  {
+    "id": "184",
+    "word": "Clara",
+    "first": "Heidi",
+    "second": "Tekerlekli Sandalye",
+    "third": "Frankfurt",
+    "fourth": "Yürümek",
+    "fifth": "Zengin"
+  },
+  {
+    "id": "185",
+    "word": "Vikingler",
+    "first": "Vickie",
+    "second": "Gemi",
+    "third": "Kask",
+    "fourth": "Boynuz",
+    "fifth": "Fikir"
+  },
+  {
+    "id": "186",
+    "word": "Sinbad",
+    "first": "Denizci",
+    "second": "Macera",
+    "third": "Uçan Halı",
+    "fourth": "Kuş",
+    "fifth": "Gemi"
+  },
+  {
+    "id": "187",
+    "word": "Yakari",
+    "first": "Kızılderili",
+    "second": "Şimşek",
+    "third": "At",
+    "fourth": "Hayvanlarla Konuşmak",
+    "fifth": "Tüy"
+  },
+  {
+    "id": "188",
+    "word": "Calimero",
+    "first": "Yumurta Kabuğu",
+    "second": "Siyah Civciv",
+    "third": "Haksızlık",
+    "fourth": "Bu Bir Haksızlık",
+    "fifth": "Kuş"
+  },
+  {
+    "id": "189",
+    "word": "Ayı Yogi",
+    "first": "Sepet",
+    "second": "Şapka",
+    "third": "Orman",
+    "fourth": "Milli Park",
+    "fifth": "Hırsız"
+  },
+  {
+    "id": "190",
+    "word": "Lola Bunny",
+    "first": "Bugs Bunny",
+    "second": "Tavşan",
+    "third": "Basketbol",
+    "fourth": "Space Jam",
+    "fifth": "Sarı"
+  },
+  {
+    "id": "191",
+    "word": "Speedy Gonzales",
+    "first": "Meksika",
+    "second": "Fare",
+    "third": "En Hızlı",
+    "fourth": "Sombrero",
+    "fifth": "Andale"
+  },
+  {
+    "id": "192",
+    "word": "Pepe Le Pew",
+    "first": "Kokarca",
+    "second": "Fransız",
+    "third": "Kedi",
+    "fourth": "Aşık",
+    "fifth": "Koku"
+  },
+  {
+    "id": "193",
+    "word": "Foghorn Leghorn",
+    "first": "Horoz",
+    "second": "Büyük",
+    "third": "Çiftlik",
+    "fourth": "Dinle Beni",
+    "fifth": "Looney Tunes"
+  },
+  {
+    "id": "194",
+    "word": "Elmer Fudd",
+    "first": "Avcı",
+    "second": "Tüfek",
+    "third": "Bugs Bunny",
+    "fourth": "Tavşan Avı",
+    "fifth": "Kel"
+  },
+  {
+    "id": "195",
+    "word": "Yosemite Sam",
+    "first": "Kızıl Bıyık",
+    "second": "Kovboy",
+    "third": "İki Tabanca",
+    "fourth": "Öfkeli",
+    "fifth": "Kısa Boy"
+  },
+  {
+    "id": "196",
+    "word": "Marvin the Martian",
+    "first": "Marslı",
+    "second": "Kask",
+    "third": "Lazer",
+    "fourth": "Yeşil",
+    "fifth": "Uzaylı"
+  },
+  {
+    "id": "197",
+    "word": "Droopy",
+    "first": "Köpek",
+    "second": "Mutsuz Yüz",
+    "third": "Sakin",
+    "fourth": "Biliyorum",
+    "fifth": "Yavaş"
+  },
+  {
+    "id": "198",
+    "word": "Casperın Amcaları",
+    "first": "Üç Hayalet",
+    "second": "Korkutmak",
+    "third": "Kötü",
+    "fourth": "Şişman",
+    "fifth": "Uçmak"
+  },
+  {
+    "id": "199",
+    "word": "Spiderman",
+    "first": "Örümcek Adam",
+    "second": "Ağ",
+    "third": "Peter Parker",
+    "fourth": "Kırmızı Mavi",
+    "fifth": "Maske"
+  },
+  {
+    "id": "200",
+    "word": "Batman",
+    "first": "Yarasa",
+    "second": "Gotham",
+    "third": "Joker",
+    "fourth": "Batmobile",
+    "fifth": "Pelerin"
+  }
+]

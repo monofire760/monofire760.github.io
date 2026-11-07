@@ -901,272 +901,947 @@
   },
   {
     "id": "101",
-    "word": "Hollywood",
-    "first": "Sinema",
-    "second": "Amerika",
-    "third": "Oscar",
-    "fourth": "Yıldız",
-    "fifth": "Kaliforniya"
+    "word": "Kurtlar Vadisi",
+    "first": "Polat Alemdar",
+    "second": "Dizi",
+    "third": "Mafya",
+    "fourth": "Süleyman Çakır",
+    "fifth": "Perşembe"
   },
   {
     "id": "102",
-    "word": "Senaryo",
-    "first": "Film",
-    "second": "Hikaye",
-    "third": "Yazar",
-    "fourth": "Diyalog",
-    "fifth": "Metin"
+    "word": "Polat Alemdar",
+    "first": "Kurtlar Vadisi",
+    "second": "Necati Şaşmaz",
+    "third": "Elif",
+    "fourth": "Operasyon",
+    "fifth": "Devlet"
   },
   {
     "id": "103",
-    "word": "Yönetmen",
-    "first": "Film",
-    "second": "Set",
-    "third": "Kamera",
-    "fourth": "Talimat",
-    "fifth": "Vizyon"
+    "word": "Memati",
+    "first": "Kurtlar Vadisi",
+    "second": "Gürkan Uygun",
+    "third": "Polat",
+    "fourth": "Usta",
+    "fifth": "Korumak"
   },
   {
     "id": "104",
-    "word": "Aktör",
-    "first": "Oyuncu",
-    "second": "Rol",
-    "third": "Karakter",
-    "fourth": "Performans",
-    "fifth": "Film"
+    "word": "Süleyman Çakır",
+    "first": "Kurtlar Vadisi",
+    "second": "Oktay Kaynarca",
+    "third": "Ölüm Yıldönümü",
+    "fourth": "Polat",
+    "fifth": "Cerrahpaşalılar"
   },
   {
     "id": "105",
-    "word": "Komedi",
-    "first": "Gülmek",
-    "second": "Eğlence",
-    "third": "Şaka",
-    "fourth": "Mizah",
-    "fifth": "Kahkaha"
+    "word": "Ezel",
+    "first": "Kenan İmirzalıoğlu",
+    "second": "Eyşan",
+    "third": "Ramiz Dayı",
+    "fourth": "İntikam",
+    "fifth": "Ömer"
   },
   {
     "id": "106",
-    "word": "Bilet",
-    "first": "Sinema",
-    "second": "Gişe",
-    "third": "Satın almak",
-    "fourth": "Koltuk",
-    "fifth": "Sıra"
+    "word": "Ramiz Dayı",
+    "first": "Ezel",
+    "second": "Tuncel Kurtiz",
+    "third": "Yeğen",
+    "fourth": "Oysa Herkes Öldürür Sevdiğini",
+    "fifth": "Racon"
   },
   {
     "id": "107",
-    "word": "Dizi",
-    "first": "Sezon",
-    "second": "Bölüm",
-    "third": "Televizyon",
-    "fourth": "Seri",
-    "fifth": "Platform"
+    "word": "Eyşan",
+    "first": "Ezel",
+    "second": "Cansu Dere",
+    "third": "İhanet",
+    "fourth": "Ömer",
+    "fifth": "Aşk"
   },
   {
     "id": "108",
-    "word": "Patlamış Mısır",
-    "first": "Sinema",
-    "second": "Yemek",
-    "third": "Film",
-    "fourth": "Kova",
-    "fifth": "Atıştırmalık"
+    "word": "Aşk-ı Memnu",
+    "first": "Bihter",
+    "second": "Behlül",
+    "third": "Adnan Bey",
+    "fourth": "Yalı",
+    "fifth": "Firdevs Yöreoğlu"
   },
   {
     "id": "109",
-    "word": "Efekt",
-    "first": "Görsel",
-    "second": "Bilgisayar",
-    "third": "Aksiyon",
-    "fourth": "Gerçekçi",
-    "fifth": "CGI"
+    "word": "Bihter Ziyagil",
+    "first": "Aşk-ı Memnu",
+    "second": "Beren Saat",
+    "third": "İntihar",
+    "fourth": "Behlül",
+    "fifth": "Firdevs Hanım"
   },
   {
     "id": "110",
-    "word": "Platform",
-    "first": "Netflix",
-    "second": "İzlemek",
-    "third": "Abonelik",
-    "fourth": "İçerik",
-    "fifth": "Yayın"
+    "word": "Behlül",
+    "first": "Aşk-ı Memnu",
+    "second": "Kıvanç Tatlıtuğ",
+    "third": "Kaçmak",
+    "fourth": "Bihter",
+    "fifth": "Nihal"
   },
   {
     "id": "111",
-    "word": "Kamera",
-    "first": "Çekim",
-    "second": "Objektif",
-    "third": "Tripod",
-    "fourth": "Görüntü",
-    "fifth": "Lens"
+    "word": "Avrupa Yakası",
+    "first": "Gülse Birsel",
+    "second": "Burhan Altıntop",
+    "third": "Nişantaşı",
+    "fourth": "Dergi",
+    "fifth": "Komedi"
   },
   {
     "id": "112",
-    "word": "Stüdyo",
-    "first": "Set",
-    "second": "Sahne",
-    "third": "Kayıt",
-    "fourth": "Prodüksiyon",
-    "fifth": "Bina"
+    "word": "Burhan Altıntop",
+    "first": "Avrupa Yakası",
+    "second": "Engin Günaydın",
+    "third": "Tokat",
+    "fourth": "Nişantaşı",
+    "fifth": "Çıkın Çıkın Gelin"
   },
   {
     "id": "113",
-    "word": "Oskar",
-    "first": "Ödül",
-    "second": "Heykel",
-    "third": "Tören",
-    "fourth": "Akademi",
-    "fifth": "Hollywood"
+    "word": "Gaffur",
+    "first": "Avrupa Yakası",
+    "second": "Çizgili Pijama",
+    "third": "Peker Açıkalın",
+    "fourth": "Beni Beğenmiyor Musun",
+    "fifth": "Dans"
   },
   {
     "id": "114",
-    "word": "Fragman",
-    "first": "Tanıtım",
-    "second": "Kısa",
-    "third": "Film",
-    "fourth": "Öngösterim",
-    "fifth": "Trailer"
+    "word": "Leyla ile Mecnun",
+    "first": "Ali Atay",
+    "second": "Kireçburnu",
+    "third": "İsmail Abi",
+    "fourth": "Erdal Bakkal",
+    "fifth": "Çöl"
   },
   {
     "id": "115",
-    "word": "Klaketi",
-    "first": "Sahne",
-    "second": "Başlamak",
-    "third": "Film",
-    "fourth": "Kapatmak",
-    "fifth": "Numara"
+    "word": "İsmail Abi",
+    "first": "Leyla ile Mecnun",
+    "second": "O Gemi Bir Gün Gelecek",
+    "third": "El Sallamak",
+    "fourth": "Pullu Ceket",
+    "fifth": "Serkan Keskin"
   },
   {
     "id": "116",
-    "word": "Kurgu",
-    "first": "Montaj",
-    "second": "Kesme",
-    "third": "Sahne",
-    "fourth": "Düzenleme",
-    "fifth": "Program"
+    "word": "Erdal Bakkal",
+    "first": "Leyla ile Mecnun",
+    "second": "Çay",
+    "third": "Cengiz Bozkurt",
+    "fourth": "Bakkal",
+    "fifth": "Tuzluk"
   },
   {
     "id": "117",
-    "word": "Dublaj",
-    "first": "Ses",
-    "second": "Konuşma",
-    "third": "Aktör",
-    "fourth": "Çeviri",
-    "fifth": "Stüdyo"
+    "word": "Cennet Mahallesi",
+    "first": "Pembe",
+    "second": "Sultan",
+    "third": "Ferhat",
+    "fourth": "Roman",
+    "fifth": "Alişan"
   },
   {
     "id": "118",
-    "word": "Altyazı",
-    "first": "Çeviri",
-    "second": "Metin",
-    "third": "Ekran",
-    "fourth": "Dil",
-    "fifth": "Alt"
+    "word": "Pembe",
+    "first": "Cennet Mahallesi",
+    "second": "Melek Baykal",
+    "third": "Para",
+    "fourth": "Ferhat",
+    "fifth": "Balkon"
   },
   {
     "id": "119",
-    "word": "Kostüm",
-    "first": "Giysi",
-    "second": "Tasarım",
-    "third": "Karakter",
-    "fourth": "Film",
-    "fifth": "Kumaş"
+    "word": "Sihirli Annem",
+    "first": "Betüş",
+    "second": "Sadık",
+    "third": "Dudu",
+    "fourth": "Peri",
+    "fifth": "Taci"
   },
   {
     "id": "120",
-    "word": "Gala",
-    "first": "Prömiyere",
-    "second": "İlk Gösterim",
-    "third": "Kırmızı Halı",
-    "fourth": "Davet",
-    "fifth": "Ünlü"
+    "word": "Dudu Peri",
+    "first": "Sihirli Annem",
+    "second": "Nevra Serezli",
+    "third": "Köpek",
+    "fourth": "Taci",
+    "fifth": "Süpürge"
   },
   {
     "id": "121",
-    "word": "Korku",
-    "first": "Gerilim",
-    "second": "Korkmak",
-    "third": "Karanlık",
-    "fourth": "Film",
-    "fifth": "Canavar"
+    "word": "Arka Sokaklar",
+    "first": "Rıza Baba",
+    "second": "Mesut",
+    "third": "Hüsnü Çoban",
+    "fourth": "Polis",
+    "fifth": "Kanal D"
   },
   {
     "id": "122",
-    "word": "Bilim Kurgu",
-    "first": "Uzay",
-    "second": "Gelecek",
-    "third": "Robot",
-    "fourth": "Teknoloji",
-    "fifth": "Alien"
+    "word": "Rıza Baba",
+    "first": "Arka Sokaklar",
+    "second": "Zafer Ergin",
+    "third": "Emniyet",
+    "fourth": "Başkomiser",
+    "fifth": "Evlat"
   },
   {
     "id": "123",
-    "word": "Romantik",
-    "first": "Aşk",
-    "second": "Duygu",
-    "third": "Çift",
-    "fourth": "Film",
-    "fifth": "İlişki"
+    "word": "Hüsnü Çoban",
+    "first": "Arka Sokaklar",
+    "second": "Suat",
+    "third": "Çocuklar",
+    "fourth": "Özgür Ozan",
+    "fifth": "Komiser"
   },
   {
     "id": "124",
-    "word": "Belgesel",
-    "first": "Gerçek",
-    "second": "Doğa",
-    "third": "Bilgi",
-    "fourth": "Araştırma",
-    "fifth": "Röportaj"
+    "word": "Yaprak Dökümü",
+    "first": "Ali Rıza Bey",
+    "second": "Ağzımızın Tadı Kaçmasın",
+    "third": "Ferhunde",
+    "fourth": "Reşat Nuri",
+    "fifth": "Dizi"
   },
   {
     "id": "125",
-    "word": "Animasyon",
-    "first": "Çizgi Film",
-    "second": "Karakter",
-    "third": "Çizim",
-    "fourth": "Pixar",
-    "fifth": "Renk"
+    "word": "Ferhunde",
+    "first": "Yaprak Dökümü",
+    "second": "Deniz Çakır",
+    "third": "Gelin",
+    "fourth": "Kötü",
+    "fifth": "Şevket"
   },
   {
     "id": "126",
-    "word": "Yıldız",
-    "first": "Ünlü",
-    "second": "Aktör",
-    "third": "Film",
-    "fourth": "Popüler",
-    "fifth": "Hayran"
+    "word": "Geniş Aile",
+    "first": "Cevahir",
+    "second": "Koyu Bilal",
+    "third": "Ulvi",
+    "fourth": "Ufuk Özkan",
+    "fifth": "Şukufe"
   },
   {
     "id": "127",
-    "word": "Ödül",
-    "first": "Tören",
-    "second": "Statue",
-    "third": "Kazanmak",
-    "fourth": "Film",
-    "fifth": "Aday"
+    "word": "Cevahir",
+    "first": "Geniş Aile",
+    "second": "Ulvi",
+    "third": "Koyu Bilal",
+    "fourth": "Yetersiz",
+    "fifth": "Mahalle"
   },
   {
     "id": "128",
-    "word": "Soundtrack",
-    "first": "Müzik",
-    "second": "Film",
-    "third": "Beste",
-    "fourth": "Sahne",
-    "fifth": "Orkestra"
+    "word": "Hababam Sınıfı",
+    "first": "İnek Şaban",
+    "second": "Mahmut Hoca",
+    "third": "Güdük Necmi",
+    "fourth": "Damat Ferit",
+    "fifth": "Rıfat Ilgaz"
   },
   {
     "id": "129",
-    "word": "Eleştirmen",
-    "first": "İnceleme",
-    "second": "Yorum",
-    "third": "Puan",
-    "fourth": "Analiz",
-    "fifth": "Dergi"
+    "word": "İnek Şaban",
+    "first": "Kemal Sunal",
+    "second": "Hababam Sınıfı",
+    "third": "Gülüş",
+    "fourth": "Güdük Necmi",
+    "fifth": "Öğrenci"
   },
   {
     "id": "130",
-    "word": "Yeşil Perde",
-    "first": "Efekt",
-    "second": "Arkaplan",
-    "third": "Teknoloji",
-    "fourth": "Stüdyo",
-    "fifth": "Renk"
+    "word": "Mahmut Hoca",
+    "first": "Münir Özkul",
+    "second": "Hababam Sınıfı",
+    "third": "Kel Mahmut",
+    "fourth": "Disiplin",
+    "fifth": "Okul"
+  },
+  {
+    "id": "131",
+    "word": "Güdük Necmi",
+    "first": "Halit Akçatepe",
+    "second": "Hababam Sınıfı",
+    "third": "Kısa Boy",
+    "fourth": "Şaka",
+    "fifth": "İnek Şaban"
+  },
+  {
+    "id": "132",
+    "word": "Damat Ferit",
+    "first": "Tarık Akan",
+    "second": "Hababam Sınıfı",
+    "third": "Yakışıklı",
+    "fourth": "Bebek",
+    "fifth": "Öğrenci"
+  },
+  {
+    "id": "133",
+    "word": "Badi Ekrem",
+    "first": "Şener Şen",
+    "second": "Eşofman",
+    "third": "Kırmızı",
+    "fourth": "Beden Eğitimi",
+    "fifth": "Hababam Sınıfı"
+  },
+  {
+    "id": "134",
+    "word": "Tosun Paşa",
+    "first": "Yeşil Vadi",
+    "second": "Kemal Sunal",
+    "third": "Tellioğulları",
+    "fourth": "Seferoğulları",
+    "fifth": "Hakiki"
+  },
+  {
+    "id": "135",
+    "word": "Yeşil Vadi",
+    "first": "Tosun Paşa",
+    "second": "Bizimdir",
+    "third": "Tellioğulları",
+    "fourth": "Seferoğulları",
+    "fifth": "Toprak"
+  },
+  {
+    "id": "136",
+    "word": "Çöpçüler Kralı",
+    "first": "Kemal Sunal",
+    "second": "Apti",
+    "third": "Süpürge",
+    "fourth": "Zabıta Şakir",
+    "fifth": "Hacer"
+  },
+  {
+    "id": "137",
+    "word": "Neşeli Günler",
+    "first": "Turşu Suyu",
+    "second": "Münir Özkul",
+    "third": "Adile Naşit",
+    "fourth": "Sirke",
+    "fifth": "Limon"
+  },
+  {
+    "id": "138",
+    "word": "Vizontele",
+    "first": "Yılmaz Erdoğan",
+    "second": "Deli Emin",
+    "third": "Televizyon",
+    "fourth": "Van",
+    "fifth": "Cem Yılmaz"
+  },
+  {
+    "id": "139",
+    "word": "Deli Emin",
+    "first": "Vizontele",
+    "second": "Yılmaz Erdoğan",
+    "third": "Bisiklet",
+    "fourth": "Anten",
+    "fifth": "Radyo"
+  },
+  {
+    "id": "140",
+    "word": "G.O.R.A.",
+    "first": "Cem Yılmaz",
+    "second": "Arif Işık",
+    "third": "Komutan Logar",
+    "fourth": "Uzay",
+    "fifth": "Halıcı"
+  },
+  {
+    "id": "141",
+    "word": "Arif Işık",
+    "first": "G.O.R.A.",
+    "second": "Cem Yılmaz",
+    "third": "Halıcı",
+    "fourth": "Ceku",
+    "fifth": "A.R.O.G"
+  },
+  {
+    "id": "142",
+    "word": "Komutan Logar",
+    "first": "G.O.R.A.",
+    "second": "Cem Yılmaz",
+    "third": "Uzaylı",
+    "fourth": "Kötü",
+    "fifth": "Bir Cisim Yaklaşıyor"
+  },
+  {
+    "id": "143",
+    "word": "Robot 216",
+    "first": "G.O.R.A.",
+    "second": "Ozan Güven",
+    "third": "Arif",
+    "fourth": "İnsan Olmak",
+    "fifth": "Metal"
+  },
+  {
+    "id": "144",
+    "word": "A.R.O.G",
+    "first": "Cem Yılmaz",
+    "second": "Taş Devri",
+    "third": "Arif",
+    "fourth": "Dinozor",
+    "fifth": "Maymun"
+  },
+  {
+    "id": "145",
+    "word": "Organize İşler",
+    "first": "Asım Noyan",
+    "second": "Yılmaz Erdoğan",
+    "third": "Süpermen",
+    "fourth": "Oto Hırsızı",
+    "fifth": "Çete"
+  },
+  {
+    "id": "146",
+    "word": "Babam ve Oğlum",
+    "first": "Çağan Irmak",
+    "second": "Açaydım Kollarımı",
+    "third": "Çetin Tekindor",
+    "fourth": "Fikret Kuşkan",
+    "fifth": "Ağlamak"
+  },
+  {
+    "id": "147",
+    "word": "Eşkıya",
+    "first": "Şener Şen",
+    "second": "Uğur Yücel",
+    "third": "Baran",
+    "fourth": "Keje",
+    "fifth": "Cumali"
+  },
+  {
+    "id": "148",
+    "word": "Recep İvedik",
+    "first": "Şahan Gökbakar",
+    "second": "Turuncu Gömlek",
+    "third": "Kıllı",
+    "fourth": "Böhöhöyt",
+    "fifth": "Güngören"
+  },
+  {
+    "id": "149",
+    "word": "Titanik",
+    "first": "Jack",
+    "second": "Rose",
+    "third": "Gemi",
+    "fourth": "Buzdağı",
+    "fifth": "Batmak"
+  },
+  {
+    "id": "150",
+    "word": "Matrix",
+    "first": "Neo",
+    "second": "Kırmızı Hap",
+    "third": "Morpheus",
+    "fourth": "Ajan Smith",
+    "fifth": "Yeşil Kod"
+  },
+  {
+    "id": "151",
+    "word": "Neo",
+    "first": "Matrix",
+    "second": "Keanu Reeves",
+    "third": "Seçilmiş Kişi",
+    "fourth": "Mermi Durdurmak",
+    "fifth": "Siyah Palto"
+  },
+  {
+    "id": "152",
+    "word": "Yüzüklerin Efendisi",
+    "first": "Frodo",
+    "second": "Gandalf",
+    "third": "Tek Yüzük",
+    "fourth": "Ork",
+    "fifth": "Mordor"
+  },
+  {
+    "id": "153",
+    "word": "Frodo Baggins",
+    "first": "Yüzük",
+    "second": "Hobbit",
+    "third": "Sam",
+    "fourth": "Hüküm Dağı",
+    "fifth": "Kısa Boy"
+  },
+  {
+    "id": "154",
+    "word": "Gandalf",
+    "first": "Büyücü",
+    "second": "Asa",
+    "third": "Ak",
+    "fourth": "Gri",
+    "fifth": "Buradan Geçemezsin"
+  },
+  {
+    "id": "155",
+    "word": "Gollum",
+    "first": "Kıymetlimiss",
+    "second": "Yüzük",
+    "third": "Smeagol",
+    "fourth": "Mağara",
+    "fifth": "Balık"
+  },
+  {
+    "id": "156",
+    "word": "Harry Potter",
+    "first": "Büyücü",
+    "second": "Hogwarts",
+    "third": "Şimşek İzi",
+    "fourth": "Gözlük",
+    "fifth": "Asa"
+  },
+  {
+    "id": "157",
+    "word": "Lord Voldemort",
+    "first": "Kim Olduğunu Bilirsin Sen",
+    "second": "Burnu Yok",
+    "third": "Yılan",
+    "fourth": "Karanlık Lord",
+    "fifth": "Ölüm Yiyen"
+  },
+  {
+    "id": "158",
+    "word": "Hogwarts",
+    "first": "Büyücülük Okulu",
+    "second": "Harry Potter",
+    "third": "Gryffindor",
+    "fourth": "Slytherin",
+    "fifth": "Şato"
+  },
+  {
+    "id": "159",
+    "word": "The Godfather",
+    "first": "Baba",
+    "second": "Don Corleone",
+    "third": "Marlon Brando",
+    "fourth": "Mafya",
+    "fifth": "Teklif"
+  },
+  {
+    "id": "160",
+    "word": "Karayip Korsanları",
+    "first": "Jack Sparrow",
+    "second": "Siyah İnci",
+    "third": "Johnny Depp",
+    "fourth": "Kaptan",
+    "fifth": "Deniz"
+  },
+  {
+    "id": "161",
+    "word": "Jack Sparrow",
+    "first": "Korsan",
+    "second": "Johnny Depp",
+    "third": "Pusula",
+    "fourth": "Kaptan",
+    "fifth": "Romatizma"
+  },
+  {
+    "id": "162",
+    "word": "Yıldız Savaşları",
+    "first": "Star Wars",
+    "second": "Darth Vader",
+    "third": "Işın Kılıcı",
+    "fourth": "Uzay",
+    "fifth": "Güç"
+  },
+  {
+    "id": "163",
+    "word": "Darth Vader",
+    "first": "Ben Senin Babanım",
+    "second": "Siyah Kask",
+    "third": "Nefes Sesi",
+    "fourth": "Star Wars",
+    "fifth": "Karanlık Taraf"
+  },
+  {
+    "id": "164",
+    "word": "Yeşilçam",
+    "first": "Türk Sineması",
+    "second": "Eski",
+    "third": "Siyah Beyaz",
+    "fourth": "Beyoğlu",
+    "fifth": "Klasik"
+  },
+  {
+    "id": "165",
+    "word": "Kızılcık Şerbeti",
+    "first": "Dizi",
+    "second": "Doğa",
+    "third": "Fatih",
+    "fourth": "Kıvılcım",
+    "fifth": "Cuma"
+  },
+  {
+    "id": "166",
+    "word": "Yalı Çapkını",
+    "first": "Ferit",
+    "second": "Seyran",
+    "third": "Dizi",
+    "fourth": "Antep",
+    "fifth": "Yalı"
+  },
+  {
+    "id": "167",
+    "word": "Prens",
+    "first": "Giray Altınok",
+    "second": "Bongomia",
+    "third": "Komedi",
+    "fourth": "BluTV",
+    "fifth": "Dizi"
+  },
+  {
+    "id": "168",
+    "word": "Gibi",
+    "first": "Feyyaz Yiğit",
+    "second": "Yılmaz",
+    "third": "İlkkan",
+    "fourth": "Ersoy",
+    "fifth": "Exxen"
+  },
+  {
+    "id": "169",
+    "word": "İlkkan",
+    "first": "Gibi",
+    "second": "Kıvanç Kılınç",
+    "third": "Yılmaz",
+    "fourth": "Haklısın",
+    "fifth": "Dizi"
+  },
+  {
+    "id": "170",
+    "word": "Yılmaz",
+    "first": "Gibi",
+    "second": "Feyyaz Yiğit",
+    "third": "İlkkan",
+    "fourth": "Özür Dile",
+    "fifth": "Dizi"
+  },
+  {
+    "id": "171",
+    "word": "Masumlar Apartmanı",
+    "first": "Ezgi Mola",
+    "second": "Safiye",
+    "third": "Temizlik",
+    "fourth": "Çöp Ev",
+    "fifth": "TRT"
+  },
+  {
+    "id": "172",
+    "word": "Yargı",
+    "first": "Ilgaz Savcı",
+    "second": "Ceylin",
+    "third": "Mahkeme",
+    "fourth": "Kaan Urgancıoğlu",
+    "fifth": "Kanal D"
+  },
+  {
+    "id": "173",
+    "word": "Behzat Ç.",
+    "first": "Ankara",
+    "second": "Cinayet Büro",
+    "third": "Amirim",
+    "fourth": "Erdal Beşikçioğlu",
+    "fifth": "Akbaba"
+  },
+  {
+    "id": "174",
+    "word": "Akbaba",
+    "first": "Behzat Ç.",
+    "second": "Ceset",
+    "third": "Cinayet Büro",
+    "fourth": "Otopsi",
+    "fifth": "Komiser"
+  },
+  {
+    "id": "175",
+    "word": "Harun",
+    "first": "Behzat Ç.",
+    "second": "Tosun Paşa",
+    "third": "Fatih Artman",
+    "fourth": "Cinayet Büro",
+    "fifth": "Eda"
+  },
+  {
+    "id": "176",
+    "word": "Seksenler",
+    "first": "Fehmi Baba",
+    "second": "Ergun Plak",
+    "third": "Rukiye",
+    "fourth": "TRT",
+    "fifth": "Mahalle"
+  },
+  {
+    "id": "177",
+    "word": "Ergun Plak",
+    "first": "Seksenler",
+    "second": "Nazlı",
+    "third": "Kaset",
+    "fourth": "Plakçı",
+    "fifth": "Aşık"
+  },
+  {
+    "id": "178",
+    "word": "Çukur",
+    "first": "Yamaç Koçovalı",
+    "second": "Vartolu",
+    "third": "Dövme",
+    "fourth": "İdris Baba",
+    "fifth": "Mahalle"
+  },
+  {
+    "id": "179",
+    "word": "Vartolu",
+    "first": "Çukur",
+    "second": "Erkan Kolçak",
+    "third": "Medet",
+    "fourth": "Mihriban",
+    "fifth": "Sadettin"
+  },
+  {
+    "id": "180",
+    "word": "İçerde",
+    "first": "Sarp",
+    "second": "Umut",
+    "third": "Kebapçı Celal",
+    "fourth": "Çağatay Ulusoy",
+    "fifth": "Polis"
+  },
+  {
+    "id": "181",
+    "word": "Kebapçı Celal",
+    "first": "İçerde",
+    "second": "Çetin Tekindor",
+    "third": "Kebap",
+    "fourth": "Mafya",
+    "fifth": "Baba"
+  },
+  {
+    "id": "182",
+    "word": "Şahsiyet",
+    "first": "Haluk Bilginer",
+    "second": "Agâh Beyoğlu",
+    "third": "Alzheimer",
+    "fourth": "Seri Katil",
+    "fifth": "Emmy"
+  },
+  {
+    "id": "183",
+    "word": "Agâh Beyoğlu",
+    "first": "Şahsiyet",
+    "second": "Haluk Bilginer",
+    "third": "Unutmak",
+    "fourth": "Cinayet",
+    "fifth": "Kedi"
+  },
+  {
+    "id": "184",
+    "word": "Yabancı Damat",
+    "first": "Niko",
+    "second": "Nazlı",
+    "third": "Memik Dede",
+    "fourth": "Gaziantep",
+    "fifth": "Baklava"
+  },
+  {
+    "id": "185",
+    "word": "Memik Dede",
+    "first": "Yabancı Damat",
+    "second": "Yunan",
+    "third": "Baston",
+    "fourth": "Arif Erkin",
+    "fifth": "Eftalya"
+  },
+  {
+    "id": "186",
+    "word": "Çiçek Taksi",
+    "first": "Durak",
+    "second": "Sarı Araba",
+    "third": "Ramazan",
+    "fourth": "Şoför",
+    "fifth": "Dizi"
+  },
+  {
+    "id": "187",
+    "word": "Akasya Durağı",
+    "first": "Osman Ağa",
+    "second": "Sinan",
+    "third": "Şaziment",
+    "fourth": "Taksi",
+    "fifth": "Tırnakçı"
+  },
+  {
+    "id": "188",
+    "word": "Osman Ağa",
+    "first": "Akasya Durağı",
+    "second": "Cezmi Baskın",
+    "third": "Bıyık",
+    "fourth": "Taksici",
+    "fifth": "Şaziment"
+  },
+  {
+    "id": "189",
+    "word": "En Son Babalar Duyar",
+    "first": "Hallederiz Kadir",
+    "second": "Damat",
+    "third": "Levent Ülgen",
+    "fourth": "Baba",
+    "fifth": "Dizi"
+  },
+  {
+    "id": "190",
+    "word": "Hallederiz Kadir",
+    "first": "En Son Babalar Duyar",
+    "second": "Levent Ülgen",
+    "third": "Yalan",
+    "fourth": "İş Bitirici",
+    "fifth": "Damat"
+  },
+  {
+    "id": "191",
+    "word": "Ayrılsak da Beraberiz",
+    "first": "Teoman",
+    "second": "Berna",
+    "third": "Paravan",
+    "fourth": "Boşanmak",
+    "fifth": "Ev"
+  },
+  {
+    "id": "192",
+    "word": "Çocuklar Duymasın",
+    "first": "Haluk",
+    "second": "Meltem",
+    "third": "Taşfırın",
+    "fourth": "Çaycı Hüseyin",
+    "fifth": "Dizi"
+  },
+  {
+    "id": "193",
+    "word": "Taşfırın Erkeği",
+    "first": "Haluk",
+    "second": "Tamer Karadağlı",
+    "third": "Çocuklar Duymasın",
+    "fourth": "Meltem",
+    "fifth": "Maço"
+  },
+  {
+    "id": "194",
+    "word": "Çaycı Hüseyin",
+    "first": "Çaylar",
+    "second": "Çocuklar Duymasın",
+    "third": "Şükrü",
+    "fourth": "Kısa Boy",
+    "fifth": "Bıyık"
+  },
+  {
+    "id": "195",
+    "word": "Selamsız Bandosu",
+    "first": "Şener Şen",
+    "second": "Bando",
+    "third": "Tren",
+    "fourth": "Kasaba",
+    "fifth": "Cumhurbaşkanı"
+  },
+  {
+    "id": "196",
+    "word": "Züğürt Ağa",
+    "first": "Şener Şen",
+    "second": "Çizmeler",
+    "third": "Köy",
+    "fourth": "İstanbul",
+    "fifth": "Çiğ Köfte"
+  },
+  {
+    "id": "197",
+    "word": "Banker Bilo",
+    "first": "Şener Şen",
+    "second": "İlyas Salman",
+    "third": "Almanya",
+    "fourth": "Kamyon",
+    "fifth": "Dolandırıcı"
+  },
+  {
+    "id": "198",
+    "word": "Çiçek Abbas",
+    "first": "İlyas Salman",
+    "second": "Şener Şen",
+    "third": "Minibüs",
+    "fourth": "Alırsın Ford",
+    "fifth": "Muavin"
+  },
+  {
+    "id": "199",
+    "word": "Kibar Feyzo",
+    "first": "Kemal Sunal",
+    "second": "Maho Ağa",
+    "third": "Başlık Parası",
+    "fourth": "Ağam Bizle Eğleniyir",
+    "fifth": "Köy"
+  },
+  {
+    "id": "200",
+    "word": "Maho Ağa",
+    "first": "Şener Şen",
+    "second": "Kibar Feyzo",
+    "third": "Ağam Bizle Eğleniyir",
+    "fourth": "Faşo",
+    "fifth": "Köy"
+  },
+  {
+    "id": "201",
+    "word": "Şekerpare",
+    "first": "Şener Şen",
+    "second": "İlyas Salman",
+    "third": "Ziver Bey",
+    "fourth": "Komiser",
+    "fifth": "Karakol"
+  },
+  {
+    "id": "202",
+    "word": "Davaro",
+    "first": "Kemal Sunal",
+    "second": "Şener Şen",
+    "third": "Kan Davası",
+    "fourth": "Hortlak",
+    "fifth": "Tabut"
+  },
+  {
+    "id": "203",
+    "word": "Kılıbık",
+    "first": "Kemal Sunal",
+    "second": "Kamil",
+    "third": "Korkak",
+    "fourth": "Ev İşi",
+    "fifth": "Kılıbıklar Kulübü"
+  },
+  {
+    "id": "204",
+    "word": "Bombacı Mülayim",
+    "first": "Korkusuz Korkak",
+    "second": "Kemal Sunal",
+    "third": "Altı Ay Ömür",
+    "fourth": "Gaddar Kerim",
+    "fifth": "Dinamit"
+  },
+  {
+    "id": "205",
+    "word": "Yedi Bela Hüsnü",
+    "first": "Kemal Sunal",
+    "second": "Hüsniye",
+    "third": "Kabadayı",
+    "fourth": "Şevket",
+    "fifth": "Mahalle"
   }
 ]

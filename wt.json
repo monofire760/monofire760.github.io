@@ -279,7 +279,7 @@
     "fifth": "Sorgu"
   },
   {
-    "id": "33",
+    "id": "32",
     "word": "Kodlama",
     "first": "Yazılım",
     "second": "Program",
@@ -288,7 +288,7 @@
     "fifth": "Editör"
   },
   {
-    "id": "34",
+    "id": "33",
     "word": "Donanım",
     "first": "Bilgisayar",
     "second": "Fiziksel",
@@ -297,7 +297,7 @@
     "fifth": "Anakart"
   },
   {
-    "id": "37",
+    "id": "34",
     "word": "Program",
     "first": "Kod",
     "second": "Bilgisayar",
@@ -306,7 +306,7 @@
     "fifth": "Çalıştırma"
   },
   {
-    "id": "38",
+    "id": "35",
     "word": "Mobil",
     "first": "Telefon",
     "second": "Uygulama",
@@ -315,7 +315,7 @@
     "fifth": "Android"
   },
   {
-    "id": "39",
+    "id": "36",
     "word": "Android",
     "first": "Google",
     "second": "Mobil",
@@ -324,7 +324,7 @@
     "fifth": "Samsung"
   },
   {
-    "id": "40",
+    "id": "37",
     "word": "iOS",
     "first": "Apple",
     "second": "Mobil",
@@ -333,7 +333,7 @@
     "fifth": "App Store"
   },
   {
-    "id": "41",
+    "id": "38",
     "word": "Tarayıcı",
     "first": "Web",
     "second": "Chrome",
@@ -342,7 +342,7 @@
     "fifth": "İnternet"
   },
   {
-    "id": "42",
+    "id": "39",
     "word": "Sunucu",
     "first": "Hosting",
     "second": "Veri",
@@ -351,7 +351,7 @@
     "fifth": "İstemci"
   },
   {
-    "id": "47",
+    "id": "40",
     "word": "CPU",
     "first": "İşlemci",
     "second": "Merkezi",
@@ -360,7 +360,7 @@
     "fifth": "Hız"
   },
   {
-    "id": "48",
+    "id": "41",
     "word": "GPU",
     "first": "Grafik",
     "second": "Ekran",
@@ -369,7 +369,7 @@
     "fifth": "NVIDIA"
   },
   {
-    "id": "49",
+    "id": "42",
     "word": "Linux",
     "first": "Açık Kaynak",
     "second": "Ubuntu",
@@ -378,7 +378,7 @@
     "fifth": "İşletim"
   },
   {
-    "id": "50",
+    "id": "43",
     "word": "Windows",
     "first": "Microsoft",
     "second": "İşletim",
@@ -387,7 +387,7 @@
     "fifth": "Masaüstü"
   },
   {
-    "id": "51",
+    "id": "44",
     "word": "MacOS",
     "first": "Apple",
     "second": "Bilgisayar",
@@ -396,7 +396,7 @@
     "fifth": "Safari"
   },
   {
-    "id": "52",
+    "id": "45",
     "word": "Yazılım Geliştirici",
     "first": "Kod",
     "second": "Program",
@@ -405,7 +405,7 @@
     "fifth": "Mühendis"
   },
   {
-    "id": "54",
+    "id": "46",
     "word": "VPN",
     "first": "Gizlilik",
     "second": "Ağ",
@@ -414,7 +414,7 @@
     "fifth": "Tünel"
   },
   {
-    "id": "55",
+    "id": "47",
     "word": "Firewall",
     "first": "Güvenlik",
     "second": "Ağ",
@@ -423,7 +423,7 @@
     "fifth": "Duvar"
   },
   {
-    "id": "56",
+    "id": "48",
     "word": "Git",
     "first": "Versiyon",
     "second": "Kontrol",
@@ -432,7 +432,7 @@
     "fifth": "Branch"
   },
   {
-    "id": "57",
+    "id": "49",
     "word": "GitHub",
     "first": "Repository",
     "second": "Kod",
@@ -441,7 +441,7 @@
     "fifth": "Açık Kaynak"
   },
   {
-    "id": "58",
+    "id": "50",
     "word": "API",
     "first": "Arayüz",
     "second": "İstek",
@@ -450,7 +450,7 @@
     "fifth": "Entegrasyon"
   },
   {
-    "id": "59",
+    "id": "51",
     "word": "JSON",
     "first": "Veri",
     "second": "Format",
@@ -459,7 +459,7 @@
     "fifth": "Dosya"
   },
   {
-    "id": "61",
+    "id": "52",
     "word": "Wi-Fi",
     "first": "Kablosuz",
     "second": "İnternet",
@@ -468,7 +468,7 @@
     "fifth": "Şifre"
   },
   {
-    "id": "62",
+    "id": "53",
     "word": "HTTP",
     "first": "Web",
     "second": "İstek",
@@ -477,7 +477,7 @@
     "fifth": "Sunucu"
   },
   {
-    "id": "63",
+    "id": "54",
     "word": "HTML",
     "first": "Web",
     "second": "Etiket",
@@ -486,7 +486,7 @@
     "fifth": "Yapı"
   },
   {
-    "id": "64",
+    "id": "55",
     "word": "CSS",
     "first": "Stil",
     "second": "Web",
@@ -495,7 +495,7 @@
     "fifth": "Düzen"
   },
   {
-    "id": "65",
+    "id": "56",
     "word": "JavaScript",
     "first": "Web",
     "second": "Kod",
@@ -504,7 +504,7 @@
     "fifth": "Fonksiyon"
   },
   {
-    "id": "66",
+    "id": "57",
     "word": "Python",
     "first": "Dil",
     "second": "Kod",
@@ -513,7 +513,7 @@
     "fifth": "Yılan"
   },
   {
-    "id": "67",
+    "id": "58",
     "word": "Java",
     "first": "Kod",
     "second": "Dil",
@@ -522,7 +522,7 @@
     "fifth": "Sınıf"
   },
   {
-    "id": "68",
+    "id": "59",
     "word": "Kotlin",
     "first": "Android",
     "second": "JetBrains",
@@ -531,7 +531,7 @@
     "fifth": "Modern"
   },
   {
-    "id": "69",
+    "id": "60",
     "word": "Flutter",
     "first": "UI",
     "second": "Mobil",
@@ -540,7 +540,7 @@
     "fifth": "Widget"
   },
   {
-    "id": "70",
+    "id": "61",
     "word": "React",
     "first": "JavaScript",
     "second": "UI",
@@ -549,7 +549,7 @@
     "fifth": "Facebook"
   },
   {
-    "id": "71",
+    "id": "62",
     "word": "Node.js",
     "first": "Sunucu",
     "second": "JavaScript",
@@ -558,7 +558,7 @@
     "fifth": "NPM"
   },
   {
-    "id": "72",
+    "id": "63",
     "word": "Docker",
     "first": "Container",
     "second": "Uygulama",
@@ -567,7 +567,7 @@
     "fifth": "İmaj"
   },
   {
-    "id": "73",
+    "id": "64",
     "word": "Kubernetes",
     "first": "Container",
     "second": "Orkestrasyon",
@@ -576,7 +576,7 @@
     "fifth": "Pod"
   },
   {
-    "id": "74",
+    "id": "65",
     "word": "Machine Learning",
     "first": "Veri",
     "second": "Model",
@@ -585,7 +585,7 @@
     "fifth": "Eğitim"
   },
   {
-    "id": "75",
+    "id": "66",
     "word": "Blockchain",
     "first": "Kripto",
     "second": "Zincir",
@@ -594,7 +594,7 @@
     "fifth": "Blok"
   },
   {
-    "id": "76",
+    "id": "67",
     "word": "NFT",
     "first": "Token",
     "second": "Kripto",
@@ -603,7 +603,7 @@
     "fifth": "Koleksiyon"
   },
   {
-    "id": "77",
+    "id": "68",
     "word": "Metaverse",
     "first": "Sanal",
     "second": "Gerçeklik",
@@ -612,7 +612,7 @@
     "fifth": "Avatar"
   },
   {
-    "id": "78",
+    "id": "69",
     "word": "Robot",
     "first": "Makine",
     "second": "Yapay",
@@ -621,25 +621,7 @@
     "fifth": "Otomasyon"
   },
   {
-    "id": "79",
-    "word": "Sanal Gerçeklik",
-    "first": "Gözlük",
-    "second": "3D",
-    "third": "Deneyim",
-    "fourth": "Gerçek",
-    "fifth": "VR"
-  },
-  {
-    "id": "80",
-    "word": "Artırılmış Gerçeklik",
-    "first": "Gerçek",
-    "second": "Kamera",
-    "third": "Ekran",
-    "fourth": "3D",
-    "fifth": "AR"
-  },
-  {
-    "id": "81",
+    "id": "70",
     "word": "Veri Bilimi",
     "first": "Analiz",
     "second": "Veri",
@@ -648,7 +630,7 @@
     "fifth": "İstatistik"
   },
   {
-    "id": "82",
+    "id": "71",
     "word": "Big Data",
     "first": "Veri",
     "second": "Büyük",
@@ -657,7 +639,7 @@
     "fifth": "İşleme"
   },
   {
-    "id": "83",
+    "id": "72",
     "word": "Parmak İzi",
     "first": "Biyometrik",
     "second": "Güvenlik",
@@ -666,7 +648,7 @@
     "fifth": "Sensör"
   },
   {
-    "id": "84",
+    "id": "73",
     "word": "Yüz Tanıma",
     "first": "Kamera",
     "second": "Güvenlik",
@@ -675,7 +657,7 @@
     "fifth": "Kilit"
   },
   {
-    "id": "85",
+    "id": "74",
     "word": "Quantum",
     "first": "Fizik",
     "second": "Bilgisayar",
@@ -684,7 +666,7 @@
     "fifth": "Parçacık"
   },
   {
-    "id": "86",
+    "id": "75",
     "word": "Edge Computing",
     "first": "Cihaz",
     "second": "Veri",
@@ -693,16 +675,7 @@
     "fifth": "İşlem"
   },
   {
-    "id": "87",
-    "word": "5G",
-    "first": "Mobil",
-    "second": "Ağ",
-    "third": "Hız",
-    "fourth": "İnternet",
-    "fifth": "Sinyal"
-  },
-  {
-    "id": "88",
+    "id": "76",
     "word": "Nesnelerin İnterneti",
     "first": "Cihaz",
     "second": "Bağlantı",
@@ -711,7 +684,7 @@
     "fifth": "Sensör"
   },
   {
-    "id": "89",
+    "id": "77",
     "word": "Deep Learning",
     "first": "Veri",
     "second": "Ağ",
@@ -720,7 +693,7 @@
     "fifth": "Nöron"
   },
   {
-    "id": "90",
+    "id": "78",
     "word": "Cihaz Öğrenimi",
     "first": "Yapay Zeka",
     "second": "Veri",
@@ -729,7 +702,7 @@
     "fifth": "Algoritma"
   },
   {
-    "id": "91",
+    "id": "79",
     "word": "Web3",
     "first": "Blockchain",
     "second": "Merkeziyetsiz",
@@ -738,7 +711,7 @@
     "fifth": "Token"
   },
   {
-    "id": "92",
+    "id": "80",
     "word": "Token",
     "first": "Kripto",
     "second": "Blokzincir",
@@ -747,7 +720,7 @@
     "fifth": "Coin"
   },
   {
-    "id": "93",
+    "id": "81",
     "word": "Siber Saldırı",
     "first": "Hacker",
     "second": "Açık",
@@ -756,7 +729,7 @@
     "fifth": "Fidye"
   },
   {
-    "id": "94",
+    "id": "82",
     "word": "Dijital Ayak İzi",
     "first": "Veri",
     "second": "İz",
@@ -765,7 +738,7 @@
     "fifth": "Gizlilik"
   },
   {
-    "id": "95",
+    "id": "83",
     "word": "Makine",
     "first": "Otomatik",
     "second": "Endüstri",
@@ -774,7 +747,7 @@
     "fifth": "Motor"
   },
   {
-    "id": "96",
+    "id": "84",
     "word": "Sensör",
     "first": "Cihaz",
     "second": "Ölçüm",
@@ -783,7 +756,7 @@
     "fifth": "Algılama"
   },
   {
-    "id": "97",
+    "id": "85",
     "word": "Yapay Organ",
     "first": "Biyonik",
     "second": "Teknoloji",
@@ -792,7 +765,7 @@
     "fifth": "Protez"
   },
   {
-    "id": "98",
+    "id": "86",
     "word": "Akıllı Saat",
     "first": "Giyilebilir",
     "second": "Cihaz",
@@ -801,7 +774,7 @@
     "fifth": "Bildirim"
   },
   {
-    "id": "99",
+    "id": "87",
     "word": "Sesli Asistan",
     "first": "Komut",
     "second": "Cevap",
@@ -810,7 +783,7 @@
     "fifth": "Siri"
   },
   {
-    "id": "100",
+    "id": "88",
     "word": "Uçtan Uca Şifreleme",
     "first": "Gizlilik",
     "second": "Mesaj",
@@ -819,7 +792,7 @@
     "fifth": "WhatsApp"
   },
   {
-    "id": "101",
+    "id": "89",
     "word": "Sanal Sunucu",
     "first": "Bulut",
     "second": "Barındırma",
@@ -828,7 +801,7 @@
     "fifth": "VPS"
   },
   {
-    "id": "102",
+    "id": "90",
     "word": "Akıllı Ev",
     "first": "Işık",
     "second": "Kontrol",
@@ -837,7 +810,7 @@
     "fifth": "Otomasyon"
   },
   {
-    "id": "103",
+    "id": "91",
     "word": "E-posta",
     "first": "Mesaj",
     "second": "Elektronik",
@@ -846,7 +819,7 @@
     "fifth": "Gmail"
   },
   {
-    "id": "104",
+    "id": "92",
     "word": "Tarayıcı Eklentisi",
     "first": "Chrome",
     "second": "Firefox",
@@ -855,25 +828,7 @@
     "fifth": "Araç Çubuğu"
   },
   {
-    "id": "105",
-    "word": "QR Kod",
-    "first": "Karekod",
-    "second": "Tarama",
-    "third": "Kod",
-    "fourth": "Bilgi",
-    "fifth": "Kamera"
-  },
-  {
-    "id": "106",
-    "word": "Yazıcı",
-    "first": "Çıktı",
-    "second": "Kağıt",
-    "third": "Cihaz",
-    "fourth": "Ofis",
-    "fifth": "Mürekkep"
-  },
-  {
-    "id": "107",
+    "id": "93",
     "word": "Tarayıcı Motoru",
     "first": "Web",
     "second": "Render",
@@ -882,21 +837,1254 @@
     "fifth": "Chromium"
   },
   {
-    "id": "108",
-    "word": "Akıllı Telefon",
-    "first": "Mobil",
-    "second": "Cihaz",
+    "id": "94",
+    "word": "Powerbank",
+    "first": "Şarj",
+    "second": "Taşınabilir",
+    "third": "Pil",
+    "fourth": "Telefon",
+    "fifth": "Batarya"
+  },
+  {
+    "id": "95",
+    "word": "Şarj Aleti",
+    "first": "Kablo",
+    "second": "Priz",
+    "third": "Telefon",
+    "fourth": "Batarya",
+    "fifth": "Doldurmak"
+  },
+  {
+    "id": "96",
+    "word": "Dokunmatik Ekran",
+    "first": "Parmak",
+    "second": "Cam",
+    "third": "Telefon",
+    "fourth": "Basmak",
+    "fifth": "Tuşsuz"
+  },
+  {
+    "id": "97",
+    "word": "Ekran Görüntüsü",
+    "first": "Screenshot",
+    "second": "Fotoğraf",
+    "third": "Telefon",
+    "fourth": "Tuş",
+    "fifth": "Yakalama"
+  },
+  {
+    "id": "98",
+    "word": "Bildirim",
+    "first": "Mesaj",
+    "second": "Telefon",
+    "third": "Ses",
+    "fourth": "Ekran",
+    "fifth": "Uygulama"
+  },
+  {
+    "id": "99",
+    "word": "Çerezler",
+    "first": "Cookie",
+    "second": "İnternet",
+    "third": "Web Sitesi",
+    "fourth": "Kabul Etmek",
+    "fifth": "Geçmiş"
+  },
+  {
+    "id": "100",
+    "word": "Şifre",
+    "first": "Parola",
+    "second": "Gizli",
+    "third": "Giriş",
+    "fourth": "Karakter",
+    "fifth": "Unutmak"
+  },
+  {
+    "id": "101",
+    "word": "İki Adımlı Doğrulama",
+    "first": "Güvenlik",
+    "second": "SMS",
+    "third": "Kod",
+    "fourth": "Giriş",
+    "fifth": "Telefon"
+  },
+  {
+    "id": "102",
+    "word": "E-Devlet",
+    "first": "Kapı",
+    "second": "Şifre",
+    "third": "PTT",
+    "fourth": "Sorgulama",
+    "fifth": "Belge"
+  },
+  {
+    "id": "103",
+    "word": "Smart TV",
+    "first": "Televizyon",
+    "second": "İnternet",
     "third": "Uygulama",
-    "fourth": "Taşınabilir",
+    "fourth": "Kumanda",
     "fifth": "Ekran"
   },
   {
+    "id": "104",
+    "word": "Kumanda",
+    "first": "Televizyon",
+    "second": "Düğme",
+    "third": "Kanal",
+    "fourth": "Pilli",
+    "fifth": "Değiştirmek"
+  },
+  {
+    "id": "105",
+    "word": "HDMI Kablosu",
+    "first": "Görüntü",
+    "second": "Ses",
+    "third": "Televizyon",
+    "fourth": "Bilgisayar",
+    "fifth": "Bağlantı"
+  },
+  {
+    "id": "106",
+    "word": "Flash Bellek",
+    "first": "USB",
+    "second": "Dosya",
+    "third": "Taşınabilir",
+    "fourth": "Depolama",
+    "fifth": "Bellek"
+  },
+  {
+    "id": "107",
+    "word": "Harici Hard Disk",
+    "first": "Depolama",
+    "second": "Yedek",
+    "third": "Terabayt",
+    "fourth": "Kablo",
+    "fifth": "Bilgisayar"
+  },
+  {
+    "id": "108",
+    "word": "Uçak Modu",
+    "first": "Sinyal",
+    "second": "Telefon",
+    "third": "Uçuş",
+    "fourth": "Kapatmak",
+    "fifth": "Ağ"
+  },
+  {
     "id": "109",
-    "word": "Sanal Gerçeklik",
-    "first": "Gözlük",
-    "second": "3D",
-    "third": "Deneyim",
-    "fourth": "Gerçek",
-    "fifth": "Simülasyon"
+    "word": "Sessize Almak",
+    "first": "Zil Sesi",
+    "second": "Telefon",
+    "third": "Titreşim",
+    "fourth": "Kısmak",
+    "fifth": "Toplantı"
+  },
+  {
+    "id": "110",
+    "word": "Titreşim",
+    "first": "Telefon",
+    "second": "Sallanmak",
+    "third": "Sessiz",
+    "fourth": "Arama",
+    "fifth": "Motor"
+  },
+  {
+    "id": "111",
+    "word": "Tuş Kilidi",
+    "first": "Ekran",
+    "second": "Açmak",
+    "third": "Desen",
+    "fourth": "Şifre",
+    "fifth": "Telefon"
+  },
+  {
+    "id": "112",
+    "word": "Selfie",
+    "first": "Ön Kamera",
+    "second": "Fotoğraf",
+    "third": "Kendini Çekmek",
+    "fourth": "Açı",
+    "fifth": "Telefon"
+  },
+  {
+    "id": "113",
+    "word": "Tripod",
+    "first": "Üç Ayak",
+    "second": "Kamera",
+    "third": "Sabitlemek",
+    "fourth": "Fotoğraf",
+    "fifth": "Video"
+  },
+  {
+    "id": "114",
+    "word": "Selfie Çubuğu",
+    "first": "Uzatmak",
+    "second": "Fotoğraf",
+    "third": "Telefon",
+    "fourth": "Kol",
+    "fifth": "Çekim"
+  },
+  {
+    "id": "115",
+    "word": "Hoparlör",
+    "first": "Ses",
+    "second": "Müzik",
+    "third": "Bluetooth",
+    "fourth": "Kutu",
+    "fifth": "Dinlemek"
+  },
+  {
+    "id": "116",
+    "word": "Ses Bombası",
+    "first": "Bluetooth",
+    "second": "Müzik",
+    "third": "Hoparlör",
+    "fourth": "Taşınabilir",
+    "fifth": "Yüksek Ses"
+  },
+  {
+    "id": "117",
+    "word": "Kablosuz Şarj",
+    "first": "Kablo Yok",
+    "second": "Stand",
+    "third": "Telefon",
+    "fourth": "Üstüne Koymak",
+    "fifth": "Manyetik"
+  },
+  {
+    "id": "118",
+    "word": "Type-C",
+    "first": "Şarj",
+    "second": "Kablo",
+    "third": "Giriş",
+    "fourth": "Ters Düz",
+    "fifth": "Yeni Nesil"
+  },
+  {
+    "id": "119",
+    "word": "Adaptör",
+    "first": "Priz",
+    "second": "Şarj Başlığı",
+    "third": "Kablo",
+    "fourth": "Elektrik",
+    "fifth": "Volt"
+  },
+  {
+    "id": "120",
+    "word": "Grup Sohbeti",
+    "first": "WhatsApp",
+    "second": "Arkadaşlar",
+    "third": "Mesaj",
+    "fourth": "Yazışmak",
+    "fifth": "Yönetici"
+  },
+  {
+    "id": "121",
+    "word": "Mavi Tik",
+    "first": "WhatsApp",
+    "second": "Okundu",
+    "third": "İki Çizgi",
+    "fourth": "Mesaj",
+    "fifth": "Görüldü"
+  },
+  {
+    "id": "122",
+    "word": "Son Görülme",
+    "first": "WhatsApp",
+    "second": "Saat",
+    "third": "Çevrimiçi",
+    "fourth": "Gizlilik",
+    "fifth": "Mesaj"
+  },
+  {
+    "id": "123",
+    "word": "Hikaye",
+    "first": "Instagram",
+    "second": "Story",
+    "third": "24 Saat",
+    "fourth": "Paylaşmak",
+    "fifth": "Fotoğraf"
+  },
+  {
+    "id": "124",
+    "word": "Beğeni",
+    "first": "Like",
+    "second": "Kalp",
+    "third": "Sosyal Medya",
+    "fourth": "Fotoğraf",
+    "fifth": "Basmak"
+  },
+  {
+    "id": "125",
+    "word": "Takipçi",
+    "first": "Instagram",
+    "second": "Profil",
+    "third": "Sayı",
+    "fourth": "Sosyal Medya",
+    "fifth": "Hesap"
+  },
+  {
+    "id": "126",
+    "word": "Engellemek",
+    "first": "Block",
+    "second": "Mesaj Atamamak",
+    "third": "Görmemek",
+    "fourth": "Kullanıcı",
+    "fifth": "Sosyal Medya"
+  },
+  {
+    "id": "127",
+    "word": "Canlı Yayın",
+    "first": "Video",
+    "second": "Anlık",
+    "third": "Yorum",
+    "fourth": "Sosyal Medya",
+    "fifth": "İzleyici"
+  },
+  {
+    "id": "128",
+    "word": "Filtre",
+    "first": "Instagram",
+    "second": "Yüz",
+    "third": "Efekt",
+    "fourth": "Güzellik",
+    "fifth": "Fotoğraf"
+  },
+  {
+    "id": "129",
+    "word": "Hashtag",
+    "first": "Diyez",
+    "second": "Etiket",
+    "third": "Sosyal Medya",
+    "fourth": "Konu",
+    "fifth": "İşaret"
+  },
+  {
+    "id": "130",
+    "word": "Keşfet",
+    "first": "Instagram",
+    "second": "Büyüteç",
+    "third": "Video",
+    "fourth": "Öneri",
+    "fifth": "Popüler"
+  },
+  {
+    "id": "131",
+    "word": "Direkt Mesaj",
+    "first": "DM",
+    "second": "Özel",
+    "third": "Instagram",
+    "fourth": "Yazmak",
+    "fifth": "Kutu"
+  },
+  {
+    "id": "132",
+    "word": "Spam",
+    "first": "İstenmeyen",
+    "second": "Mesaj",
+    "third": "Reklam",
+    "fourth": "Gelen Kutusu",
+    "fifth": "Engellemek"
+  },
+  {
+    "id": "133",
+    "word": "Bilgisayar Virüsü",
+    "first": "Bulaşmak",
+    "second": "Zararlı",
+    "third": "Çökmek",
+    "fourth": "Dosya",
+    "fifth": "Truva Atı"
+  },
+  {
+    "id": "134",
+    "word": "Antivirüs",
+    "first": "Program",
+    "second": "Tarama",
+    "third": "Virüs",
+    "fourth": "Temizlemek",
+    "fifth": "Korumak"
+  },
+  {
+    "id": "135",
+    "word": "Format Atmak",
+    "first": "Sıfırlamak",
+    "second": "Yeniden Kurmak",
+    "third": "Silmek",
+    "fourth": "Bilgisayar",
+    "fifth": "Windows"
+  },
+  {
+    "id": "136",
+    "word": "Yedekleme",
+    "first": "Backup",
+    "second": "Dosya",
+    "third": "Bulut",
+    "fourth": "Kayıp",
+    "fifth": "Saklamak"
+  },
+  {
+    "id": "137",
+    "word": "Geri Dönüşüm Kutusu",
+    "first": "Çöp",
+    "second": "Masaüstü",
+    "third": "Silinenler",
+    "fourth": "Geri Yüklemek",
+    "fifth": "Boşaltmak"
+  },
+  {
+    "id": "138",
+    "word": "Kopyala Yapıştır",
+    "first": "Ctrl C",
+    "second": "Ctrl V",
+    "third": "Metin",
+    "fourth": "Seçmek",
+    "fifth": "Taşımak"
+  },
+  {
+    "id": "139",
+    "word": "Geri Al",
+    "first": "Ctrl Z",
+    "second": "İptal",
+    "third": "Hata",
+    "fourth": "Önceki",
+    "fifth": "Bilgisayar"
+  },
+  {
+    "id": "140",
+    "word": "Caps Lock",
+    "first": "Büyük Harf",
+    "second": "Klavye",
+    "third": "Tuş",
+    "fourth": "Işık",
+    "fifth": "Yazmak"
+  },
+  {
+    "id": "141",
+    "word": "Boşluk Tuşu",
+    "first": "Space",
+    "second": "Klavye",
+    "third": "En Uzun",
+    "fourth": "Aralık",
+    "fifth": "Basmak"
+  },
+  {
+    "id": "142",
+    "word": "Enter",
+    "first": "Tuş",
+    "second": "Klavye",
+    "third": "Alt Satır",
+    "fourth": "Onay",
+    "fifth": "Gönder"
+  },
+  {
+    "id": "143",
+    "word": "Mousepad",
+    "first": "Fare",
+    "second": "Altlık",
+    "third": "Kaydırmak",
+    "fourth": "Masa",
+    "fifth": "Bilek"
+  },
+  {
+    "id": "144",
+    "word": "Sağ Tık",
+    "first": "Fare",
+    "second": "Menü",
+    "third": "Özellikler",
+    "fourth": "Basmak",
+    "fifth": "Klavye"
+  },
+  {
+    "id": "145",
+    "word": "İmleç",
+    "first": "Ok",
+    "second": "Fare",
+    "third": "Ekran",
+    "fourth": "İşaret",
+    "fifth": "Gezinmek"
+  },
+  {
+    "id": "146",
+    "word": "Piksel",
+    "first": "Ekran",
+    "second": "Çözünürlük",
+    "third": "Nokta",
+    "fourth": "Kare",
+    "fifth": "Görüntü"
+  },
+  {
+    "id": "147",
+    "word": "4K",
+    "first": "Çözünürlük",
+    "second": "Televizyon",
+    "third": "Ultra HD",
+    "fourth": "Net",
+    "fifth": "Ekran"
+  },
+  {
+    "id": "148",
+    "word": "Ekran Koruyucu",
+    "first": "Kırılmaz Cam",
+    "second": "Çizilmek",
+    "third": "Telefon",
+    "fourth": "Yapıştırmak",
+    "fifth": "Koruma"
+  },
+  {
+    "id": "149",
+    "word": "Telefon Kılıfı",
+    "first": "Kapak",
+    "second": "Silikon",
+    "third": "Düşmek",
+    "fourth": "Koruma",
+    "fifth": "Arka"
+  },
+  {
+    "id": "150",
+    "word": "SIM Kart",
+    "first": "Çip",
+    "second": "Numara",
+    "third": "Operatör",
+    "fourth": "Yuva",
+    "fifth": "Takmak"
+  },
+  {
+    "id": "151",
+    "word": "PIN Kodu",
+    "first": "Dört Hane",
+    "second": "SIM Kart",
+    "third": "Şifre",
+    "fourth": "Açılış",
+    "fifth": "PUK"
+  },
+  {
+    "id": "152",
+    "word": "Operatör",
+    "first": "Hat",
+    "second": "Turkcell",
+    "third": "Vodafone",
+    "fourth": "Türk Telekom",
+    "fifth": "Çekim Gücü"
+  },
+  {
+    "id": "153",
+    "word": "İnternet Kotası",
+    "first": "Gigabayt",
+    "second": "Bitmek",
+    "third": "Paket",
+    "fourth": "Hız Düşmesi",
+    "fifth": "Tarife"
+  },
+  {
+    "id": "154",
+    "word": "Hız Testi",
+    "first": "Speedtest",
+    "second": "Megabit",
+    "third": "Download",
+    "fourth": "Upload",
+    "fifth": "Ölçmek"
+  },
+  {
+    "id": "155",
+    "word": "Ping",
+    "first": "Gecikme",
+    "second": "Milisaniye",
+    "third": "Oyun",
+    "fourth": "İnternet",
+    "fifth": "Lag"
+  },
+  {
+    "id": "156",
+    "word": "Lag",
+    "first": "Donma",
+    "second": "Takılmak",
+    "third": "Online Oyun",
+    "fourth": "İnternet",
+    "fifth": "Gecikme"
+  },
+  {
+    "id": "157",
+    "word": "Ekran Kartı",
+    "first": "GPU",
+    "second": "Oyun",
+    "third": "Görüntü",
+    "fourth": "NVIDIA",
+    "fifth": "Donanım"
+  },
+  {
+    "id": "158",
+    "word": "Kasa",
+    "first": "Bilgisayar",
+    "second": "Metal",
+    "third": "Kutu",
+    "fourth": "Fan",
+    "fifth": "Anakart"
+  },
+  {
+    "id": "159",
+    "word": "Oyuncu Faresi",
+    "first": "Gaming Mouse",
+    "second": "DPI",
+    "third": "Işıklı",
+    "fourth": "Oyun",
+    "fifth": "Tuş"
+  },
+  {
+    "id": "160",
+    "word": "Mekanik Klavye",
+    "first": "Tuş Sesi",
+    "second": "Switch",
+    "third": "Işıklı",
+    "fourth": "Oyun",
+    "fifth": "Yazmak"
+  },
+  {
+    "id": "161",
+    "word": "RGB",
+    "first": "Işık",
+    "second": "Kırmızı Yeşil Mavi",
+    "third": "Klavye",
+    "fourth": "Kasa",
+    "fifth": "Renkli"
+  },
+  {
+    "id": "162",
+    "word": "Steam",
+    "first": "Oyun",
+    "second": "Kütüphane",
+    "third": "İndirim",
+    "fourth": "Platform",
+    "fifth": "Mağaza"
+  },
+  {
+    "id": "163",
+    "word": "Güncelleme",
+    "first": "Update",
+    "second": "Yenilik",
+    "third": "İndirmek",
+    "fourth": "Sürüm",
+    "fifth": "Hata Düzeltme"
+  },
+  {
+    "id": "164",
+    "word": "Fabrika Ayarları",
+    "first": "Sıfırlamak",
+    "second": "İlk Hal",
+    "third": "Silmek",
+    "fourth": "Telefon",
+    "fifth": "Format"
+  },
+  {
+    "id": "165",
+    "word": "Pil Sağlığı",
+    "first": "Yüzde",
+    "second": "Batarya",
+    "third": "iPhone",
+    "fourth": "Ömür",
+    "fifth": "Düşmek"
+  },
+  {
+    "id": "166",
+    "word": "Düşük Güç Modu",
+    "first": "Sarı Pil",
+    "second": "Tasarruf",
+    "third": "Şarj",
+    "fourth": "Telefon",
+    "fifth": "Kapatmak"
+  },
+  {
+    "id": "167",
+    "word": "Karanlık Mod",
+    "first": "Dark Mode",
+    "second": "Siyah",
+    "third": "Göz",
+    "fourth": "Tema",
+    "fifth": "Gece"
+  },
+  {
+    "id": "168",
+    "word": "Ekran Süresi",
+    "first": "Saat",
+    "second": "Telefona Bakmak",
+    "third": "Günlük",
+    "fourth": "Rapor",
+    "fifth": "Kullanım"
+  },
+  {
+    "id": "169",
+    "word": "Navigasyon",
+    "first": "Harita",
+    "second": "Yol",
+    "third": "Rota",
+    "fourth": "GPS",
+    "fifth": "Sesli Tarif"
+  },
+  {
+    "id": "170",
+    "word": "Konum Paylaşımı",
+    "first": "WhatsApp",
+    "second": "Neredesin",
+    "third": "Harita",
+    "fourth": "Canlı",
+    "fifth": "Göndermek"
+  },
+  {
+    "id": "171",
+    "word": "Sesli Mesaj",
+    "first": "Mikrofon",
+    "second": "WhatsApp",
+    "third": "Dinlemek",
+    "fourth": "Konuşmak",
+    "fifth": "Göndermek"
+  },
+  {
+    "id": "172",
+    "word": "Görüntülü Arama",
+    "first": "Kamera",
+    "second": "Yüz Yüze",
+    "third": "Telefon",
+    "fourth": "WhatsApp",
+    "fifth": "Konuşmak"
+  },
+  {
+    "id": "173",
+    "word": "Gürültü Engelleme",
+    "first": "Kulaklık",
+    "second": "Dış Ses",
+    "third": "ANC",
+    "fourth": "Sessizlik",
+    "fifth": "Müzik"
+  },
+  {
+    "id": "174",
+    "word": "Akıllı Bileklik",
+    "first": "Kol",
+    "second": "Adım",
+    "third": "Spor",
+    "fourth": "Saat",
+    "fifth": "Nabız"
+  },
+  {
+    "id": "175",
+    "word": "Adımsayar",
+    "first": "Yürüyüş",
+    "second": "On Bin",
+    "third": "Sağlık",
+    "fourth": "Telefon",
+    "fifth": "Saymak"
+  },
+  {
+    "id": "176",
+    "word": "Robot Süpürge",
+    "first": "Yuvarlak",
+    "second": "Kendi Kendine",
+    "third": "Temizlik",
+    "fourth": "Haritalama",
+    "fifth": "Şarj İstasyonu"
+  },
+  {
+    "id": "177",
+    "word": "Temassız Ödeme",
+    "first": "NFC",
+    "second": "Kart",
+    "third": "POS Cihazı",
+    "fourth": "Yaklaştırmak",
+    "fifth": "Bip Sesi"
+  },
+  {
+    "id": "178",
+    "word": "Sanal Kart",
+    "first": "Banka",
+    "second": "İnternet Alışverişi",
+    "third": "Limit",
+    "fourth": "Numara",
+    "fifth": "Güvenlik"
+  },
+  {
+    "id": "179",
+    "word": "Webcam",
+    "first": "Kamera",
+    "second": "Bilgisayar",
+    "third": "Toplantı",
+    "fourth": "Yayın",
+    "fifth": "Görüntü"
+  },
+  {
+    "id": "180",
+    "word": "Ekran Paylaşımı",
+    "first": "Toplantı",
+    "second": "Göstermek",
+    "third": "Sunum",
+    "fourth": "Zoom",
+    "fifth": "Bilgisayar"
+  },
+  {
+    "id": "181",
+    "word": "PDF",
+    "first": "Belge",
+    "second": "Adobe",
+    "third": "Acrobat",
+    "fourth": "Format",
+    "fifth": "Okumak"
+  },
+  {
+    "id": "182",
+    "word": "Excel",
+    "first": "Tablo",
+    "second": "Hücre",
+    "third": "Hesap",
+    "fourth": "Formül",
+    "fifth": "Microsoft"
+  },
+  {
+    "id": "183",
+    "word": "PowerPoint",
+    "first": "Sunum",
+    "second": "Slayt",
+    "third": "Projeksiyon",
+    "fourth": "Göstermek",
+    "fifth": "Microsoft"
+  },
+  {
+    "id": "184",
+    "word": "Projeksiyon",
+    "first": "Perde",
+    "second": "Işık",
+    "third": "Duvar",
+    "fourth": "Sunum",
+    "fifth": "Yansıtmak"
+  },
+  {
+    "id": "185",
+    "word": "Bluetooth Kulaklık",
+    "first": "Kablosuz",
+    "second": "Kulak",
+    "third": "Kutu",
+    "fourth": "Müzik",
+    "fifth": "Şarj"
+  },
+  {
+    "id": "186",
+    "word": "AirPods",
+    "first": "Apple",
+    "second": "Kablosuz Kulaklık",
+    "third": "Beyaz",
+    "fourth": "Kutu",
+    "fifth": "Kulak"
+  },
+  {
+    "id": "187",
+    "word": "iPad",
+    "first": "Apple",
+    "second": "Tablet",
+    "third": "Kalem",
+    "fourth": "Ekran",
+    "fifth": "Büyük"
+  },
+  {
+    "id": "188",
+    "word": "MacBook",
+    "first": "Apple",
+    "second": "Dizüstü",
+    "third": "Bilgisayar",
+    "fourth": "Logo",
+    "fifth": "Klavye"
+  },
+  {
+    "id": "189",
+    "word": "PlayStation",
+    "first": "Sony",
+    "second": "Konsol",
+    "third": "Oyun Kolu",
+    "fourth": "Kol",
+    "fifth": "Televizyon"
+  },
+  {
+    "id": "190",
+    "word": "Xbox",
+    "first": "Microsoft",
+    "second": "Konsol",
+    "third": "Oyun",
+    "fourth": "Kol",
+    "fifth": "Game Pass"
+  },
+  {
+    "id": "191",
+    "word": "Oyun Kolu",
+    "first": "Gamepad",
+    "second": "Tuşlar",
+    "third": "Titreşim",
+    "fourth": "Konsol",
+    "fifth": "Oynamak"
+  },
+  {
+    "id": "192",
+    "word": "Şarj Yuvası",
+    "first": "Dock",
+    "second": "Telefon",
+    "third": "Oturmak",
+    "fourth": "Giriş",
+    "fifth": "Kablo"
+  },
+  {
+    "id": "193",
+    "word": "Ethernet Kablosu",
+    "first": "İnternet",
+    "second": "Mavi",
+    "third": "Modem",
+    "fourth": "Kablolu Bağlantı",
+    "fifth": "Giriş"
+  },
+  {
+    "id": "194",
+    "word": "Modem",
+    "first": "İnternet",
+    "second": "Wi-Fi",
+    "third": "Işıklar",
+    "fourth": "Kutu",
+    "fifth": "Reset"
+  },
+  {
+    "id": "195",
+    "word": "Fiber İnternet",
+    "first": "Hızlı",
+    "second": "Kablo",
+    "third": "Işık Hızı",
+    "fourth": "Altyapı",
+    "fifth": "Bağlantı"
+  },
+  {
+    "id": "196",
+    "word": "Bulut Depolama",
+    "first": "Drive",
+    "second": "iCloud",
+    "third": "Dosya",
+    "fourth": "İnternet",
+    "fifth": "Yedek"
+  },
+  {
+    "id": "197",
+    "word": "Fotoğraf Galerisi",
+    "first": "Albüm",
+    "second": "Telefon",
+    "third": "Resim",
+    "fourth": "Silmek",
+    "fifth": "Hafıza"
+  },
+  {
+    "id": "198",
+    "word": "Hafıza Kartı",
+    "first": "MicroSD",
+    "second": "Depolama",
+    "third": "Küçük",
+    "fourth": "Telefon",
+    "fifth": "Kamera"
+  },
+  {
+    "id": "199",
+    "word": "Harici Mikrofon",
+    "first": "Yaka Mikrofonu",
+    "second": "Ses Kaydı",
+    "third": "Yayıncı",
+    "fourth": "Kablo",
+    "fifth": "Konuşmak"
+  },
+  {
+    "id": "200",
+    "word": "Ring Light",
+    "first": "Halka Işık",
+    "second": "TikTok",
+    "third": "Aydınlatma",
+    "fourth": "Yuvarlak",
+    "fifth": "Video"
+  },
+  {
+    "id": "201",
+    "word": "Yeşil Ekran",
+    "first": "Green Screen",
+    "second": "Arka Plan",
+    "third": "Değiştirmek",
+    "fourth": "Kumaş",
+    "fifth": "Stüdyo"
+  },
+  {
+    "id": "202",
+    "word": "Arama Motoru",
+    "first": "Google",
+    "second": "Yandex",
+    "third": "Aramak",
+    "fourth": "Sonuç",
+    "fifth": "Web"
+  },
+  {
+    "id": "203",
+    "word": "Google",
+    "first": "Arama",
+    "second": "İnternet",
+    "third": "Chrome",
+    "fourth": "Harita",
+    "fifth": "Şirket"
+  },
+  {
+    "id": "204",
+    "word": "YouTube",
+    "first": "Video",
+    "second": "Kanal",
+    "third": "Abone",
+    "fourth": "İzlemek",
+    "fifth": "Youtuber"
+  },
+  {
+    "id": "205",
+    "word": "Netflix",
+    "first": "Dizi",
+    "second": "Film",
+    "third": "Abonelik",
+    "fourth": "İzlemek",
+    "fifth": "Platform"
+  },
+  {
+    "id": "206",
+    "word": "Spotify",
+    "first": "Müzik",
+    "second": "Çalma Listesi",
+    "third": "Dinlemek",
+    "fourth": "Podcast",
+    "fifth": "Premium"
+  },
+  {
+    "id": "207",
+    "word": "TikTok",
+    "first": "Kısa Video",
+    "second": "Akım",
+    "third": "Kaydırmak",
+    "fourth": "Dans",
+    "fifth": "Sosyal Medya"
+  },
+  {
+    "id": "208",
+    "word": "WhatsApp",
+    "first": "Mesaj",
+    "second": "Arama",
+    "third": "Grup",
+    "fourth": "Durum",
+    "fifth": "Yeşil"
+  },
+  {
+    "id": "209",
+    "word": "Twitter",
+    "first": "X",
+    "second": "Tweet",
+    "third": "Gündem",
+    "fourth": "Mavi Kuş",
+    "fifth": "Takip"
+  },
+  {
+    "id": "210",
+    "word": "Instagram",
+    "first": "Fotoğraf",
+    "second": "Story",
+    "third": "Reels",
+    "fourth": "Keşfet",
+    "fifth": "Beğeni"
+  },
+  {
+    "id": "211",
+    "word": "Siri",
+    "first": "Apple",
+    "second": "Sesli Asistan",
+    "third": "Konuşmak",
+    "fourth": "Soru Sormak",
+    "fifth": "iPhone"
+  },
+  {
+    "id": "212",
+    "word": "Alexa",
+    "first": "Amazon",
+    "second": "Sesli Asistan",
+    "third": "Hoparlör",
+    "fourth": "Işık Aç",
+    "fifth": "Akıllı Ev"
+  },
+  {
+    "id": "213",
+    "word": "ChatGPT",
+    "first": "Yapay Zeka",
+    "second": "OpenAI",
+    "third": "Soru",
+    "fourth": "Sohbet",
+    "fifth": "Cevap"
+  },
+  {
+    "id": "214",
+    "word": "Power Tuşu",
+    "first": "Açma Kapama",
+    "second": "Basmak",
+    "third": "Bilgisayar",
+    "fourth": "Telefon",
+    "fifth": "Düğme"
+  },
+  {
+    "id": "215",
+    "word": "Optik Okuyucu",
+    "first": "Sınav",
+    "second": "ÖSYM",
+    "third": "Kurşun Kalem",
+    "fourth": "Cevap Kağıdı",
+    "fifth": "Kodlama"
+  },
+  {
+    "id": "216",
+    "word": "Akıllı Priz",
+    "first": "Telefondan Açmak",
+    "second": "Wi-Fi",
+    "third": "Elektrik",
+    "fourth": "Fiş",
+    "fifth": "Zamanlayıcı"
+  },
+  {
+    "id": "217",
+    "word": "Akıllı Tartı",
+    "first": "Kilo",
+    "second": "Yağ Oranı",
+    "third": "Bluetooth",
+    "fourth": "Telefon",
+    "fifth": "Uygulama"
+  },
+  {
+    "id": "218",
+    "word": "Güneş Paneli",
+    "first": "Güneş Enerjisi",
+    "second": "Çatı",
+    "third": "Elektrik",
+    "fourth": "Temiz Enerji",
+    "fifth": "Akü"
+  },
+  {
+    "id": "219",
+    "word": "Elektrikli Araba",
+    "first": "Tesla",
+    "second": "TOGG",
+    "third": "Şarj İstasyonu",
+    "fourth": "Batarya",
+    "fifth": "Benzinsiz"
+  },
+  {
+    "id": "220",
+    "word": "TOGG",
+    "first": "Yerli Otomobil",
+    "second": "Elektrikli",
+    "third": "Türkiye",
+    "fourth": "SUV",
+    "fifth": "Fabrika"
+  },
+  {
+    "id": "221",
+    "word": "Hızlı Şarj",
+    "first": "Dakika",
+    "second": "Watt",
+    "third": "Telefon",
+    "fourth": "Batarya",
+    "fifth": "Doldurmak"
+  },
+  {
+    "id": "222",
+    "word": "Ses Kaydı",
+    "first": "Mikrofon",
+    "second": "Dinlemek",
+    "third": "Kaydetmek",
+    "fourth": "Telefon",
+    "fifth": "Röportaj"
+  },
+  {
+    "id": "223",
+    "word": "Yüz Kilidi",
+    "first": "Face ID",
+    "second": "Bakar Bakmaz Açılma",
+    "third": "Kamera",
+    "fourth": "Güvenlik",
+    "fifth": "Telefon"
+  },
+  {
+    "id": "224",
+    "word": "Ekran Yansıtma",
+    "first": "Televizyon",
+    "second": "Telefon",
+    "third": "AirPlay",
+    "fourth": "Bağlantı",
+    "fifth": "Büyük Ekran"
+  },
+  {
+    "id": "225",
+    "word": "İnternet Tarayıcısı",
+    "first": "Chrome",
+    "second": "Safari",
+    "third": "Web Sitesi",
+    "fourth": "Sekme",
+    "fifth": "Gezinmek"
+  },
+  {
+    "id": "226",
+    "word": "Yeni Sekme",
+    "first": "Tarayıcı",
+    "second": "Artı İşareti",
+    "third": "Sayfa",
+    "fourth": "Açmak",
+    "fifth": "Kapatmak"
+  },
+  {
+    "id": "227",
+    "word": "Gizli Sekme",
+    "first": "Geçmiş Kaydetmeme",
+    "second": "Tarayıcı",
+    "third": "Siyah Ekran",
+    "fourth": "Gizlilik",
+    "fifth": "Arama"
+  },
+  {
+    "id": "228",
+    "word": "Geçmişi Sil",
+    "first": "Tarayıcı",
+    "second": "Web Siteleri",
+    "third": "Temizlemek",
+    "fourth": "Çerezler",
+    "fifth": "Kayıt"
+  },
+  {
+    "id": "229",
+    "word": "Akıllı Tahta",
+    "first": "Sınıf",
+    "second": "Fatih Projesi",
+    "third": "Kalem",
+    "fourth": "Dokunmatik",
+    "fifth": "Okul"
+  },
+  {
+    "id": "230",
+    "word": "Akıllı Saat Kordonu",
+    "first": "Kayış",
+    "second": "Bilek",
+    "third": "Silikon",
+    "fourth": "Toka",
+    "fifth": "Değiştirmek"
+  },
+  {
+    "id": "231",
+    "word": "Kısayol Tuşu",
+    "first": "Klavye",
+    "second": "Ctrl",
+    "third": "Hızlı",
+    "fourth": "Kombinasyon",
+    "fifth": "Basmak"
+  },
+  {
+    "id": "232",
+    "word": "Ses Ayarı",
+    "first": "Hoparlör",
+    "second": "Kısmak",
+    "third": "Açmak",
+    "fourth": "Yüksek",
+    "fifth": "Düğme"
   }
 ]

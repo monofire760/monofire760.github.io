@@ -42,7 +42,7 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding-top:16px;color:v
 <a class="lang" href="tr/" hreflang="tr" lang="tr">Türkçe</a>
 <p class="meta">Scroll Zombie · Android app · <code>com.monofire.reels.shorts.blocker</code></p>
 <h1>Privacy Policy</h1>
-<p class="meta">Effective date: 30 October 2026 · Last updated: 30 October 2026</p>
+<p class="meta">Effective date: 30 October 2026 · Last updated: 16 November 2026</p>
 </header>
 
 <section class="summary">
@@ -53,6 +53,7 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding-top:16px;color:v
 <li>Your counts and settings are stored on your phone. There is no account, no sign-in and no advertising.</li>
 <li>If you allow it, the app sends <strong>anonymous usage statistics and crash reports</strong> to Google Firebase so we can fix bugs and improve the app. You can turn this off at any time in Settings.</li>
 <li>In the EEA, the UK and Switzerland, nothing is sent until you agree on the first launch.</li>
+<li>If you send feedback from Settings → Send feedback, your message (and your email, if you add one) reaches us. Nothing is sent unless you tap Send. See section 4a.</li>
 </ul>
 </section>
 
@@ -64,7 +65,7 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding-top:16px;color:v
 <li><strong>Daily counts</strong> of Reels/Shorts per app (Instagram, YouTube, Facebook), which days were counted, and your streak and limit history. History older than 65 days is deleted automatically.</li>
 <li><strong>Your settings</strong>: daily limit, Remind or Lock mode, lock options, report and notification choices, app language, and your usage-statistics choice.</li>
 </ul>
-<p>We have no server and cannot see this data. Like most Android apps, it may be included in the device backup that Android itself makes to your Google account, if you have turned on backup on your phone; that backup is handled by Google under your Google account settings.</p>
+<p>Apart from feedback you choose to send (section 4a), we have no server and cannot see this data. Like most Android apps, it may be included in the device backup that Android itself makes to your Google account, if you have turned on backup on your phone; that backup is handled by Google under your Google account settings.</p>
 
 <h2>3. Accessibility API: what it is used for</h2>
 <p>Scroll Zombie uses the <code>AccessibilityService</code> API because it is the only way for the app to notice that a new Reel or Short has appeared on screen. You turn it on yourself in Android Settings, after an in-app explanation and consent screen, and you can turn it off at any time.</p>
@@ -90,11 +91,25 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding-top:16px;color:v
 <ul>
 <li>Anything read from your screen: video IDs, titles, captions, account names, links, comments.</li>
 <li>Names of other apps you use.</li>
-<li>The advertising ID (we removed this permission), Android ID, IMEI, phone number, email address, contacts or precise location.</li>
-<li>A user ID or any text you type.</li>
+<li>The advertising ID (we removed this permission), Android ID, IMEI, phone number, contacts or precise location. Your email address is never sent to Firebase.</li>
+<li>A user ID or any text you type. A feedback message goes only through the feedback service in section 4a, never to Firebase.</li>
 </ul>
 <h3>Why</h3>
 <p>To find and fix crashes, to see where setup fails on certain phones, and to understand which features help people watch fewer short videos. We do not use this data for advertising. Google Analytics advertising features are turned off: consent signals for ad storage, ad user data and ad personalisation are always set to <em>denied</em>, and the property is not linked to any advertising product.</p>
+
+<h2>4a. Feedback you send (optional)</h2>
+<p>In Settings → Send feedback you can write us an idea, a bug report or anything else. This is separate from the usage-statistics switch: nothing is sent unless you tap Send.</p>
+<h3>What is sent</h3>
+<ul>
+<li>Your message and the type you picked (idea, bug or other).</li>
+<li>Your email address, only if you enter one, so we can reply.</li>
+<li>App version, Android version, device model and app language, so we can reproduce bugs.</li>
+<li>A random install ID created the first time you send feedback. It is used only to limit how many messages one phone can send per hour and is not linked to your Firebase data.</li>
+</ul>
+<h3>How it travels and who sees it</h3>
+<p>The app sends your feedback over HTTPS to our small feedback service running on <strong>Cloudflare Workers</strong>. It checks the hourly limit (keeping the install ID and your IP address for at most 1 hour) and forwards the message to the developer's <strong>Telegram</strong> account through a Telegram bot. Only the developer reads it. We do not use feedback for advertising and do not sell or share it.</p>
+<h3>Why and how long</h3>
+<p>We use feedback to fix bugs, improve the app and, if you gave an email address, to reply to you. Legal basis: you ask us to receive and handle your message (GDPR Art. 6(1)(b)) and our legitimate interest in improving the app (Art. 6(1)(f)); for users in Türkiye, KVKK Art. 5(2)(c) and (f). We keep feedback messages for up to 12 months, then delete them. Email monofire760@gmail.com to have yours deleted sooner. Please don't include passwords or other sensitive information in your message.</p>
 
 <h2>5. Consent and legal bases</h2>
 <ul>
@@ -113,15 +128,17 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding-top:16px;color:v
 <tr><td>Settings</td><td>Your phone</td><td>Until you uninstall the app or clear its data</td></tr>
 <tr><td>Usage statistics (Firebase Analytics)</td><td>Google</td><td>Up to 14 months, then deleted automatically</td></tr>
 <tr><td>Crash reports (Crashlytics)</td><td>Google</td><td>90 days</td></tr>
+<tr><td>Feedback messages (section 4a)</td><td>Developer's Telegram</td><td>Up to 12 months, sooner on request</td></tr>
+<tr><td>Feedback rate-limit record (install ID, IP address)</td><td>Cloudflare</td><td>Up to 1 hour</td></tr>
 </table>
 </div>
 
 <h2>7. Who processes the data</h2>
-<p>We do not sell or share your data. The only service provider is <strong>Google LLC / Google Ireland Limited</strong>, which runs Firebase Analytics and Crashlytics as our data processor under the Firebase data processing terms. See <a href="https://firebase.google.com/support/privacy">Privacy and Security in Firebase</a> and the <a href="https://policies.google.com/privacy">Google Privacy Policy</a>.</p>
+<p>We do not sell or share your data. Our service providers are <strong>Google LLC / Google Ireland Limited</strong>, which runs Firebase Analytics and Crashlytics as our data processor under the Firebase data processing terms, and, only for feedback you send, <strong>Cloudflare, Inc.</strong> (runs the feedback service) and <strong>Telegram</strong> (delivers the message to the developer). See <a href="https://firebase.google.com/support/privacy">Privacy and Security in Firebase</a> and the <a href="https://policies.google.com/privacy">Google Privacy Policy</a>.</p>
 <p>We may disclose data if required by law.</p>
 
 <h2>8. International transfers</h2>
-<p>Google may process Firebase data in the United States and other countries. For transfers from the EEA, UK and Switzerland, Google relies on the EU–US Data Privacy Framework (and its UK and Swiss extensions) and on Standard Contractual Clauses. For transfers from Türkiye, the transfer is based on the safeguards required by KVKK Art. 9, including standard contracts, or on your consent where required. Data is encrypted in transit.</p>
+<p>Google may process Firebase data in the United States and other countries. For transfers from the EEA, UK and Switzerland, Google relies on the EU–US Data Privacy Framework (and its UK and Swiss extensions) and on Standard Contractual Clauses. For transfers from Türkiye, the transfer is based on the safeguards required by KVKK Art. 9, including standard contracts, or on your consent where required. Cloudflare and Telegram may likewise process feedback outside Türkiye and the EEA. Data is encrypted in transit.</p>
 
 <h2>9. Your rights</h2>
 <p>Depending on where you live, you have the right to access, correct, delete or receive a copy of your personal data, to restrict or object to processing, and to withdraw consent at any time.</p>
@@ -141,7 +158,7 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding-top:16px;color:v
 <p>Scroll Zombie is not directed at children under 13, and we do not knowingly collect personal data from them. Instagram, YouTube and Facebook also require users to be at least 13. If you are under the age at which you can give consent for online services in your country, please ask a parent or guardian before turning on usage statistics. If you believe a child under 13 has sent us data, contact us and we will delete it.</p>
 
 <h2>11. Security</h2>
-<p>Data sent to Firebase is encrypted in transit (HTTPS). On your phone, app data is kept in the app's private storage, which other apps cannot read.</p>
+<p>Data sent to Firebase and feedback you send are encrypted in transit (HTTPS). On your phone, app data is kept in the app's private storage, which other apps cannot read.</p>
 
 <h2>12. Changes to this policy</h2>
 <p>If we change this policy, we will update this page and the “Last updated” date. If a change materially affects how your data is used, we will also tell you in the app and, where the law requires it, ask for your consent again.</p>

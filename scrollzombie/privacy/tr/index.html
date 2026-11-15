@@ -42,7 +42,7 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding-top:16px;color:v
 <a class="lang" href="../" hreflang="en" lang="en">English</a>
 <p class="meta">Scroll Zombie · Android uygulaması · <code>com.monofire.reels.shorts.blocker</code></p>
 <h1>Gizlilik Politikası</h1>
-<p class="meta">Yürürlük tarihi: 30 Ekim 2026 · Son güncelleme: 30 Ekim 2026</p>
+<p class="meta">Yürürlük tarihi: 30 Ekim 2026 · Son güncelleme: 16 Kasım 2026</p>
 </header>
 
 <section class="summary">
@@ -53,6 +53,7 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding-top:16px;color:v
 <li>Sayıların ve ayarların telefonunda saklanır. Hesap yok, giriş yok, reklam yok.</li>
 <li>İzin verirsen uygulama, hataları düzeltip uygulamayı geliştirebilmemiz için Google Firebase'e <strong>anonim kullanım istatistikleri ve çökme raporları</strong> gönderir. Bunu Ayarlar'dan istediğin zaman kapatabilirsin.</li>
 <li>AEA, Birleşik Krallık ve İsviçre'de, ilk açılışta onay vermeden hiçbir şey gönderilmez.</li>
+<li>Ayarlar → Geri bildirim gönder'den bize yazarsan mesajın (ve eklersen e-postan) bize ulaşır. Gönder'e basmadıkça hiçbir şey gitmez. Bkz. bölüm 4a.</li>
 </ul>
 </section>
 
@@ -64,7 +65,7 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding-top:16px;color:v
 <li><strong>Günlük sayılar</strong>: uygulama başına (Instagram, YouTube, Facebook) Reels/Shorts sayısı, hangi günlerin sayıldığı, seri ve sınır geçmişin. 65 günden eski geçmiş otomatik olarak silinir.</li>
 <li><strong>Ayarların</strong>: günlük sınır, Hatırlat veya Kilit modu, kilit seçenekleri, rapor ve bildirim tercihleri, uygulama dili ve kullanım istatistikleri tercihin.</li>
 </ul>
-<p>Sunucumuz yok ve bu verileri göremeyiz. Çoğu Android uygulamasında olduğu gibi, telefonunda yedeklemeyi açtıysan bu veriler Android'in Google hesabına yaptığı cihaz yedeğine dahil olabilir; bu yedeği Google, Google hesabı ayarlarına göre yönetir.</p>
+<p>Kendi isteğinle gönderdiğin geri bildirim dışında (bölüm 4a) sunucumuz yok ve bu verileri göremeyiz. Çoğu Android uygulamasında olduğu gibi, telefonunda yedeklemeyi açtıysan bu veriler Android'in Google hesabına yaptığı cihaz yedeğine dahil olabilir; bu yedeği Google, Google hesabı ayarlarına göre yönetir.</p>
 
 <h2>3. Erişilebilirlik API'si: ne için kullanılıyor</h2>
 <p>Scroll Zombie <code>AccessibilityService</code> API'sini kullanır, çünkü ekranda yeni bir Reel veya Short açıldığını fark etmenin tek yolu budur. Uygulama içindeki açıklama ve onay ekranından sonra bunu Android Ayarları'ndan kendin açarsın ve istediğin zaman kapatabilirsin.</p>
@@ -90,11 +91,25 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding-top:16px;color:v
 <ul>
 <li>Ekranından okunan hiçbir şey: video kimlikleri, başlıklar, açıklamalar, hesap adları, bağlantılar, yorumlar.</li>
 <li>Kullandığın diğer uygulamaların adları.</li>
-<li>Reklam kimliği (bu izni kaldırdık), Android kimliği, IMEI, telefon numarası, e-posta adresi, rehber veya hassas konum.</li>
-<li>Kullanıcı kimliği veya yazdığın herhangi bir metin.</li>
+<li>Reklam kimliği (bu izni kaldırdık), Android kimliği, IMEI, telefon numarası, rehber veya hassas konum. E-posta adresin Firebase'e asla gönderilmez.</li>
+<li>Kullanıcı kimliği veya yazdığın herhangi bir metin. Geri bildirim mesajın yalnızca bölüm 4a'daki geri bildirim hizmetinden geçer, Firebase'e asla gitmez.</li>
 </ul>
 <h3>Neden</h3>
 <p>Çökmeleri bulup düzeltmek, kurulumun hangi telefonlarda takıldığını görmek ve hangi özelliklerin insanların daha az kısa video izlemesine yardım ettiğini anlamak için. Bu verileri reklam için kullanmayız. Google Analytics reklam özellikleri kapalıdır: reklam depolama, reklam kullanıcı verisi ve reklam kişiselleştirme onay sinyalleri her zaman <em>reddedildi</em> olarak ayarlıdır ve hesap hiçbir reklam ürününe bağlı değildir.</p>
+
+<h2>4a. Gönderdiğin geri bildirim (isteğe bağlı)</h2>
+<p>Ayarlar → Geri bildirim gönder'den bize bir fikir, hata ya da aklına gelen başka bir şeyi yazabilirsin. Bu, kullanım istatistikleri ayarından bağımsızdır: Gönder'e basmadıkça hiçbir şey gönderilmez.</p>
+<h3>Ne gönderilir</h3>
+<ul>
+<li>Mesajın ve seçtiğin tür (fikir, hata veya diğer).</li>
+<li>E-posta adresin, yalnızca yazarsan; sana yanıt verebilmemiz için.</li>
+<li>Hataları tekrar oluşturabilmemiz için uygulama sürümü, Android sürümü, cihaz modeli ve uygulama dili.</li>
+<li>İlk geri bildiriminde oluşturulan rastgele bir kurulum kimliği. Yalnızca bir telefonun saatte kaç mesaj gönderebileceğini sınırlamak için kullanılır ve Firebase verilerinle ilişkilendirilmez.</li>
+</ul>
+<h3>Nasıl iletilir, kim görür</h3>
+<p>Uygulama geri bildirimini HTTPS ile <strong>Cloudflare Workers</strong> üzerinde çalışan küçük geri bildirim hizmetimize gönderir. Hizmet saatlik sınırı kontrol eder (bunun için kurulum kimliğini ve IP adresini en fazla 1 saat tutar) ve mesajı bir Telegram botu aracılığıyla geliştiricinin <strong>Telegram</strong> hesabına iletir. Mesajı yalnızca geliştirici okur. Geri bildirimleri reklam için kullanmayız, satmayız ve paylaşmayız.</p>
+<h3>Neden ve ne kadar süre</h3>
+<p>Geri bildirimleri hataları düzeltmek, uygulamayı geliştirmek ve e-posta verdiysen sana yanıt vermek için kullanırız. Hukuki sebep: mesajını almamızı ve ele almamızı istemen (GDPR md. 6(1)(b)) ve uygulamayı geliştirmedeki meşru menfaatimiz (md. 6(1)(f)); Türkiye'deki kullanıcılar için KVKK md. 5(2)(c) ve (f). Geri bildirim mesajlarını en fazla 12 ay saklar, sonra sileriz. Daha önce silinmesini istersen monofire760@gmail.com adresine yazman yeterli. Lütfen mesajına şifre veya başka hassas bilgi yazma.</p>
 
 <h2>5. Onay ve hukuki sebepler</h2>
 <ul>
@@ -113,15 +128,17 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding-top:16px;color:v
 <tr><td>Ayarlar</td><td>Telefonun</td><td>Uygulamayı kaldırana veya verilerini temizleyene kadar</td></tr>
 <tr><td>Kullanım istatistikleri (Firebase Analytics)</td><td>Google</td><td>En fazla 14 ay, sonra otomatik silinir</td></tr>
 <tr><td>Çökme raporları (Crashlytics)</td><td>Google</td><td>90 gün</td></tr>
+<tr><td>Geri bildirim mesajları (bölüm 4a)</td><td>Geliştiricinin Telegram hesabı</td><td>En fazla 12 ay, istersen daha önce</td></tr>
+<tr><td>Geri bildirim sınır kaydı (kurulum kimliği, IP adresi)</td><td>Cloudflare</td><td>En fazla 1 saat</td></tr>
 </table>
 </div>
 
 <h2>7. Verileri kim işliyor</h2>
-<p>Verilerini satmayız ve paylaşmayız. Tek hizmet sağlayıcımız, Firebase Analytics ve Crashlytics'i Firebase veri işleme şartları kapsamında veri işleyen olarak çalıştıran <strong>Google LLC / Google Ireland Limited</strong>'dir. Bkz. <a href="https://firebase.google.com/support/privacy">Privacy and Security in Firebase</a> ve <a href="https://policies.google.com/privacy?hl=tr">Google Gizlilik Politikası</a>.</p>
+<p>Verilerini satmayız ve paylaşmayız. Hizmet sağlayıcılarımız, Firebase Analytics ve Crashlytics'i Firebase veri işleme şartları kapsamında veri işleyen olarak çalıştıran <strong>Google LLC / Google Ireland Limited</strong> ile yalnızca gönderdiğin geri bildirimler için <strong>Cloudflare, Inc.</strong> (geri bildirim hizmetini çalıştırır) ve <strong>Telegram</strong>'dır (mesajı geliştiriciye iletir). Bkz. <a href="https://firebase.google.com/support/privacy">Privacy and Security in Firebase</a> ve <a href="https://policies.google.com/privacy?hl=tr">Google Gizlilik Politikası</a>.</p>
 <p>Kanunen zorunlu olduğunda verileri yetkili makamlara açıklayabiliriz.</p>
 
 <h2>8. Yurt dışına aktarım</h2>
-<p>Google, Firebase verilerini Amerika Birleşik Devletleri'nde ve başka ülkelerde işleyebilir. Türkiye'den yapılan aktarımlar, KVKK md. 9'da öngörülen güvenceler (standart sözleşmeler dahil) veya gerektiğinde açık rızan ile yapılır. AEA, Birleşik Krallık ve İsviçre'den yapılan aktarımlar için Google, AB–ABD Veri Gizliliği Çerçevesi'ne (ve Birleşik Krallık ile İsviçre uzantılarına) ve Standart Sözleşme Maddeleri'ne dayanır. Veriler aktarım sırasında şifrelenir.</p>
+<p>Google, Firebase verilerini Amerika Birleşik Devletleri'nde ve başka ülkelerde işleyebilir. Türkiye'den yapılan aktarımlar, KVKK md. 9'da öngörülen güvenceler (standart sözleşmeler dahil) veya gerektiğinde açık rızan ile yapılır. AEA, Birleşik Krallık ve İsviçre'den yapılan aktarımlar için Google, AB–ABD Veri Gizliliği Çerçevesi'ne (ve Birleşik Krallık ile İsviçre uzantılarına) ve Standart Sözleşme Maddeleri'ne dayanır. Cloudflare ve Telegram da geri bildirimleri Türkiye ve AEA dışında işleyebilir. Veriler aktarım sırasında şifrelenir.</p>
 
 <h2>9. Hakların</h2>
 <p><strong>KVKK md. 11</strong> uyarınca; kişisel verilerinin işlenip işlenmediğini öğrenme, işlenmişse bilgi talep etme, işlenme amacını ve amacına uygun kullanılıp kullanılmadığını öğrenme, yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme, eksik veya yanlış işlenmişse düzeltilmesini, silinmesini veya yok edilmesini isteme ve bu işlemlerin aktarılan üçüncü kişilere bildirilmesini isteme, münhasıran otomatik sistemlerle analiz edilmesi sonucu aleyhine bir sonuç çıkmasına itiraz etme ve kanuna aykırı işleme nedeniyle zarara uğrarsan zararın giderilmesini talep etme hakların var. Kişisel Verileri Koruma Kurumu'na şikâyette de bulunabilirsin.</p>
@@ -140,7 +157,7 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding-top:16px;color:v
 <p>Scroll Zombie 13 yaşından küçük çocuklara yönelik değildir ve onlardan bilerek kişisel veri toplamayız. Instagram, YouTube ve Facebook da kullanıcıların en az 13 yaşında olmasını şart koşar. Ülkende çevrimiçi hizmetler için onay verebilme yaşının altındaysan, kullanım istatistiklerini açmadan önce anne, baba veya vasine sor. 13 yaşından küçük bir çocuğun bize veri gönderdiğini düşünüyorsan bize yaz, silelim.</p>
 
 <h2>11. Güvenlik</h2>
-<p>Firebase'e gönderilen veriler aktarım sırasında şifrelenir (HTTPS). Telefonunda uygulama verileri, diğer uygulamaların okuyamadığı uygulamaya özel depolama alanında tutulur.</p>
+<p>Firebase'e gönderilen veriler ve gönderdiğin geri bildirimler aktarım sırasında şifrelenir (HTTPS). Telefonunda uygulama verileri, diğer uygulamaların okuyamadığı uygulamaya özel depolama alanında tutulur.</p>
 
 <h2>12. Bu politikadaki değişiklikler</h2>
 <p>Politikayı değiştirirsek bu sayfayı ve “Son güncelleme” tarihini güncelleriz. Değişiklik verilerinin kullanımını önemli ölçüde etkiliyorsa sana uygulama içinde de haber veririz ve kanunun gerektirdiği yerlerde onayını yeniden isteriz.</p>

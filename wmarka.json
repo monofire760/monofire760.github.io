@@ -1,0 +1,2846 @@
+[
+  {
+    "id": "1",
+    "word": "Ülker",
+    "first": "Çikolata",
+    "second": "Bisküvi",
+    "third": "Gofret",
+    "fourth": "Atıştırmalık",
+    "fifth": "Kırmızı"
+  },
+  {
+    "id": "2",
+    "word": "Eti",
+    "first": "Bisküvi",
+    "second": "Kraker",
+    "third": "Eskişehir",
+    "fourth": "Kek",
+    "fifth": "Atıştırmalık"
+  },
+  {
+    "id": "3",
+    "word": "Torku",
+    "first": "Konya",
+    "second": "Şeker",
+    "third": "Çikolata",
+    "fourth": "Fındık",
+    "fifth": "Süt"
+  },
+  {
+    "id": "4",
+    "word": "Pınar",
+    "first": "Süt",
+    "second": "Yoğurt",
+    "third": "Peynir",
+    "fourth": "Salam",
+    "fifth": "İzmir"
+  },
+  {
+    "id": "5",
+    "word": "Sütaş",
+    "first": "Ayran",
+    "second": "Yoğurt",
+    "third": "Peynir",
+    "fourth": "İnek",
+    "fifth": "Kaymak"
+  },
+  {
+    "id": "6",
+    "word": "İçim",
+    "first": "Süt",
+    "second": "Ayran",
+    "third": "Kutu",
+    "fourth": "Kahvaltı",
+    "fifth": "İnek"
+  },
+  {
+    "id": "7",
+    "word": "Danone",
+    "first": "Yoğurt",
+    "second": "Probiyotik",
+    "third": "Süt",
+    "fourth": "Kase",
+    "fifth": "Fransız"
+  },
+  {
+    "id": "8",
+    "word": "Tadım",
+    "first": "Kuruyemiş",
+    "second": "Fındık",
+    "third": "Fıstık",
+    "fourth": "Çekirdek",
+    "fifth": "Paket"
+  },
+  {
+    "id": "9",
+    "word": "Uno",
+    "first": "Ekmek",
+    "second": "Tost",
+    "third": "Dilim",
+    "fourth": "Paket",
+    "fifth": "Fırın"
+  },
+  {
+    "id": "10",
+    "word": "Sırma",
+    "first": "Su",
+    "second": "Damacana",
+    "third": "Kaynak",
+    "fourth": "İçmek",
+    "fifth": "Şişe"
+  },
+  {
+    "id": "11",
+    "word": "Erikli",
+    "first": "Su",
+    "second": "Damacana",
+    "third": "Kaynak",
+    "fourth": "Dağ",
+    "fifth": "Pet şişe"
+  },
+  {
+    "id": "12",
+    "word": "Uludağ Gazoz",
+    "first": "Gazlı",
+    "second": "İçecek",
+    "third": "Bursa",
+    "fourth": "Şişe",
+    "fifth": "Limonata"
+  },
+  {
+    "id": "13",
+    "word": "Çaykur",
+    "first": "Çay",
+    "second": "Rize",
+    "third": "Demlik",
+    "fourth": "Bardak",
+    "fifth": "Yaprak"
+  },
+  {
+    "id": "14",
+    "word": "Lipton",
+    "first": "Çay",
+    "second": "Poşet",
+    "third": "Sarı",
+    "fourth": "Bardak",
+    "fifth": "Demlemek"
+  },
+  {
+    "id": "15",
+    "word": "Doğadan",
+    "first": "Bitki çayı",
+    "second": "Ihlamur",
+    "third": "Poşet",
+    "fourth": "Yeşil çay",
+    "fifth": "Kış"
+  },
+  {
+    "id": "16",
+    "word": "Nescafé",
+    "first": "Kahve",
+    "second": "Hazır",
+    "third": "Fincan",
+    "fourth": "Köpük",
+    "fifth": "Sabah"
+  },
+  {
+    "id": "17",
+    "word": "Mehmet Efendi",
+    "first": "Kahve",
+    "second": "Türk kahvesi",
+    "third": "Eminönü",
+    "fourth": "Paket",
+    "fifth": "Telve"
+  },
+  {
+    "id": "18",
+    "word": "Nespresso",
+    "first": "Kahve",
+    "second": "Kapsül",
+    "third": "Makine",
+    "fourth": "Fincan",
+    "fifth": "George Clooney"
+  },
+  {
+    "id": "19",
+    "word": "Starbucks",
+    "first": "Kahve",
+    "second": "Yeşil",
+    "third": "Bardak",
+    "fourth": "Latte",
+    "fifth": "Deniz kızı"
+  },
+  {
+    "id": "20",
+    "word": "Kahve Dünyası",
+    "first": "Fincan",
+    "second": "Çikolata",
+    "third": "Latte",
+    "fourth": "Kafe",
+    "fifth": "Espresso"
+  },
+  {
+    "id": "21",
+    "word": "Coca-Cola",
+    "first": "Kola",
+    "second": "Gazlı",
+    "third": "Kırmızı",
+    "fourth": "Şişe",
+    "fifth": "Noel Baba"
+  },
+  {
+    "id": "22",
+    "word": "Pepsi",
+    "first": "Kola",
+    "second": "Mavi",
+    "third": "Gazlı",
+    "fourth": "İçecek",
+    "fifth": "Kutu"
+  },
+  {
+    "id": "23",
+    "word": "Cola Turka",
+    "first": "Kola",
+    "second": "Gazlı",
+    "third": "Yerli",
+    "fourth": "Kırmızı",
+    "fifth": "İçecek"
+  },
+  {
+    "id": "24",
+    "word": "Fanta",
+    "first": "Portakal",
+    "second": "Gazlı",
+    "third": "Turuncu",
+    "fourth": "İçecek",
+    "fifth": "Şişe"
+  },
+  {
+    "id": "25",
+    "word": "Sprite",
+    "first": "Limon",
+    "second": "Gazlı",
+    "third": "Yeşil",
+    "fourth": "Şeffaf",
+    "fifth": "İçecek"
+  },
+  {
+    "id": "26",
+    "word": "Schweppes",
+    "first": "Tonik",
+    "second": "Mandalina",
+    "third": "Gazlı",
+    "fourth": "İçecek",
+    "fifth": "Acı"
+  },
+  {
+    "id": "27",
+    "word": "Cappy",
+    "first": "Meyve suyu",
+    "second": "Şeftali",
+    "third": "Vişne",
+    "fourth": "Kutu",
+    "fifth": "Pipet"
+  },
+  {
+    "id": "28",
+    "word": "Red Bull",
+    "first": "Enerji içeceği",
+    "second": "Kanat",
+    "third": "Boğa",
+    "fourth": "Kutu",
+    "fifth": "Formula 1"
+  },
+  {
+    "id": "29",
+    "word": "Nutella",
+    "first": "Fındık",
+    "second": "Çikolata",
+    "third": "Kavanoz",
+    "fourth": "Ekmek",
+    "fifth": "Kahvaltı"
+  },
+  {
+    "id": "30",
+    "word": "Sarelle",
+    "first": "Fındık ezmesi",
+    "second": "Kavanoz",
+    "third": "Çikolata",
+    "fourth": "Kahvaltı",
+    "fifth": "Ekmek"
+  },
+  {
+    "id": "31",
+    "word": "Çokokrem",
+    "first": "Çikolata",
+    "second": "Sürmek",
+    "third": "Kavanoz",
+    "fourth": "Ekmek",
+    "fifth": "Fındık"
+  },
+  {
+    "id": "32",
+    "word": "Algida",
+    "first": "Dondurma",
+    "second": "Kalp",
+    "third": "Yaz",
+    "fourth": "Külah",
+    "fifth": "Çubuk"
+  },
+  {
+    "id": "33",
+    "word": "Magnum",
+    "first": "Dondurma",
+    "second": "Çikolata",
+    "third": "Kaplama",
+    "fourth": "Çubuk",
+    "fifth": "Lüks"
+  },
+  {
+    "id": "34",
+    "word": "Cornetto",
+    "first": "Dondurma",
+    "second": "Külah",
+    "third": "Algida",
+    "fourth": "Yaz",
+    "fifth": "Çikolata"
+  },
+  {
+    "id": "35",
+    "word": "Mado",
+    "first": "Dondurma",
+    "second": "Maraş",
+    "third": "Kaymak",
+    "fourth": "Tatlı",
+    "fifth": "Kafe"
+  },
+  {
+    "id": "36",
+    "word": "Haribo",
+    "first": "Ayıcık",
+    "second": "Jelibon",
+    "third": "Şeker",
+    "fourth": "Renkli",
+    "fifth": "Çocuk"
+  },
+  {
+    "id": "37",
+    "word": "Milka",
+    "first": "Çikolata",
+    "second": "Mor",
+    "third": "İnek",
+    "fourth": "Alpler",
+    "fifth": "Tablet"
+  },
+  {
+    "id": "38",
+    "word": "Kinder",
+    "first": "Yumurta",
+    "second": "Sürpriz",
+    "third": "Çocuk",
+    "fourth": "Çikolata",
+    "fifth": "Oyuncak"
+  },
+  {
+    "id": "39",
+    "word": "Toblerone",
+    "first": "Üçgen",
+    "second": "Çikolata",
+    "third": "İsviçre",
+    "fourth": "Bal",
+    "fifth": "Badem"
+  },
+  {
+    "id": "40",
+    "word": "Ferrero Rocher",
+    "first": "Fındık",
+    "second": "Altın",
+    "third": "Çikolata",
+    "fourth": "Hediye",
+    "fifth": "Yaldız"
+  },
+  {
+    "id": "41",
+    "word": "Snickers",
+    "first": "Çikolata",
+    "second": "Fıstık",
+    "third": "Karamel",
+    "fourth": "Bar",
+    "fifth": "Acıkmak"
+  },
+  {
+    "id": "42",
+    "word": "Twix",
+    "first": "Çikolata",
+    "second": "Karamel",
+    "third": "Bisküvi",
+    "fourth": "İkili",
+    "fifth": "Bar"
+  },
+  {
+    "id": "43",
+    "word": "KitKat",
+    "first": "Çikolata",
+    "second": "Gofret",
+    "third": "Mola",
+    "fourth": "Kırmızı",
+    "fifth": "Parmak"
+  },
+  {
+    "id": "44",
+    "word": "M&M's",
+    "first": "Çikolata",
+    "second": "Renkli",
+    "third": "Draje",
+    "fourth": "Fıstık",
+    "fifth": "Karakter"
+  },
+  {
+    "id": "45",
+    "word": "Bounty",
+    "first": "Hindistan cevizi",
+    "second": "Çikolata",
+    "third": "Bar",
+    "fourth": "Beyaz",
+    "fifth": "Tropik"
+  },
+  {
+    "id": "46",
+    "word": "Oreo",
+    "first": "Bisküvi",
+    "second": "Siyah",
+    "third": "Krem",
+    "fourth": "Süt",
+    "fifth": "Kakaolu"
+  },
+  {
+    "id": "47",
+    "word": "Biskrem",
+    "first": "Bisküvi",
+    "second": "Kakao",
+    "third": "Dolgulu",
+    "fourth": "Çay",
+    "fifth": "Kutu"
+  },
+  {
+    "id": "48",
+    "word": "Halley",
+    "first": "Çikolata",
+    "second": "Bisküvi",
+    "third": "Kuyruklu yıldız",
+    "fourth": "Ülker",
+    "fifth": "Kek"
+  },
+  {
+    "id": "49",
+    "word": "Albeni",
+    "first": "Çikolata",
+    "second": "Karamel",
+    "third": "Bisküvi",
+    "fourth": "Gofret",
+    "fifth": "Ülker"
+  },
+  {
+    "id": "50",
+    "word": "Tadelle",
+    "first": "Çikolata",
+    "second": "Fındık",
+    "third": "Bar",
+    "fourth": "Atıştırmalık",
+    "fifth": "Sütlü"
+  },
+  {
+    "id": "51",
+    "word": "Pringles",
+    "first": "Cips",
+    "second": "Silindir",
+    "third": "Bıyık",
+    "fourth": "Kutu",
+    "fifth": "Patates"
+  },
+  {
+    "id": "52",
+    "word": "Lay's",
+    "first": "Cips",
+    "second": "Patates",
+    "third": "Paket",
+    "fourth": "Sarı",
+    "fifth": "Çıtır"
+  },
+  {
+    "id": "53",
+    "word": "Doritos",
+    "first": "Cips",
+    "second": "Mısır",
+    "third": "Üçgen",
+    "fourth": "Acı",
+    "fifth": "Nacho"
+  },
+  {
+    "id": "54",
+    "word": "Ruffles",
+    "first": "Cips",
+    "second": "Tırtıklı",
+    "third": "Patates",
+    "fourth": "Paket",
+    "fifth": "Peynirli"
+  },
+  {
+    "id": "55",
+    "word": "Cheetos",
+    "first": "Cips",
+    "second": "Peynirli",
+    "third": "Çita",
+    "fourth": "Turuncu",
+    "fifth": "Mısır"
+  },
+  {
+    "id": "56",
+    "word": "Nesquik",
+    "first": "Kakao",
+    "second": "Süt",
+    "third": "Tavşan",
+    "fourth": "Kahvaltı",
+    "fifth": "Toz"
+  },
+  {
+    "id": "57",
+    "word": "Kellogg's",
+    "first": "Mısır gevreği",
+    "second": "Kahvaltı",
+    "third": "Süt",
+    "fourth": "Horoz",
+    "fifth": "Kutu"
+  },
+  {
+    "id": "58",
+    "word": "Nestlé",
+    "first": "Çikolata",
+    "second": "İsviçre",
+    "third": "Bebek maması",
+    "fourth": "Kuş yuvası",
+    "fifth": "Gıda"
+  },
+  {
+    "id": "59",
+    "word": "Tat",
+    "first": "Salça",
+    "second": "Domates",
+    "third": "Ketçap",
+    "fourth": "Konserve",
+    "fifth": "Kutu"
+  },
+  {
+    "id": "60",
+    "word": "Tukaş",
+    "first": "Salça",
+    "second": "Konserve",
+    "third": "Kavanoz",
+    "fourth": "Domates",
+    "fifth": "Biber"
+  },
+  {
+    "id": "61",
+    "word": "Knorr",
+    "first": "Çorba",
+    "second": "Bulyon",
+    "third": "Paket",
+    "fourth": "Mutfak",
+    "fifth": "Tavuk suyu"
+  },
+  {
+    "id": "62",
+    "word": "Calvé",
+    "first": "Mayonez",
+    "second": "Ketçap",
+    "third": "Sos",
+    "fourth": "Tüp",
+    "fifth": "Patates"
+  },
+  {
+    "id": "63",
+    "word": "Heinz",
+    "first": "Ketçap",
+    "second": "Domates",
+    "third": "Şişe",
+    "fourth": "Sos",
+    "fifth": "Kırmızı"
+  },
+  {
+    "id": "64",
+    "word": "Dr. Oetker",
+    "first": "Puding",
+    "second": "Kek",
+    "third": "Vanilya",
+    "fourth": "Pasta",
+    "fifth": "Toz"
+  },
+  {
+    "id": "65",
+    "word": "Barilla",
+    "first": "Makarna",
+    "second": "İtalyan",
+    "third": "Spagetti",
+    "fourth": "Mavi",
+    "fifth": "Sos"
+  },
+  {
+    "id": "66",
+    "word": "Banvit",
+    "first": "Tavuk",
+    "second": "Piliç",
+    "third": "Kanat",
+    "fourth": "But",
+    "fifth": "Et"
+  },
+  {
+    "id": "67",
+    "word": "Namet",
+    "first": "Et",
+    "second": "Salam",
+    "third": "Sucuk",
+    "fourth": "Kasap",
+    "fifth": "Şarküteri"
+  },
+  {
+    "id": "68",
+    "word": "Dardanel",
+    "first": "Ton balığı",
+    "second": "Konserve",
+    "third": "Kutu",
+    "fourth": "Balık",
+    "fifth": "Çanakkale"
+  },
+  {
+    "id": "69",
+    "word": "Yudum",
+    "first": "Yağ",
+    "second": "Ayçiçek",
+    "third": "Şişe",
+    "fourth": "Kızartma",
+    "fifth": "Mutfak"
+  },
+  {
+    "id": "70",
+    "word": "Komili",
+    "first": "Zeytinyağı",
+    "second": "Zeytin",
+    "third": "Şişe",
+    "fourth": "Salata",
+    "fifth": "Yağ"
+  },
+  {
+    "id": "71",
+    "word": "Sana",
+    "first": "Margarin",
+    "second": "Tereyağı",
+    "third": "Kahvaltı",
+    "fourth": "Ekmek",
+    "fifth": "Kalıp"
+  },
+  {
+    "id": "72",
+    "word": "Hacı Bekir",
+    "first": "Lokum",
+    "second": "Akide",
+    "third": "Şekerci",
+    "fourth": "Eminönü",
+    "fifth": "Bayram"
+  },
+  {
+    "id": "73",
+    "word": "Koska",
+    "first": "Helva",
+    "second": "Tahin",
+    "third": "Pekmez",
+    "fourth": "Kavanoz",
+    "fifth": "Lokum"
+  },
+  {
+    "id": "74",
+    "word": "McDonald's",
+    "first": "Hamburger",
+    "second": "Palyaço",
+    "third": "Big Mac",
+    "fourth": "Patates",
+    "fifth": "Sarı"
+  },
+  {
+    "id": "75",
+    "word": "Burger King",
+    "first": "Whopper",
+    "second": "Köfte",
+    "third": "Patates",
+    "fourth": "Taç",
+    "fifth": "Fast food"
+  },
+  {
+    "id": "76",
+    "word": "KFC",
+    "first": "Tavuk",
+    "second": "Kova",
+    "third": "Kentucky",
+    "fourth": "Albay",
+    "fifth": "Kızarmış"
+  },
+  {
+    "id": "77",
+    "word": "Popeyes",
+    "first": "Tavuk",
+    "second": "Kanat",
+    "third": "Baharatlı",
+    "fourth": "Fast food",
+    "fifth": "Kızarmış"
+  },
+  {
+    "id": "78",
+    "word": "Domino's",
+    "first": "Pizza",
+    "second": "Kurye",
+    "third": "Paket",
+    "fourth": "Mavi",
+    "fifth": "Sipariş"
+  },
+  {
+    "id": "79",
+    "word": "Komagene",
+    "first": "Çiğ köfte",
+    "second": "Dürüm",
+    "third": "Marul",
+    "fourth": "Nar ekşisi",
+    "fifth": "Acı"
+  },
+  {
+    "id": "80",
+    "word": "Simit Sarayı",
+    "first": "Poğaça",
+    "second": "Çay",
+    "third": "Kafe",
+    "fourth": "Kahvaltı",
+    "fifth": "Susam"
+  },
+  {
+    "id": "81",
+    "word": "Tavuk Dünyası",
+    "first": "Restoran",
+    "second": "Kanat",
+    "third": "Izgara",
+    "fourth": "Pilav",
+    "fifth": "Menü"
+  },
+  {
+    "id": "82",
+    "word": "Köfteci Yusuf",
+    "first": "Izgara",
+    "second": "Piyaz",
+    "third": "Ekmek",
+    "fourth": "Restoran",
+    "fifth": "Kasap"
+  },
+  {
+    "id": "83",
+    "word": "Saray Muhallebicisi",
+    "first": "Tatlı",
+    "second": "Tavuk göğsü",
+    "third": "Sütlaç",
+    "fourth": "Kazandibi",
+    "fifth": "Pasta"
+  },
+  {
+    "id": "84",
+    "word": "Özsüt",
+    "first": "Tatlı",
+    "second": "Pasta",
+    "third": "Kafe",
+    "fourth": "Profiterol",
+    "fifth": "Dondurma"
+  },
+  {
+    "id": "85",
+    "word": "BİM",
+    "first": "Market",
+    "second": "İndirim",
+    "third": "Ekonomik",
+    "fourth": "Aktüel",
+    "fifth": "Kasa"
+  },
+  {
+    "id": "86",
+    "word": "A101",
+    "first": "Market",
+    "second": "Aktüel",
+    "third": "İndirim",
+    "fourth": "Mahalle",
+    "fifth": "Kasa"
+  },
+  {
+    "id": "87",
+    "word": "ŞOK",
+    "first": "Market",
+    "second": "Sarı",
+    "third": "İndirim",
+    "fourth": "Mahalle",
+    "fifth": "Kasa"
+  },
+  {
+    "id": "88",
+    "word": "Migros",
+    "first": "Market",
+    "second": "Turuncu",
+    "third": "Alışveriş",
+    "fourth": "Sepet",
+    "fifth": "Kart"
+  },
+  {
+    "id": "89",
+    "word": "CarrefourSA",
+    "first": "Hipermarket",
+    "second": "Fransız",
+    "third": "Mavi",
+    "fourth": "Alışveriş",
+    "fifth": "Sabancı"
+  },
+  {
+    "id": "90",
+    "word": "Macrocenter",
+    "first": "Market",
+    "second": "Gurme",
+    "third": "Şarküteri",
+    "fourth": "Lüks",
+    "fifth": "Alışveriş"
+  },
+  {
+    "id": "91",
+    "word": "IKEA",
+    "first": "Mobilya",
+    "second": "İsveç",
+    "third": "Köfte",
+    "fourth": "Mavi sarı",
+    "fifth": "Montaj"
+  },
+  {
+    "id": "92",
+    "word": "Koçtaş",
+    "first": "Yapı market",
+    "second": "Hırdavar",
+    "third": "Boya",
+    "fourth": "Bahçe",
+    "fifth": "Matkap"
+  },
+  {
+    "id": "93",
+    "word": "Bauhaus",
+    "first": "Yapı market",
+    "second": "Hırdavar",
+    "third": "Alman",
+    "fourth": "Boya",
+    "fifth": "Kırmızı"
+  },
+  {
+    "id": "94",
+    "word": "Teknosa",
+    "first": "Elektronik",
+    "second": "Mağaza",
+    "third": "Telefon",
+    "fourth": "Televizyon",
+    "fifth": "Sabancı"
+  },
+  {
+    "id": "95",
+    "word": "MediaMarkt",
+    "first": "Elektronik",
+    "second": "Kırmızı",
+    "third": "Alman",
+    "fourth": "Mağaza",
+    "fifth": "Televizyon"
+  },
+  {
+    "id": "96",
+    "word": "Vatan Bilgisayar",
+    "first": "Elektronik",
+    "second": "Mağaza",
+    "third": "Laptop",
+    "fourth": "Telefon",
+    "fifth": "Kırmızı"
+  },
+  {
+    "id": "97",
+    "word": "D&R",
+    "first": "Kitap",
+    "second": "Müzik",
+    "third": "Mağaza",
+    "fourth": "Kırtasiye",
+    "fifth": "AVM"
+  },
+  {
+    "id": "98",
+    "word": "Gratis",
+    "first": "Kozmetik",
+    "second": "Pembe",
+    "third": "Mağaza",
+    "fourth": "Şampuan",
+    "fifth": "İndirim"
+  },
+  {
+    "id": "99",
+    "word": "Watsons",
+    "first": "Kozmetik",
+    "second": "Mağaza",
+    "third": "Kişisel bakım",
+    "fourth": "Şampuan",
+    "fifth": "Parfüm"
+  },
+  {
+    "id": "100",
+    "word": "Boyner",
+    "first": "Mağaza",
+    "second": "Giyim",
+    "third": "AVM",
+    "fourth": "Alışveriş",
+    "fifth": "Marka"
+  },
+  {
+    "id": "101",
+    "word": "English Home",
+    "first": "Ev tekstili",
+    "second": "Nevresim",
+    "third": "Havlu",
+    "fourth": "Dekorasyon",
+    "fifth": "Mutfak"
+  },
+  {
+    "id": "102",
+    "word": "Madame Coco",
+    "first": "Ev tekstili",
+    "second": "Dekorasyon",
+    "third": "Nevresim",
+    "fourth": "Mutfak",
+    "fifth": "Mağaza"
+  },
+  {
+    "id": "103",
+    "word": "Mudo",
+    "first": "Dekorasyon",
+    "second": "Mağaza",
+    "third": "Giyim",
+    "fourth": "Mum",
+    "fifth": "Ev"
+  },
+  {
+    "id": "104",
+    "word": "Karaca",
+    "first": "Tencere",
+    "second": "Mutfak",
+    "third": "Çaydanlık",
+    "fourth": "Züccaciye",
+    "fifth": "Porselen"
+  },
+  {
+    "id": "105",
+    "word": "Paşabahçe",
+    "first": "Cam",
+    "second": "Bardak",
+    "third": "Sürahi",
+    "fourth": "Züccaciye",
+    "fifth": "Kristal"
+  },
+  {
+    "id": "106",
+    "word": "Decathlon",
+    "first": "Spor",
+    "second": "Kamp",
+    "third": "Bisiklet",
+    "fourth": "Mavi",
+    "fifth": "Malzeme"
+  },
+  {
+    "id": "107",
+    "word": "Toyzz Shop",
+    "first": "Oyuncak",
+    "second": "Çocuk",
+    "third": "Lego",
+    "fourth": "Mağaza",
+    "fifth": "Bebek"
+  },
+  {
+    "id": "108",
+    "word": "FLO",
+    "first": "Ayakkabı",
+    "second": "Mağaza",
+    "third": "Spor",
+    "fourth": "İndirim",
+    "fifth": "Turuncu"
+  },
+  {
+    "id": "109",
+    "word": "İstikbal",
+    "first": "Mobilya",
+    "second": "Kanepe",
+    "third": "Yatak",
+    "fourth": "Kayseri",
+    "fifth": "Koltuk"
+  },
+  {
+    "id": "110",
+    "word": "Bellona",
+    "first": "Mobilya",
+    "second": "Yatak",
+    "third": "Kayseri",
+    "fourth": "Kanepe",
+    "fifth": "Yemek odası"
+  },
+  {
+    "id": "111",
+    "word": "Yataş",
+    "first": "Yatak",
+    "second": "Baza",
+    "third": "Uyku",
+    "fourth": "Yastık",
+    "fifth": "Mobilya"
+  },
+  {
+    "id": "112",
+    "word": "Doğtaş",
+    "first": "Mobilya",
+    "second": "Koltuk",
+    "third": "Yemek odası",
+    "fourth": "Yatak odası",
+    "fifth": "Mağaza"
+  },
+  {
+    "id": "113",
+    "word": "Atasay",
+    "first": "Mücevher",
+    "second": "Altın",
+    "third": "Yüzük",
+    "fourth": "Kuyumcu",
+    "fifth": "Pırlanta"
+  },
+  {
+    "id": "114",
+    "word": "Swarovski",
+    "first": "Kristal",
+    "second": "Taş",
+    "third": "Kolye",
+    "fourth": "Mücevher",
+    "fifth": "Avusturya"
+  },
+  {
+    "id": "115",
+    "word": "Turkcell",
+    "first": "Operatör",
+    "second": "Hat",
+    "third": "Sarı",
+    "fourth": "Mavi",
+    "fifth": "Fatura"
+  },
+  {
+    "id": "116",
+    "word": "Vodafone",
+    "first": "Operatör",
+    "second": "Hat",
+    "third": "Kırmızı",
+    "fourth": "İngiliz",
+    "fifth": "Fatura"
+  },
+  {
+    "id": "117",
+    "word": "Türk Telekom",
+    "first": "Operatör",
+    "second": "İnternet",
+    "third": "Ev",
+    "fourth": "Modem",
+    "fifth": "Fatura"
+  },
+  {
+    "id": "118",
+    "word": "Apple",
+    "first": "iPhone",
+    "second": "Elma",
+    "third": "Mac",
+    "fourth": "Steve Jobs",
+    "fifth": "Pahalı"
+  },
+  {
+    "id": "119",
+    "word": "Samsung",
+    "first": "Galaxy",
+    "second": "Telefon",
+    "third": "Koreli",
+    "fourth": "Televizyon",
+    "fifth": "Elektronik"
+  },
+  {
+    "id": "120",
+    "word": "Xiaomi",
+    "first": "Çin",
+    "second": "Telefon",
+    "third": "Akıllı",
+    "fourth": "Turuncu",
+    "fifth": "Ekonomik"
+  },
+  {
+    "id": "121",
+    "word": "Huawei",
+    "first": "Çin",
+    "second": "Telefon",
+    "third": "Kırmızı",
+    "fourth": "Akıllı",
+    "fifth": "Kamera"
+  },
+  {
+    "id": "122",
+    "word": "Sony",
+    "first": "Japon",
+    "second": "Televizyon",
+    "third": "PlayStation",
+    "fourth": "Walkman",
+    "fifth": "Elektronik"
+  },
+  {
+    "id": "123",
+    "word": "LG",
+    "first": "Koreli",
+    "second": "Televizyon",
+    "third": "Beyaz eşya",
+    "fourth": "Elektronik",
+    "fifth": "Buzdolabı"
+  },
+  {
+    "id": "124",
+    "word": "Canon",
+    "first": "Fotoğraf makinesi",
+    "second": "Yazıcı",
+    "third": "Japon",
+    "fourth": "Lens",
+    "fifth": "Kamera"
+  },
+  {
+    "id": "125",
+    "word": "HP",
+    "first": "Yazıcı",
+    "second": "Bilgisayar",
+    "third": "Laptop",
+    "fourth": "Mürekkep",
+    "fifth": "Amerikan"
+  },
+  {
+    "id": "126",
+    "word": "JBL",
+    "first": "Hoparlör",
+    "second": "Kulaklık",
+    "third": "Bluetooth",
+    "fourth": "Ses",
+    "fifth": "Müzik"
+  },
+  {
+    "id": "127",
+    "word": "Casio",
+    "first": "Saat",
+    "second": "Hesap makinesi",
+    "third": "Dijital",
+    "fourth": "Japon",
+    "fifth": "Klavye"
+  },
+  {
+    "id": "128",
+    "word": "Duracell",
+    "first": "Pil",
+    "second": "Tavşan",
+    "third": "Enerji",
+    "fourth": "Bakır",
+    "fifth": "Kumanda"
+  },
+  {
+    "id": "129",
+    "word": "Nintendo",
+    "first": "Mario",
+    "second": "Japon",
+    "third": "Konsol",
+    "fourth": "Oyun",
+    "fifth": "Switch"
+  },
+  {
+    "id": "130",
+    "word": "Digiturk",
+    "first": "Futbol",
+    "second": "Uydu",
+    "third": "Lig",
+    "fourth": "Kanal",
+    "fifth": "Abonelik"
+  },
+  {
+    "id": "131",
+    "word": "D-Smart",
+    "first": "Uydu",
+    "second": "Televizyon",
+    "third": "Kanal",
+    "fourth": "Abonelik",
+    "fifth": "Çanak"
+  },
+  {
+    "id": "132",
+    "word": "Arçelik",
+    "first": "Buzdolabı",
+    "second": "Beyaz eşya",
+    "third": "Çamaşır makinesi",
+    "fourth": "Koç",
+    "fifth": "Robot"
+  },
+  {
+    "id": "133",
+    "word": "Beko",
+    "first": "Beyaz eşya",
+    "second": "Buzdolabı",
+    "third": "Fırın",
+    "fourth": "Koç",
+    "fifth": "Bulaşık makinesi"
+  },
+  {
+    "id": "134",
+    "word": "Vestel",
+    "first": "Televizyon",
+    "second": "Manisa",
+    "third": "Beyaz eşya",
+    "fourth": "Elektronik",
+    "fifth": "Zorlu"
+  },
+  {
+    "id": "135",
+    "word": "Bosch",
+    "first": "Alman",
+    "second": "Matkap",
+    "third": "Buzdolabı",
+    "fourth": "Beyaz eşya",
+    "fifth": "Fırın"
+  },
+  {
+    "id": "136",
+    "word": "Siemens",
+    "first": "Alman",
+    "second": "Beyaz eşya",
+    "third": "Elektrik",
+    "fourth": "Buzdolabı",
+    "fifth": "Mühendislik"
+  },
+  {
+    "id": "137",
+    "word": "Profilo",
+    "first": "Beyaz eşya",
+    "second": "Buzdolabı",
+    "third": "Çamaşır makinesi",
+    "fourth": "Fırın",
+    "fifth": "Bulaşık makinesi"
+  },
+  {
+    "id": "138",
+    "word": "Altus",
+    "first": "Beyaz eşya",
+    "second": "Ocak",
+    "third": "Fırın",
+    "fourth": "Buzdolabı",
+    "fifth": "Ankastre"
+  },
+  {
+    "id": "139",
+    "word": "Arzum",
+    "first": "Okka",
+    "second": "Kahve makinesi",
+    "third": "Saç kurutma",
+    "fourth": "Mutfak",
+    "fifth": "Blender"
+  },
+  {
+    "id": "140",
+    "word": "Tefal",
+    "first": "Tava",
+    "second": "Yapışmaz",
+    "third": "Tencere",
+    "fourth": "Mutfak",
+    "fifth": "Ütü"
+  },
+  {
+    "id": "141",
+    "word": "Philips",
+    "first": "Tıraş makinesi",
+    "second": "Ampul",
+    "third": "Hollanda",
+    "fourth": "Ütü",
+    "fifth": "Elektronik"
+  },
+  {
+    "id": "142",
+    "word": "Dyson",
+    "first": "Süpürge",
+    "second": "Saç kurutma",
+    "third": "Kablosuz",
+    "fourth": "Pahalı",
+    "fifth": "İngiliz"
+  },
+  {
+    "id": "143",
+    "word": "Sinbo",
+    "first": "Blender",
+    "second": "Tost makinesi",
+    "third": "Küçük ev aleti",
+    "fourth": "Ekonomik",
+    "fifth": "Mutfak"
+  },
+  {
+    "id": "144",
+    "word": "Kärcher",
+    "first": "Basınçlı yıkama",
+    "second": "Temizlik",
+    "third": "Sarı",
+    "fourth": "Halı",
+    "fifth": "Su"
+  },
+  {
+    "id": "145",
+    "word": "Flormar",
+    "first": "Oje",
+    "second": "Ruj",
+    "third": "Makyaj",
+    "fourth": "Kozmetik",
+    "fifth": "Rimel"
+  },
+  {
+    "id": "146",
+    "word": "Golden Rose",
+    "first": "Oje",
+    "second": "Ruj",
+    "third": "Makyaj",
+    "fourth": "Kozmetik",
+    "fifth": "Rimel"
+  },
+  {
+    "id": "147",
+    "word": "Avon",
+    "first": "Katalog",
+    "second": "Kozmetik",
+    "third": "Parfüm",
+    "fourth": "Satış",
+    "fifth": "Ruj"
+  },
+  {
+    "id": "148",
+    "word": "Oriflame",
+    "first": "Katalog",
+    "second": "Kozmetik",
+    "third": "İsveç",
+    "fourth": "Parfüm",
+    "fifth": "Satış"
+  },
+  {
+    "id": "149",
+    "word": "Farmasi",
+    "first": "Katalog",
+    "second": "Kozmetik",
+    "third": "Satış",
+    "fourth": "Ruj",
+    "fifth": "Cilt bakımı"
+  },
+  {
+    "id": "150",
+    "word": "Nivea",
+    "first": "Krem",
+    "second": "Mavi",
+    "third": "Kutu",
+    "fourth": "Cilt",
+    "fifth": "Nemlendirici"
+  },
+  {
+    "id": "151",
+    "word": "L'Oréal",
+    "first": "Şampuan",
+    "second": "Saç boyası",
+    "third": "Fransız",
+    "fourth": "Makyaj",
+    "fifth": "Kozmetik"
+  },
+  {
+    "id": "152",
+    "word": "Garnier",
+    "first": "Şampuan",
+    "second": "Saç boyası",
+    "third": "Yeşil",
+    "fourth": "Cilt",
+    "fifth": "Kozmetik"
+  },
+  {
+    "id": "153",
+    "word": "Head & Shoulders",
+    "first": "Şampuan",
+    "second": "Kepek",
+    "third": "Saç",
+    "fourth": "Mavi",
+    "fifth": "Duş"
+  },
+  {
+    "id": "154",
+    "word": "Elidor",
+    "first": "Şampuan",
+    "second": "Saç",
+    "third": "Krem",
+    "fourth": "Kozmetik",
+    "fifth": "Duş"
+  },
+  {
+    "id": "155",
+    "word": "Pantene",
+    "first": "Şampuan",
+    "second": "Saç",
+    "third": "Krem",
+    "fourth": "Parlak",
+    "fifth": "Bakım"
+  },
+  {
+    "id": "156",
+    "word": "Dove",
+    "first": "Sabun",
+    "second": "Krem",
+    "third": "Güvercin",
+    "fourth": "Cilt",
+    "fifth": "Duş jeli"
+  },
+  {
+    "id": "157",
+    "word": "Rexona",
+    "first": "Deodorant",
+    "second": "Ter",
+    "third": "Koltuk altı",
+    "fourth": "Sprey",
+    "fifth": "Koku"
+  },
+  {
+    "id": "158",
+    "word": "Axe",
+    "first": "Deodorant",
+    "second": "Erkek",
+    "third": "Parfüm",
+    "fourth": "Sprey",
+    "fifth": "Koku"
+  },
+  {
+    "id": "159",
+    "word": "Gillette",
+    "first": "Tıraş",
+    "second": "Jilet",
+    "third": "Bıçak",
+    "fourth": "Erkek",
+    "fifth": "Köpük"
+  },
+  {
+    "id": "160",
+    "word": "Colgate",
+    "first": "Diş macunu",
+    "second": "Fırça",
+    "third": "Beyaz",
+    "fourth": "Gülümseme",
+    "fifth": "Kırmızı"
+  },
+  {
+    "id": "161",
+    "word": "Signal",
+    "first": "Diş macunu",
+    "second": "Fırça",
+    "third": "Diş",
+    "fourth": "Beyaz",
+    "fifth": "Çizgili"
+  },
+  {
+    "id": "162",
+    "word": "Ipana",
+    "first": "Diş macunu",
+    "second": "Fırça",
+    "third": "Diş",
+    "fourth": "Dişçi",
+    "fifth": "Beyaz"
+  },
+  {
+    "id": "163",
+    "word": "Duru",
+    "first": "Sabun",
+    "second": "Banyo",
+    "third": "Duş",
+    "fourth": "Köpük",
+    "fifth": "Kalıp"
+  },
+  {
+    "id": "164",
+    "word": "Hacı Şakir",
+    "first": "Sabun",
+    "second": "Kolonya",
+    "third": "Banyo",
+    "fourth": "Zeytinyağlı",
+    "fifth": "Duş jeli"
+  },
+  {
+    "id": "165",
+    "word": "Eyüp Sabri Tuncer",
+    "first": "Kolonya",
+    "second": "Limon",
+    "third": "Koku",
+    "fourth": "Şişe",
+    "fifth": "Bayram"
+  },
+  {
+    "id": "166",
+    "word": "Rebul",
+    "first": "Kolonya",
+    "second": "Lavanta",
+    "third": "Koku",
+    "fourth": "Şişe",
+    "fifth": "Parfüm"
+  },
+  {
+    "id": "167",
+    "word": "Chanel",
+    "first": "Parfüm",
+    "second": "Fransız",
+    "third": "Lüks",
+    "fourth": "Coco",
+    "fifth": "Moda"
+  },
+  {
+    "id": "168",
+    "word": "Selpak",
+    "first": "Mendil",
+    "second": "Peçete",
+    "third": "Kağıt",
+    "fourth": "Paket",
+    "fifth": "Burun"
+  },
+  {
+    "id": "169",
+    "word": "Familia",
+    "first": "Tuvalet kağıdı",
+    "second": "Peçete",
+    "third": "Rulo",
+    "fourth": "Kağıt",
+    "fifth": "Aile"
+  },
+  {
+    "id": "170",
+    "word": "Prima",
+    "first": "Bebek bezi",
+    "second": "Bebek",
+    "third": "Islak mendil",
+    "fourth": "Çocuk",
+    "fifth": "Alt"
+  },
+  {
+    "id": "171",
+    "word": "Molfix",
+    "first": "Bebek bezi",
+    "second": "Bebek",
+    "third": "Pişik",
+    "fourth": "Alt",
+    "fifth": "Hijyen"
+  },
+  {
+    "id": "172",
+    "word": "Ariel",
+    "first": "Deterjan",
+    "second": "Çamaşır",
+    "third": "Toz",
+    "fourth": "Leke",
+    "fifth": "Makine"
+  },
+  {
+    "id": "173",
+    "word": "Omo",
+    "first": "Deterjan",
+    "second": "Çamaşır",
+    "third": "Leke",
+    "fourth": "Toz",
+    "fifth": "Makine"
+  },
+  {
+    "id": "174",
+    "word": "Persil",
+    "first": "Deterjan",
+    "second": "Çamaşır",
+    "third": "Leke",
+    "fourth": "Alman",
+    "fifth": "Toz"
+  },
+  {
+    "id": "175",
+    "word": "Bingo",
+    "first": "Deterjan",
+    "second": "Çamaşır",
+    "third": "Tombala",
+    "fourth": "Toz",
+    "fifth": "Leke"
+  },
+  {
+    "id": "176",
+    "word": "Fairy",
+    "first": "Bulaşık",
+    "second": "Deterjan",
+    "third": "Yeşil",
+    "fourth": "Sünger",
+    "fifth": "Tabak"
+  },
+  {
+    "id": "177",
+    "word": "Pril",
+    "first": "Bulaşık",
+    "second": "Deterjan",
+    "third": "Sünger",
+    "fourth": "Tabak",
+    "fifth": "Köpük"
+  },
+  {
+    "id": "178",
+    "word": "Finish",
+    "first": "Bulaşık makinesi",
+    "second": "Tablet",
+    "third": "Tabak",
+    "fourth": "Parlatıcı",
+    "fifth": "Kapsül"
+  },
+  {
+    "id": "179",
+    "word": "Domestos",
+    "first": "Çamaşır suyu",
+    "second": "Tuvalet",
+    "third": "Temizlik",
+    "fourth": "Mikrop",
+    "fifth": "Kalın"
+  },
+  {
+    "id": "180",
+    "word": "ACE",
+    "first": "Çamaşır suyu",
+    "second": "Beyaz",
+    "third": "Leke",
+    "fourth": "Temizlik",
+    "fifth": "Şişe"
+  },
+  {
+    "id": "181",
+    "word": "Cif",
+    "first": "Krem",
+    "second": "Temizlik",
+    "third": "Ovmak",
+    "fourth": "Banyo",
+    "fifth": "Mutfak"
+  },
+  {
+    "id": "182",
+    "word": "Vernel",
+    "first": "Yumuşatıcı",
+    "second": "Çamaşır",
+    "third": "Koku",
+    "fourth": "Şişe",
+    "fifth": "Mavi"
+  },
+  {
+    "id": "183",
+    "word": "Yumoş",
+    "first": "Yumuşatıcı",
+    "second": "Ayıcık",
+    "third": "Çamaşır",
+    "fourth": "Koku",
+    "fifth": "Şişe"
+  },
+  {
+    "id": "184",
+    "word": "LC Waikiki",
+    "first": "Giyim",
+    "second": "Mağaza",
+    "third": "Ekonomik",
+    "fourth": "Mavi",
+    "fifth": "Çocuk"
+  },
+  {
+    "id": "185",
+    "word": "DeFacto",
+    "first": "Giyim",
+    "second": "Mağaza",
+    "third": "Genç",
+    "fourth": "Tişört",
+    "fifth": "Kot"
+  },
+  {
+    "id": "186",
+    "word": "Koton",
+    "first": "Giyim",
+    "second": "Mağaza",
+    "third": "Kadın",
+    "fourth": "Elbise",
+    "fifth": "Moda"
+  },
+  {
+    "id": "187",
+    "word": "Mavi",
+    "first": "Kot",
+    "second": "Pantolon",
+    "third": "Giyim",
+    "fourth": "Mağaza",
+    "fifth": "Jean"
+  },
+  {
+    "id": "188",
+    "word": "Colin's",
+    "first": "Kot",
+    "second": "Pantolon",
+    "third": "Giyim",
+    "fourth": "Mağaza",
+    "fifth": "Genç"
+  },
+  {
+    "id": "189",
+    "word": "Zara",
+    "first": "İspanyol",
+    "second": "Giyim",
+    "third": "Moda",
+    "fourth": "Mağaza",
+    "fifth": "Kadın"
+  },
+  {
+    "id": "190",
+    "word": "Bershka",
+    "first": "Giyim",
+    "second": "Genç",
+    "third": "Moda",
+    "fourth": "Mağaza",
+    "fifth": "İspanyol"
+  },
+  {
+    "id": "191",
+    "word": "H&M",
+    "first": "İsveç",
+    "second": "Giyim",
+    "third": "Mağaza",
+    "fourth": "Moda",
+    "fifth": "Kırmızı"
+  },
+  {
+    "id": "192",
+    "word": "Nike",
+    "first": "Spor",
+    "second": "Ayakkabı",
+    "third": "Tik",
+    "fourth": "Koşu",
+    "fifth": "Amerikan"
+  },
+  {
+    "id": "193",
+    "word": "Adidas",
+    "first": "Spor",
+    "second": "Ayakkabı",
+    "third": "Üç çizgi",
+    "fourth": "Alman",
+    "fifth": "Eşofman"
+  },
+  {
+    "id": "194",
+    "word": "Converse",
+    "first": "Ayakkabı",
+    "second": "Bez",
+    "third": "Yıldız",
+    "fourth": "Bilekli",
+    "fifth": "Spor"
+  },
+  {
+    "id": "195",
+    "word": "Vans",
+    "first": "Kaykay",
+    "second": "Ayakkabı",
+    "third": "Damalı",
+    "fourth": "Bez",
+    "fifth": "Genç"
+  },
+  {
+    "id": "196",
+    "word": "Levi's",
+    "first": "Kot",
+    "second": "Pantolon",
+    "third": "501",
+    "fourth": "Amerikan",
+    "fifth": "Kırmızı etiket"
+  },
+  {
+    "id": "197",
+    "word": "Hotiç",
+    "first": "Ayakkabı",
+    "second": "Çanta",
+    "third": "Kadın",
+    "fourth": "Topuklu",
+    "fifth": "Deri"
+  },
+  {
+    "id": "198",
+    "word": "Derimod",
+    "first": "Mont",
+    "second": "Ceket",
+    "third": "Ayakkabı",
+    "fourth": "Çanta",
+    "fifth": "Kışlık"
+  },
+  {
+    "id": "199",
+    "word": "Vakko",
+    "first": "Lüks",
+    "second": "Eşarp",
+    "third": "Moda",
+    "fourth": "Çikolata",
+    "fifth": "Nişantaşı"
+  },
+  {
+    "id": "200",
+    "word": "Beymen",
+    "first": "Lüks",
+    "second": "Mağaza",
+    "third": "Nişantaşı",
+    "fourth": "Moda",
+    "fifth": "Pahalı"
+  },
+  {
+    "id": "201",
+    "word": "Penti",
+    "first": "Çorap",
+    "second": "Külotlu",
+    "third": "Pijama",
+    "fourth": "Kadın",
+    "fifth": "Mağaza"
+  },
+  {
+    "id": "202",
+    "word": "Kiğılı",
+    "first": "Takım elbise",
+    "second": "Erkek",
+    "third": "Gömlek",
+    "fourth": "Kravat",
+    "fifth": "Damat"
+  },
+  {
+    "id": "203",
+    "word": "Ramsey",
+    "first": "Takım elbise",
+    "second": "Erkek",
+    "third": "Kravat",
+    "fourth": "Gömlek",
+    "fifth": "Klasik"
+  },
+  {
+    "id": "204",
+    "word": "Damat Tween",
+    "first": "Takım elbise",
+    "second": "Erkek",
+    "third": "Düğün",
+    "fourth": "Kravat",
+    "fifth": "Gömlek"
+  },
+  {
+    "id": "205",
+    "word": "Avva",
+    "first": "Erkek",
+    "second": "Gömlek",
+    "third": "Polo yaka",
+    "fourth": "Giyim",
+    "fifth": "Mağaza"
+  },
+  {
+    "id": "206",
+    "word": "Altınyıldız",
+    "first": "Kumaş",
+    "second": "Takım elbise",
+    "third": "Erkek",
+    "fourth": "Yün",
+    "fifth": "Ceket"
+  },
+  {
+    "id": "207",
+    "word": "Lumberjack",
+    "first": "Bot",
+    "second": "Ayakkabı",
+    "third": "Oduncu",
+    "fourth": "Spor",
+    "fifth": "Kışlık"
+  },
+  {
+    "id": "208",
+    "word": "Hummel",
+    "first": "Spor",
+    "second": "Forma",
+    "third": "Danimarka",
+    "fourth": "Eşofman",
+    "fifth": "Arı"
+  },
+  {
+    "id": "209",
+    "word": "Lacoste",
+    "first": "Timsah",
+    "second": "Polo yaka",
+    "third": "Fransız",
+    "fourth": "Tişört",
+    "fifth": "Tenis"
+  },
+  {
+    "id": "210",
+    "word": "Gucci",
+    "first": "Lüks",
+    "second": "İtalyan",
+    "third": "Çanta",
+    "fourth": "Moda",
+    "fifth": "Pahalı"
+  },
+  {
+    "id": "211",
+    "word": "Louis Vuitton",
+    "first": "Çanta",
+    "second": "Lüks",
+    "third": "Fransız",
+    "fourth": "Desen",
+    "fifth": "Pahalı"
+  },
+  {
+    "id": "212",
+    "word": "Ray-Ban",
+    "first": "Güneş",
+    "second": "Gözlük",
+    "third": "Pilot",
+    "fourth": "Yaz",
+    "fifth": "Çerçeve"
+  },
+  {
+    "id": "213",
+    "word": "Rolex",
+    "first": "Saat",
+    "second": "Lüks",
+    "third": "İsviçre",
+    "fourth": "Taç",
+    "fifth": "Altın"
+  },
+  {
+    "id": "214",
+    "word": "Tofaş",
+    "first": "Şahin",
+    "second": "Doğan",
+    "third": "Kartal",
+    "fourth": "Bursa",
+    "fifth": "Araba"
+  },
+  {
+    "id": "215",
+    "word": "Ford",
+    "first": "Araba",
+    "second": "Amerikan",
+    "third": "Mavi",
+    "fourth": "Transit",
+    "fifth": "Kamyon"
+  },
+  {
+    "id": "216",
+    "word": "Fiat",
+    "first": "Araba",
+    "second": "İtalyan",
+    "third": "Egea",
+    "fourth": "Doblo",
+    "fifth": "Bursa"
+  },
+  {
+    "id": "217",
+    "word": "Renault",
+    "first": "Araba",
+    "second": "Fransız",
+    "third": "Clio",
+    "fourth": "Bursa",
+    "fifth": "Oyak"
+  },
+  {
+    "id": "218",
+    "word": "Toyota",
+    "first": "Araba",
+    "second": "Japon",
+    "third": "Corolla",
+    "fourth": "Hibrit",
+    "fifth": "Sakarya"
+  },
+  {
+    "id": "219",
+    "word": "Hyundai",
+    "first": "Araba",
+    "second": "Koreli",
+    "third": "İzmit",
+    "fourth": "Accent",
+    "fifth": "i20"
+  },
+  {
+    "id": "220",
+    "word": "Mercedes",
+    "first": "Araba",
+    "second": "Alman",
+    "third": "Yıldız",
+    "fourth": "Lüks",
+    "fifth": "Otobüs"
+  },
+  {
+    "id": "221",
+    "word": "BMW",
+    "first": "Araba",
+    "second": "Alman",
+    "third": "Bavyera",
+    "fourth": "Lüks",
+    "fifth": "Mavi beyaz"
+  },
+  {
+    "id": "222",
+    "word": "Volkswagen",
+    "first": "Araba",
+    "second": "Alman",
+    "third": "Golf",
+    "fourth": "Passat",
+    "fifth": "Vosvos"
+  },
+  {
+    "id": "223",
+    "word": "Audi",
+    "first": "Araba",
+    "second": "Alman",
+    "third": "Halka",
+    "fourth": "Dört",
+    "fifth": "Lüks"
+  },
+  {
+    "id": "224",
+    "word": "Opel",
+    "first": "Araba",
+    "second": "Alman",
+    "third": "Astra",
+    "fourth": "Corsa",
+    "fifth": "Şimşek"
+  },
+  {
+    "id": "225",
+    "word": "Peugeot",
+    "first": "Araba",
+    "second": "Fransız",
+    "third": "Aslan",
+    "fourth": "206",
+    "fifth": "Partner"
+  },
+  {
+    "id": "226",
+    "word": "Honda",
+    "first": "Araba",
+    "second": "Japon",
+    "third": "Motosiklet",
+    "fourth": "Civic",
+    "fifth": "Kırmızı"
+  },
+  {
+    "id": "227",
+    "word": "Dacia",
+    "first": "Araba",
+    "second": "Duster",
+    "third": "Romanya",
+    "fourth": "Ekonomik",
+    "fifth": "Renault"
+  },
+  {
+    "id": "228",
+    "word": "Skoda",
+    "first": "Araba",
+    "second": "Çek",
+    "third": "Octavia",
+    "fourth": "Yeşil",
+    "fifth": "Superb"
+  },
+  {
+    "id": "229",
+    "word": "Ferrari",
+    "first": "Kırmızı",
+    "second": "İtalyan",
+    "third": "Formula 1",
+    "fourth": "Spor araba",
+    "fifth": "At"
+  },
+  {
+    "id": "230",
+    "word": "Otokar",
+    "first": "Otobüs",
+    "second": "Askeri",
+    "third": "Sakarya",
+    "fourth": "Koç",
+    "fifth": "Zırhlı"
+  },
+  {
+    "id": "231",
+    "word": "BMC",
+    "first": "Kamyon",
+    "second": "Askeri",
+    "third": "İzmir",
+    "fourth": "Zırhlı",
+    "fifth": "Otobüs"
+  },
+  {
+    "id": "232",
+    "word": "Lassa",
+    "first": "Lastik",
+    "second": "Tekerlek",
+    "third": "Araba",
+    "fourth": "Kış lastiği",
+    "fifth": "Sabancı"
+  },
+  {
+    "id": "233",
+    "word": "Pirelli",
+    "first": "Lastik",
+    "second": "İtalyan",
+    "third": "Formula 1",
+    "fourth": "Takvim",
+    "fifth": "Tekerlek"
+  },
+  {
+    "id": "234",
+    "word": "Michelin",
+    "first": "Lastik",
+    "second": "Fransız",
+    "third": "Yıldız",
+    "fourth": "Restoran",
+    "fifth": "Tekerlek"
+  },
+  {
+    "id": "235",
+    "word": "Shell",
+    "first": "Benzin",
+    "second": "İstasyon",
+    "third": "Sarı",
+    "fourth": "Akaryakıt",
+    "fifth": "Deniz kabuğu"
+  },
+  {
+    "id": "236",
+    "word": "Opet",
+    "first": "Benzin",
+    "second": "İstasyon",
+    "third": "Akaryakıt",
+    "fourth": "Pompa",
+    "fifth": "Depo"
+  },
+  {
+    "id": "237",
+    "word": "Petrol Ofisi",
+    "first": "Benzin",
+    "second": "İstasyon",
+    "third": "Akaryakıt",
+    "fourth": "Pompa",
+    "fifth": "Depo"
+  },
+  {
+    "id": "238",
+    "word": "BP",
+    "first": "Benzin",
+    "second": "İstasyon",
+    "third": "Yeşil",
+    "fourth": "İngiliz",
+    "fifth": "Akaryakıt"
+  },
+  {
+    "id": "239",
+    "word": "THY",
+    "first": "Uçak",
+    "second": "Havayolu",
+    "third": "Pilot",
+    "fourth": "Kırmızı",
+    "fifth": "Uçuş"
+  },
+  {
+    "id": "240",
+    "word": "Pegasus",
+    "first": "Uçak",
+    "second": "Havayolu",
+    "third": "Sarı",
+    "fourth": "Bilet",
+    "fifth": "Uçuş"
+  },
+  {
+    "id": "241",
+    "word": "AJet",
+    "first": "Uçak",
+    "second": "Havayolu",
+    "third": "Bilet",
+    "fourth": "Uçuş",
+    "fifth": "Ekonomik"
+  },
+  {
+    "id": "242",
+    "word": "SunExpress",
+    "first": "Uçak",
+    "second": "Güneş",
+    "third": "Antalya",
+    "fourth": "Tatil",
+    "fifth": "Havayolu"
+  },
+  {
+    "id": "243",
+    "word": "Kamil Koç",
+    "first": "Otobüs",
+    "second": "Terminal",
+    "third": "Muavin",
+    "fourth": "Bilet",
+    "fifth": "Yolculuk"
+  },
+  {
+    "id": "244",
+    "word": "Metro Turizm",
+    "first": "Otobüs",
+    "second": "Bilet",
+    "third": "Muavin",
+    "fourth": "Terminal",
+    "fifth": "Yolculuk"
+  },
+  {
+    "id": "245",
+    "word": "Pamukkale Turizm",
+    "first": "Otobüs",
+    "second": "Muavin",
+    "third": "Terminal",
+    "fourth": "Bilet",
+    "fifth": "Denizli"
+  },
+  {
+    "id": "246",
+    "word": "İDO",
+    "first": "Feribot",
+    "second": "Deniz otobüsü",
+    "third": "İstanbul",
+    "fourth": "Vapur",
+    "fifth": "Bilet"
+  },
+  {
+    "id": "247",
+    "word": "BiTaksi",
+    "first": "Uygulama",
+    "second": "Sarı",
+    "third": "Şoför",
+    "fourth": "Çağırmak",
+    "fifth": "Yolculuk"
+  },
+  {
+    "id": "248",
+    "word": "Uber",
+    "first": "Taksi",
+    "second": "Uygulama",
+    "third": "Şoför",
+    "fourth": "Amerikan",
+    "fifth": "Yolculuk"
+  },
+  {
+    "id": "249",
+    "word": "PTT",
+    "first": "Mektup",
+    "second": "Posta",
+    "third": "Kargo",
+    "fourth": "Sarı",
+    "fifth": "Pul"
+  },
+  {
+    "id": "250",
+    "word": "Yurtiçi Kargo",
+    "first": "Paket",
+    "second": "Kurye",
+    "third": "Teslimat",
+    "fourth": "Mavi",
+    "fifth": "Gönderi"
+  },
+  {
+    "id": "251",
+    "word": "Aras Kargo",
+    "first": "Paket",
+    "second": "Kurye",
+    "third": "Teslimat",
+    "fourth": "Gönderi",
+    "fifth": "Şube"
+  },
+  {
+    "id": "252",
+    "word": "MNG Kargo",
+    "first": "Paket",
+    "second": "Kurye",
+    "third": "Teslimat",
+    "fourth": "Gönderi",
+    "fifth": "Takip"
+  },
+  {
+    "id": "253",
+    "word": "Ziraat Bankası",
+    "first": "Çiftçi",
+    "second": "Devlet",
+    "third": "Kredi",
+    "fourth": "Şube",
+    "fifth": "Hesap"
+  },
+  {
+    "id": "254",
+    "word": "İş Bankası",
+    "first": "Atatürk",
+    "second": "Hesap",
+    "third": "Şube",
+    "fourth": "Kumbara",
+    "fifth": "Mavi"
+  },
+  {
+    "id": "255",
+    "word": "Garanti BBVA",
+    "first": "Yeşil",
+    "second": "Kredi kartı",
+    "third": "Bonus",
+    "fourth": "Şube",
+    "fifth": "Hesap"
+  },
+  {
+    "id": "256",
+    "word": "Akbank",
+    "first": "Kırmızı",
+    "second": "Sabancı",
+    "third": "Kredi kartı",
+    "fourth": "Axess",
+    "fifth": "Hesap"
+  },
+  {
+    "id": "257",
+    "word": "Yapı Kredi",
+    "first": "World",
+    "second": "Koç",
+    "third": "Mavi",
+    "fourth": "Kart",
+    "fifth": "Hesap"
+  },
+  {
+    "id": "258",
+    "word": "Halkbank",
+    "first": "Esnaf",
+    "second": "Devlet",
+    "third": "Kredi",
+    "fourth": "Hesap",
+    "fifth": "Şube"
+  },
+  {
+    "id": "259",
+    "word": "VakıfBank",
+    "first": "Devlet",
+    "second": "Sarı",
+    "third": "Kredi",
+    "fourth": "Hesap",
+    "fifth": "Şube"
+  },
+  {
+    "id": "260",
+    "word": "Allianz",
+    "first": "Sigorta",
+    "second": "Alman",
+    "third": "Kasko",
+    "fourth": "Poliçe",
+    "fifth": "Mavi"
+  },
+  {
+    "id": "261",
+    "word": "Trendyol",
+    "first": "Online alışveriş",
+    "second": "Turuncu",
+    "third": "Kargo",
+    "fourth": "İndirim",
+    "fifth": "Moda"
+  },
+  {
+    "id": "262",
+    "word": "Hepsiburada",
+    "first": "Online alışveriş",
+    "second": "Kargo",
+    "third": "Sepet",
+    "fourth": "Elektronik",
+    "fifth": "Premium"
+  },
+  {
+    "id": "263",
+    "word": "n11",
+    "first": "Online alışveriş",
+    "second": "Kargo",
+    "third": "Sepet",
+    "fourth": "İndirim",
+    "fifth": "Kampanya"
+  },
+  {
+    "id": "264",
+    "word": "Getir",
+    "first": "Mor",
+    "second": "Kurye",
+    "third": "Market",
+    "fourth": "Dakika",
+    "fifth": "Motor"
+  },
+  {
+    "id": "265",
+    "word": "Yemeksepeti",
+    "first": "Sipariş",
+    "second": "Restoran",
+    "third": "Kurye",
+    "fourth": "Kırmızı",
+    "fifth": "Uygulama"
+  },
+  {
+    "id": "266",
+    "word": "Sahibinden",
+    "first": "İlan",
+    "second": "Araba",
+    "third": "Emlak",
+    "fourth": "Satılık",
+    "fifth": "Sarı"
+  },
+  {
+    "id": "267",
+    "word": "Letgo",
+    "first": "İkinci el",
+    "second": "İlan",
+    "third": "Satmak",
+    "fourth": "Uygulama",
+    "fifth": "Kırmızı"
+  },
+  {
+    "id": "268",
+    "word": "Çiçeksepeti",
+    "first": "Buket",
+    "second": "Hediye",
+    "third": "Sipariş",
+    "fourth": "Gül",
+    "fifth": "Kurye"
+  },
+  {
+    "id": "269",
+    "word": "TRT",
+    "first": "Devlet",
+    "second": "Kanal",
+    "third": "Televizyon",
+    "fourth": "Haber",
+    "fifth": "Radyo"
+  },
+  {
+    "id": "270",
+    "word": "Exxen",
+    "first": "Dizi",
+    "second": "Platform",
+    "third": "Acun",
+    "fourth": "Futbol",
+    "fifth": "Abonelik"
+  },
+  {
+    "id": "271",
+    "word": "Disney",
+    "first": "Mickey",
+    "second": "Çizgi film",
+    "third": "Şato",
+    "fourth": "Prenses",
+    "fifth": "Walt"
+  },
+  {
+    "id": "272",
+    "word": "Marvel",
+    "first": "Süper kahraman",
+    "second": "Çizgi roman",
+    "third": "Avengers",
+    "fourth": "Örümcek Adam",
+    "fifth": "Film"
+  },
+  {
+    "id": "273",
+    "word": "Lego",
+    "first": "Oyuncak",
+    "second": "Parça",
+    "third": "Tuğla",
+    "fourth": "Danimarka",
+    "fifth": "Yapmak"
+  },
+  {
+    "id": "274",
+    "word": "Faber-Castell",
+    "first": "Kalem",
+    "second": "Boya kalemi",
+    "third": "Kırtasiye",
+    "fourth": "Alman",
+    "fifth": "Silgi"
+  },
+  {
+    "id": "275",
+    "word": "Bic",
+    "first": "Tükenmez kalem",
+    "second": "Çakmak",
+    "third": "Jilet",
+    "fourth": "Kırtasiye",
+    "fifth": "Turuncu"
+  },
+  {
+    "id": "276",
+    "word": "Facebook",
+    "first": "Sosyal medya",
+    "second": "Mark Zuckerberg",
+    "third": "Beğeni",
+    "fourth": "Arkadaş",
+    "fifth": "Mavi"
+  },
+  {
+    "id": "277",
+    "word": "Telegram",
+    "first": "Mesaj",
+    "second": "Kanal",
+    "third": "Kağıt uçak",
+    "fourth": "Grup",
+    "fifth": "Mavi"
+  },
+  {
+    "id": "278",
+    "word": "Snapchat",
+    "first": "Hayalet",
+    "second": "Sarı",
+    "third": "Filtre",
+    "fourth": "Fotoğraf",
+    "fifth": "Kaybolan"
+  },
+  {
+    "id": "279",
+    "word": "LinkedIn",
+    "first": "İş",
+    "second": "Kariyer",
+    "third": "Profil",
+    "fourth": "Bağlantı",
+    "fifth": "Özgeçmiş"
+  },
+  {
+    "id": "280",
+    "word": "Zoom",
+    "first": "Toplantı",
+    "second": "Görüntülü",
+    "third": "Online ders",
+    "fourth": "Kamera",
+    "fifth": "Mikrofon"
+  },
+  {
+    "id": "281",
+    "word": "Discord",
+    "first": "Sunucu",
+    "second": "Oyun",
+    "third": "Sesli",
+    "fourth": "Mor",
+    "fifth": "Kanal"
+  },
+  {
+    "id": "282",
+    "word": "Twitch",
+    "first": "Yayın",
+    "second": "Oyun",
+    "third": "Mor",
+    "fourth": "Canlı",
+    "fifth": "Yayıncı"
+  },
+  {
+    "id": "283",
+    "word": "Duolingo",
+    "first": "Dil",
+    "second": "Baykuş",
+    "third": "Yeşil",
+    "fourth": "Ders",
+    "fifth": "İngilizce"
+  },
+  {
+    "id": "284",
+    "word": "Wikipedia",
+    "first": "Ansiklopedi",
+    "second": "Bilgi",
+    "third": "Makale",
+    "fourth": "İnternet",
+    "fifth": "Kaynak"
+  },
+  {
+    "id": "285",
+    "word": "Airbnb",
+    "first": "Ev",
+    "second": "Kiralamak",
+    "third": "Tatil",
+    "fourth": "Konaklama",
+    "fifth": "Ev sahibi"
+  },
+  {
+    "id": "286",
+    "word": "Microsoft",
+    "first": "Windows",
+    "second": "Bill Gates",
+    "third": "Bilgisayar",
+    "fourth": "Office",
+    "fifth": "Amerikan"
+  },
+  {
+    "id": "287",
+    "word": "Intel",
+    "first": "İşlemci",
+    "second": "Bilgisayar",
+    "third": "Çip",
+    "fourth": "Mavi",
+    "fifth": "Pentium"
+  },
+  {
+    "id": "288",
+    "word": "Lenovo",
+    "first": "Laptop",
+    "second": "Bilgisayar",
+    "third": "Çin",
+    "fourth": "ThinkPad",
+    "fifth": "Kırmızı"
+  },
+  {
+    "id": "289",
+    "word": "Asus",
+    "first": "Laptop",
+    "second": "Bilgisayar",
+    "third": "Tayvan",
+    "fourth": "Anakart",
+    "fifth": "Oyun"
+  },
+  {
+    "id": "290",
+    "word": "Nokia",
+    "first": "Telefon",
+    "second": "Fin",
+    "third": "Yılan oyunu",
+    "fourth": "Sağlam",
+    "fifth": "3310"
+  },
+  {
+    "id": "291",
+    "word": "Visa",
+    "first": "Kredi kartı",
+    "second": "Ödeme",
+    "third": "Mavi",
+    "fourth": "Temassız",
+    "fifth": "Kart"
+  },
+  {
+    "id": "292",
+    "word": "Mastercard",
+    "first": "Kredi kartı",
+    "second": "Kırmızı sarı",
+    "third": "Daire",
+    "fourth": "Ödeme",
+    "fifth": "Kart"
+  },
+  {
+    "id": "293",
+    "word": "PayPal",
+    "first": "Ödeme",
+    "second": "Online",
+    "third": "Para transferi",
+    "fourth": "Mavi",
+    "fifth": "Hesap"
+  },
+  {
+    "id": "294",
+    "word": "DHL",
+    "first": "Kargo",
+    "second": "Sarı",
+    "third": "Kırmızı",
+    "fourth": "Kurye",
+    "fifth": "Uluslararası"
+  },
+  {
+    "id": "295",
+    "word": "Emirates",
+    "first": "Uçak",
+    "second": "Dubai",
+    "third": "Havayolu",
+    "fourth": "Lüks",
+    "fifth": "Kırmızı"
+  },
+  {
+    "id": "296",
+    "word": "Puma",
+    "first": "Spor",
+    "second": "Ayakkabı",
+    "third": "Kedi",
+    "fourth": "Alman",
+    "fifth": "Eşofman"
+  },
+  {
+    "id": "297",
+    "word": "Reebok",
+    "first": "Spor",
+    "second": "Ayakkabı",
+    "third": "Fitness",
+    "fourth": "Eşofman",
+    "fifth": "Koşu"
+  },
+  {
+    "id": "298",
+    "word": "New Balance",
+    "first": "Spor",
+    "second": "Ayakkabı",
+    "third": "Koşu",
+    "fourth": "Gri",
+    "fifth": "N harfi"
+  },
+  {
+    "id": "299",
+    "word": "Tommy Hilfiger",
+    "first": "Giyim",
+    "second": "Bayrak",
+    "third": "Lacivert",
+    "fourth": "Amerikan",
+    "fifth": "Moda"
+  },
+  {
+    "id": "300",
+    "word": "Prada",
+    "first": "Lüks",
+    "second": "İtalyan",
+    "third": "Çanta",
+    "fourth": "Moda",
+    "fifth": "Şeytan"
+  },
+  {
+    "id": "301",
+    "word": "Versace",
+    "first": "Lüks",
+    "second": "İtalyan",
+    "third": "Medusa",
+    "fourth": "Moda",
+    "fifth": "Altın"
+  },
+  {
+    "id": "302",
+    "word": "Dior",
+    "first": "Parfüm",
+    "second": "Fransız",
+    "third": "Lüks",
+    "fourth": "Moda",
+    "fifth": "Ruj"
+  },
+  {
+    "id": "303",
+    "word": "Maybelline",
+    "first": "Rimel",
+    "second": "Ruj",
+    "third": "Makyaj",
+    "fourth": "Kozmetik",
+    "fifth": "New York"
+  },
+  {
+    "id": "304",
+    "word": "Sephora",
+    "first": "Kozmetik",
+    "second": "Parfüm",
+    "third": "Mağaza",
+    "fourth": "Makyaj",
+    "fifth": "Siyah beyaz"
+  },
+  {
+    "id": "305",
+    "word": "Pampers",
+    "first": "Bebek bezi",
+    "second": "Bebek",
+    "third": "Pişik",
+    "fourth": "Alt",
+    "fifth": "Islak mendil"
+  },
+  {
+    "id": "306",
+    "word": "Porsche",
+    "first": "Spor araba",
+    "second": "Alman",
+    "third": "Lüks",
+    "fourth": "911",
+    "fifth": "Hızlı"
+  },
+  {
+    "id": "307",
+    "word": "Lamborghini",
+    "first": "Spor araba",
+    "second": "İtalyan",
+    "third": "Boğa",
+    "fourth": "Lüks",
+    "fifth": "Hızlı"
+  },
+  {
+    "id": "308",
+    "word": "Volvo",
+    "first": "Araba",
+    "second": "İsveç",
+    "third": "Güvenli",
+    "fourth": "Kamyon",
+    "fifth": "Lüks"
+  },
+  {
+    "id": "309",
+    "word": "Nissan",
+    "first": "Araba",
+    "second": "Japon",
+    "third": "Qashqai",
+    "fourth": "Micra",
+    "fifth": "Elektrikli"
+  },
+  {
+    "id": "310",
+    "word": "Kia",
+    "first": "Araba",
+    "second": "Koreli",
+    "third": "Sportage",
+    "fourth": "Picanto",
+    "fifth": "Ekonomik"
+  },
+  {
+    "id": "311",
+    "word": "Jeep",
+    "first": "Arazi aracı",
+    "second": "Amerikan",
+    "third": "Off-road",
+    "fourth": "Askeri",
+    "fifth": "Dört çeker"
+  },
+  {
+    "id": "312",
+    "word": "Yamaha",
+    "first": "Motosiklet",
+    "second": "Japon",
+    "third": "Piyano",
+    "fourth": "Org",
+    "fifth": "Müzik aleti"
+  },
+  {
+    "id": "313",
+    "word": "Dunkin'",
+    "first": "Donut",
+    "second": "Kahve",
+    "third": "Turuncu",
+    "fourth": "Pembe",
+    "fifth": "Amerikan"
+  },
+  {
+    "id": "314",
+    "word": "Subway",
+    "first": "Sandviç",
+    "second": "Ekmek",
+    "third": "Yeşil",
+    "fourth": "Sebze",
+    "fifth": "Tezgah"
+  },
+  {
+    "id": "315",
+    "word": "Hilton",
+    "first": "Otel",
+    "second": "Lüks",
+    "third": "Zincir",
+    "fourth": "Oda",
+    "fifth": "Amerikan"
+  },
+  {
+    "id": "316",
+    "word": "Hello Kitty",
+    "first": "Kedi",
+    "second": "Pembe",
+    "third": "Fiyonk",
+    "fourth": "Japon",
+    "fifth": "Sevimli"
+  }
+]

@@ -27,15 +27,6 @@
     "fifth": "Yağmur"
   },
   {
-    "id": "4",
-    "word": "Sahara",
-    "first": "Çöl",
-    "second": "Afrika",
-    "third": "Kum",
-    "fourth": "Sıcak",
-    "fifth": "Deve"
-  },
-  {
     "id": "5",
     "word": "Japonya",
     "first": "Tokyo",
@@ -47,7 +38,7 @@
   {
     "id": "6",
     "word": "Akdeniz",
-    "first": "Deniz",
+    "first": "Sahil",
     "second": "Güney",
     "third": "Antalya",
     "fourth": "Turizm",
@@ -90,15 +81,6 @@
     "fifth": "Göreme"
   },
   {
-    "id": "11",
-    "word": "Volkan",
-    "first": "Lav",
-    "second": "Patlama",
-    "third": "Dağ",
-    "fourth": "Krater",
-    "fifth": "Magma"
-  },
-  {
     "id": "12",
     "word": "Brezilya",
     "first": "Samba",
@@ -128,7 +110,7 @@
   {
     "id": "15",
     "word": "Atlas Okyanusu",
-    "first": "Okyanus",
+    "first": "Kristof Kolomb",
     "second": "Amerika",
     "third": "Avrupa",
     "fourth": "Batı",
@@ -186,7 +168,7 @@
     "second": "Beyaz",
     "third": "Denizli",
     "fourth": "Termal",
-    "fifth": "UNESCO"
+    "fifth": "Kireç"
   },
   {
     "id": "22",
@@ -213,7 +195,7 @@
     "second": "Kutup Ayısı",
     "third": "Soğuk",
     "fourth": "Arktik",
-    "fifth": "Kuzey"
+    "fifth": "Noel Baba"
   },
   {
     "id": "25",
@@ -245,7 +227,7 @@
   {
     "id": "28",
     "word": "Karadeniz",
-    "first": "Deniz",
+    "first": "Hamsi",
     "second": "Kuzey",
     "third": "Trabzon",
     "fourth": "Fındık",
@@ -336,8 +318,8 @@
     "id": "38",
     "word": "Büyük Okyanus",
     "first": "Pasifik",
-    "second": "En Büyük",
-    "third": "Okyanus",
+    "second": "Japonya",
+    "third": "Havai",
     "fourth": "Asya",
     "fifth": "Ada"
   },
@@ -551,7 +533,7 @@
   {
     "id": "62",
     "word": "Kızıldeniz",
-    "first": "Deniz",
+    "first": "Musa",
     "second": "Mısır",
     "third": "Süveyş",
     "fourth": "Mercan",
@@ -771,7 +753,7 @@
     "second": "Tarım",
     "third": "Arazi",
     "fourth": "Toprak",
-    "fifth": "Çukurova"
+    "fifth": "Verimli"
   },
   {
     "id": "87",
@@ -810,15 +792,6 @@
     "fifth": "İç Anadolu"
   },
   {
-    "id": "91",
-    "word": "Ozon Tabakası",
-    "first": "Atmosfer",
-    "second": "Koruma",
-    "third": "Delik",
-    "fourth": "Güneş",
-    "fifth": "Ultraviyole"
-  },
-  {
     "id": "92",
     "word": "Finlandiya",
     "first": "Helsinki",
@@ -835,15 +808,6 @@
     "third": "Üçgen",
     "fourth": "Ağız",
     "fifth": "Toprak"
-  },
-  {
-    "id": "94",
-    "word": "Küresel Isınma",
-    "first": "Sıcaklık",
-    "second": "İklim",
-    "third": "Buzul",
-    "fourth": "Sera",
-    "fifth": "Karbon"
   },
   {
     "id": "95",
@@ -902,7 +866,7 @@
   {
     "id": "101",
     "word": "Süveyş Kanalı",
-    "first": "Kanal",
+    "first": "Ticaret",
     "second": "Mısır",
     "third": "Gemi",
     "fourth": "Kızıldeniz",
@@ -934,15 +898,6 @@
     "third": "Batı",
     "fourth": "Keşif",
     "fifth": "İber"
-  },
-  {
-    "id": "105",
-    "word": "Gökkuşağı",
-    "first": "Renk",
-    "second": "Yağmur",
-    "third": "Güneş",
-    "fourth": "Yay",
-    "fifth": "Yedi"
   },
   {
     "id": "106",
@@ -1014,7 +969,7 @@
     "second": "Kutup",
     "third": "Gökyüzü",
     "fourth": "Norveç",
-    "fifth": "Işık"
+    "fifth": "Yeşil"
   },
   {
     "id": "114",
@@ -1056,7 +1011,7 @@
     "id": "118",
     "word": "Yarıkurak",
     "first": "İklim",
-    "second": "Kurak",
+    "second": "Bozkır",
     "third": "Step",
     "fourth": "Az Yağış",
     "fifth": "İç Anadolu"
@@ -1152,15 +1107,6 @@
     "fifth": "Samsung"
   },
   {
-    "id": "129",
-    "word": "Step",
-    "first": "Ot",
-    "second": "Düz",
-    "third": "Bozkır",
-    "fourth": "İç Asya",
-    "fifth": "Kurak"
-  },
-  {
     "id": "130",
     "word": "Danimarka",
     "first": "Kopenhag",
@@ -1176,7 +1122,7 @@
     "second": "Afet",
     "third": "Yağmur",
     "fourth": "Dağ",
-    "fifth": "Kayma"
+    "fifth": "Sel"
   },
   {
     "id": "132",
@@ -1343,7 +1289,7 @@
   {
     "id": "150",
     "word": "Panama Kanalı",
-    "first": "Kanal",
+    "first": "Pasifik",
     "second": "Gemi",
     "third": "Amerika",
     "fourth": "Okyanus",
@@ -1359,15 +1305,6 @@
     "fifth": "Kayak"
   },
   {
-    "id": "152",
-    "word": "Atmosfer",
-    "first": "Hava",
-    "second": "Katman",
-    "third": "Gaz",
-    "fourth": "Dünya",
-    "fifth": "Basınç"
-  },
-  {
     "id": "153",
     "word": "Cezayir",
     "first": "Afrika",
@@ -1380,7 +1317,7 @@
     "id": "154",
     "word": "Kayalık",
     "first": "Taş",
-    "second": "Kaya",
+    "second": "Uçurum",
     "third": "Sert",
     "fourth": "Dağ",
     "fifth": "Arazi"
@@ -1856,20 +1793,11 @@
   {
     "id": "207",
     "word": "Çanakkale Boğazı",
-    "first": "Boğaz",
-    "second": "Çanakkale",
+    "first": "Marmara",
+    "second": "Gelibolu",
     "third": "Savaş",
     "fourth": "Geçit",
     "fifth": "Ege"
-  },
-  {
-    "id": "208",
-    "word": "Madagaskar",
-    "first": "Ada",
-    "second": "Afrika",
-    "third": "Lemur",
-    "fourth": "Film",
-    "fifth": "Hint Okyanusu"
   },
   {
     "id": "209",
@@ -1964,7 +1892,7 @@
   {
     "id": "219",
     "word": "Hint Okyanusu",
-    "first": "Okyanus",
+    "first": "Maldivler",
     "second": "Hindistan",
     "third": "Sıcak",
     "fourth": "Muson",
@@ -2061,15 +1989,6 @@
     "fifth": "Turizm"
   },
   {
-    "id": "230",
-    "word": "Sera Etkisi",
-    "first": "Isınma",
-    "second": "Gaz",
-    "third": "Atmosfer",
-    "fourth": "Karbon",
-    "fifth": "İklim"
-  },
-  {
     "id": "231",
     "word": "Kiev",
     "first": "Ukrayna",
@@ -2142,15 +2061,6 @@
     "fifth": "Tatvan"
   },
   {
-    "id": "239",
-    "word": "Platolar",
-    "first": "Yüksek",
-    "second": "Düz",
-    "third": "Arazi",
-    "fourth": "Tibet",
-    "fifth": "Yayla"
-  },
-  {
     "id": "240",
     "word": "Kolombo",
     "first": "Sri Lanka",
@@ -2219,7 +2129,7 @@
     "first": "Derin",
     "second": "Okyanus",
     "third": "Pasifik",
-    "fourth": "Çukur",
+    "fourth": "Basınç",
     "fifth": "Deniz"
   },
   {
@@ -2232,21 +2142,111 @@
     "fifth": "Avrupa"
   },
   {
-    "id": "249",
-    "word": "Kapadokya",
-    "first": "Peri Bacaları",
-    "second": "Nevşehir",
-    "third": "Balon",
-    "fourth": "Ürgüp",
-    "fifth": "Göreme"
+    "id": "251",
+    "word": "Bodrum",
+    "first": "Muğla",
+    "second": "Tatil",
+    "third": "Marina",
+    "fourth": "Kale",
+    "fifth": "Ege"
   },
   {
-    "id": "250",
-    "word": "Pamukkale",
-    "first": "Traverten",
-    "second": "Denizli",
-    "third": "Beyaz",
-    "fourth": "Şifalı Su",
-    "fifth": "Havuz"
+    "id": "252",
+    "word": "Fethiye",
+    "first": "Ölüdeniz",
+    "second": "Muğla",
+    "third": "Yamaç Paraşütü",
+    "fourth": "Tatil",
+    "fifth": "Kelebekler Vadisi"
+  },
+  {
+    "id": "253",
+    "word": "Safranbolu",
+    "first": "Karabük",
+    "second": "Konak",
+    "third": "Lokum",
+    "fourth": "Tarihi Evler",
+    "fifth": "Çarşı"
+  },
+  {
+    "id": "254",
+    "word": "Mardin",
+    "first": "Taş Evler",
+    "second": "Süryani",
+    "third": "Mezopotamya",
+    "fourth": "Güneydoğu",
+    "fifth": "Midyat"
+  },
+  {
+    "id": "255",
+    "word": "Şanlıurfa",
+    "first": "Balıklıgöl",
+    "second": "Göbeklitepe",
+    "third": "Kebap",
+    "fourth": "Peygamberler",
+    "fifth": "Harran"
+  },
+  {
+    "id": "256",
+    "word": "Malatya",
+    "first": "Kayısı",
+    "second": "Battalgazi",
+    "third": "Doğu Anadolu",
+    "fourth": "Turuncu",
+    "fifth": "Deprem"
+  },
+  {
+    "id": "257",
+    "word": "Bolu",
+    "first": "Abant",
+    "second": "Aşçı",
+    "third": "Orman",
+    "fourth": "Yedigöller",
+    "fifth": "Mengen"
+  },
+  {
+    "id": "258",
+    "word": "Zonguldak",
+    "first": "Kömür",
+    "second": "Maden",
+    "third": "Karadeniz",
+    "fourth": "İşçi",
+    "fifth": "Ocak"
+  },
+  {
+    "id": "259",
+    "word": "Almanya",
+    "first": "Berlin",
+    "second": "Bira",
+    "third": "Gurbetçi",
+    "fourth": "Avrupa",
+    "fifth": "Mercedes"
+  },
+  {
+    "id": "260",
+    "word": "İspanya",
+    "first": "Madrid",
+    "second": "Boğa Güreşi",
+    "third": "Flamenko",
+    "fourth": "Barselona",
+    "fifth": "Paella"
+  },
+  {
+    "id": "261",
+    "word": "Fransa",
+    "first": "Paris",
+    "second": "Eyfel",
+    "third": "Şarap",
+    "fourth": "Avrupa",
+    "fifth": "Kruvasan"
+  },
+  {
+    "id": "262",
+    "word": "İtalya",
+    "first": "Roma",
+    "second": "Pizza",
+    "third": "Çizme",
+    "fourth": "Makarna",
+    "fifth": "Venedik"
   }
 ]

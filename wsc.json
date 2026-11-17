@@ -100,7 +100,7 @@
   },
   {
     "id": "12",
-    "word": "Mikrosop",
+    "word": "Mikroskop",
     "first": "Büyütme",
     "second": "Küçük",
     "third": "Laboratuvar",
@@ -124,15 +124,6 @@
     "third": "Kablo",
     "fourth": "Enerji",
     "fifth": "Priz"
-  },
-  {
-    "id": "15",
-    "word": "Deprem",
-    "first": "Fay",
-    "second": "Sarsıntı",
-    "third": "Richter",
-    "fourth": "Yer kabuğu",
-    "fifth": "Afet"
   },
   {
     "id": "16",
@@ -293,7 +284,7 @@
     "first": "Uydu",
     "second": "Dünya",
     "third": "Gece",
-    "fourth": "Dolunay",
+    "fourth": "Hilal",
     "fifth": "Gelgit"
   },
   {
@@ -313,15 +304,6 @@
     "third": "Tarih öncesi",
     "fourth": "Dev",
     "fifth": "T-Rex"
-  },
-  {
-    "id": "36",
-    "word": "Ekvator",
-    "first": "Çizgi",
-    "second": "Sıcak",
-    "third": "Dünya",
-    "fourth": "Ortası",
-    "fifth": "Tropikal"
   },
   {
     "id": "37",
@@ -475,15 +457,6 @@
     "third": "Polonyum",
     "fourth": "Radyum",
     "fifth": "Kadın bilim insanı"
-  },
-  {
-    "id": "54",
-    "word": "Tsunami",
-    "first": "Dalga",
-    "second": "Deprem",
-    "third": "Okyanus",
-    "fourth": "Afet",
-    "fifth": "Dev"
   },
   {
     "id": "55",
@@ -668,7 +641,7 @@
   {
     "id": "75",
     "word": "Halley Kuyruklu Yıldızı",
-    "first": "Kuyruk",
+    "first": "Buz",
     "second": "76 yıl",
     "third": "Uzay",
     "fourth": "Gökbilim",
@@ -900,15 +873,6 @@
     "fifth": "Kap"
   },
   {
-    "id": "101",
-    "word": "İbn-i Sina",
-    "first": "Tıp",
-    "second": "Kanun",
-    "third": "Doktor",
-    "fourth": "İslam",
-    "fifth": "Filozof"
-  },
-  {
     "id": "102",
     "word": "İzafiyet",
     "first": "Einstein",
@@ -916,15 +880,6 @@
     "third": "Zaman",
     "fourth": "Hız",
     "fifth": "Teori"
-  },
-  {
-    "id": "103",
-    "word": "Erozyon",
-    "first": "Toprak",
-    "second": "Aşınma",
-    "third": "Su",
-    "fourth": "Rüzgâr",
-    "fifth": "Doğa"
   },
   {
     "id": "104",
@@ -1107,15 +1062,6 @@
     "fifth": "Parçacık"
   },
   {
-    "id": "124",
-    "word": "Buzul",
-    "first": "Buz",
-    "second": "Kutup",
-    "third": "Erime",
-    "fourth": "Soğuk",
-    "fifth": "İklim"
-  },
-  {
     "id": "125",
     "word": "Heisenberg",
     "first": "Belirsizlik",
@@ -1226,7 +1172,7 @@
   {
     "id": "137",
     "word": "Paralel Evren",
-    "first": "Çoklu evren",
+    "first": "Bilim Kurgu",
     "second": "Alternatif",
     "third": "Boyut",
     "fourth": "Teori",
@@ -1368,15 +1314,6 @@
     "fifth": "Formül"
   },
   {
-    "id": "153",
-    "word": "Parmak İzi",
-    "first": "Kimlik",
-    "second": "Eşsiz",
-    "third": "Suç",
-    "fourth": "İz",
-    "fifth": "Kriminoloji"
-  },
-  {
     "id": "154",
     "word": "Sismograf",
     "first": "Deprem",
@@ -1467,15 +1404,6 @@
     "fifth": "Soğuk"
   },
   {
-    "id": "164",
-    "word": "Asimetri",
-    "first": "Simetri",
-    "second": "Eşitsizlik",
-    "third": "Denge",
-    "fourth": "Farklı",
-    "fifth": "Şekil"
-  },
-  {
     "id": "165",
     "word": "Tiroit",
     "first": "Bez",
@@ -1551,7 +1479,7 @@
     "id": "173",
     "word": "Dalgakıran",
     "first": "Deniz",
-    "second": "Dalga",
+    "second": "Beton",
     "third": "Koruma",
     "fourth": "Kıyı",
     "fifth": "Liman"
@@ -1570,7 +1498,7 @@
     "word": "Kütle Çekim",
     "first": "Newton",
     "second": "Ağırlık",
-    "third": "Çekim",
+    "third": "Elma",
     "fourth": "Gezegen",
     "fifth": "Kuvvet"
   },
@@ -1598,7 +1526,7 @@
     "first": "Akım",
     "second": "Elektrik",
     "third": "Birim",
-    "fourth": "Amper",
+    "fourth": "Fransız",
     "fifth": "Ölçü"
   },
   {
@@ -1606,7 +1534,7 @@
     "word": "Biyoçeşitlilik",
     "first": "Tür",
     "second": "Doğa",
-    "third": "Çeşitlilik",
+    "third": "Canlılar",
     "fourth": "Ekosistem",
     "fifth": "Koruma"
   },
@@ -1632,7 +1560,7 @@
     "id": "182",
     "word": "Kuyruklu Yıldız",
     "first": "Uzay",
-    "second": "Kuyruk",
+    "second": "Gök Cismi",
     "third": "Buz",
     "fourth": "Yörünge",
     "fifth": "Halley"
@@ -1741,7 +1669,7 @@
     "word": "Voltaj",
     "first": "Elektrik",
     "second": "Gerilim",
-    "third": "Volt",
+    "third": "Priz",
     "fourth": "Akım",
     "fifth": "Pil"
   },
@@ -2007,15 +1935,6 @@
     "fifth": "DNA"
   },
   {
-    "id": "224",
-    "word": "Karbon Dioksit",
-    "first": "CO₂",
-    "second": "Gaz",
-    "third": "Nefes",
-    "fourth": "Sera",
-    "fifth": "Fotosentez"
-  },
-  {
     "id": "225",
     "word": "Planck",
     "first": "Kuantum",
@@ -2041,15 +1960,6 @@
     "third": "Yansıma",
     "fourth": "Tespit",
     "fifth": "Frekans"
-  },
-  {
-    "id": "228",
-    "word": "Pewton",
-    "first": "Birim",
-    "second": "Kuvvet",
-    "third": "Fizik",
-    "fourth": "Newton",
-    "fifth": "SI"
   },
   {
     "id": "229",
@@ -2248,5 +2158,95 @@
     "third": "Sonsuz",
     "fourth": "Fonksiyon",
     "fifth": "Değer"
+  },
+  {
+    "id": "251",
+    "word": "Termometre",
+    "first": "Ateş",
+    "second": "Derece",
+    "third": "Sıcaklık",
+    "fourth": "Cıva",
+    "fifth": "Ölçmek"
+  },
+  {
+    "id": "252",
+    "word": "Pusula",
+    "first": "Yön",
+    "second": "Kuzey",
+    "third": "İğne",
+    "fourth": "Manyetik",
+    "fifth": "Kaybolmak"
+  },
+  {
+    "id": "253",
+    "word": "Dürbün",
+    "first": "Uzak",
+    "second": "Görmek",
+    "third": "Mercek",
+    "fourth": "Büyütmek",
+    "fifth": "İki"
+  },
+  {
+    "id": "254",
+    "word": "Kalsiyum",
+    "first": "Kemik",
+    "second": "Süt",
+    "third": "Diş",
+    "fourth": "Mineral",
+    "fifth": "Element"
+  },
+  {
+    "id": "255",
+    "word": "Damar",
+    "first": "Kan",
+    "second": "Kalp",
+    "third": "Nabız",
+    "fourth": "İğne",
+    "fifth": "Mavi"
+  },
+  {
+    "id": "256",
+    "word": "Kaynama Noktası",
+    "first": "Su",
+    "second": "Yüz Derece",
+    "third": "Sıcaklık",
+    "fourth": "Buhar",
+    "fifth": "Fokurdamak"
+  },
+  {
+    "id": "257",
+    "word": "Donma Noktası",
+    "first": "Sıfır Derece",
+    "second": "Buz",
+    "third": "Soğuk",
+    "fourth": "Su",
+    "fifth": "Katı"
+  },
+  {
+    "id": "258",
+    "word": "Uydu",
+    "first": "Yörünge",
+    "second": "Uzay",
+    "third": "Dünya",
+    "fourth": "Anten",
+    "fifth": "Ay"
+  },
+  {
+    "id": "259",
+    "word": "Roket",
+    "first": "Uzay",
+    "second": "Fırlatma",
+    "third": "Yakıt",
+    "fourth": "NASA",
+    "fifth": "Kalkış"
+  },
+  {
+    "id": "260",
+    "word": "Astronot",
+    "first": "Uzay",
+    "second": "Kask",
+    "third": "Roket",
+    "fourth": "NASA",
+    "fifth": "Yerçekimsiz"
   }
 ]

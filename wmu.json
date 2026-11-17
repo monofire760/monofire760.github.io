@@ -390,7 +390,7 @@
     "id": "44",
     "word": "Müslüm Gürses",
     "first": "Arabesk",
-    "second": "Müslüm Baba",
+    "second": "Affet",
     "third": "Nilüfer",
     "fourth": "Acı",
     "fifth": "Küstüm"
@@ -927,15 +927,6 @@
     "fifth": "Söylemek"
   },
   {
-    "id": "104",
-    "word": "Stüdyo",
-    "first": "Kayıt",
-    "second": "Ses",
-    "third": "Albüm",
-    "fourth": "Mikrofon",
-    "fifth": "Mikser"
-  },
-  {
     "id": "105",
     "word": "Albüm",
     "first": "Şarkılar",
@@ -958,7 +949,7 @@
     "word": "Beste",
     "first": "Yapmak",
     "second": "Nota",
-    "third": "Besteci",
+    "third": "Şarkı",
     "fourth": "Melodi",
     "fifth": "Eser"
   },
@@ -1305,15 +1296,6 @@
     "fifth": "Parlak"
   },
   {
-    "id": "146",
-    "word": "Spotify",
-    "first": "Müzik",
-    "second": "Dinlemek",
-    "third": "Uygulama",
-    "fourth": "Çevrimiçi",
-    "fifth": "Yeşil"
-  },
-  {
     "id": "147",
     "word": "Eurovision",
     "first": "Şarkı Yarışması",
@@ -1404,24 +1386,6 @@
     "fifth": "Kablosuz"
   },
   {
-    "id": "157",
-    "word": "Hoparlör",
-    "first": "Ses",
-    "second": "Yüksek",
-    "third": "Çıkış",
-    "fourth": "Müzik",
-    "fifth": "Kutu"
-  },
-  {
-    "id": "158",
-    "word": "Kulaklık",
-    "first": "Dinlemek",
-    "second": "Kulak",
-    "third": "Ses",
-    "fourth": "Kablolu",
-    "fifth": "Kablosuz"
-  },
-  {
     "id": "159",
     "word": "Synthesizer",
     "first": "Sentez",
@@ -1458,15 +1422,6 @@
     "fifth": "Efsane"
   },
   {
-    "id": "163",
-    "word": "Thriller",
-    "first": "Michael Jackson",
-    "second": "Albüm",
-    "third": "Korku",
-    "fourth": "Dans",
-    "fifth": "Video"
-  },
-  {
     "id": "164",
     "word": "Stairway to Heaven",
     "first": "Led Zeppelin",
@@ -1489,7 +1444,7 @@
     "word": "Hotel California",
     "first": "Eagles",
     "second": "Gitar",
-    "third": "Otel",
+    "third": "Solo",
     "fourth": "Kaliforniya",
     "fifth": "Rock"
   },
@@ -1497,37 +1452,10 @@
     "id": "167",
     "word": "İstanbul Senfonisi",
     "first": "Fazıl Say",
-    "second": "İstanbul",
-    "third": "Senfoni",
+    "second": "Piyano",
+    "third": "Boğaz",
     "fourth": "Klasik",
     "fifth": "Orkestra"
-  },
-  {
-    "id": "168",
-    "word": "Şımarık",
-    "first": "Tarkan",
-    "second": "Öpücük",
-    "third": "Pop",
-    "fourth": "Hit",
-    "fifth": "Dans"
-  },
-  {
-    "id": "169",
-    "word": "Dönence",
-    "first": "Barış Manço",
-    "second": "Döner",
-    "third": "Dönme Dolap",
-    "fourth": "Efsane",
-    "fifth": "Kurtalan"
-  },
-  {
-    "id": "170",
-    "word": "Cambaz",
-    "first": "Mor ve Ötesi",
-    "second": "Rock",
-    "third": "İp",
-    "fourth": "Denge",
-    "fifth": "Türkçe Rock"
   },
   {
     "id": "171",
@@ -1555,15 +1483,6 @@
     "third": "Enstrüman",
     "fourth": "Akademi",
     "fifth": "Sanat"
-  },
-  {
-    "id": "174",
-    "word": "Müzikal",
-    "first": "Sahne",
-    "second": "Şarkı Dans",
-    "third": "Broadway",
-    "fourth": "Tiyatro",
-    "fifth": "Gösteri"
   },
   {
     "id": "175",
@@ -2106,18 +2025,9 @@
     "fifth": "Zeplin"
   },
   {
-    "id": "235",
-    "word": "AC/DC",
-    "first": "Rock",
-    "second": "Avustralya",
-    "third": "Highway to Hell",
-    "fourth": "Angus Young",
-    "fifth": "Sert"
-  },
-  {
     "id": "236",
     "word": "Metallica",
-    "first": "Metal",
+    "first": "Rock",
     "second": "Nothing Else Matters",
     "third": "Enter Sandman",
     "fourth": "Thrash",
@@ -2178,22 +2088,13 @@
     "fifth": "Fon"
   },
   {
-    "id": "243",
-    "word": "Senfonik",
-    "first": "Orkestra",
-    "second": "Büyük",
-    "third": "Klasik",
-    "fourth": "Senfoni",
-    "fifth": "Görkemli"
-  },
-  {
     "id": "244",
     "word": "Dünya Müziği",
     "first": "Etnik",
     "second": "Farklı Kültür",
     "third": "World",
     "fourth": "Geleneksel",
-    "fifth": "Dünya"
+    "fifth": "Folklor"
   },
   {
     "id": "245",
@@ -2248,5 +2149,104 @@
     "third": "Son",
     "fourth": "Alkış",
     "fifth": "Sahne"
+  },
+  {
+    "id": "251",
+    "word": "Queen",
+    "first": "Freddie Mercury",
+    "second": "Grup",
+    "third": "Bohemian Rhapsody",
+    "fourth": "Rock",
+    "fifth": "İngiliz"
+  },
+  {
+    "id": "252",
+    "word": "Ahmet Kaya",
+    "first": "Kum Gibi",
+    "second": "Ağladıkça",
+    "third": "Protest",
+    "fourth": "Şarkıcı",
+    "fifth": "Malatya"
+  },
+  {
+    "id": "253",
+    "word": "Levent Yüksel",
+    "first": "Medcezir",
+    "second": "Zalim",
+    "third": "Şarkıcı",
+    "fourth": "Pop",
+    "fifth": "Sezen Aksu"
+  },
+  {
+    "id": "254",
+    "word": "Nazan Öncel",
+    "first": "Pop",
+    "second": "Şarkıcı",
+    "third": "Söz Yazarı",
+    "fourth": "Beste",
+    "fifth": "Kadın"
+  },
+  {
+    "id": "255",
+    "word": "Edip Akbayram",
+    "first": "Aldırma Gönül",
+    "second": "Anadolu Rock",
+    "third": "Şarkıcı",
+    "fourth": "Bıyık",
+    "fifth": "Dostlar Beni Hatırlasın"
+  },
+  {
+    "id": "256",
+    "word": "Kaval",
+    "first": "Çoban",
+    "second": "Üflemek",
+    "third": "Türkü",
+    "fourth": "Ahşap",
+    "fifth": "Delik"
+  },
+  {
+    "id": "257",
+    "word": "Kastanyet",
+    "first": "İspanyol",
+    "second": "Flamenko",
+    "third": "Tahta",
+    "fourth": "Tıkırdamak",
+    "fifth": "Dans"
+  },
+  {
+    "id": "258",
+    "word": "Tulum",
+    "first": "Karadeniz",
+    "second": "Horon",
+    "third": "Gayda",
+    "fourth": "Üflemek",
+    "fifth": "Deri"
+  },
+  {
+    "id": "259",
+    "word": "Halay",
+    "first": "Mendil",
+    "second": "Düğün",
+    "third": "Davul Zurna",
+    "fourth": "El Ele",
+    "fifth": "Dans"
+  },
+  {
+    "id": "260",
+    "word": "Zeybek",
+    "first": "Ege",
+    "second": "Efe",
+    "third": "Dans",
+    "fourth": "Ağır",
+    "fifth": "Diz Çökmek"
+  },
+  {
+    "id": "261",
+    "word": "Türk Sanat Müziği",
+    "first": "Zeki Müren",
+    "second": "Makam",
+    "third": "Fasıl",
+    "fourth": "Ud",
+    "fifth": "Klasik"
   }
 ]

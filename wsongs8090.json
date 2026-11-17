@@ -21,7 +21,7 @@
     "id": "3",
     "word": "Araba",
     "first": "Mustafa Sandal",
-    "second": "Onun Arabası Var",
+    "second": "Direksiyon",
     "third": "Güzel mi Güzel",
     "fourth": "Şoför",
     "fifth": "Klip"
@@ -60,13 +60,13 @@
     "second": "Koşmak",
     "third": "Klip",
     "fourth": "Ayakkabı",
-    "fifth": "Gece"
+    "fifth": "Rüya"
   },
   {
     "id": "8",
     "word": "Ateşteyim",
     "first": "Çelik",
-    "second": "Ben Ateşteyim",
+    "second": "Pop",
     "third": "Söz",
     "fourth": "Şarkı",
     "fifth": "Yanmak"
@@ -159,7 +159,7 @@
     "second": "Göz",
     "third": "Hülya Avşar",
     "fourth": "Türkü",
-    "fifth": "Mas Mavi"
+    "fifth": "Deniz"
   },
   {
     "id": "19",
@@ -176,7 +176,7 @@
     "first": "Barış Manço",
     "second": "Çiçek",
     "third": "Gül",
-    "fourth": "Pembe",
+    "fourth": "Babaanne",
     "fifth": "Dudak"
   },
   {
@@ -210,7 +210,7 @@
     "id": "24",
     "word": "Of Deli Gönül",
     "first": "Tarık Mengüç",
-    "second": "Gönül",
+    "second": "Kalp",
     "third": "Aşk",
     "fourth": "Şarkı",
     "fifth": "Kaset"
@@ -219,7 +219,7 @@
     "id": "25",
     "word": "Ateşini Yolla Bana",
     "first": "Hakan Peker",
-    "second": "Ateş",
+    "second": "Yanmak",
     "third": "Klip",
     "fourth": "Dans",
     "fifth": "Bir Efsane"
@@ -237,8 +237,8 @@
     "id": "27",
     "word": "Kınalı Bebek",
     "first": "Demet Sağıroğlu",
-    "second": "Kına",
-    "third": "Bebek",
+    "second": "Düğün",
+    "third": "Gelin",
     "fourth": "Şehrazat",
     "fifth": "Klip"
   },
@@ -282,7 +282,7 @@
     "id": "32",
     "word": "Sarı Çizmeli Mehmet Ağa",
     "first": "Barış Manço",
-    "second": "Çizme",
+    "second": "Çiftlik",
     "third": "Yaz Dostum",
     "fourth": "Borç",
     "fifth": "Köy"
@@ -291,7 +291,7 @@
     "id": "33",
     "word": "Lambaya Püf De",
     "first": "Barış Manço",
-    "second": "Lamba",
+    "second": "Mum",
     "third": "Işık",
     "fourth": "Karanlık",
     "fifth": "Üflemek"
@@ -345,7 +345,7 @@
     "id": "39",
     "word": "Yeter ki Onursuz Olmasın Aşk",
     "first": "Levent Yüksel",
-    "second": "Onur",
+    "second": "Haysiyet",
     "third": "Gurur",
     "fourth": "Şarkı",
     "fifth": "Sezen Aksu"
@@ -382,7 +382,7 @@
     "word": "Odalarda Işıksızım",
     "first": "Kayahan",
     "second": "Karanlık",
-    "third": "Işık",
+    "third": "Lamba",
     "fourth": "Yalnız",
     "fifth": "Oda"
   },
@@ -642,7 +642,7 @@
     "id": "72",
     "word": "Buselik Makamına",
     "first": "MFÖ",
-    "second": "Makam",
+    "second": "Nota",
     "third": "Gitar",
     "fourth": "Şarkı",
     "fifth": "Beste"
@@ -707,7 +707,7 @@
     "first": "Harun Kolçak",
     "second": "Aşkın Nur Yengi",
     "third": "Düet",
-    "fourth": "Korku",
+    "fourth": "Aşk",
     "fifth": "Slow"
   },
   {
@@ -786,7 +786,7 @@
     "id": "88",
     "word": "Gönül Yorgunu",
     "first": "Bendeniz",
-    "second": "Yorgun",
+    "second": "Bitkin",
     "third": "Kalp",
     "fourth": "Slow",
     "fifth": "Kaset"
@@ -1255,7 +1255,7 @@
     "word": "Gözlerin Doğuyor Gecelerime",
     "first": "Zeki Müren",
     "second": "Sanat Güneşi",
-    "third": "Gece",
+    "third": "Aşk",
     "fourth": "Klasik",
     "fifth": "Şarkı"
   },
@@ -1265,7 +1265,7 @@
     "first": "Zeki Müren",
     "second": "İhtiyaç",
     "third": "Ayrılık",
-    "fourth": "Sanat Güneşi",
+    "fourth": "Veda",
     "fifth": "Klasik"
   },
   {
@@ -1301,7 +1301,7 @@
     "first": "Ferdi Özbeğen",
     "second": "Piyano",
     "third": "Havuz",
-    "fourth": "Dilek",
+    "fourth": "Bozuk Para",
     "fifth": "Şarkı"
   },
   {
@@ -1521,15 +1521,6 @@
     "fifth": "Sallanmak"
   },
   {
-    "id": "170",
-    "word": "Cambaz",
-    "first": "Mor ve Ötesi",
-    "second": "İp",
-    "third": "Düşmek",
-    "fourth": "Rock",
-    "fifth": "Televizyon"
-  },
-  {
     "id": "171",
     "word": "Bir Derdim Var",
     "first": "Mor ve Ötesi",
@@ -1677,7 +1668,7 @@
     "id": "187",
     "word": "Damarımda Kanımsın",
     "first": "Emel Sayın",
-    "second": "Damar",
+    "second": "Kalp",
     "third": "Vücut",
     "fourth": "Aşk",
     "fifth": "Klasik"
@@ -1713,7 +1704,7 @@
     "id": "191",
     "word": "Kemancı",
     "first": "Gönül Akkor",
-    "second": "Keman",
+    "second": "Müzisyen",
     "third": "Meyhane",
     "fourth": "Çal",
     "fifth": "Dert"
@@ -1768,7 +1759,7 @@
     "word": "Oku Bakayım Ayı",
     "first": "Barış Manço",
     "second": "Orman",
-    "third": "A-Y-I",
+    "third": "Çocuk",
     "fourth": "Harf",
     "fifth": "Şarkı"
   },
@@ -1776,7 +1767,7 @@
     "id": "198",
     "word": "Gül Dudaklım",
     "first": "Kerim Tekin",
-    "second": "Dudak",
+    "second": "Öpücük",
     "third": "Slow",
     "fourth": "Klip",
     "fifth": "Pop"
@@ -1797,6 +1788,15 @@
     "second": "Hülya Avşar",
     "third": "Gözler",
     "fourth": "Yeşilçam",
+    "fifth": "Şarkı"
+  },
+  {
+    "id": "201",
+    "word": "Sen Ağlama",
+    "first": "Sezen Aksu",
+    "second": "Gözyaşı",
+    "third": "Teselli",
+    "fourth": "Hüzün",
     "fifth": "Şarkı"
   }
 ]

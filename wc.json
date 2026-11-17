@@ -1,23 +1,5 @@
 [
   {
-    "id": "1",
-    "word": "Tarkan",
-    "first": "Şarkıcı",
-    "second": "Şımarık",
-    "third": "Megastar",
-    "fourth": "Dudu",
-    "fifth": "Pop"
-  },
-  {
-    "id": "2",
-    "word": "Barış Manço",
-    "first": "Dönence",
-    "second": "7'den 77'ye",
-    "third": "Sarı Çizmeli",
-    "fourth": "Rock",
-    "fifth": "Mehmet"
-  },
-  {
     "id": "3",
     "word": "Kemal Sunal",
     "first": "Şaban",
@@ -36,42 +18,6 @@
     "fifth": "19 Mayıs"
   },
   {
-    "id": "5",
-    "word": "Sezen Aksu",
-    "first": "Minik Serçe",
-    "second": "Şarkıcı",
-    "third": "Hadi Bakalım",
-    "fourth": "Söz Yazarı",
-    "fifth": "Pop"
-  },
-  {
-    "id": "6",
-    "word": "Müslüm Gürses",
-    "first": "Arabesk",
-    "second": "Aşk",
-    "third": "Müslüm Baba",
-    "fourth": "Konser",
-    "fifth": "Acı"
-  },
-  {
-    "id": "7",
-    "word": "Ajda Pekkan",
-    "first": "Süperstar",
-    "second": "Şarkıcı",
-    "third": "Pop",
-    "fourth": "Diva",
-    "fifth": "Bambaşka Biri"
-  },
-  {
-    "id": "8",
-    "word": "İbrahim Tatlıses",
-    "first": "Şarkıcı",
-    "second": "Urfa",
-    "third": "İbo",
-    "fourth": "Arabesk",
-    "fifth": "Dom Dom Kurşunu"
-  },
-  {
     "id": "9",
     "word": "Adile Naşit",
     "first": "Komedi",
@@ -79,15 +25,6 @@
     "third": "Hababam",
     "fourth": "Sinema",
     "fifth": "Hafize Ana"
-  },
-  {
-    "id": "10",
-    "word": "Zeki Müren",
-    "first": "Sanat Güneşi",
-    "second": "Şarkıcı",
-    "third": "Sanat Müziği",
-    "fourth": "Bursa",
-    "fifth": "Paşa"
   },
   {
     "id": "11",
@@ -126,15 +63,6 @@
     "fifth": "Komedi"
   },
   {
-    "id": "15",
-    "word": "Fatih Terim",
-    "first": "Futbol",
-    "second": "Galatasaray",
-    "third": "Teknik Direktör",
-    "fourth": "İmparator",
-    "fifth": "Milli Takım"
-  },
-  {
     "id": "16",
     "word": "Hakan Şükür",
     "first": "Futbol",
@@ -151,15 +79,6 @@
     "third": "Galatasaray",
     "fourth": "Milli Takım",
     "fifth": "10 Numara"
-  },
-  {
-    "id": "18",
-    "word": "Naim Süleymanoğlu",
-    "first": "Halter",
-    "second": "Olimpiyat",
-    "third": "Cep Herkülü",
-    "fourth": "Altın",
-    "fifth": "Rekor"
   },
   {
     "id": "19",
@@ -191,20 +110,11 @@
   {
     "id": "22",
     "word": "Haluk Levent",
-    "first": "AHBAP",
+    "first": "Ahbap",
     "second": "Şarkıcı",
     "third": "Rock",
     "fourth": "Elfida",
     "fifth": "Yardım"
-  },
-  {
-    "id": "23",
-    "word": "Mazhar Alanson",
-    "first": "MFÖ",
-    "second": "Şarkıcı",
-    "third": "Fuat",
-    "fourth": "Özkan",
-    "fifth": "Ele Güne Karşı"
   },
   {
     "id": "24",
@@ -241,15 +151,6 @@
     "third": "Söz Yazarı",
     "fourth": "Deli",
     "fifth": "Sevdim"
-  },
-  {
-    "id": "28",
-    "word": "Hadise",
-    "first": "Şarkıcı",
-    "second": "Eurovision",
-    "third": "O Ses",
-    "fourth": "Pop",
-    "fifth": "Belçika"
   },
   {
     "id": "29",
@@ -342,15 +243,6 @@
     "fifth": "Dizi"
   },
   {
-    "id": "39",
-    "word": "Kayahan",
-    "first": "Şarkıcı",
-    "second": "Besteci",
-    "third": "Gönül",
-    "fourth": "Bir Aşk Hikayesi",
-    "fifth": "Pop"
-  },
-  {
     "id": "40",
     "word": "Ferdi Tayfur",
     "first": "Arabesk",
@@ -358,24 +250,6 @@
     "third": "Huzurum Kalmadı",
     "fourth": "Oyuncu",
     "fifth": "Adana"
-  },
-  {
-    "id": "41",
-    "word": "Orhan Gencebay",
-    "first": "Bağlama",
-    "second": "Arabesk",
-    "third": "Şarkıcı",
-    "fourth": "Batın",
-    "fifth": "Dertler Benim"
-  },
-  {
-    "id": "42",
-    "word": "Neşet Ertaş",
-    "first": "Türkü",
-    "second": "Bozlak",
-    "third": "Halk Ozanı",
-    "fourth": "Kırşehir",
-    "fifth": "Zahidem"
   },
   {
     "id": "43",
@@ -468,24 +342,6 @@
     "fifth": "Sosyal Medya"
   },
   {
-    "id": "53",
-    "word": "Fazıl Say",
-    "first": "Piyanist",
-    "second": "Klasik Müzik",
-    "third": "Besteci",
-    "fourth": "Piyano",
-    "fifth": "Konser"
-  },
-  {
-    "id": "54",
-    "word": "İdil Biret",
-    "first": "Piyanist",
-    "second": "Klasik Müzik",
-    "third": "Piyano",
-    "fourth": "Çocuk Dahi",
-    "fifth": "Konser"
-  },
-  {
     "id": "55",
     "word": "Aziz Sancar",
     "first": "Nobel",
@@ -567,24 +423,6 @@
     "fifth": "Sevgi"
   },
   {
-    "id": "64",
-    "word": "Kanuni Sultan Süleyman",
-    "first": "Osmanlı",
-    "second": "Padişah",
-    "third": "Muhteşem Yüzyıl",
-    "fourth": "Hürrem",
-    "fifth": "Adalet"
-  },
-  {
-    "id": "65",
-    "word": "Fatih Sultan Mehmet",
-    "first": "İstanbul",
-    "second": "Fetih",
-    "third": "1453",
-    "fourth": "Osmanlı",
-    "fifth": "Padişah"
-  },
-  {
     "id": "66",
     "word": "Sıla",
     "first": "Şarkıcı",
@@ -594,24 +432,6 @@
     "fifth": "Konser"
   },
   {
-    "id": "67",
-    "word": "Manga",
-    "first": "Grup",
-    "second": "Rock",
-    "third": "Eurovision",
-    "fourth": "We Could Be the Same",
-    "fifth": "Cevapsız Sorular"
-  },
-  {
-    "id": "68",
-    "word": "Teoman",
-    "first": "Rock",
-    "second": "Şarkıcı",
-    "third": "İstanbul",
-    "fourth": "Paramparça",
-    "fifth": "Rüzgar Gülü"
-  },
-  {
     "id": "69",
     "word": "Şebnem Ferah",
     "first": "Rock",
@@ -619,15 +439,6 @@
     "third": "Sigara",
     "fourth": "Sil Baştan",
     "fifth": "Konser"
-  },
-  {
-    "id": "70",
-    "word": "Özdemir Erdoğan",
-    "first": "Şarkıcı",
-    "second": "Gurbet",
-    "third": "Caz",
-    "fourth": "Film Müziği",
-    "fifth": "Pop"
   },
   {
     "id": "71",
@@ -864,123 +675,6 @@
     "fifth": "Moda"
   },
   {
-    "id": "97",
-    "word": "Michael Jackson",
-    "first": "Pop",
-    "second": "Thriller",
-    "third": "Dans",
-    "fourth": "Moonwalk",
-    "fifth": "Kral"
-  },
-  {
-    "id": "98",
-    "word": "Madonna",
-    "first": "Pop",
-    "second": "Şarkıcı",
-    "third": "Kraliçe",
-    "fourth": "Material Girl",
-    "fifth": "Amerika"
-  },
-  {
-    "id": "99",
-    "word": "Elvis Presley",
-    "first": "Rock",
-    "second": "Kral",
-    "third": "Memphis",
-    "fourth": "Şarkıcı",
-    "fifth": "Las Vegas"
-  },
-  {
-    "id": "100",
-    "word": "Freddie Mercury",
-    "first": "Queen",
-    "second": "Bohemian Rhapsody",
-    "third": "Rock",
-    "fourth": "Şarkıcı",
-    "fifth": "Ses"
-  },
-  {
-    "id": "101",
-    "word": "John Lennon",
-    "first": "Beatles",
-    "second": "Imagine",
-    "third": "Rock",
-    "fourth": "Barış",
-    "fifth": "İngiltere"
-  },
-  {
-    "id": "102",
-    "word": "Bob Marley",
-    "first": "Reggae",
-    "second": "Jamaika",
-    "third": "Rasta",
-    "fourth": "Barış",
-    "fifth": "One Love"
-  },
-  {
-    "id": "103",
-    "word": "Beyoncé",
-    "first": "Şarkıcı",
-    "second": "Pop",
-    "third": "Single Ladies",
-    "fourth": "Jay-Z",
-    "fifth": "Kraliçe"
-  },
-  {
-    "id": "104",
-    "word": "Rihanna",
-    "first": "Şarkıcı",
-    "second": "Umbrella",
-    "third": "Barbados",
-    "fourth": "Pop",
-    "fifth": "Fenty"
-  },
-  {
-    "id": "105",
-    "word": "Lady Gaga",
-    "first": "Pop",
-    "second": "Şarkıcı",
-    "third": "Poker Face",
-    "fourth": "Moda",
-    "fifth": "Oscar"
-  },
-  {
-    "id": "106",
-    "word": "Taylor Swift",
-    "first": "Pop",
-    "second": "Şarkıcı",
-    "third": "Country",
-    "fourth": "Eras Tour",
-    "fifth": "Amerika"
-  },
-  {
-    "id": "107",
-    "word": "Adele",
-    "first": "Şarkıcı",
-    "second": "Rolling in the Deep",
-    "third": "İngiliz",
-    "fourth": "Ses",
-    "fifth": "Grammy"
-  },
-  {
-    "id": "108",
-    "word": "Ed Sheeran",
-    "first": "Şarkıcı",
-    "second": "Shape of You",
-    "third": "Gitar",
-    "fourth": "İngiliz",
-    "fifth": "Kızıl"
-  },
-  {
-    "id": "109",
-    "word": "Eminem",
-    "first": "Rap",
-    "second": "8 Mile",
-    "third": "Slim Shady",
-    "fourth": "Detroit",
-    "fifth": "Hip Hop"
-  },
-  {
     "id": "110",
     "word": "Cristiano Ronaldo",
     "first": "Futbol",
@@ -1050,7 +744,7 @@
     "second": "NBA",
     "third": "Chicago Bulls",
     "fourth": "Nike",
-    "fifth": "Air Jordan"
+    "fifth": "Smaç"
   },
   {
     "id": "118",
@@ -1161,15 +855,6 @@
     "fifth": "Hareket Yasaları"
   },
   {
-    "id": "130",
-    "word": "Nikola Tesla",
-    "first": "Elektrik",
-    "second": "Mucit",
-    "third": "Alternatif Akım",
-    "fourth": "Bilim",
-    "fifth": "Edison"
-  },
-  {
     "id": "131",
     "word": "Thomas Edison",
     "first": "Ampul",
@@ -1177,24 +862,6 @@
     "third": "Elektrik",
     "fourth": "Bilim",
     "fifth": "Patent"
-  },
-  {
-    "id": "132",
-    "word": "Marie Curie",
-    "first": "Radyoaktivite",
-    "second": "Nobel",
-    "third": "Fizik",
-    "fourth": "Kimya",
-    "fifth": "Polonya"
-  },
-  {
-    "id": "133",
-    "word": "Stephen Hawking",
-    "first": "Fizik",
-    "second": "Kara Delik",
-    "third": "Tekerlekli Sandalye",
-    "fourth": "Zamanın Kısa Tarihi",
-    "fifth": "Kozmos"
   },
   {
     "id": "134",
@@ -1314,42 +981,6 @@
     "fifth": "Kısa Boy"
   },
   {
-    "id": "147",
-    "word": "Kleopatra",
-    "first": "Mısır",
-    "second": "Kraliçe",
-    "third": "Roma",
-    "fourth": "Yılan",
-    "fifth": "Güzellik"
-  },
-  {
-    "id": "148",
-    "word": "Mahatma Gandhi",
-    "first": "Hindistan",
-    "second": "Barış",
-    "third": "Bağımsızlık",
-    "fourth": "Şiddet Karşıtı",
-    "fifth": "Lider"
-  },
-  {
-    "id": "149",
-    "word": "Nelson Mandela",
-    "first": "Güney Afrika",
-    "second": "Apartheid",
-    "third": "Özgürlük",
-    "fourth": "Hapishane",
-    "fifth": "Lider"
-  },
-  {
-    "id": "150",
-    "word": "Martin Luther King",
-    "first": "İnsan Hakları",
-    "second": "Bir Hayalim Var",
-    "third": "Amerika",
-    "fourth": "Barış",
-    "fifth": "Suikast"
-  },
-  {
     "id": "151",
     "word": "Steve Jobs",
     "first": "Apple",
@@ -1399,7 +1030,7 @@
     "word": "Walt Disney",
     "first": "Mickey Mouse",
     "second": "Animasyon",
-    "third": "Disneyland",
+    "third": "Eğlence Parkı",
     "fourth": "Film",
     "fifth": "Çizgi Film"
   },
@@ -1566,15 +1197,6 @@
     "fifth": "Lider"
   },
   {
-    "id": "175",
-    "word": "Winston Churchill",
-    "first": "İngiltere",
-    "second": "Başbakan",
-    "third": "Dünya Savaşı",
-    "fourth": "Konuşma",
-    "fifth": "Puro"
-  },
-  {
     "id": "176",
     "word": "Abraham Lincoln",
     "first": "Amerika",
@@ -1627,24 +1249,6 @@
     "third": "2002",
     "fourth": "Gol",
     "fifth": "Buz Pateni"
-  },
-  {
-    "id": "182",
-    "word": "Cem Karaca",
-    "first": "Rock",
-    "second": "Anadolu Rock",
-    "third": "Şarkıcı",
-    "fourth": "Resimdeki Gözyaşları",
-    "fifth": "Tamirci Çırağı"
-  },
-  {
-    "id": "183",
-    "word": "Erkin Koray",
-    "first": "Rock",
-    "second": "Psikedelik",
-    "third": "Şarkıcı",
-    "fourth": "Cemalim",
-    "fifth": "Gitar"
   },
   {
     "id": "184",
@@ -1800,15 +1404,6 @@
     "fifth": "Pop"
   },
   {
-    "id": "201",
-    "word": "David Bowie",
-    "first": "Rock",
-    "second": "Şarkıcı",
-    "third": "Ziggy Stardust",
-    "fourth": "İngiliz",
-    "fifth": "Uzay"
-  },
-  {
     "id": "202",
     "word": "Kurt Cobain",
     "first": "Nirvana",
@@ -1818,57 +1413,12 @@
     "fifth": "Smells Like"
   },
   {
-    "id": "203",
-    "word": "Amy Winehouse",
-    "first": "Şarkıcı",
-    "second": "Rehab",
-    "third": "Caz",
-    "fourth": "İngiliz",
-    "fifth": "Ses"
-  },
-  {
-    "id": "204",
-    "word": "Frank Sinatra",
-    "first": "Şarkıcı",
-    "second": "My Way",
-    "third": "Caz",
-    "fourth": "New York",
-    "fifth": "Mavi Gözler"
-  },
-  {
-    "id": "205",
-    "word": "Mimar Sinan",
-    "first": "Mimar",
-    "second": "Süleymaniye",
-    "third": "Osmanlı",
-    "fourth": "Cami",
-    "fifth": "Selimiye"
-  },
-  {
-    "id": "206",
-    "word": "Evliya Çelebi",
-    "first": "Seyahat",
-    "second": "Osmanlı",
-    "third": "Gezgin",
-    "fourth": "Seyahatname",
-    "fifth": "Yazar"
-  },
-  {
-    "id": "207",
-    "word": "Piri Reis",
-    "first": "Denizci",
-    "second": "Harita",
-    "third": "Osmanlı",
-    "fourth": "Kaptan",
-    "fifth": "Kitab-ı Bahriye"
-  },
-  {
     "id": "208",
     "word": "Osman Hamdi Bey",
     "first": "Ressam",
     "second": "Kaplumbağa Terbiyecisi",
     "third": "Müze",
-    "fourth": "Osmanlı",
+    "fourth": "Tablo",
     "fifth": "Sanat"
   },
   {
@@ -1908,33 +1458,6 @@
     "fifth": "Şarkı"
   },
   {
-    "id": "213",
-    "word": "Athena",
-    "first": "Ska",
-    "second": "Grup",
-    "third": "Holigan",
-    "fourth": "For Real",
-    "fifth": "Eurovision"
-  },
-  {
-    "id": "214",
-    "word": "Sagopa Kajmer",
-    "first": "Rap",
-    "second": "Hip Hop",
-    "third": "Türkçe",
-    "fourth": "Bir Pesimistin Gözyaşları",
-    "fifth": "Ceza"
-  },
-  {
-    "id": "215",
-    "word": "Ceza",
-    "first": "Rap",
-    "second": "Hip Hop",
-    "third": "Holocaust",
-    "fourth": "Türkçe",
-    "fifth": "Nefret"
-  },
-  {
     "id": "216",
     "word": "Müzeyyen Senar",
     "first": "Şarkıcı",
@@ -1942,15 +1465,6 @@
     "third": "Sanat Müziği",
     "fourth": "Ses",
     "fifth": "Atatürk"
-  },
-  {
-    "id": "217",
-    "word": "Ayrılık",
-    "first": "Grup",
-    "second": "Yıldıray",
-    "third": "İsyan",
-    "fourth": "Sanat",
-    "fifth": "Müzik"
   },
   {
     "id": "218",
@@ -2248,5 +1762,491 @@
     "third": "Barbie",
     "fourth": "Avustralya",
     "fifth": "Güzel"
+  },
+  {
+    "id": "251",
+    "word": "Okan Bayülgen",
+    "first": "Sunucu",
+    "second": "Disko Kralı",
+    "third": "Talk Show",
+    "fourth": "Gece",
+    "fifth": "Televizyon"
+  },
+  {
+    "id": "252",
+    "word": "Beyazıt Öztürk",
+    "first": "Sunucu",
+    "second": "Beyaz Show",
+    "third": "Komedyen",
+    "fourth": "Cuma Akşamı",
+    "fifth": "Kanal D"
+  },
+  {
+    "id": "253",
+    "word": "Gülse Birsel",
+    "first": "Avrupa Yakası",
+    "second": "Jet Sosyete",
+    "third": "Senarist",
+    "fourth": "Komedi",
+    "fifth": "Oyuncu"
+  },
+  {
+    "id": "254",
+    "word": "Haluk Bilginer",
+    "first": "Oyuncu",
+    "second": "Tiyatro",
+    "third": "Emmy",
+    "fourth": "Şahsiyet",
+    "fifth": "EastEnders"
+  },
+  {
+    "id": "255",
+    "word": "Tuncel Kurtiz",
+    "first": "Ramiz Dayı",
+    "second": "Ezel",
+    "third": "Oyuncu",
+    "fourth": "Sakal",
+    "fifth": "Yeşilçam"
+  },
+  {
+    "id": "256",
+    "word": "Münir Özkul",
+    "first": "Mahmut Hoca",
+    "second": "Hababam Sınıfı",
+    "third": "Yeşilçam",
+    "fourth": "Oyuncu",
+    "fifth": "Baba"
+  },
+  {
+    "id": "257",
+    "word": "Fatma Girik",
+    "first": "Yeşilçam",
+    "second": "Oyuncu",
+    "third": "Belediye Başkanı",
+    "fourth": "Kadın",
+    "fifth": "Film"
+  },
+  {
+    "id": "258",
+    "word": "Tarık Akan",
+    "first": "Yeşilçam",
+    "second": "Oyuncu",
+    "third": "Yakışıklı",
+    "fourth": "Canım Kardeşim",
+    "fifth": "Sarışın"
+  },
+  {
+    "id": "259",
+    "word": "Sadri Alışık",
+    "first": "Turist Ömer",
+    "second": "Yeşilçam",
+    "third": "Oyuncu",
+    "fourth": "Komedi",
+    "fifth": "Film"
+  },
+  {
+    "id": "260",
+    "word": "Zeki Alasya",
+    "first": "Metin Akpınar",
+    "second": "Komedi",
+    "third": "Tiyatro",
+    "fourth": "Devekuşu Kabare",
+    "fifth": "Yeşilçam"
+  },
+  {
+    "id": "261",
+    "word": "Metin Akpınar",
+    "first": "Zeki Alasya",
+    "second": "Komedi",
+    "third": "Tiyatro",
+    "fourth": "Devekuşu Kabare",
+    "fifth": "Yeşilçam"
+  },
+  {
+    "id": "262",
+    "word": "Ayşen Gruda",
+    "first": "Komedi",
+    "second": "Yeşilçam",
+    "third": "Oyuncu",
+    "fourth": "Kahkaha",
+    "fifth": "Tiyatro"
+  },
+  {
+    "id": "263",
+    "word": "Levent Kırca",
+    "first": "Olacak O Kadar",
+    "second": "Skeç",
+    "third": "Komedi",
+    "fourth": "Tiyatro",
+    "fifth": "Televizyon"
+  },
+  {
+    "id": "264",
+    "word": "Kenan İmirzalıoğlu",
+    "first": "Ezel",
+    "second": "Oyuncu",
+    "third": "Yakışıklı",
+    "fourth": "Kim Milyoner Olmak İster",
+    "fifth": "Sunucu"
+  },
+  {
+    "id": "265",
+    "word": "Gülşen",
+    "first": "Şarkıcı",
+    "second": "Pop",
+    "third": "Bangır Bangır",
+    "fourth": "Of Of",
+    "fifth": "Sahne"
+  },
+  {
+    "id": "266",
+    "word": "Mustafa Sandal",
+    "first": "Şarkıcı",
+    "second": "Pop",
+    "third": "Araba",
+    "fourth": "Aya Benzer",
+    "fifth": "Jest Oldu"
+  },
+  {
+    "id": "267",
+    "word": "Hande Yener",
+    "first": "Şarkıcı",
+    "second": "Pop",
+    "third": "Kırmızı",
+    "fourth": "Acele Etme",
+    "fifth": "Bodrum"
+  },
+  {
+    "id": "268",
+    "word": "Seda Sayan",
+    "first": "Sunucu",
+    "second": "Şarkıcı",
+    "third": "Gündüz Kuşağı",
+    "fourth": "Evlilik Programı",
+    "fifth": "Televizyon"
+  },
+  {
+    "id": "269",
+    "word": "Müge Anlı",
+    "first": "Sunucu",
+    "second": "Kayıp",
+    "third": "Cinayet",
+    "fourth": "Sabah",
+    "fifth": "Televizyon"
+  },
+  {
+    "id": "270",
+    "word": "Ahmet Kural",
+    "first": "Murat Cemcir",
+    "second": "Komedi",
+    "third": "Düğün Dernek",
+    "fourth": "Çalgı Çengi",
+    "fifth": "Oyuncu"
+  },
+  {
+    "id": "271",
+    "word": "Murat Cemcir",
+    "first": "Ahmet Kural",
+    "second": "Komedi",
+    "third": "Düğün Dernek",
+    "fourth": "Çalgı Çengi",
+    "fifth": "Oyuncu"
+  },
+  {
+    "id": "272",
+    "word": "Tolga Çevik",
+    "first": "Komedi",
+    "second": "Doğaçlama",
+    "third": "Tolgshow",
+    "fourth": "Arkadaşım Hoşgeldin",
+    "fifth": "Oyuncu"
+  },
+  {
+    "id": "273",
+    "word": "Hazal Kaya",
+    "first": "Oyuncu",
+    "second": "Nihal",
+    "third": "Aşk-ı Memnu",
+    "fourth": "Dizi",
+    "fifth": "Adını Feriha Koydum"
+  },
+  {
+    "id": "274",
+    "word": "Meryem Uzerli",
+    "first": "Hürrem",
+    "second": "Muhteşem Yüzyıl",
+    "third": "Oyuncu",
+    "fourth": "Almanya",
+    "fifth": "Kızıl Saç"
+  },
+  {
+    "id": "275",
+    "word": "Celal Şengör",
+    "first": "Jeolog",
+    "second": "Profesör",
+    "third": "Bilim İnsanı",
+    "fourth": "Deprem",
+    "fifth": "İTÜ"
+  },
+  {
+    "id": "276",
+    "word": "Orhan Veli",
+    "first": "Şair",
+    "second": "Garip",
+    "third": "İstanbul'u Dinliyorum",
+    "fourth": "Şiir",
+    "fifth": "Kanık"
+  },
+  {
+    "id": "277",
+    "word": "Sait Faik",
+    "first": "Yazar",
+    "second": "Öykü",
+    "third": "Burgazada",
+    "fourth": "Martı",
+    "fifth": "Deniz"
+  },
+  {
+    "id": "278",
+    "word": "Aziz Nesin",
+    "first": "Yazar",
+    "second": "Mizah",
+    "third": "Hiciv",
+    "fourth": "Zübük",
+    "fifth": "Gülmece"
+  },
+  {
+    "id": "279",
+    "word": "Can Yücel",
+    "first": "Şair",
+    "second": "Datça",
+    "third": "Çeviri",
+    "fourth": "Bıyık",
+    "fifth": "Şiir"
+  },
+  {
+    "id": "280",
+    "word": "Attilâ İlhan",
+    "first": "Şair",
+    "second": "Ben Sana Mecburum",
+    "third": "Şiir",
+    "fourth": "Yazar",
+    "fifth": "Cumhuriyet"
+  },
+  {
+    "id": "281",
+    "word": "Elif Şafak",
+    "first": "Yazar",
+    "second": "Aşk",
+    "third": "Roman",
+    "fourth": "Kitap",
+    "fifth": "Kadın"
+  },
+  {
+    "id": "282",
+    "word": "Ahmet Ümit",
+    "first": "Polisiye",
+    "second": "Yazar",
+    "third": "Roman",
+    "fourth": "Başkomser Nevzat",
+    "fifth": "İstanbul"
+  },
+  {
+    "id": "283",
+    "word": "Tanju Çolak",
+    "first": "Golcü",
+    "second": "Galatasaray",
+    "third": "Altın Ayakkabı",
+    "fourth": "Futbolcu",
+    "fifth": "Samsun"
+  },
+  {
+    "id": "284",
+    "word": "Metin Oktay",
+    "first": "Taçsız Kral",
+    "second": "Galatasaray",
+    "third": "Futbolcu",
+    "fourth": "Golcü",
+    "fifth": "Fileleri Yırtan"
+  },
+  {
+    "id": "285",
+    "word": "Lefter",
+    "first": "Ordinaryüs",
+    "second": "Fenerbahçe",
+    "third": "Futbolcu",
+    "fourth": "Büyükada",
+    "fifth": "Efsane"
+  },
+  {
+    "id": "286",
+    "word": "Rıdvan Dilmen",
+    "first": "Fenerbahçe",
+    "second": "Yorumcu",
+    "third": "Futbolcu",
+    "fourth": "Televizyon",
+    "fifth": "Maç"
+  },
+  {
+    "id": "287",
+    "word": "Volkan Demirel",
+    "first": "Kaleci",
+    "second": "Fenerbahçe",
+    "third": "Milli Takım",
+    "fourth": "Eldiven",
+    "fifth": "Sinirli"
+  },
+  {
+    "id": "288",
+    "word": "Nihat Kahveci",
+    "first": "Futbolcu",
+    "second": "Beşiktaş",
+    "third": "Golcü",
+    "fourth": "Yorumcu",
+    "fifth": "Villarreal"
+  },
+  {
+    "id": "289",
+    "word": "Servet Tazegül",
+    "first": "Tekvando",
+    "second": "Olimpiyat",
+    "third": "Altın Madalya",
+    "fourth": "Tekme",
+    "fifth": "Milli Sporcu"
+  },
+  {
+    "id": "290",
+    "word": "Jim Carrey",
+    "first": "Komedyen",
+    "second": "Maske",
+    "third": "Ace Ventura",
+    "fourth": "Yüz İfadesi",
+    "fifth": "Truman Show"
+  },
+  {
+    "id": "291",
+    "word": "Julia Roberts",
+    "first": "Oyuncu",
+    "second": "Pretty Woman",
+    "third": "Gülüş",
+    "fourth": "Hollywood",
+    "fifth": "Notting Hill"
+  },
+  {
+    "id": "292",
+    "word": "Sylvester Stallone",
+    "first": "Rocky",
+    "second": "Rambo",
+    "third": "Boks",
+    "fourth": "Aksiyon",
+    "fifth": "Kaslı"
+  },
+  {
+    "id": "293",
+    "word": "Bruce Willis",
+    "first": "Zor Ölüm",
+    "second": "Kel",
+    "third": "Aksiyon",
+    "fourth": "Hollywood",
+    "fifth": "Altıncı His"
+  },
+  {
+    "id": "294",
+    "word": "Jennifer Aniston",
+    "first": "Friends",
+    "second": "Rachel",
+    "third": "Oyuncu",
+    "fourth": "Brad Pitt",
+    "fifth": "Dizi"
+  },
+  {
+    "id": "295",
+    "word": "Emma Watson",
+    "first": "Hermione",
+    "second": "Harry Potter",
+    "third": "Oyuncu",
+    "fourth": "İngiliz",
+    "fifth": "Büyücü"
+  },
+  {
+    "id": "296",
+    "word": "Daniel Radcliffe",
+    "first": "Harry Potter",
+    "second": "Gözlük",
+    "third": "Büyücü",
+    "fourth": "İngiliz",
+    "fifth": "Oyuncu"
+  },
+  {
+    "id": "297",
+    "word": "Kylian Mbappé",
+    "first": "Fransa",
+    "second": "Futbolcu",
+    "third": "PSG",
+    "fourth": "Hızlı",
+    "fifth": "Real Madrid"
+  },
+  {
+    "id": "298",
+    "word": "Novak Djokovic",
+    "first": "Tenis",
+    "second": "Sırbistan",
+    "third": "Grand Slam",
+    "fourth": "Raket",
+    "fifth": "Wimbledon"
+  },
+  {
+    "id": "299",
+    "word": "Dalai Lama",
+    "first": "Tibet",
+    "second": "Budist",
+    "third": "Lider",
+    "fourth": "Barış",
+    "fifth": "Kırmızı Cübbe"
+  },
+  {
+    "id": "300",
+    "word": "Rowan Atkinson",
+    "first": "Mr. Bean",
+    "second": "Komedyen",
+    "third": "İngiliz",
+    "fourth": "Ayıcık",
+    "fifth": "Sessiz Komedi"
+  },
+  {
+    "id": "301",
+    "word": "Gheorghe Hagi",
+    "first": "Galatasaray",
+    "second": "Romanya",
+    "third": "Futbolcu",
+    "fourth": "UEFA Kupası",
+    "fifth": "Sol Ayak"
+  },
+  {
+    "id": "302",
+    "word": "Ronaldinho",
+    "first": "Brezilya",
+    "second": "Barcelona",
+    "third": "Futbolcu",
+    "fourth": "Gülümseme",
+    "fifth": "Çalım"
+  },
+  {
+    "id": "303",
+    "word": "Nusret",
+    "first": "Tuz",
+    "second": "Kasap",
+    "third": "Et",
+    "fourth": "Salt Bae",
+    "fifth": "Dirsek"
+  },
+  {
+    "id": "304",
+    "word": "Gordon Ramsay",
+    "first": "Şef",
+    "second": "Mutfak",
+    "third": "Kızgın",
+    "fourth": "MasterChef",
+    "fifth": "İngiliz"
   }
 ]

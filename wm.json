@@ -378,15 +378,6 @@
     "fifth": "Doğa"
   },
   {
-    "id": "43",
-    "word": "Sahne",
-    "first": "Olay",
-    "second": "Yer",
-    "third": "Film",
-    "fourth": "Bölüm",
-    "fifth": "Çekim"
-  },
-  {
     "id": "44",
     "word": "Çıplak",
     "first": "Soyunmak",
@@ -475,15 +466,6 @@
     "third": "Veritabanı",
     "fourth": "İnternet",
     "fifth": "Değerlendirme"
-  },
-  {
-    "id": "54",
-    "word": "Festival",
-    "first": "Cannes",
-    "second": "Film",
-    "third": "Yarışma",
-    "fourth": "Ödül",
-    "fifth": "Uluslararası"
   },
   {
     "id": "55",
@@ -637,15 +619,6 @@
     "third": "Gişe",
     "fourth": "Kayıp",
     "fifth": "Zarar"
-  },
-  {
-    "id": "72",
-    "word": "Hit",
-    "first": "Başarılı",
-    "second": "Film",
-    "third": "Popüler",
-    "fourth": "Sevilen",
-    "fifth": "Gişe"
   },
   {
     "id": "73",
@@ -1040,7 +1013,7 @@
     "first": "Leyla ile Mecnun",
     "second": "Çay",
     "third": "Cengiz Bozkurt",
-    "fourth": "Bakkal",
+    "fourth": "Dükkan",
     "fifth": "Tuzluk"
   },
   {
@@ -1165,7 +1138,7 @@
     "word": "Mahmut Hoca",
     "first": "Münir Özkul",
     "second": "Hababam Sınıfı",
-    "third": "Kel Mahmut",
+    "third": "Kel",
     "fourth": "Disiplin",
     "fifth": "Okul"
   },
@@ -1252,7 +1225,7 @@
   },
   {
     "id": "140",
-    "word": "G.O.R.A.",
+    "word": "GORA",
     "first": "Cem Yılmaz",
     "second": "Arif Işık",
     "third": "Komutan Logar",
@@ -1262,16 +1235,16 @@
   {
     "id": "141",
     "word": "Arif Işık",
-    "first": "G.O.R.A.",
+    "first": "GORA",
     "second": "Cem Yılmaz",
     "third": "Halıcı",
     "fourth": "Ceku",
-    "fifth": "A.R.O.G"
+    "fifth": "AROG"
   },
   {
     "id": "142",
     "word": "Komutan Logar",
-    "first": "G.O.R.A.",
+    "first": "GORA",
     "second": "Cem Yılmaz",
     "third": "Uzaylı",
     "fourth": "Kötü",
@@ -1280,7 +1253,7 @@
   {
     "id": "143",
     "word": "Robot 216",
-    "first": "G.O.R.A.",
+    "first": "GORA",
     "second": "Ozan Güven",
     "third": "Arif",
     "fourth": "İnsan Olmak",
@@ -1288,7 +1261,7 @@
   },
   {
     "id": "144",
-    "word": "A.R.O.G",
+    "word": "AROG",
     "first": "Cem Yılmaz",
     "second": "Taş Devri",
     "third": "Arif",
@@ -1409,7 +1382,7 @@
     "first": "Kim Olduğunu Bilirsin Sen",
     "second": "Burnu Yok",
     "third": "Yılan",
-    "fourth": "Karanlık Lord",
+    "fourth": "Harry Potter",
     "fifth": "Ölüm Yiyen"
   },
   {
@@ -1491,7 +1464,7 @@
     "second": "Seyran",
     "third": "Dizi",
     "fourth": "Antep",
-    "fifth": "Yalı"
+    "fifth": "Boğaz"
   },
   {
     "id": "167",
@@ -1589,7 +1562,7 @@
     "first": "Seksenler",
     "second": "Nazlı",
     "third": "Kaset",
-    "fourth": "Plakçı",
+    "fourth": "Müzik Dükkanı",
     "fifth": "Aşık"
   },
   {
@@ -1624,7 +1597,7 @@
     "word": "Kebapçı Celal",
     "first": "İçerde",
     "second": "Çetin Tekindor",
-    "third": "Kebap",
+    "third": "Lokanta",
     "fourth": "Mafya",
     "fifth": "Baba"
   },
@@ -1697,7 +1670,7 @@
     "first": "Hallederiz Kadir",
     "second": "Damat",
     "third": "Levent Ülgen",
-    "fourth": "Baba",
+    "fourth": "Aile",
     "fifth": "Dizi"
   },
   {
@@ -1749,7 +1722,7 @@
     "id": "195",
     "word": "Selamsız Bandosu",
     "first": "Şener Şen",
-    "second": "Bando",
+    "second": "Trampet",
     "third": "Tren",
     "fourth": "Kasaba",
     "fifth": "Cumhurbaşkanı"
@@ -1800,15 +1773,6 @@
     "fifth": "Köy"
   },
   {
-    "id": "201",
-    "word": "Şekerpare",
-    "first": "Şener Şen",
-    "second": "İlyas Salman",
-    "third": "Ziver Bey",
-    "fourth": "Komiser",
-    "fifth": "Karakol"
-  },
-  {
     "id": "202",
     "word": "Davaro",
     "first": "Kemal Sunal",
@@ -1824,7 +1788,7 @@
     "second": "Kamil",
     "third": "Korkak",
     "fourth": "Ev İşi",
-    "fifth": "Kılıbıklar Kulübü"
+    "fifth": "Hanım"
   },
   {
     "id": "204",
@@ -1843,5 +1807,41 @@
     "third": "Kabadayı",
     "fourth": "Şevket",
     "fifth": "Mahalle"
+  },
+  {
+    "id": "206",
+    "word": "Muhteşem Yüzyıl",
+    "first": "Hürrem",
+    "second": "Kanuni",
+    "third": "Dizi",
+    "fourth": "Saray",
+    "fifth": "Halit Ergenç"
+  },
+  {
+    "id": "207",
+    "word": "Diriliş Ertuğrul",
+    "first": "Kayı",
+    "second": "Osmanlı",
+    "third": "Dizi",
+    "fourth": "Engin Altan",
+    "fifth": "Halime Sultan"
+  },
+  {
+    "id": "208",
+    "word": "Kuzey Güney",
+    "first": "Kıvanç Tatlıtuğ",
+    "second": "Kardeş",
+    "third": "Dizi",
+    "fourth": "Cansu",
+    "fifth": "Buğra Gülsoy"
+  },
+  {
+    "id": "209",
+    "word": "Ayla",
+    "first": "Kore Savaşı",
+    "second": "Asker",
+    "third": "Süleyman",
+    "fourth": "Duygusal",
+    "fifth": "Gerçek Hikaye"
   }
 ]

@@ -63,15 +63,6 @@
     "fifth": "Aktarım"
   },
   {
-    "id": "8",
-    "word": "Veritabanı",
-    "first": "Bilgi",
-    "second": "Depolama",
-    "third": "SQL",
-    "fourth": "Sunucu",
-    "fifth": "Tablo"
-  },
-  {
     "id": "9",
     "word": "Oyun Konsolu",
     "first": "PlayStation",
@@ -87,7 +78,7 @@
     "second": "3D",
     "third": "Deneyim",
     "fourth": "Simülasyon",
-    "fifth": "Sanal"
+    "fifth": "Oyun"
   },
   {
     "id": "11",
@@ -210,7 +201,7 @@
     "id": "24",
     "word": "Artırılmış Gerçeklik",
     "first": "Sanal",
-    "second": "Gerçek",
+    "second": "Pokemon Go",
     "third": "Görüntü",
     "fourth": "Uygulama",
     "fifth": "Kamera"
@@ -258,7 +249,7 @@
     "second": "Müzik",
     "third": "Kablosuz",
     "fourth": "Gürültü Engelleme",
-    "fifth": "Kulak"
+    "fifth": "Takmak"
   },
   {
     "id": "30",
@@ -366,7 +357,7 @@
     "second": "Ekran",
     "third": "Oyun",
     "fourth": "Kart",
-    "fifth": "NVIDIA"
+    "fifth": "Nvidia"
   },
   {
     "id": "42",
@@ -624,7 +615,7 @@
     "id": "70",
     "word": "Veri Bilimi",
     "first": "Analiz",
-    "second": "Veri",
+    "second": "Yapay Zeka",
     "third": "Model",
     "fourth": "Tahmin",
     "fifth": "İstatistik"
@@ -823,7 +814,7 @@
     "word": "Tarayıcı Eklentisi",
     "first": "Chrome",
     "second": "Firefox",
-    "third": "Eklenti",
+    "third": "Yüklemek",
     "fourth": "Web",
     "fifth": "Araç Çubuğu"
   },
@@ -951,7 +942,7 @@
     "second": "Dosya",
     "third": "Taşınabilir",
     "fourth": "Depolama",
-    "fifth": "Bellek"
+    "fifth": "Bilgisayar"
   },
   {
     "id": "107",
@@ -979,15 +970,6 @@
     "third": "Titreşim",
     "fourth": "Kısmak",
     "fifth": "Toplantı"
-  },
-  {
-    "id": "110",
-    "word": "Titreşim",
-    "first": "Telefon",
-    "second": "Sallanmak",
-    "third": "Sessiz",
-    "fourth": "Arama",
-    "fifth": "Motor"
   },
   {
     "id": "111",
@@ -1201,7 +1183,7 @@
     "word": "Antivirüs",
     "first": "Program",
     "second": "Tarama",
-    "third": "Virüs",
+    "third": "Zararlı",
     "fourth": "Temizlemek",
     "fifth": "Korumak"
   },
@@ -1229,7 +1211,7 @@
     "first": "Çöp",
     "second": "Masaüstü",
     "third": "Silinenler",
-    "fourth": "Geri Yüklemek",
+    "fourth": "Dosya",
     "fifth": "Boşaltmak"
   },
   {
@@ -1409,7 +1391,7 @@
     "first": "GPU",
     "second": "Oyun",
     "third": "Görüntü",
-    "fourth": "NVIDIA",
+    "fourth": "Nvidia",
     "fifth": "Donanım"
   },
   {
@@ -1427,7 +1409,7 @@
     "first": "Gaming Mouse",
     "second": "DPI",
     "third": "Işıklı",
-    "fourth": "Oyun",
+    "fourth": "Bilgisayar",
     "fifth": "Tuş"
   },
   {
@@ -1659,7 +1641,7 @@
     "id": "185",
     "word": "Bluetooth Kulaklık",
     "first": "Kablosuz",
-    "second": "Kulak",
+    "second": "AirPods",
     "third": "Kutu",
     "fourth": "Müzik",
     "fifth": "Şarj"
@@ -1784,7 +1766,7 @@
   {
     "id": "199",
     "word": "Harici Mikrofon",
-    "first": "Yaka Mikrofonu",
+    "first": "Podcast",
     "second": "Ses Kaydı",
     "third": "Yayıncı",
     "fourth": "Kablo",
@@ -1813,7 +1795,7 @@
     "word": "Arama Motoru",
     "first": "Google",
     "second": "Yandex",
-    "third": "Aramak",
+    "third": "İnternet",
     "fourth": "Sonuç",
     "fifth": "Web"
   },
@@ -1833,7 +1815,7 @@
     "second": "Kanal",
     "third": "Abone",
     "fourth": "İzlemek",
-    "fifth": "Youtuber"
+    "fifth": "Reklam"
   },
   {
     "id": "205",
@@ -1955,7 +1937,7 @@
   {
     "id": "218",
     "word": "Güneş Paneli",
-    "first": "Güneş Enerjisi",
+    "first": "Yenilenebilir",
     "second": "Çatı",
     "third": "Elektrik",
     "fourth": "Temiz Enerji",
@@ -2013,7 +1995,7 @@
     "second": "Telefon",
     "third": "AirPlay",
     "fourth": "Bağlantı",
-    "fifth": "Büyük Ekran"
+    "fifth": "Kablosuz"
   },
   {
     "id": "225",
@@ -2039,7 +2021,7 @@
     "first": "Geçmiş Kaydetmeme",
     "second": "Tarayıcı",
     "third": "Siyah Ekran",
-    "fourth": "Gizlilik",
+    "fourth": "Mahremiyet",
     "fifth": "Arama"
   },
   {
@@ -2086,5 +2068,23 @@
     "third": "Açmak",
     "fourth": "Yüksek",
     "fifth": "Düğme"
+  },
+  {
+    "id": "233",
+    "word": "Emoji",
+    "first": "Gülen Yüz",
+    "second": "Mesaj",
+    "third": "Simge",
+    "fourth": "Sarı",
+    "fifth": "Kalp"
+  },
+  {
+    "id": "234",
+    "word": "Otomatik Düzeltme",
+    "first": "Yazım",
+    "second": "Klavye",
+    "third": "Kelime",
+    "fourth": "Telefon",
+    "fifth": "Yanlış"
   }
 ]

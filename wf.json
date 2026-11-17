@@ -168,7 +168,7 @@
     "second": "Pirinç",
     "third": "Dolma",
     "fourth": "Asma",
-    "fifth": "Sarmak"
+    "fifth": "Lahana"
   },
   {
     "id": "20",
@@ -328,7 +328,7 @@
     "word": "Tavuk Göğsü",
     "first": "Tatlı",
     "second": "Süt",
-    "third": "Tavuk",
+    "third": "Tarçın",
     "fourth": "Osmanlı",
     "fifth": "Muhallebi"
   },
@@ -455,7 +455,7 @@
     "first": "Yağ",
     "second": "Çıtır",
     "third": "Tuz",
-    "fourth": "Patates",
+    "fourth": "Ketçap",
     "fifth": "Fast food"
   },
   {
@@ -731,7 +731,7 @@
   {
     "id": "82",
     "word": "Zeytinyağı",
-    "first": "Zeytin",
+    "first": "Ayvalık",
     "second": "Yağ",
     "third": "Sızma",
     "fourth": "Ege",
@@ -1131,7 +1131,7 @@
     "second": "Sarı",
     "third": "Narenciye",
     "fourth": "Vitamin C",
-    "fifth": "Limonata"
+    "fifth": "Kolonya"
   },
   {
     "id": "127",
@@ -1370,7 +1370,7 @@
   {
     "id": "153",
     "word": "Limonata",
-    "first": "Limon",
+    "first": "Ekşi",
     "second": "Şeker",
     "third": "Soğuk",
     "fourth": "İçecek",
@@ -1427,7 +1427,7 @@
     "first": "Mutfak",
     "second": "Bıçak",
     "third": "Doğramak",
-    "fourth": "Tahta",
+    "fourth": "Ahşap",
     "fifth": "Sebze"
   },
   {
@@ -1710,15 +1710,6 @@
     "fifth": "Çiğ"
   },
   {
-    "id": "191",
-    "word": "Mısır",
-    "first": "Sarı",
-    "second": "Koçan",
-    "third": "Haşlamak",
-    "fourth": "Patlamış",
-    "fifth": "Tane"
-  },
-  {
     "id": "192",
     "word": "Bezelye",
     "first": "Yeşil",
@@ -1787,7 +1778,7 @@
     "first": "Et",
     "second": "Kemik",
     "third": "Izgara",
-    "fourth": "Kuzu",
+    "fourth": "Kaburga",
     "fifth": "Mangal"
   },
   {
@@ -1867,8 +1858,8 @@
     "word": "Pekmezli Tahini",
     "first": "Kahvaltı",
     "second": "Tatlı",
-    "third": "Pekmez",
-    "fourth": "Tahin",
+    "third": "Susam",
+    "fourth": "Ekmek",
     "fifth": "Karıştırmak"
   },
   {
@@ -2018,7 +2009,7 @@
   {
     "id": "225",
     "word": "Testi Kebabı",
-    "first": "Testi",
+    "first": "Çömlek",
     "second": "Kırmak",
     "third": "Fırın",
     "fourth": "Et",
@@ -2065,8 +2056,8 @@
     "word": "Peynirli Tepsi Böreği",
     "first": "Yufka",
     "second": "Fırın",
-    "third": "Peynir",
-    "fourth": "Tepsi",
+    "third": "Maydanoz",
+    "fourth": "Yumurta",
     "fifth": "Kat"
   },
   {
@@ -2153,7 +2144,7 @@
   {
     "id": "240",
     "word": "Sarımsak Ezmesi",
-    "first": "Sarımsak",
+    "first": "Koku",
     "second": "Yoğurt",
     "third": "Meze",
     "fourth": "Ezmek",
@@ -2193,24 +2184,15 @@
     "second": "Domates",
     "third": "Biber",
     "fourth": "Meze",
-    "fifth": "Ezmek"
-  },
-  {
-    "id": "245",
-    "word": "Atom",
-    "first": "Acı",
-    "second": "Biber",
-    "third": "Sos",
-    "fourth": "Kebapçı",
-    "fifth": "Domates"
+    "fifth": "Kebap"
   },
   {
     "id": "246",
     "word": "Sucuklu Yumurta",
     "first": "Kahvaltı",
     "second": "Tava",
-    "third": "Sucuk",
-    "fourth": "Yumurta",
+    "third": "Sahan",
+    "fourth": "Ekmek",
     "fifth": "Kızartma"
   },
   {
@@ -2234,7 +2216,7 @@
   {
     "id": "249",
     "word": "Zeytinyağlı Yaprak Sarma",
-    "first": "Yaprak",
+    "first": "Asma",
     "second": "Pirinç",
     "third": "Soğuk",
     "fourth": "Meze",
@@ -2248,5 +2230,23 @@
     "third": "İtalyan",
     "fourth": "Yeşil",
     "fifth": "Makarna"
+  },
+  {
+    "id": "251",
+    "word": "Kestane Kebap",
+    "first": "Kış",
+    "second": "Közlemek",
+    "third": "Sokak",
+    "fourth": "Sıcak",
+    "fifth": "Kabuk"
+  },
+  {
+    "id": "252",
+    "word": "Kumru",
+    "first": "İzmir",
+    "second": "Sandviç",
+    "third": "Sucuk",
+    "fourth": "Kaşar",
+    "fifth": "Çeşme"
   }
 ]

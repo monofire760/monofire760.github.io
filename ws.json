@@ -195,7 +195,7 @@
     "second": "Kaldırmak",
     "third": "Güç",
     "fourth": "Kilogram",
-    "fifth": null
+    "fifth": "Olimpiyat"
   },
   {
     "id": "23",
@@ -261,19 +261,10 @@
     "fifth": "Flöre"
   },
   {
-    "id": "30",
-    "word": "Cimnastik",
-    "first": "Denge",
-    "second": "Barfiks",
-    "third": "Esneklik",
-    "fourth": "Takla",
-    "fifth": "Atlama"
-  },
-  {
     "id": "31",
     "word": "Masa Tenisi",
     "first": "Raket",
-    "second": "Masa",
+    "second": "Çin",
     "third": "File",
     "fourth": "Ping Pong",
     "fifth": "Top"
@@ -344,7 +335,7 @@
   {
     "id": "39",
     "word": "Uzun Atlama",
-    "first": "Atlama",
+    "first": "Atletizm",
     "second": "Mesafe",
     "third": "Kum",
     "fourth": "Koşu",
@@ -353,17 +344,17 @@
   {
     "id": "40",
     "word": "Yüksek Atlama",
-    "first": "Atlama",
+    "first": "Atletizm",
     "second": "Çıta",
-    "third": "Yükseklik",
+    "third": "Sıçramak",
     "fourth": "Minder",
     "fifth": "Fosbury"
   },
   {
     "id": "41",
     "word": "Disk Atma",
-    "first": "Disk",
-    "second": "Atmak",
+    "first": "Atletizm",
+    "second": "Yuvarlak",
     "third": "Mesafe",
     "fourth": "Dönme",
     "fifth": "Alan"
@@ -371,8 +362,8 @@
   {
     "id": "42",
     "word": "Çekiç Atma",
-    "first": "Çekiç",
-    "second": "Atmak",
+    "first": "Atletizm",
+    "second": "Savurmak",
     "third": "Dönme",
     "fourth": "Güç",
     "fifth": "Zincir"
@@ -380,8 +371,8 @@
   {
     "id": "43",
     "word": "Cirit Atma",
-    "first": "Cirit",
-    "second": "Atmak",
+    "first": "Mızrak",
+    "second": "Atletizm",
     "third": "Uzun",
     "fourth": "Mesafe",
     "fifth": "Koşu"
@@ -389,9 +380,9 @@
   {
     "id": "44",
     "word": "Gülle Atma",
-    "first": "Gülle",
+    "first": "Top",
     "second": "Ağır",
-    "third": "Atmak",
+    "third": "Atletizm",
     "fourth": "Güç",
     "fifth": "Demir"
   },
@@ -415,7 +406,7 @@
   },
   {
     "id": "47",
-    "word": "Dektatlon",
+    "word": "Dekatlon",
     "first": "On",
     "second": "Branş",
     "third": "Erkek",
@@ -545,7 +536,7 @@
     "first": "Faul",
     "second": "Ceza",
     "third": "Duvar",
-    "fourth": "Vuruş",
+    "fourth": "Frikik",
     "fifth": "Mesafe"
   },
   {
@@ -590,7 +581,7 @@
     "first": "On Bir",
     "second": "Metre",
     "third": "Beş",
-    "fourth": "Atış",
+    "fourth": "Uzatma",
     "fifth": "Kaleci"
   },
   {
@@ -603,20 +594,11 @@
     "fifth": "Heyecan"
   },
   {
-    "id": "68",
-    "word": "Şampiyonluk",
-    "first": "Birinci",
-    "second": "Kupa",
-    "third": "Kazanmak",
-    "fourth": "Başarı",
-    "fifth": "Kutlama"
-  },
-  {
     "id": "69",
     "word": "Küme Düşme",
     "first": "Alt",
     "second": "Lig",
-    "third": "Düşmek",
+    "third": "Puan",
     "fourth": "Son",
     "fifth": "Tehlike"
   },
@@ -645,7 +627,7 @@
     "second": "Takım",
     "third": "Eleme",
     "fourth": "Son",
-    "fifth": "Finale"
+    "fifth": "Kupa"
   },
   {
     "id": "73",
@@ -873,15 +855,6 @@
     "fifth": "Dünya"
   },
   {
-    "id": "98",
-    "word": "Dopinj",
-    "first": "İlaç",
-    "second": "Performans",
-    "third": "Artırıcı",
-    "fourth": "Kontrol",
-    "fifth": "Numune"
-  },
-  {
     "id": "99",
     "word": "Sponsorluk",
     "first": "Para",
@@ -1041,7 +1014,7 @@
     "second": "Ayağa Kalkmak",
     "third": "Seyirci",
     "fourth": "Stadyum",
-    "fifth": "Dalga"
+    "fifth": "Kol"
   },
   {
     "id": "117",
@@ -1107,15 +1080,6 @@
     "fifth": "Gol"
   },
   {
-    "id": "124",
-    "word": "Baraj",
-    "first": "Frikik",
-    "second": "Oyuncu",
-    "third": "Yan Yana",
-    "fourth": "Top",
-    "fifth": "Mesafe"
-  },
-  {
     "id": "125",
     "word": "Ceza Sahası",
     "first": "Kutu",
@@ -1165,7 +1129,7 @@
     "word": "Kaleci",
     "first": "Eldiven",
     "second": "Kurtarış",
-    "third": "Kale",
+    "third": "Direk",
     "fourth": "Gol",
     "fifth": "Elle Oynamak"
   },
@@ -1235,7 +1199,7 @@
   {
     "id": "138",
     "word": "Şampiyonlar Ligi",
-    "first": "Devler Ligi",
+    "first": "Real Madrid",
     "second": "Kupa",
     "third": "Müzik",
     "fourth": "Avrupa",
@@ -1245,7 +1209,7 @@
     "id": "139",
     "word": "UEFA Avrupa Ligi",
     "first": "Kupa",
-    "second": "Avrupa",
+    "second": "Kulüp",
     "third": "Galatasaray",
     "fourth": "Perşembe",
     "fifth": "Turnuva"
@@ -1638,15 +1602,6 @@
     "fifth": "Kaya"
   },
   {
-    "id": "183",
-    "word": "Everest",
-    "first": "Dünyanın En Yüksek",
-    "second": "Himalayalar",
-    "third": "Zirve",
-    "fourth": "Nepal",
-    "fifth": "Dağ"
-  },
-  {
     "id": "184",
     "word": "Kaykay",
     "first": "Tekerlek",
@@ -1827,15 +1782,6 @@
     "fifth": "Tutmak"
   },
   {
-    "id": "204",
-    "word": "Masa Tenisi Masası",
-    "first": "Pinpon",
-    "second": "Yeşil",
-    "third": "File",
-    "fourth": "Küçük Top",
-    "fifth": "Masa"
-  },
-  {
     "id": "205",
     "word": "Kronometre",
     "first": "Zaman",
@@ -1843,5 +1789,59 @@
     "third": "Ölçmek",
     "fourth": "Hakem",
     "fifth": "Durdurmak"
+  },
+  {
+    "id": "206",
+    "word": "Tekvando",
+    "first": "Kore",
+    "second": "Tekme",
+    "third": "Kuşak",
+    "fourth": "Dövüş",
+    "fifth": "Olimpiyat"
+  },
+  {
+    "id": "207",
+    "word": "Judo",
+    "first": "Japonya",
+    "second": "Kimono",
+    "third": "Kuşak",
+    "fourth": "Dövüş",
+    "fifth": "Fırlatmak"
+  },
+  {
+    "id": "208",
+    "word": "Yelken",
+    "first": "Tekne",
+    "second": "Rüzgar",
+    "third": "Deniz",
+    "fourth": "Direk",
+    "fifth": "Regata"
+  },
+  {
+    "id": "209",
+    "word": "Binicilik",
+    "first": "At",
+    "second": "Eyer",
+    "third": "Engel",
+    "fourth": "Jokey",
+    "fifth": "Dizgin"
+  },
+  {
+    "id": "210",
+    "word": "Sumo",
+    "first": "Japonya",
+    "second": "Güreş",
+    "third": "Şişman",
+    "fourth": "Halka",
+    "fifth": "Kuşak"
+  },
+  {
+    "id": "211",
+    "word": "Kano",
+    "first": "Kürek",
+    "second": "Nehir",
+    "third": "Tekne",
+    "fourth": "Su",
+    "fifth": "Dar"
   }
 ]

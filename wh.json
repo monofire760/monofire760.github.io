@@ -234,15 +234,6 @@
     "fifth": "Blok"
   },
   {
-    "id": "27",
-    "word": "Çin Seddi",
-    "first": "Duvar",
-    "second": "Pekin",
-    "third": "Uzay",
-    "fourth": "Savunma",
-    "fifth": "Ming"
-  },
-  {
     "id": "28",
     "word": "Kleopatra",
     "first": "Mısır",
@@ -391,7 +382,7 @@
     "word": "Göktürkler",
     "first": "Orhun",
     "second": "Yazıt",
-    "third": "Türk",
+    "third": "Tonyukuk",
     "fourth": "Orta Asya",
     "fifth": "Kağan"
   },
@@ -455,7 +446,7 @@
     "first": "1919",
     "second": "Atatürk",
     "third": "Milli Mücadele",
-    "fourth": "Genelge",
+    "fourth": "Bildiri",
     "fifth": "Kongre"
   },
   {
@@ -528,7 +519,7 @@
     "second": "Atatürk",
     "third": "Kimlik",
     "fourth": "Ad",
-    "fifth": "Kanun"
+    "fifth": "Nüfus"
   },
   {
     "id": "60",
@@ -608,7 +599,7 @@
     "first": "1538",
     "second": "Barbaros",
     "third": "Osmanlı",
-    "fourth": "Akdeniz",
+    "fourth": "Zafer",
     "fifth": "Donanma"
   },
   {
@@ -635,7 +626,7 @@
     "first": "Cami",
     "second": "Süleymaniye",
     "third": "Osmanlı",
-    "fourth": "Mimar",
+    "fourth": "Kanuni",
     "fifth": "Selimiye"
   },
   {
@@ -659,7 +650,7 @@
   {
     "id": "74",
     "word": "Kara Veba",
-    "first": "Veba",
+    "first": "Fare",
     "second": "Ortaçağ",
     "third": "Salgın",
     "fourth": "Avrupa",
@@ -677,7 +668,7 @@
   {
     "id": "76",
     "word": "Osman Gazi",
-    "first": "Osmanlı",
+    "first": "Kayı",
     "second": "Kurucu",
     "third": "Beylik",
     "fourth": "Söğüt",
@@ -716,7 +707,7 @@
     "first": "Osmanlı",
     "second": "Sarıkamış",
     "third": "İttihat",
-    "fourth": "Paşa",
+    "fourth": "Almanya",
     "fifth": "Harbiye"
   },
   {
@@ -819,15 +810,6 @@
     "fifth": "Özgürlük"
   },
   {
-    "id": "92",
-    "word": "Sümerlerin Yazıyı Bulması",
-    "first": "Çivi Yazısı",
-    "second": "Mezopotamya",
-    "third": "Tablet",
-    "fourth": "İlk",
-    "fifth": "Buluş"
-  },
-  {
     "id": "93",
     "word": "Antik Yunan",
     "first": "Atina",
@@ -844,15 +826,6 @@
     "third": "Asker",
     "fourth": "Disiplin",
     "fifth": "300"
-  },
-  {
-    "id": "95",
-    "word": "Atina",
-    "first": "Yunanistan",
-    "second": "Demokrasi",
-    "third": "Akropolis",
-    "fourth": "Felsefe",
-    "fifth": "Şehir"
   },
   {
     "id": "96",
@@ -975,7 +948,7 @@
     "id": "109",
     "word": "Moğol İstilası",
     "first": "Cengiz Han",
-    "second": "İstila",
+    "second": "Bağdat",
     "third": "Yıkım",
     "fourth": "Asya",
     "fifth": "Atlı"
@@ -1165,7 +1138,7 @@
     "word": "Çarlık Rusyası",
     "first": "Çar",
     "second": "Romanov",
-    "third": "Rusya",
+    "third": "Petersburg",
     "fourth": "İmparatorluk",
     "fifth": "Devrim"
   },
@@ -1301,7 +1274,7 @@
     "first": "Mehmet Akif",
     "second": "Türkiye",
     "third": "Milli",
-    "fourth": "Marş",
+    "fourth": "Korkma",
     "fifth": "1921"
   },
   {
@@ -1319,7 +1292,7 @@
     "first": "İstanbul",
     "second": "Osmanlı",
     "third": "Atatürk",
-    "fourth": "Saray",
+    "fourth": "Avize",
     "fifth": "Boğaz"
   },
   {
@@ -1328,7 +1301,7 @@
     "first": "Atatürk",
     "second": "Ankara",
     "third": "Mezar",
-    "fourth": "Anıt",
+    "fourth": "Aslanlı Yol",
     "fifth": "Ziyaret"
   },
   {
@@ -1426,18 +1399,9 @@
     "word": "Misak-ı Milli",
     "first": "1920",
     "second": "Sınır",
-    "third": "Milli",
+    "third": "Yemin",
     "fourth": "Meclis",
     "fifth": "Bağımsızlık"
-  },
-  {
-    "id": "160",
-    "word": "Hatay'ın Anavatana Katılması",
-    "first": "1939",
-    "second": "Atatürk",
-    "third": "İskenderun",
-    "fourth": "Fransa",
-    "fifth": "Suriye"
   },
   {
     "id": "161",
@@ -1464,7 +1428,7 @@
     "second": "Yargılama",
     "third": "Savaş Suçu",
     "fourth": "Almanya",
-    "fifth": "Mahkeme"
+    "fifth": "İdam"
   },
   {
     "id": "164",
@@ -1501,24 +1465,6 @@
     "third": "Koloni",
     "fourth": "Sömürü",
     "fifth": "İşgal"
-  },
-  {
-    "id": "168",
-    "word": "Suez Kanalı",
-    "first": "Mısır",
-    "second": "Kanal",
-    "third": "Akdeniz",
-    "fourth": "Kızıldeniz",
-    "fifth": "Gemi"
-  },
-  {
-    "id": "169",
-    "word": "Panama Kanalı",
-    "first": "ABD",
-    "second": "Kanal",
-    "third": "Okyanus",
-    "fourth": "Gemi",
-    "fifth": "Latin Amerika"
   },
   {
     "id": "170",
@@ -1662,7 +1608,7 @@
     "second": "Pers",
     "third": "Koşu",
     "fourth": "Atina",
-    "fifth": "MÖ 490"
+    "fifth": "Haberci"
   },
   {
     "id": "186",
@@ -1746,29 +1692,11 @@
     "fifth": "Balkan"
   },
   {
-    "id": "195",
-    "word": "Edirne",
-    "first": "Osmanlı",
-    "second": "Başkent",
-    "third": "Trakya",
-    "fourth": "Selimiye",
-    "fifth": "Meriç"
-  },
-  {
-    "id": "196",
-    "word": "Bursa",
-    "first": "Osmanlı",
-    "second": "İlk Başkent",
-    "third": "Yeşil",
-    "fourth": "Uludağ",
-    "fifth": "İpek"
-  },
-  {
     "id": "197",
     "word": "Orhun Yazıtları",
     "first": "Göktürk",
     "second": "Türk",
-    "third": "Yazıt",
+    "third": "Taş",
     "fourth": "Bilge Kağan",
     "fifth": "Moğolistan"
   },
@@ -1776,7 +1704,7 @@
     "id": "198",
     "word": "Ergenekon Destanı",
     "first": "Türk",
-    "second": "Destan",
+    "second": "Nevruz",
     "third": "Kurt",
     "fourth": "Dağ",
     "fifth": "Demir"
@@ -1823,7 +1751,7 @@
     "first": "Mimar Sinan",
     "second": "İstanbul",
     "third": "Osmanlı",
-    "fourth": "Cami",
+    "fourth": "Kubbe",
     "fifth": "Kanuni"
   },
   {
@@ -1905,7 +1833,7 @@
     "second": "Türk",
     "third": "Tac Mahal",
     "fourth": "Moğol",
-    "fifth": "Babür Şah"
+    "fifth": "Delhi"
   },
   {
     "id": "213",
@@ -2007,20 +1935,11 @@
     "fifth": "Uzun"
   },
   {
-    "id": "224",
-    "word": "Terakkiperver Cumhuriyet Fırkası",
-    "first": "Muhalefet",
-    "second": "Parti",
-    "third": "1924",
-    "fourth": "Kapatıldı",
-    "fifth": "Cumhuriyet"
-  },
-  {
     "id": "225",
     "word": "Şeyh Said İsyanı",
     "first": "1925",
     "second": "Doğu",
-    "third": "İsyan",
+    "third": "Ayaklanma",
     "fourth": "Cumhuriyet",
     "fifth": "Bastırma"
   },
@@ -2061,15 +1980,6 @@
     "fifth": "Kanun"
   },
   {
-    "id": "230",
-    "word": "Tekke ve Zaviyelerin Kapatılması",
-    "first": "1925",
-    "second": "Laiklik",
-    "third": "Tarikat",
-    "fourth": "İnkılap",
-    "fifth": "Kapatma"
-  },
-  {
     "id": "231",
     "word": "Şapka İnkılabı",
     "first": "1925",
@@ -2088,24 +1998,6 @@
     "fifth": "Batı"
   },
   {
-    "id": "233",
-    "word": "Saat ve Ölçü Değişikliği",
-    "first": "İnkılap",
-    "second": "Batı",
-    "third": "Metre",
-    "fourth": "Kilo",
-    "fifth": "Atatürk"
-  },
-  {
-    "id": "234",
-    "word": "Aşar Vergisinin Kaldırılması",
-    "first": "1925",
-    "second": "Köylü",
-    "third": "Tarım",
-    "fourth": "Osmanlı",
-    "fifth": "Vergi"
-  },
-  {
     "id": "235",
     "word": "Tekalif-i Milliye",
     "first": "1921",
@@ -2120,7 +2012,7 @@
     "first": "1923",
     "second": "Ekonomi",
     "third": "Milli",
-    "fourth": "Kongre",
+    "fourth": "Kalkınma",
     "fifth": "Atatürk"
   },
   {
@@ -2248,5 +2140,113 @@
     "third": "Çözüm",
     "fourth": "Yazı",
     "fifth": "Champollion"
+  },
+  {
+    "id": "251",
+    "word": "Ertuğrul Gazi",
+    "first": "Kayı",
+    "second": "Osman Bey",
+    "third": "Söğüt",
+    "fourth": "Kuruluş",
+    "fifth": "Diriliş"
+  },
+  {
+    "id": "252",
+    "word": "Hürrem Sultan",
+    "first": "Kanuni",
+    "second": "Kızıl Saç",
+    "third": "Rus",
+    "fourth": "Saray",
+    "fifth": "Muhteşem Yüzyıl"
+  },
+  {
+    "id": "253",
+    "word": "Cumhuriyet Bayramı",
+    "first": "29 Ekim",
+    "second": "Atatürk",
+    "third": "Fener Alayı",
+    "fourth": "Tören",
+    "fifth": "Bayrak"
+  },
+  {
+    "id": "254",
+    "word": "Ulubatlı Hasan",
+    "first": "Fetih",
+    "second": "Bayrak",
+    "third": "Sur",
+    "fourth": "Şehit",
+    "fifth": "1453"
+  },
+  {
+    "id": "255",
+    "word": "Seyit Onbaşı",
+    "first": "Çanakkale",
+    "second": "Mermi",
+    "third": "Sırtlamak",
+    "fourth": "Asker",
+    "fifth": "Kahraman"
+  },
+  {
+    "id": "256",
+    "word": "Nene Hatun",
+    "first": "Erzurum",
+    "second": "Kahraman",
+    "third": "Kadın",
+    "fourth": "Ruslar",
+    "fifth": "Tabya"
+  },
+  {
+    "id": "257",
+    "word": "Mumya",
+    "first": "Mısır",
+    "second": "Firavun",
+    "third": "Sargı",
+    "fourth": "Lahit",
+    "fifth": "Tabut"
+  },
+  {
+    "id": "258",
+    "word": "Samuray",
+    "first": "Japonya",
+    "second": "Kılıç",
+    "third": "Katana",
+    "fourth": "Savaşçı",
+    "fifth": "Onur"
+  },
+  {
+    "id": "259",
+    "word": "Kızılderililer",
+    "first": "Amerika",
+    "second": "Kabile",
+    "third": "Tüy",
+    "fourth": "Çadır",
+    "fifth": "Ok"
+  },
+  {
+    "id": "260",
+    "word": "Ortaçağ",
+    "first": "Şövalye",
+    "second": "Kale",
+    "third": "Kilise",
+    "fourth": "Avrupa",
+    "fifth": "Karanlık Çağ"
+  },
+  {
+    "id": "261",
+    "word": "Hacivat ve Karagöz",
+    "first": "Gölge Oyunu",
+    "second": "Perde",
+    "third": "Bursa",
+    "fourth": "Kukla",
+    "fifth": "Şakalaşma"
+  },
+  {
+    "id": "262",
+    "word": "Mehmetçik",
+    "first": "Asker",
+    "second": "Türk",
+    "third": "Çanakkale",
+    "fourth": "Vatan",
+    "fifth": "Şehit"
   }
 ]

@@ -328,7 +328,7 @@
     "word": "Çılgın Korsan Jack",
     "first": "Snuk",
     "second": "Gemi",
-    "third": "Korsan",
+    "third": "Kaptan",
     "fourth": "Fare",
     "fifth": "Fox Kids"
   },
@@ -367,15 +367,6 @@
     "third": "Laa-Laa",
     "fourth": "Po",
     "fifth": "Güneş"
-  },
-  {
-    "id": "42",
-    "word": "W.I.T.C.H.",
-    "first": "Beş Kız",
-    "second": "Element",
-    "third": "Büyü",
-    "fourth": "Portal",
-    "fifth": "Çizgi Film"
   },
   {
     "id": "43",
@@ -436,7 +427,7 @@
     "word": "Şirin Baba",
     "first": "Kırmızı Şapka",
     "second": "Beyaz Sakal",
-    "third": "Şirinler",
+    "third": "Gargamel",
     "fourth": "Köy",
     "fifth": "Büyü"
   },
@@ -510,7 +501,7 @@
     "second": "Hortum",
     "third": "Yemek",
     "fourth": "Looney Tunes",
-    "fifth": "Canavar"
+    "fifth": "Avustralya"
   },
   {
     "id": "58",
@@ -615,7 +606,7 @@
     "id": "69",
     "word": "Patrick Yıldız",
     "first": "SüngerBob",
-    "second": "Deniz Yıldızı",
+    "second": "Arkadaş",
     "third": "Pembe",
     "fourth": "Aptal",
     "fifth": "Kaya"
@@ -635,7 +626,7 @@
     "first": "SüngerBob",
     "second": "Para",
     "third": "Restoran",
-    "fourth": "Yengeç Burger",
+    "fourth": "Hamburger",
     "fifth": "Kasa"
   },
   {
@@ -1076,7 +1067,7 @@
     "first": "Kung Fu Panda",
     "second": "Kızıl Panda",
     "third": "Öğretmen",
-    "fourth": "Usta",
+    "fourth": "Po",
     "fifth": "Huzur"
   },
   {
@@ -1108,7 +1099,7 @@
   },
   {
     "id": "124",
-    "word": "WALL-E",
+    "word": "Wall-E",
     "first": "Robot",
     "second": "Çöp",
     "third": "Dünya",
@@ -1197,15 +1188,6 @@
     "fifth": "Yaban Domuzu"
   },
   {
-    "id": "134",
-    "word": "Oburiks",
-    "first": "Menhir",
-    "second": "Taş",
-    "third": "Kazan",
-    "fourth": "Düşmek",
-    "fifth": "İdefiks"
-  },
-  {
     "id": "135",
     "word": "Temel Reis",
     "first": "Ispanak",
@@ -1285,15 +1267,6 @@
     "third": "Clover",
     "fourth": "Alex",
     "fifth": "Ruj"
-  },
-  {
-    "id": "144",
-    "word": "Ed Edd ve Eddy",
-    "first": "Çene Kıran",
-    "second": "Para",
-    "third": "Mahalle",
-    "fourth": "Üçlü",
-    "fifth": "Şaka"
   },
   {
     "id": "145",
@@ -1563,7 +1536,7 @@
     "second": "Kask",
     "third": "Uçmak",
     "fourth": "Güçlü",
-    "fifth": "Süper Karınca"
+    "fifth": "Süper Kahraman"
   },
   {
     "id": "175",
@@ -1692,18 +1665,9 @@
     "fifth": "Kuş"
   },
   {
-    "id": "189",
-    "word": "Ayı Yogi",
-    "first": "Sepet",
-    "second": "Şapka",
-    "third": "Orman",
-    "fourth": "Milli Park",
-    "fifth": "Hırsız"
-  },
-  {
     "id": "190",
     "word": "Lola Bunny",
-    "first": "Bugs Bunny",
+    "first": "Looney Tunes",
     "second": "Tavşan",
     "third": "Basketbol",
     "fourth": "Space Jam",
@@ -1798,5 +1762,41 @@
     "third": "Joker",
     "fourth": "Batmobile",
     "fifth": "Pelerin"
+  },
+  {
+    "id": "201",
+    "word": "Naruto",
+    "first": "Ninja",
+    "second": "Turuncu",
+    "third": "Anime",
+    "fourth": "Ramen",
+    "fifth": "Sasuke"
+  },
+  {
+    "id": "202",
+    "word": "Hamtaro",
+    "first": "Hamster",
+    "second": "Turuncu",
+    "third": "Ayçekirdeği",
+    "fourth": "Anime",
+    "fifth": "Sevimli"
+  },
+  {
+    "id": "203",
+    "word": "Dragon Ball Z",
+    "first": "Goku",
+    "second": "Anime",
+    "third": "Süper Saiyan",
+    "fourth": "Kamehameha",
+    "fifth": "Ejderha"
+  },
+  {
+    "id": "204",
+    "word": "Pembe Panter",
+    "first": "Kedi",
+    "second": "Elmas",
+    "third": "Müfettiş",
+    "fourth": "Sessiz",
+    "fifth": "Müzik"
   }
 ]
